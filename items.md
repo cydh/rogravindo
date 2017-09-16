@@ -1450,6 +1450,7 @@ Item ID | Nama
 [2543](https://db.idrowiki.org/klasik/item/2543) | Neo Sylphid Manteau
 [2544](https://db.idrowiki.org/klasik/item/2544) | Leather of Tendrilion
 [2545](https://db.idrowiki.org/klasik/item/2545) | Musika
+[2547](https://db.idrowiki.org/klasik/item/2547) | Cheap Undershirt
 [2549](https://db.idrowiki.org/klasik/item/2549) | Glorious Muffler
 [2550](https://db.idrowiki.org/klasik/item/2550) | Fisher's Muffler
 [2553](https://db.idrowiki.org/klasik/item/2553) | Dragon Manteau
@@ -1668,7 +1669,7 @@ Item ID | Nama
 [2864](https://db.idrowiki.org/klasik/item/2864) | Light Of Cure
 [2865](https://db.idrowiki.org/klasik/item/2865) | Seal Of Cathedral
 [2866](https://db.idrowiki.org/klasik/item/2866) | Ring Of Archbishop
-[2867](https://db.idrowiki.org/klasik/item/2867) | Potongan Bambu Runcing
+[2867](https://db.idrowiki.org/klasik/item/2867) | Bambu Runcing
 [2868](https://db.idrowiki.org/klasik/item/2868) | Sarung Batik
 [2869](https://db.idrowiki.org/klasik/item/2869) | Ketupat Warna Warni
 [2872](https://db.idrowiki.org/klasik/item/2872) | G Honor Certificate
@@ -2643,7 +2644,7 @@ Item ID | Nama
 [5316](https://db.idrowiki.org/klasik/item/5316) | Umbrella Hat
 [5317](https://db.idrowiki.org/klasik/item/5317) | Fisherman's Hat
 [5320](https://db.idrowiki.org/klasik/item/5320) | Sacred Palma
-[5321](https://db.idrowiki.org/klasik/item/5321) | Bandana Merah Putih
+[5321](https://db.idrowiki.org/klasik/item/5321) | C Bandana Merah Putih
 [5324](https://db.idrowiki.org/klasik/item/5324) | Little Angel Doll
 [5325](https://db.idrowiki.org/klasik/item/5325) | Robo Eye
 [5327](https://db.idrowiki.org/klasik/item/5327) | Neo Orc Hero Helm
@@ -2658,6 +2659,8 @@ Item ID | Nama
 [5350](https://db.idrowiki.org/klasik/item/5350) | Pirate Bandana
 [5351](https://db.idrowiki.org/klasik/item/5351) | Sunflower
 [5353](https://db.idrowiki.org/klasik/item/5353) | Helm of Sun
+[5354](https://db.idrowiki.org/klasik/item/5354) | Muslim Hat
+[5355](https://db.idrowiki.org/klasik/item/5355) | Selendang
 [5356](https://db.idrowiki.org/klasik/item/5356) | Festival Pumpkin Hat
 [5357](https://db.idrowiki.org/klasik/item/5357) | Wings Of Victory
 [5359](https://db.idrowiki.org/klasik/item/5359) | Master's Hat
@@ -2674,6 +2677,7 @@ Item ID | Nama
 [5371](https://db.idrowiki.org/klasik/item/5371) | Judge Hat
 [5373](https://db.idrowiki.org/klasik/item/5373) | Dark Randgris Helm
 [5374](https://db.idrowiki.org/klasik/item/5374) | Gigantic Magestic Goat
+[5378](https://db.idrowiki.org/klasik/item/5378) | Rabbit Ear Hat
 [5379](https://db.idrowiki.org/klasik/item/5379) | Balloon Hat
 [5380](https://db.idrowiki.org/klasik/item/5380) | Fish Head Hat
 [5381](https://db.idrowiki.org/klasik/item/5381) | Santa Poring Hat
@@ -2777,7 +2781,7 @@ Item ID | Nama
 [5562](https://db.idrowiki.org/klasik/item/5562) | Good Wedding Veil
 [5563](https://db.idrowiki.org/klasik/item/5563) | Dolor Hat
 [5564](https://db.idrowiki.org/klasik/item/5564) | Crown Of Deceit
-[5567](https://db.idrowiki.org/klasik/item/5567) | Bright Fury
+[5567](https://db.idrowiki.org/klasik/item/5567) | Costume Monkey King
 [5569](https://db.idrowiki.org/klasik/item/5569) | Gemini Diadem
 [5570](https://db.idrowiki.org/klasik/item/5570) | Gemini Crown
 [5573](https://db.idrowiki.org/klasik/item/5573) | Dokkaebi Horn
@@ -2791,6 +2795,8 @@ Item ID | Nama
 [5584](https://db.idrowiki.org/klasik/item/5584) | Majestic Devil Horn
 [5585](https://db.idrowiki.org/klasik/item/5585) | Rune Hairband
 [5586](https://db.idrowiki.org/klasik/item/5586) | Symbol Of Loneliness
+[5588](https://db.idrowiki.org/klasik/item/5588) | Leo Crown
+[5589](https://db.idrowiki.org/klasik/item/5589) | Leo Diadem
 [5591](https://db.idrowiki.org/klasik/item/5591) | Desert Prince
 [5592](https://db.idrowiki.org/klasik/item/5592) | Sigrun's Wing
 [5593](https://db.idrowiki.org/klasik/item/5593) | K Rabbit Bonnet
@@ -2801,6 +2807,7 @@ Item ID | Nama
 [5599](https://db.idrowiki.org/klasik/item/5599) | Virgo Diadem
 [5610](https://db.idrowiki.org/klasik/item/5610) | Ice Wing Ear
 [5611](https://db.idrowiki.org/klasik/item/5611) | Turtle Hat
+[5644](https://db.idrowiki.org/klasik/item/5644) | C Tiger Mask
 [5654](https://db.idrowiki.org/klasik/item/5654) | Holy Marching Hat
 [5655](https://db.idrowiki.org/klasik/item/5655) | Dark Snake Lord's Hat
 [5656](https://db.idrowiki.org/klasik/item/5656) | Scooter Hat
@@ -2886,6 +2893,7 @@ Item ID | Nama
 [5918](https://db.idrowiki.org/klasik/item/5918) | Gambler Seal
 [5919](https://db.idrowiki.org/klasik/item/5919) | Camellia Hair Pin
 [5920](https://db.idrowiki.org/klasik/item/5920) | Medical Boots
+[5933](https://db.idrowiki.org/klasik/item/5933) | Costume Crow Tengu Mask
 [5942](https://db.idrowiki.org/klasik/item/5942) | I Loves Games Hat
 [5943](https://db.idrowiki.org/klasik/item/5943) | Owl viscount Silk Hat
 [5966](https://db.idrowiki.org/klasik/item/5966) | KarduiEar
@@ -2895,6 +2903,7 @@ Item ID | Nama
 [5971](https://db.idrowiki.org/klasik/item/5971) | Moon Eyepatch
 [5972](https://db.idrowiki.org/klasik/item/5972) | Chatty Parrot
 [5973](https://db.idrowiki.org/klasik/item/5973) | Ancient Elven Ear J
+[5974](https://db.idrowiki.org/klasik/item/5974) | C Unicorn Helm
 [5979](https://db.idrowiki.org/klasik/item/5979) | C Angel Fluttering
 [5980](https://db.idrowiki.org/klasik/item/5980) | C Classical Fhat
 [5985](https://db.idrowiki.org/klasik/item/5985) | Noble Mask
@@ -2909,6 +2918,7 @@ Item ID | Nama
 [6021](https://db.idrowiki.org/klasik/item/6021) | Peaked Hat
 [6022](https://db.idrowiki.org/klasik/item/6022) | Hard Skin
 [6023](https://db.idrowiki.org/klasik/item/6023) | Mystic Horn
+[6026](https://db.idrowiki.org/klasik/item/6026) | Marriage Covenant
 [6027](https://db.idrowiki.org/klasik/item/6027) | Bloody Crystal Of Darkness
 [6028](https://db.idrowiki.org/klasik/item/6028) | Sealed Scroll
 [6029](https://db.idrowiki.org/klasik/item/6029) | Morroc Tracking Log
@@ -3031,6 +3041,7 @@ Item ID | Nama
 [6239](https://db.idrowiki.org/klasik/item/6239) | Guarantee Armor 11Up
 [6240](https://db.idrowiki.org/klasik/item/6240) | High Density Oridecon
 [6241](https://db.idrowiki.org/klasik/item/6241) | High Density Elunium
+[6243](https://db.idrowiki.org/klasik/item/6243) | Treasure Coupon
 [6244](https://db.idrowiki.org/klasik/item/6244) | Gun Powder
 [6245](https://db.idrowiki.org/klasik/item/6245) | Black Powder
 [6246](https://db.idrowiki.org/klasik/item/6246) | Yellow Powder
@@ -3122,7 +3133,7 @@ Item ID | Nama
 [6404](https://db.idrowiki.org/klasik/item/6404) | Gagang Keris
 [6405](https://db.idrowiki.org/klasik/item/6405) | Bulu Cendrawasih
 [6406](https://db.idrowiki.org/klasik/item/6406) | Bulu Cendrawasih Berkilau
-[6410](https://db.idrowiki.org/klasik/item/6410) | Kartu Lebaran
+[6410](https://db.idrowiki.org/klasik/item/6410) | Kupon Lebaran
 [6415](https://db.idrowiki.org/klasik/item/6415) | Strange Embryo
 [6417](https://db.idrowiki.org/klasik/item/6417) | Silvervine Fruit
 [6418](https://db.idrowiki.org/klasik/item/6418) | Aclass Coin
@@ -3578,6 +3589,26 @@ Item ID | Nama
 [7357](https://db.idrowiki.org/klasik/item/7357) | Crest Piece
 [7358](https://db.idrowiki.org/klasik/item/7358) | Crest Piece
 [7359](https://db.idrowiki.org/klasik/item/7359) | Crest Piece
+[7361](https://db.idrowiki.org/klasik/item/7361) | Kupon Undian Headset
+[7362](https://db.idrowiki.org/klasik/item/7362) | Kupon Undian Keyboard
+[7363](https://db.idrowiki.org/klasik/item/7363) | Kupon Undian Mouse
+[7364](https://db.idrowiki.org/klasik/item/7364) | Kupon Undian Hoodie
+[7365](https://db.idrowiki.org/klasik/item/7365) | Kupon Undian T-Shirt
+[7366](https://db.idrowiki.org/klasik/item/7366) | Voucher RO-Cash 500K
+[7367](https://db.idrowiki.org/klasik/item/7367) | Voucher RO-Cash 175K
+[7368](https://db.idrowiki.org/klasik/item/7368) | Voucher RO-Cash 65K
+[7369](https://db.idrowiki.org/klasik/item/7369) | Voucher RO-Cash 35K
+[7370](https://db.idrowiki.org/klasik/item/7370) | Voucher RO-Cash 20K
+[7371](https://db.idrowiki.org/klasik/item/7371) | Voucher RO-Cash 10K
+[7372](https://db.idrowiki.org/klasik/item/7372) | Lottere I
+[7373](https://db.idrowiki.org/klasik/item/7373) | Lottere II
+[7374](https://db.idrowiki.org/klasik/item/7374) | Lottere III
+[7375](https://db.idrowiki.org/klasik/item/7375) | Lottere IV
+[7376](https://db.idrowiki.org/klasik/item/7376) | Lottere V
+[7377](https://db.idrowiki.org/klasik/item/7377) | Lottere VI
+[7378](https://db.idrowiki.org/klasik/item/7378) | Lottere VII
+[7379](https://db.idrowiki.org/klasik/item/7379) | Lottere VIII
+[7380](https://db.idrowiki.org/klasik/item/7380) | Lottere IX
 [7399](https://db.idrowiki.org/klasik/item/7399) | selamat
 [7400](https://db.idrowiki.org/klasik/item/7400) | Hari
 [7401](https://db.idrowiki.org/klasik/item/7401) | Kemerdekaan
@@ -4216,9 +4247,9 @@ Item ID | Nama
 [12323](https://db.idrowiki.org/klasik/item/12323) | Novice Fly Wing
 [12324](https://db.idrowiki.org/klasik/item/12324) | Novice Butterfly Wing
 [12325](https://db.idrowiki.org/klasik/item/12325) | Novice Magnifier
-[12326](https://db.idrowiki.org/klasik/item/12326) | Large Firecracker
 [12328](https://db.idrowiki.org/klasik/item/12328) | Lucky Charm
 [12333](https://db.idrowiki.org/klasik/item/12333) | Ansila
+[12339](https://db.idrowiki.org/klasik/item/12339) | Pirate Dagger Box
 [12341](https://db.idrowiki.org/klasik/item/12341) | Special Alloy Trap Box
 [12342](https://db.idrowiki.org/klasik/item/12342) | Manuk's Opportunity
 [12343](https://db.idrowiki.org/klasik/item/12343) | Manuk's Courage
@@ -4265,6 +4296,7 @@ Item ID | Nama
 [12409](https://db.idrowiki.org/klasik/item/12409) | 1st Class Pork Belly
 [12410](https://db.idrowiki.org/klasik/item/12410) | Thick Pork Belly
 [12411](https://db.idrowiki.org/klasik/item/12411) | HE Battle Manual
+[12412](https://db.idrowiki.org/klasik/item/12412) | HE Bubble Gum
 [12414](https://db.idrowiki.org/klasik/item/12414) | Guarana Candy
 [12415](https://db.idrowiki.org/klasik/item/12415) | Siege Teleport Scroll Silver
 [12416](https://db.idrowiki.org/klasik/item/12416) | Majestic Egg
@@ -4839,6 +4871,7 @@ Item ID | Nama
 [13908](https://db.idrowiki.org/klasik/item/13908) | Deviruchi Set Box
 [13909](https://db.idrowiki.org/klasik/item/13909) | MVP Hunt Set Box
 [13910](https://db.idrowiki.org/klasik/item/13910) | Dish Set Box
+[13923](https://db.idrowiki.org/klasik/item/13923) | Darkness Helm Box
 [13940](https://db.idrowiki.org/klasik/item/13940) | Siege Teleport Scroll Gold 10Box
 [13952](https://db.idrowiki.org/klasik/item/13952) | Neo Lever Action Rifle Box
 [13953](https://db.idrowiki.org/klasik/item/13953) | Neo All In One Ring Box
@@ -4851,6 +4884,7 @@ Item ID | Nama
 [14001](https://db.idrowiki.org/klasik/item/14001) | Recruit Siege Supply Box
 [14002](https://db.idrowiki.org/klasik/item/14002) | Veteran Siege Supply Box
 [14003](https://db.idrowiki.org/klasik/item/14003) | Elite Siege Supply Box
+[14008](https://db.idrowiki.org/klasik/item/14008) | Evolved Orc Hero Helm Box
 [14229](https://db.idrowiki.org/klasik/item/14229) | Cherry Blossom Scroll
 [14232](https://db.idrowiki.org/klasik/item/14232) | 10 Yggdrasilberry Box
 [14233](https://db.idrowiki.org/klasik/item/14233) | 10 Branch Of Dead Tree Box
@@ -4899,7 +4933,6 @@ Item ID | Nama
 [14376](https://db.idrowiki.org/klasik/item/14376) | Angeling Potion Box
 [14377](https://db.idrowiki.org/klasik/item/14377) | Shouting Megaphone Box
 [14380](https://db.idrowiki.org/klasik/item/14380) | Anubis Helm Box
-[14408](https://db.idrowiki.org/klasik/item/14408) | Happy Egg
 [14426](https://db.idrowiki.org/klasik/item/14426) | Neo Fortune Sword Box
 [14427](https://db.idrowiki.org/klasik/item/14427) | Neo House Auger Box
 [14428](https://db.idrowiki.org/klasik/item/14428) | Neo Kamaitachi Box
@@ -4925,6 +4958,7 @@ Item ID | Nama
 [14466](https://db.idrowiki.org/klasik/item/14466) | Valentine's Emblem Box
 [14469](https://db.idrowiki.org/klasik/item/14469) | Ox Tail Egg
 [14485](https://db.idrowiki.org/klasik/item/14485) | Academy Badge Box
+[14488](https://db.idrowiki.org/klasik/item/14488) | Blue Pajamas Hat Box
 [14508](https://db.idrowiki.org/klasik/item/14508) | Zeny Pet Egg
 [14509](https://db.idrowiki.org/klasik/item/14509) | Light Concentration Potion
 [14510](https://db.idrowiki.org/klasik/item/14510) | Light Awakening Potion
@@ -5054,6 +5088,7 @@ Item ID | Nama
 [15103](https://db.idrowiki.org/klasik/item/15103) | Kirin Armor
 [15104](https://db.idrowiki.org/klasik/item/15104) | FishingMan Mail
 [15105](https://db.idrowiki.org/klasik/item/15105) | Kaftan
+[15116](https://db.idrowiki.org/klasik/item/15116) | Armor of Airship
 [15123](https://db.idrowiki.org/klasik/item/15123) | Whikebain Suit
 [15145](https://db.idrowiki.org/klasik/item/15145) | Evil Dragon Armor
 [16000](https://db.idrowiki.org/klasik/item/16000) | Erde
@@ -5107,9 +5142,9 @@ Item ID | Nama
 [16386](https://db.idrowiki.org/klasik/item/16386) | Four Leaf Clover In Mouth Box30 
 [16389](https://db.idrowiki.org/klasik/item/16389) | Bubble Gum In Mouth Box7
 [16390](https://db.idrowiki.org/klasik/item/16390) | Bubble Gum In Mouth Box30
-[16393](https://db.idrowiki.org/klasik/item/16393) | HE Oridecon 5 Box
+[16393](https://db.idrowiki.org/klasik/item/16393) | High Density Oridecon Box
 [16394](https://db.idrowiki.org/klasik/item/16394) | HE Oridecon 10 Box
-[16395](https://db.idrowiki.org/klasik/item/16395) | HE Elunium 5 Box
+[16395](https://db.idrowiki.org/klasik/item/16395) | High Density Elunium Box
 [16396](https://db.idrowiki.org/klasik/item/16396) | HE Elunium 10 Box
 [16414](https://db.idrowiki.org/klasik/item/16414) | Turtle Hat Box
 [16555](https://db.idrowiki.org/klasik/item/16555) | Premium Reset Stone Box
@@ -5308,6 +5343,7 @@ Item ID | Nama
 [18521](https://db.idrowiki.org/klasik/item/18521) | Lucky Clover
 [18522](https://db.idrowiki.org/klasik/item/18522) | Evil Marching Hat
 [18523](https://db.idrowiki.org/klasik/item/18523) | Super Cell
+[18528](https://db.idrowiki.org/klasik/item/18528) | Costume Tare Neko Cru
 [18530](https://db.idrowiki.org/klasik/item/18530) | Tha Despero Mask
 [18531](https://db.idrowiki.org/klasik/item/18531) | Drooping Permeter
 [18533](https://db.idrowiki.org/klasik/item/18533) | Honeybee Hat
@@ -5411,7 +5447,7 @@ Item ID | Nama
 [18821](https://db.idrowiki.org/klasik/item/18821) | Rainbow Feather Decoration
 [18823](https://db.idrowiki.org/klasik/item/18823) | Imperial Feather
 [18827](https://db.idrowiki.org/klasik/item/18827) | Valkyrie Circlet
-[18832](https://db.idrowiki.org/klasik/item/18832) | Rolf Von Gigue the666th
+[18832](https://db.idrowiki.org/klasik/item/18832) | C Baphomet Jr
 [18841](https://db.idrowiki.org/klasik/item/18841) | Small Poring Band
 [18842](https://db.idrowiki.org/klasik/item/18842) | Hat Of Girl
 [18843](https://db.idrowiki.org/klasik/item/18843) | Small Deviling Hat
@@ -5471,6 +5507,7 @@ Item ID | Nama
 [19109](https://db.idrowiki.org/klasik/item/19109) | Valhalla Idol
 [19111](https://db.idrowiki.org/klasik/item/19111) | Laser of Eagle
 [19116](https://db.idrowiki.org/klasik/item/19116) | Red Baby Dragon
+[19128](https://db.idrowiki.org/klasik/item/19128) | Costume Ears Of Ifrit
 [19139](https://db.idrowiki.org/klasik/item/19139) | Costume Unidentified Flying Orb
 [19507](https://db.idrowiki.org/klasik/item/19507) | Fine Sun
 [19509](https://db.idrowiki.org/klasik/item/19509) | Butterfly Wing Ear
@@ -5506,8 +5543,10 @@ Item ID | Nama
 [19599](https://db.idrowiki.org/klasik/item/19599) | C Imp Hat
 [19607](https://db.idrowiki.org/klasik/item/19607) | Love Chick Hat
 [19615](https://db.idrowiki.org/klasik/item/19615) | C Loki Mask
+[19621](https://db.idrowiki.org/klasik/item/19621) | C Ear Of Devils Wing
 [19649](https://db.idrowiki.org/klasik/item/19649) | White Kitten Ears
 [19650](https://db.idrowiki.org/klasik/item/19650) | Costume Rainbow Feather Decoration
+[19658](https://db.idrowiki.org/klasik/item/19658) | C Vacation Hat
 [19661](https://db.idrowiki.org/klasik/item/19661) | Sweet Bonnet
 [19677](https://db.idrowiki.org/klasik/item/19677) | C Soulless Wing
 [19685](https://db.idrowiki.org/klasik/item/19685) | ShineSantaPoring Hat Costume
@@ -5518,8 +5557,9 @@ Item ID | Nama
 [19697](https://db.idrowiki.org/klasik/item/19697) | Rudolph Santa Hat Costume
 [19707](https://db.idrowiki.org/klasik/item/19707) | Polar Bear Cap Costume
 [19709](https://db.idrowiki.org/klasik/item/19709) | Outfit Yellow Ribbon
+[19712](https://db.idrowiki.org/klasik/item/19712) | Costume Little Angel Doll
 [19718](https://db.idrowiki.org/klasik/item/19718) | Outfit Gothic Headdress
-[19721](https://db.idrowiki.org/klasik/item/19721) | Outfit Darkness Helm
+[19721](https://db.idrowiki.org/klasik/item/19721) | Dark Randgris Helm
 [19724](https://db.idrowiki.org/klasik/item/19724) | Outfit Deprote Doll Hat
 [19728](https://db.idrowiki.org/klasik/item/19728) | Outfit Tare Zonda
 [19729](https://db.idrowiki.org/klasik/item/19729) | Outfit Neko Mimi Kafra
@@ -5528,6 +5568,9 @@ Item ID | Nama
 [19751](https://db.idrowiki.org/klasik/item/19751) | C Light Darkness Crown
 [19752](https://db.idrowiki.org/klasik/item/19752) | C Shelter Wing Ears
 [19780](https://db.idrowiki.org/klasik/item/19780) | Costume Rabbit Ear Knit Hat
+[19781](https://db.idrowiki.org/klasik/item/19781) | C Angel Wing Ears
+[19791](https://db.idrowiki.org/klasik/item/19791) | C Alarm Mask
+[19805](https://db.idrowiki.org/klasik/item/19805) | Costume Taboo Cursed Scroll
 [19816](https://db.idrowiki.org/klasik/item/19816) | C Pecopeco Cap
 [19826](https://db.idrowiki.org/klasik/item/19826) | Costume Ice Wing Ear
 [19827](https://db.idrowiki.org/klasik/item/19827) | C Amistr Cap
@@ -5535,6 +5578,7 @@ Item ID | Nama
 [19835](https://db.idrowiki.org/klasik/item/19835) | C Lif Doll Hat
 [19839](https://db.idrowiki.org/klasik/item/19839) | C Vanilmirth Hat
 [19842](https://db.idrowiki.org/klasik/item/19842) | C Puppy Hat
+[19846](https://db.idrowiki.org/klasik/item/19846) | C Phantom Of Opera
 [19853](https://db.idrowiki.org/klasik/item/19853) | C Filir Wing Ears
 [19871](https://db.idrowiki.org/klasik/item/19871) | C Music Decoration
 [19884](https://db.idrowiki.org/klasik/item/19884) | Costume Vanargandr Helm
@@ -5545,11 +5589,13 @@ Item ID | Nama
 [19919](https://db.idrowiki.org/klasik/item/19919) | C Cube Mask 
 [19920](https://db.idrowiki.org/klasik/item/19920) | C Adv Whisper Mask
 [19929](https://db.idrowiki.org/klasik/item/19929) | Costume Classical Ribbon
+[19931](https://db.idrowiki.org/klasik/item/19931) | C Lazy Smokie
 [19934](https://db.idrowiki.org/klasik/item/19934) | C 10Gallon Hat Of Flame
 [19935](https://db.idrowiki.org/klasik/item/19935) | C Hunting Cap Of Gust
 [19936](https://db.idrowiki.org/klasik/item/19936) | C Knit Cap Of Water
 [19937](https://db.idrowiki.org/klasik/item/19937) | C Silk Hat Of Earth
 [19955](https://db.idrowiki.org/klasik/item/19955) | Mini Tree J Costume
+[19957](https://db.idrowiki.org/klasik/item/19957) | C Scooter Hat
 [19976](https://db.idrowiki.org/klasik/item/19976) | Cat Santa Hat Costume
 [19982](https://db.idrowiki.org/klasik/item/19982) | Santa Hat Costume
 [19985](https://db.idrowiki.org/klasik/item/19985) | Costume Aura Quartz Crown
@@ -5598,7 +5644,7 @@ Item ID | Nama
 [20076](https://db.idrowiki.org/klasik/item/20076) | C Idun Wing Ears
 [20077](https://db.idrowiki.org/klasik/item/20077) | C Wing Form Spectacle
 [20078](https://db.idrowiki.org/klasik/item/20078) | C White Feather
-[20079](https://db.idrowiki.org/klasik/item/20079) | C Love Daddy 2013
+[20079](https://db.idrowiki.org/klasik/item/20079) | C Flapping Golden Angelwing
 [20080](https://db.idrowiki.org/klasik/item/20080) | C Shaman's Hair Ornament
 [20098](https://db.idrowiki.org/klasik/item/20098) | C Vampire Hairband
 [20099](https://db.idrowiki.org/klasik/item/20099) | Flying Ljosalfar
@@ -5614,9 +5660,10 @@ Item ID | Nama
 [20115](https://db.idrowiki.org/klasik/item/20115) | Under Rim Glasses
 [20116](https://db.idrowiki.org/klasik/item/20116) | Mermaid Headphone
 [20117](https://db.idrowiki.org/klasik/item/20117) | Raspberry Mousse Hat
+[20126](https://db.idrowiki.org/klasik/item/20126) | C Thanatos Mal Mask
 [20130](https://db.idrowiki.org/klasik/item/20130) | C Whisper Tall Hat
 [20131](https://db.idrowiki.org/klasik/item/20131) | C Clock Tower Manager
-[20132](https://db.idrowiki.org/klasik/item/20132) | C Aura Of Thought
+[20132](https://db.idrowiki.org/klasik/item/20132) | C Subject Aura
 [20148](https://db.idrowiki.org/klasik/item/20148) | C Noble Hat
 [20154](https://db.idrowiki.org/klasik/item/20154) | C Maple Which Falls
 [20155](https://db.idrowiki.org/klasik/item/20155) | C Ladys Feather Hat
@@ -5653,7 +5700,7 @@ Item ID | Nama
 [20315](https://db.idrowiki.org/klasik/item/20315) | C Analyze Eye
 [20316](https://db.idrowiki.org/klasik/item/20316) | C Seraph Wing Helm
 [20324](https://db.idrowiki.org/klasik/item/20324) | C Pigeon Hat
-[20325](https://db.idrowiki.org/klasik/item/20325) | C Little Aquarium
+[20325](https://db.idrowiki.org/klasik/item/20325) | C Little Mermaid
 [20344](https://db.idrowiki.org/klasik/item/20344) | C Happy Balloon
 [20375](https://db.idrowiki.org/klasik/item/20375) | C Ignis Cap
 [20397](https://db.idrowiki.org/klasik/item/20397) | Jakk
@@ -5661,6 +5708,7 @@ Item ID | Nama
 [20405](https://db.idrowiki.org/klasik/item/20405) | Eremes Scarf
 [20406](https://db.idrowiki.org/klasik/item/20406) | Commandments Of Chain
 [20407](https://db.idrowiki.org/klasik/item/20407) | C Subject Aura Red
+[20440](https://db.idrowiki.org/klasik/item/20440) | Costume Tone of Gold
 [20458](https://db.idrowiki.org/klasik/item/20458) | Costume Wild Poring Rider
 [20470](https://db.idrowiki.org/klasik/item/20470) | C SweetChocolate Hat
 [20504](https://db.idrowiki.org/klasik/item/20504) | C Cupid Wing Pink
@@ -5676,7 +5724,7 @@ Item ID | Nama
 [20709](https://db.idrowiki.org/klasik/item/20709) | Mana Manteau
 [20724](https://db.idrowiki.org/klasik/item/20724) | Love Dad Wings 2012
 [20725](https://db.idrowiki.org/klasik/item/20725) | Ribbon Piamat
-[20727](https://db.idrowiki.org/klasik/item/20727) | Brilliant Golden Wings
+[20727](https://db.idrowiki.org/klasik/item/20727) | C Golden Archangel Wing
 [20730](https://db.idrowiki.org/klasik/item/20730) | Loyalists Hood
 [20737](https://db.idrowiki.org/klasik/item/20737) | C Kirin Wing
 [20746](https://db.idrowiki.org/klasik/item/20746) | C Rudra Wing
@@ -5766,6 +5814,7 @@ Item ID | Nama
 [31047](https://db.idrowiki.org/klasik/item/31047) | C First Love Cheek
 [31053](https://db.idrowiki.org/klasik/item/31053) | C King Tiger Doll Hat
 [31057](https://db.idrowiki.org/klasik/item/31057) | C Eremes Scarf Black
+[31121](https://db.idrowiki.org/klasik/item/31121) | Costume Bat Stole
 [32001](https://db.idrowiki.org/klasik/item/32001) | Pre OBT Box01
 [32002](https://db.idrowiki.org/klasik/item/32002) | Pre OBT Box02
 [32003](https://db.idrowiki.org/klasik/item/32003) | Pre OBT Box03
@@ -5779,7 +5828,7 @@ Item ID | Nama
 [32018](https://db.idrowiki.org/klasik/item/32018) | Gathering Box01
 [32019](https://db.idrowiki.org/klasik/item/32019) | Gathering Box02
 [32020](https://db.idrowiki.org/klasik/item/32020) | Gathering Box03
-[32021](https://db.idrowiki.org/klasik/item/32021) | Gathering Box04
+[32021](https://db.idrowiki.org/klasik/item/32021) | Gathering7 SK02
 [32022](https://db.idrowiki.org/klasik/item/32022) | Gathering Box05
 [32023](https://db.idrowiki.org/klasik/item/32023) | Gathering Box06
 [32024](https://db.idrowiki.org/klasik/item/32024) | Gathering Box07
@@ -5789,9 +5838,58 @@ Item ID | Nama
 [32028](https://db.idrowiki.org/klasik/item/32028) | C Wanderer Sakkat
 [32029](https://db.idrowiki.org/klasik/item/32029) | C Whikebain Ears
 [32030](https://db.idrowiki.org/klasik/item/32030) | Mana Plus 10 Box
-[32031](https://db.idrowiki.org/klasik/item/32031) | Siege White Potion Box
-[32032](https://db.idrowiki.org/klasik/item/32032) | Siege Blue Potion Box
-[32033](https://db.idrowiki.org/klasik/item/32033) | Limited Edition Headgear
-[32034](https://db.idrowiki.org/klasik/item/32034) | Limited Edition Costume Loki
 [32035](https://db.idrowiki.org/klasik/item/32035) | Costume 100 Hari
 [32036](https://db.idrowiki.org/klasik/item/32036) | Crown Of Deceit Box
+[32037](https://db.idrowiki.org/klasik/item/32037) | Sarung Batik
+[32038](https://db.idrowiki.org/klasik/item/32038) | Gathering7 SK04
+[32039](https://db.idrowiki.org/klasik/item/32039) | Gathering7 SK05
+[32040](https://db.idrowiki.org/klasik/item/32040) | Gathering7 SK06
+[32041](https://db.idrowiki.org/klasik/item/32041) | Gathering7 SK07
+[32042](https://db.idrowiki.org/klasik/item/32042) | Gathering7 SK03
+[32043](https://db.idrowiki.org/klasik/item/32043) | 7th RO Gravindo Gath
+[32044](https://db.idrowiki.org/klasik/item/32044) | Lebaran Costume Box1
+[32045](https://db.idrowiki.org/klasik/item/32045) | Buwaya Agimat Box
+[32046](https://db.idrowiki.org/klasik/item/32046) | Armor Airship Box
+[32047](https://db.idrowiki.org/klasik/item/32047) | Golden Box
+[32048](https://db.idrowiki.org/klasik/item/32048) | Foxtail Box
+[32049](https://db.idrowiki.org/klasik/item/32049) | Lebaran Costume Box2
+[32050](https://db.idrowiki.org/klasik/item/32050) | Love Arrow Box
+[32051](https://db.idrowiki.org/klasik/item/32051) | Acaraje Box
+[32052](https://db.idrowiki.org/klasik/item/32052) | C Independence Wing
+[32053](https://db.idrowiki.org/klasik/item/32053) | Independence Box
+[32054](https://db.idrowiki.org/klasik/item/32054) | Cheap Undershirt Box
+[32055](https://db.idrowiki.org/klasik/item/32055) | Daily Login Box
+[32056](https://db.idrowiki.org/klasik/item/32056) | Ice Wing Ear Box
+[32057](https://db.idrowiki.org/klasik/item/32057) | C Notice Board
+[32058](https://db.idrowiki.org/klasik/item/32058) | C Umbrella Hat
+[32059](https://db.idrowiki.org/klasik/item/32059) | C Wondering Wolf Helm
+[32060](https://db.idrowiki.org/klasik/item/32060) | C Navy Beret
+[32061](https://db.idrowiki.org/klasik/item/32061) | C Fools Day Helmet
+[32062](https://db.idrowiki.org/klasik/item/32062) | C Helm Of Angel
+[32063](https://db.idrowiki.org/klasik/item/32063) | Buwaya Agimat Box2
+[32064](https://db.idrowiki.org/klasik/item/32064) | Armor Airship Box2
+[32065](https://db.idrowiki.org/klasik/item/32065) | Bloody Iron Ball Box2
+[32066](https://db.idrowiki.org/klasik/item/32066) | All Dish Box 10
+[32067](https://db.idrowiki.org/klasik/item/32067) | Rookie Armlet
+[32068](https://db.idrowiki.org/klasik/item/32068) | Treasure Coupon Box
+[32069](https://db.idrowiki.org/klasik/item/32069) | Hyper Pendant
+[32070](https://db.idrowiki.org/klasik/item/32070) | Brave Pendant
+[32071](https://db.idrowiki.org/klasik/item/32071) | Strength Pendant
+[32072](https://db.idrowiki.org/klasik/item/32072) | Savage BBQ Box
+[32073](https://db.idrowiki.org/klasik/item/32073) | Veteran Coupon
+[32074](https://db.idrowiki.org/klasik/item/32074) | Rookie Coupon
+[32075](https://db.idrowiki.org/klasik/item/32075) | Red Strong Hair Box
+[32076](https://db.idrowiki.org/klasik/item/32076) | Garuda Hat Box 15D
+[32077](https://db.idrowiki.org/klasik/item/32077) | Hyper Pendant Box
+[32078](https://db.idrowiki.org/klasik/item/32078) | Brave Pendant Box
+[32079](https://db.idrowiki.org/klasik/item/32079) | Strength Pendant Box
+[32080](https://db.idrowiki.org/klasik/item/32080) | Garuda Hat Box 7D
+[32081](https://db.idrowiki.org/klasik/item/32081) | Wug Blood Cocktail Box
+[32082](https://db.idrowiki.org/klasik/item/32082) | Minor Brisket Box
+[32083](https://db.idrowiki.org/klasik/item/32083) | Siroma Icetea Box
+[32084](https://db.idrowiki.org/klasik/item/32084) | Drocera Herb Stew Box
+[32085](https://db.idrowiki.org/klasik/item/32085) | Petti Tail Noodle Box
+[32086](https://db.idrowiki.org/klasik/item/32086) | Secret Dungeon Ticket
+[32087](https://db.idrowiki.org/klasik/item/32087) | Pandora Box
+[32088](https://db.idrowiki.org/klasik/item/32088) | Headgear Box
+[32089](https://db.idrowiki.org/klasik/item/32089) | Equipment Box
