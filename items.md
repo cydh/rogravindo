@@ -2677,6 +2677,7 @@ Item ID | Nama
 [5371](https://db.idrowiki.org/klasik/item/5371/) | Judge Hat
 [5373](https://db.idrowiki.org/klasik/item/5373/) | Dark Randgris Helm
 [5374](https://db.idrowiki.org/klasik/item/5374/) | Gigantic Magestic Goat
+[5376](https://db.idrowiki.org/klasik/item/5376/) | Flywing Evil Wing
 [5378](https://db.idrowiki.org/klasik/item/5378/) | Rabbit Ear Hat
 [5379](https://db.idrowiki.org/klasik/item/5379/) | Balloon Hat
 [5380](https://db.idrowiki.org/klasik/item/5380/) | Fish Head Hat
@@ -5585,7 +5586,7 @@ Item ID | Nama
 [19871](https://db.idrowiki.org/klasik/item/19871/) | C Music Decoration
 [19884](https://db.idrowiki.org/klasik/item/19884/) | Costume Vanargandr Helm
 [19903](https://db.idrowiki.org/klasik/item/19903/) | C Witchs Hat
-[19910](https://db.idrowiki.org/klasik/item/19910/) | C Halloween Hat
+[19910](https://db.idrowiki.org/klasik/item/19910/) | Costume Halloween Hat
 [19917](https://db.idrowiki.org/klasik/item/19917/) | C Gloomy Pumpkin Hat
 [19918](https://db.idrowiki.org/klasik/item/19918/) | C Lude Mask
 [19919](https://db.idrowiki.org/klasik/item/19919/) | C Cube Mask 
@@ -5670,6 +5671,8 @@ Item ID | Nama
 [20154](https://db.idrowiki.org/klasik/item/20154/) | C Maple Which Falls
 [20155](https://db.idrowiki.org/klasik/item/20155/) | C Ladys Feather Hat
 [20171](https://db.idrowiki.org/klasik/item/20171/) | C Sepia Cap
+[20172](https://db.idrowiki.org/klasik/item/20172/) | Costume Pumpkin Head
+[20175](https://db.idrowiki.org/klasik/item/20175/) | Costume Diabolic Headphone
 [20183](https://db.idrowiki.org/klasik/item/20183/) | C There Is Something
 [20190](https://db.idrowiki.org/klasik/item/20190/) | C Chicken Hat
 [20191](https://db.idrowiki.org/klasik/item/20191/) | C Black Cat Ears Beret
@@ -5706,6 +5709,7 @@ Item ID | Nama
 [20344](https://db.idrowiki.org/klasik/item/20344/) | C Happy Balloon
 [20375](https://db.idrowiki.org/klasik/item/20375/) | C Ignis Cap
 [20397](https://db.idrowiki.org/klasik/item/20397/) | Jakk
+[20398](https://db.idrowiki.org/klasik/item/20398/) | C Niflheim Bunny Hat
 [20404](https://db.idrowiki.org/klasik/item/20404/) | C Blessing Of Angels
 [20405](https://db.idrowiki.org/klasik/item/20405/) | Costume Eremes Scarf
 [20406](https://db.idrowiki.org/klasik/item/20406/) | Commandments Of Chain
@@ -5819,6 +5823,7 @@ Item ID | Nama
 [31053](https://db.idrowiki.org/klasik/item/31053/) | C King Tiger Doll Hat
 [31057](https://db.idrowiki.org/klasik/item/31057/) | C Eremes Scarf Black
 [31062](https://db.idrowiki.org/klasik/item/31062/) | Costume Eleanor Wig
+[31118](https://db.idrowiki.org/klasik/item/31118/) | C Assassin Skull Mask
 [31120](https://db.idrowiki.org/klasik/item/31120/) | Costume Vampire Familiar
 [31121](https://db.idrowiki.org/klasik/item/31121/) | Costume Bat Stole
 [31136](https://db.idrowiki.org/klasik/item/31136/) | C Sheep Hat
@@ -5851,6 +5856,10 @@ Item ID | Nama
 [32028](https://db.idrowiki.org/klasik/item/32028/) | C Wanderer Sakkat
 [32029](https://db.idrowiki.org/klasik/item/32029/) | C Whikebain Ears
 [32030](https://db.idrowiki.org/klasik/item/32030/) | Mana Plus 10 Box
+[32031](https://db.idrowiki.org/klasik/item/32031/) | Siege White Potion Box
+[32032](https://db.idrowiki.org/klasik/item/32032/) | Siege Blue Potion Box
+[32033](https://db.idrowiki.org/klasik/item/32033/) | Limited Edition Headgear
+[32034](https://db.idrowiki.org/klasik/item/32034/) | Limited Edition Costume Loki
 [32035](https://db.idrowiki.org/klasik/item/32035/) | Costume 100 Hari
 [32036](https://db.idrowiki.org/klasik/item/32036/) | Crown Of Deceit Box
 [32037](https://db.idrowiki.org/klasik/item/32037/) | Sarung Batik
@@ -5910,3 +5919,14 @@ Item ID | Nama
 [32097](https://db.idrowiki.org/klasik/item/32097/) | Master hat
 [32098](https://db.idrowiki.org/klasik/item/32098/) | Angel Spirit Box
 [32099](https://db.idrowiki.org/klasik/item/32099/) | Majestic Evil Box
+[32100](https://db.idrowiki.org/klasik/item/32100/) | Halloween Coupon Box
+[32101](https://db.idrowiki.org/klasik/item/32101/) | Halloween Coupon
+[32103](https://db.idrowiki.org/klasik/item/32103/) | WOE HP Potion
+[32104](https://db.idrowiki.org/klasik/item/32104/) | WOE SP Potion
+[32105](https://db.idrowiki.org/klasik/item/32105/) | WOE HP Pill
+[32106](https://db.idrowiki.org/klasik/item/32106/) | WOE Supply Box
+[32107](https://db.idrowiki.org/klasik/item/32107/) | Grim Reaper Box
+[32108](https://db.idrowiki.org/klasik/item/32108/) | Snake Hat Box
+[32109](https://db.idrowiki.org/klasik/item/32109/) | Snake Head Rent
+[32110](https://db.idrowiki.org/klasik/item/32110/) | Hankie In Mouth Rent
+[32111](https://db.idrowiki.org/klasik/item/32111/) | Hankie In Mouth Box
