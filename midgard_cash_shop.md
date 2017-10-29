@@ -231,9 +231,9 @@ Item | RO Cash
 [Thanatos's Mal Mask](http://db.irowiki.org/db/item-info/5789/) | 35000
 [Holy Mom Love [1]](http://db.irowiki.org/db/item-info/5790/) | 35000
 [Blazing Sun](http://db.irowiki.org/db/item-info/5776/) | 35000
-[Small Snow Flower (Pet Food, Marionette)](http://db.irowiki.org/db/item-info/6098/) | 500
-[Damp Darkness (Pet Food, Whisper)](http://db.irowiki.org/db/item-info/6100/) | 500
-[Vital Flower In (pet Food, Incubus)](http://db.irowiki.org/db/item-info/6110/) | 500
+[Small Snow Flower (Pet Food: Marionette, Homun S Food: Eira)](http://db.irowiki.org/db/item-info/6098/) | 500
+[Damp Darkness (Pet Food: Whisper)](http://db.irowiki.org/db/item-info/6100/) | 500
+[Vital Flower In (Pet Food: Incubus)](http://db.irowiki.org/db/item-info/6110/) | 500
 [Fine Sun](http://db.irowiki.org/db/item-info/19507/) | 35000
 [Yellow Hat (Kostum)](http://db.irowiki.org/db/item-info/19515/) | 35000
 [Cocks Comb (Kostum)](http://db.irowiki.org/db/item-info/19517/) | 35000
@@ -310,17 +310,17 @@ Item | RO Cash
 [Old Broom](http://db.irowiki.org/db/item-info/637/) | 500
 [Meat Skewer](http://db.irowiki.org/db/item-info/7823/) | 500
 [Indonesian Box 2](http://db.irowiki.org/db/item-info/17079/) | 2000
-[Vital Flower](http://db.irowiki.org/db/item-info/6113/) | 500
-[Flame Gemstone](http://db.irowiki.org/db/item-info/6114/) | 500
-[Kid's Dumpling](http://db.irowiki.org/db/item-info/6115/) | 500
-[Small Snow Flower](http://db.irowiki.org/db/item-info/6098/) | 500
-[Damp Darkness](http://db.irowiki.org/db/item-info/6100/) | 500
-[Vital Flower In](http://db.irowiki.org/db/item-info/6110/) | 500
+[Vital Flower (Pet Food: Succubus)](http://db.irowiki.org/db/item-info/6113/) | 500
+[Flame Gemstone (Pet Food: Incubus)](http://db.irowiki.org/db/item-info/6114/) | 500
+[Kid's Dumpling (Pet Food: Green Maiden, Homun S Food: Eleanor)](http://db.irowiki.org/db/item-info/6115/) | 500
+[Small Snow Flower(Pet Food: Marionette, Homun S Food: Eira)](http://db.irowiki.org/db/item-info/6098/) | 500
+[Damp Darkness (Pet Food: Whisper)](http://db.irowiki.org/db/item-info/6100/) | 500
+[Vital Flower In (Pet Food: Incubus)](http://db.irowiki.org/db/item-info/6110/) | 500
 [HD Carnium](http://db.irowiki.org/db/item-info/6225/) | 50000
 [HD Bradium](http://db.irowiki.org/db/item-info/6226/) | 50000
-[Big Cell](http://db.irowiki.org/db/item-info/6104/) | 500
-[Apple Pudding](http://db.irowiki.org/db/item-info/6108/) | 500
-[Fresh Plant](http://db.irowiki.org/db/item-info/6112/) | 500
+[Big Cell (Homun S Food: Dieter)](http://db.irowiki.org/db/item-info/6104/) | 500
+[Apple Pudding (Homun S Food: Sera)](http://db.irowiki.org/db/item-info/6108/) | 500
+[Fresh Plant (Homun S Food: Bayeri)](http://db.irowiki.org/db/item-info/6112/) | 500
 [Sweet Pumpkin Pie](http://db.irowiki.org/db/item-info/6097/) | 500
 [Gym Membership Card Box10](http://db.irowiki.org/db/item-info/17106/) | 75000
 [Gym Membership Card](http://db.irowiki.org/db/item-info/7776/) | 10000
