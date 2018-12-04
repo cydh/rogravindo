@@ -603,10 +603,8 @@ Item ID | Nama
 [1292](https://db.idrowiki.org/klasik/item/1292/) | Upgrage Katar
 [1293](https://db.idrowiki.org/klasik/item/1293/) | Velum Jamadhar
 [1294](https://db.idrowiki.org/klasik/item/1294/) | Velum Scare
-[1296](https://db.idrowiki.org/klasik/item/1296/) | Jur (Rare)
-[1297](https://db.idrowiki.org/klasik/item/1297/) | Jur (Epic)
 [1298](https://db.idrowiki.org/klasik/item/1298/) | Shiver Katar
-[1299](https://db.idrowiki.org/klasik/item/1299/) | Virgo Scratcher
+[1299](https://db.idrowiki.org/klasik/item/1299/) | TE Woe Katarr
 [1301](https://db.idrowiki.org/klasik/item/1301/) | Axe
 [1302](https://db.idrowiki.org/klasik/item/1302/) | Axe
 [1303](https://db.idrowiki.org/klasik/item/1303/) | Axe
@@ -623,15 +621,6 @@ Item ID | Nama
 [1319](https://db.idrowiki.org/klasik/item/1319/) | TE Woe Axe
 [1322](https://db.idrowiki.org/klasik/item/1322/) | Blue Axe
 [1323](https://db.idrowiki.org/klasik/item/1323/) | Ru Gold Axe
-[1328](https://db.idrowiki.org/klasik/item/1328/) | Axe (RARE)
-[1329](https://db.idrowiki.org/klasik/item/1329/) | Axe (EPIC)
-[1330](https://db.idrowiki.org/klasik/item/1330/) | Axe (RARE)
-[1331](https://db.idrowiki.org/klasik/item/1331/) | Axe (EPIC)
-[1332](https://db.idrowiki.org/klasik/item/1332/) | Windhawk (RARE)
-[1333](https://db.idrowiki.org/klasik/item/1333/) | Windhawk (EPIC)
-[1338](https://db.idrowiki.org/klasik/item/1338/) | Hammer (Epic)
-[1349](https://db.idrowiki.org/klasik/item/1349/) | Capricorn Catastrophe
-[1350](https://db.idrowiki.org/klasik/item/1350/) | Battle Axe (Rare)
 [1351](https://db.idrowiki.org/klasik/item/1351/) | Battle Axe
 [1352](https://db.idrowiki.org/klasik/item/1352/) | Battle Axe
 [1353](https://db.idrowiki.org/klasik/item/1353/) | Battle Axe
@@ -653,13 +642,11 @@ Item ID | Nama
 [1369](https://db.idrowiki.org/klasik/item/1369/) | Guillotine
 [1370](https://db.idrowiki.org/klasik/item/1370/) | Doom Slayer
 [1371](https://db.idrowiki.org/klasik/item/1371/) | Doom Slayer
-[1372](https://db.idrowiki.org/klasik/item/1372/) | Battle Axe (Epic)
-[1373](https://db.idrowiki.org/klasik/item/1373/) | Battle Axe (Rare)
-[1374](https://db.idrowiki.org/klasik/item/1374/) | Battle Axe (Epic)
+[1372](https://db.idrowiki.org/klasik/item/1372/) | Neo Light Epsilon
 [1375](https://db.idrowiki.org/klasik/item/1375/) | Berdysz
 [1376](https://db.idrowiki.org/klasik/item/1376/) | Heart Breaker
 [1377](https://db.idrowiki.org/klasik/item/1377/) | Hurricane Fury
-[1378](https://db.idrowiki.org/klasik/item/1378/) | Hammer (Rare)
+[1378](https://db.idrowiki.org/klasik/item/1378/) | Neo Great Axe
 [1379](https://db.idrowiki.org/klasik/item/1379/) | Insane Battle Axe
 [1380](https://db.idrowiki.org/klasik/item/1380/) | Insane Battle Axe
 [1381](https://db.idrowiki.org/klasik/item/1381/) | Novice Battle Axe
@@ -669,17 +656,13 @@ Item ID | Nama
 [1385](https://db.idrowiki.org/klasik/item/1385/) | Bradium Stonehammer
 [1386](https://db.idrowiki.org/klasik/item/1386/) | Neo Doom Slayer
 [1387](https://db.idrowiki.org/klasik/item/1387/) | Giant Axe
-[1389](https://db.idrowiki.org/klasik/item/1389/) | Hammer (Rare)
-[1390](https://db.idrowiki.org/klasik/item/1390/) | Hammer (Epic)
 [1391](https://db.idrowiki.org/klasik/item/1391/) | Eden Group Two Handed Axe I
 [1392](https://db.idrowiki.org/klasik/item/1392/) | Ygnus Stale
 [1393](https://db.idrowiki.org/klasik/item/1393/) | End Sektura
 [1394](https://db.idrowiki.org/klasik/item/1394/) | Upgrade Two Handed Axe
 [1395](https://db.idrowiki.org/klasik/item/1395/) | Velum Buster
 [1396](https://db.idrowiki.org/klasik/item/1396/) | Velum Guillotine
-[1398](https://db.idrowiki.org/klasik/item/1398/) | Capricorn Tomahawk
 [1399](https://db.idrowiki.org/klasik/item/1399/) | TE Woe Two Handed Axe
-[1400](https://db.idrowiki.org/klasik/item/1400/) | Javelin (RARE)
 [1401](https://db.idrowiki.org/klasik/item/1401/) | Javelin
 [1402](https://db.idrowiki.org/klasik/item/1402/) | Javelin
 [1403](https://db.idrowiki.org/klasik/item/1403/) | Javelin
@@ -706,27 +689,14 @@ Item ID | Nama
 [1425](https://db.idrowiki.org/klasik/item/1425/) | Assaulter Spear
 [1426](https://db.idrowiki.org/klasik/item/1426/) | Glorious Spear
 [1427](https://db.idrowiki.org/klasik/item/1427/) | Spear Of Excellent
-[1430](https://db.idrowiki.org/klasik/item/1430/) | Spear (RARE)
-[1431](https://db.idrowiki.org/klasik/item/1431/) | Javelin (EPIC)
-[1432](https://db.idrowiki.org/klasik/item/1432/) | Javelin (RARE)
 [1433](https://db.idrowiki.org/klasik/item/1433/) | Imperial Spear
 [1434](https://db.idrowiki.org/klasik/item/1434/) | Eden Group Spear I
 [1435](https://db.idrowiki.org/klasik/item/1435/) | Cannon Spear
 [1436](https://db.idrowiki.org/klasik/item/1436/) | Velum Spear
 [1437](https://db.idrowiki.org/klasik/item/1437/) | TE Woe Pike
-[1438](https://db.idrowiki.org/klasik/item/1438/) | Javelin (EPIC)
 [1439](https://db.idrowiki.org/klasik/item/1439/) | Half BF Spear1
-[1440](https://db.idrowiki.org/klasik/item/1440/) | Pike (RARE)
 [1441](https://db.idrowiki.org/klasik/item/1441/) | Blue Spear
 [1442](https://db.idrowiki.org/klasik/item/1442/) | Ru Gold Spear
-[1443](https://db.idrowiki.org/klasik/item/1443/) | Pike (EPIC)
-[1444](https://db.idrowiki.org/klasik/item/1444/) | Pike (RARE)
-[1445](https://db.idrowiki.org/klasik/item/1445/) | Pike (EPIC)
-[1446](https://db.idrowiki.org/klasik/item/1446/) | Spear (RARE)
-[1447](https://db.idrowiki.org/klasik/item/1447/) | Spear (EPIC)
-[1448](https://db.idrowiki.org/klasik/item/1448/) | Spear (EPIC)
-[1449](https://db.idrowiki.org/klasik/item/1449/) | Taurus Gae Bolg
-[1450](https://db.idrowiki.org/klasik/item/1450/) | Guisarme (Rare)
 [1451](https://db.idrowiki.org/klasik/item/1451/) | Guisarme
 [1452](https://db.idrowiki.org/klasik/item/1452/) | Guisarme
 [1453](https://db.idrowiki.org/klasik/item/1453/) | Guisarme
@@ -763,19 +733,12 @@ Item ID | Nama
 [1484](https://db.idrowiki.org/klasik/item/1484/) | Cardo
 [1485](https://db.idrowiki.org/klasik/item/1485/) | Battle Fork
 [1486](https://db.idrowiki.org/klasik/item/1486/) | Glorious Lance
-[1487](https://db.idrowiki.org/klasik/item/1487/) | Glaive (Rare)
-[1488](https://db.idrowiki.org/klasik/item/1488/) | Glaive (Epic)
 [1489](https://db.idrowiki.org/klasik/item/1489/) | Spearfish
 [1490](https://db.idrowiki.org/klasik/item/1490/) | Giant Lance
 [1491](https://db.idrowiki.org/klasik/item/1491/) | Upgrade Lance
-[1492](https://db.idrowiki.org/klasik/item/1492/) | Guisarme (Epic)
-[1493](https://db.idrowiki.org/klasik/item/1493/) | Guisarme (Rare)
+[1492](https://db.idrowiki.org/klasik/item/1492/) | Velum Glaive
 [1494](https://db.idrowiki.org/klasik/item/1494/) | Undine Spear
 [1495](https://db.idrowiki.org/klasik/item/1495/) | TE Woe Lance
-[1496](https://db.idrowiki.org/klasik/item/1496/) | Guisarme (Epic)
-[1497](https://db.idrowiki.org/klasik/item/1497/) | Glaive (Rare)
-[1498](https://db.idrowiki.org/klasik/item/1498/) | Glaive (Epic)
-[1499](https://db.idrowiki.org/klasik/item/1499/) | Taurus Gae Dearg
 [1501](https://db.idrowiki.org/klasik/item/1501/) | Club
 [1502](https://db.idrowiki.org/klasik/item/1502/) | Club
 [1503](https://db.idrowiki.org/klasik/item/1503/) | Club
@@ -854,15 +817,11 @@ Item ID | Nama
 [1585](https://db.idrowiki.org/klasik/item/1585/) | Upgrade Book
 [1586](https://db.idrowiki.org/klasik/item/1586/) | Velum Bible
 [1587](https://db.idrowiki.org/klasik/item/1587/) | Velum Encyclopedia
-[1588](https://db.idrowiki.org/klasik/item/1588/) | Book (Rare)
-[1589](https://db.idrowiki.org/klasik/item/1589/) | Book (Epic)
 [1590](https://db.idrowiki.org/klasik/item/1590/) | Snake Encyclopedia
 [1591](https://db.idrowiki.org/klasik/item/1591/) | TE Woe Book
 [1596](https://db.idrowiki.org/klasik/item/1596/) | Earth Pedigree Book
 [1597](https://db.idrowiki.org/klasik/item/1597/) | Half BF Book2
-[1598](https://db.idrowiki.org/klasik/item/1598/) | Libra Ledger
 [1599](https://db.idrowiki.org/klasik/item/1599/) | Angra Manyu
-[1600](https://db.idrowiki.org/klasik/item/1600/) | Rod (RARE)
 [1601](https://db.idrowiki.org/klasik/item/1601/) | Rod
 [1602](https://db.idrowiki.org/klasik/item/1602/) | Rod
 [1603](https://db.idrowiki.org/klasik/item/1603/) | Rod
@@ -917,25 +876,14 @@ Item ID | Nama
 [1659](https://db.idrowiki.org/klasik/item/1659/) | Recovery Light
 [1660](https://db.idrowiki.org/klasik/item/1660/) | Empowered Wand Of Affection
 [1661](https://db.idrowiki.org/klasik/item/1661/) | Mental Destroyer
-[1662](https://db.idrowiki.org/klasik/item/1662/) | Rod (EPIC)
-[1663](https://db.idrowiki.org/klasik/item/1663/) | Rod (RARE)
-[1664](https://db.idrowiki.org/klasik/item/1664/) | Rod (EPIC)
-[1665](https://db.idrowiki.org/klasik/item/1665/) | Wand (RARE)
-[1666](https://db.idrowiki.org/klasik/item/1666/) | Wand (EPIC)
 [1667](https://db.idrowiki.org/klasik/item/1667/) | TE Woe Staff
-[1668](https://db.idrowiki.org/klasik/item/1668/) | Wand (RARE)
-[1669](https://db.idrowiki.org/klasik/item/1669/) | Wand (EPIC)
+[1668](https://db.idrowiki.org/klasik/item/1668/) | Sword Stick
 [1670](https://db.idrowiki.org/klasik/item/1670/) | RWC Memory Staff
-[1671](https://db.idrowiki.org/klasik/item/1671/) | Staff (RARE)
-[1672](https://db.idrowiki.org/klasik/item/1672/) | Staff (EPIC)
 [1673](https://db.idrowiki.org/klasik/item/1673/) | Half BF Staff4
 [1674](https://db.idrowiki.org/klasik/item/1674/) | Half BF Staff2
-[1675](https://db.idrowiki.org/klasik/item/1675/) | Staff (RARE)
-[1676](https://db.idrowiki.org/klasik/item/1676/) | Staff (EPIC)
 [1677](https://db.idrowiki.org/klasik/item/1677/) | Blue Wand
 [1678](https://db.idrowiki.org/klasik/item/1678/) | Ru Gold Wand
 [1682](https://db.idrowiki.org/klasik/item/1682/) | Shadow Staff
-[1699](https://db.idrowiki.org/klasik/item/1699/) | Gemini Spirit
 [1701](https://db.idrowiki.org/klasik/item/1701/) | Bow
 [1702](https://db.idrowiki.org/klasik/item/1702/) | Bow
 [1703](https://db.idrowiki.org/klasik/item/1703/) | Bow
@@ -952,11 +900,10 @@ Item ID | Nama
 [1714](https://db.idrowiki.org/klasik/item/1714/) | Gakkung
 [1715](https://db.idrowiki.org/klasik/item/1715/) | Arbalest
 [1716](https://db.idrowiki.org/klasik/item/1716/) | Gakkung
-[1717](https://db.idrowiki.org/klasik/item/1717/) | Bow (Rare)
 [1718](https://db.idrowiki.org/klasik/item/1718/) | Hunter Bow
 [1719](https://db.idrowiki.org/klasik/item/1719/) | Roguemaster's Bow
 [1720](https://db.idrowiki.org/klasik/item/1720/) | Rudra's Bow
-[1721](https://db.idrowiki.org/klasik/item/1721/) | Repeating CrossBow
+[1721](https://db.idrowiki.org/klasik/item/1721/) | Repeting CrossBow
 [1722](https://db.idrowiki.org/klasik/item/1722/) | Balistar
 [1723](https://db.idrowiki.org/klasik/item/1723/) | Luna Bow
 [1724](https://db.idrowiki.org/klasik/item/1724/) | Dragon Wing
@@ -1042,21 +989,9 @@ Item ID | Nama
 [1832](https://db.idrowiki.org/klasik/item/1832/) | Velum Claw
 [1833](https://db.idrowiki.org/klasik/item/1833/) | Claw Of Flash
 [1834](https://db.idrowiki.org/klasik/item/1834/) | TE Woe Fist
-[1835](https://db.idrowiki.org/klasik/item/1835/) | Waghnakh (RARE)
-[1836](https://db.idrowiki.org/klasik/item/1836/) | Waghnakh (EPIC)
+[1835](https://db.idrowiki.org/klasik/item/1835/) | Spartacus
 [1837](https://db.idrowiki.org/klasik/item/1837/) | Iron Nail
 [1838](https://db.idrowiki.org/klasik/item/1838/) | Half BF Knuckle1
-[1839](https://db.idrowiki.org/klasik/item/1839/) | Waghnakh (RARE)
-[1840](https://db.idrowiki.org/klasik/item/1840/) | Waghnakh (EPIC)
-[1841](https://db.idrowiki.org/klasik/item/1841/) | Knuckle Duster (RARE)
-[1842](https://db.idrowiki.org/klasik/item/1842/) | Knuckle Duster (EPIC)
-[1843](https://db.idrowiki.org/klasik/item/1843/) | Knuckle Duster (RARE)
-[1844](https://db.idrowiki.org/klasik/item/1844/) | Knuckle Duster (EPIC)
-[1845](https://db.idrowiki.org/klasik/item/1845/) | Hora (RARE)
-[1846](https://db.idrowiki.org/klasik/item/1846/) | Hora (EPIC)
-[1847](https://db.idrowiki.org/klasik/item/1847/) | Hora (RARE)
-[1848](https://db.idrowiki.org/klasik/item/1848/) | Hora (EPIC)
-[1849](https://db.idrowiki.org/klasik/item/1849/) | Aquarius Reginnaglar
 [1901](https://db.idrowiki.org/klasik/item/1901/) | Violin
 [1902](https://db.idrowiki.org/klasik/item/1902/) | Violin
 [1903](https://db.idrowiki.org/klasik/item/1903/) | Mandolin
@@ -1084,25 +1019,12 @@ Item ID | Nama
 [1926](https://db.idrowiki.org/klasik/item/1926/) | Harp of Nepenthes
 [1927](https://db.idrowiki.org/klasik/item/1927/) | Glorious Guitar
 [1928](https://db.idrowiki.org/klasik/item/1928/) | Neo Berserk Guitar
-[1929](https://db.idrowiki.org/klasik/item/1929/) | Mandolin (EPIC)
 [1930](https://db.idrowiki.org/klasik/item/1930/) | Green Whistle
 [1931](https://db.idrowiki.org/klasik/item/1931/) | Eden Group Guitar I
 [1932](https://db.idrowiki.org/klasik/item/1932/) | TE Woe Guitar
-[1933](https://db.idrowiki.org/klasik/item/1933/) | Violin (RARE)
-[1934](https://db.idrowiki.org/klasik/item/1934/) | Violin (EPIC)
-[1935](https://db.idrowiki.org/klasik/item/1935/) | Violin (RARE)
 [1936](https://db.idrowiki.org/klasik/item/1936/) | Blue Violin
 [1937](https://db.idrowiki.org/klasik/item/1937/) | Ru Gold Violin
 [1940](https://db.idrowiki.org/klasik/item/1940/) | Trumpet Shell
-[1941](https://db.idrowiki.org/klasik/item/1941/) | Violin (EPIC)
-[1942](https://db.idrowiki.org/klasik/item/1942/) | Lute (RARE)
-[1943](https://db.idrowiki.org/klasik/item/1943/) | Lute (EPIC)
-[1944](https://db.idrowiki.org/klasik/item/1944/) | Lute (RARE)
-[1945](https://db.idrowiki.org/klasik/item/1945/) | Lute (EPIC)
-[1946](https://db.idrowiki.org/klasik/item/1946/) | Mandolin (RARE)
-[1947](https://db.idrowiki.org/klasik/item/1947/) | Mandolin (EPIC)
-[1948](https://db.idrowiki.org/klasik/item/1948/) | Mandolin (RARE)
-[1949](https://db.idrowiki.org/klasik/item/1949/) | Pisces Harmonia
 [1950](https://db.idrowiki.org/klasik/item/1950/) | Rope
 [1951](https://db.idrowiki.org/klasik/item/1951/) | Rope
 [1952](https://db.idrowiki.org/klasik/item/1952/) | Line
@@ -1139,17 +1061,8 @@ Item ID | Nama
 [1985](https://db.idrowiki.org/klasik/item/1985/) | Rosebine
 [1986](https://db.idrowiki.org/klasik/item/1986/) | Eden Group Whip I
 [1987](https://db.idrowiki.org/klasik/item/1987/) | TE Woe Rope
-[1988](https://db.idrowiki.org/klasik/item/1988/) | Rope (RARE)
-[1989](https://db.idrowiki.org/klasik/item/1989/) | Rope (EPIC)
-[1990](https://db.idrowiki.org/klasik/item/1990/) | Rope (RARE)
 [1991](https://db.idrowiki.org/klasik/item/1991/) | Blue Whip
 [1992](https://db.idrowiki.org/klasik/item/1992/) | Ru Gold Whip
-[1994](https://db.idrowiki.org/klasik/item/1994/) | Rope (EPIC)
-[1995](https://db.idrowiki.org/klasik/item/1995/) | Line (RARE)
-[1996](https://db.idrowiki.org/klasik/item/1996/) | Line (EPIC)
-[1997](https://db.idrowiki.org/klasik/item/1997/) | Line (RARE)
-[1998](https://db.idrowiki.org/klasik/item/1998/) | Line (EPIC)
-[1999](https://db.idrowiki.org/klasik/item/1999/) | Scorpio Hippolite
 [2000](https://db.idrowiki.org/klasik/item/2000/) | Staff of Destruction
 [2001](https://db.idrowiki.org/klasik/item/2001/) | Divine Cross
 [2002](https://db.idrowiki.org/klasik/item/2002/) | Glorious Destruction Staff
@@ -1168,7 +1081,7 @@ Item ID | Nama
 [2019](https://db.idrowiki.org/klasik/item/2019/) | TE Woe Two Hand Staff
 [2020](https://db.idrowiki.org/klasik/item/2020/) | Jormungand
 [2021](https://db.idrowiki.org/klasik/item/2021/) | Ganbantein
-[2099](https://db.idrowiki.org/klasik/item/2099/) | Gemini Wrath
+[2022](https://db.idrowiki.org/klasik/item/2022/) | Staff Of Geffen
 [2101](https://db.idrowiki.org/klasik/item/2101/) | Guard
 [2102](https://db.idrowiki.org/klasik/item/2102/) | Guard
 [2103](https://db.idrowiki.org/klasik/item/2103/) | Buckler
@@ -1203,17 +1116,14 @@ Item ID | Nama
 [2134](https://db.idrowiki.org/klasik/item/2134/) | Shield of Naga
 [2135](https://db.idrowiki.org/klasik/item/2135/) | Shadow Guard
 [2136](https://db.idrowiki.org/klasik/item/2136/) | Cracked Buckler
-[2137](https://db.idrowiki.org/klasik/item/2137/) | Neo Valkyrja's Shield
+[2137](https://db.idrowiki.org/klasik/item/2137/) | Neo Valkyrja Shield
 [2138](https://db.idrowiki.org/klasik/item/2138/) | Bradium Shield
 [2139](https://db.idrowiki.org/klasik/item/2139/) | Flame Thrower
 [2140](https://db.idrowiki.org/klasik/item/2140/) | Energy Rune Guard
-[2141](https://db.idrowiki.org/klasik/item/2141/) | Freyja SShield7
 [2146](https://db.idrowiki.org/klasik/item/2146/) | Silver Guard
 [2147](https://db.idrowiki.org/klasik/item/2147/) | Round Buckler
 [2148](https://db.idrowiki.org/klasik/item/2148/) | Rosa Shield
 [2149](https://db.idrowiki.org/klasik/item/2149/) | Upg Guard
-[2150](https://db.idrowiki.org/klasik/item/2150/) | Upg Buckler
-[2151](https://db.idrowiki.org/klasik/item/2151/) | Upg Shield
 [2153](https://db.idrowiki.org/klasik/item/2153/) | Imperial Guard
 [2156](https://db.idrowiki.org/klasik/item/2156/) | Bible of Promise(1st Vol.)
 [2158](https://db.idrowiki.org/klasik/item/2158/) | Ramor Shield Undead
@@ -1236,6 +1146,7 @@ Item ID | Nama
 [2180](https://db.idrowiki.org/klasik/item/2180/) | TE Woe Magic Guard
 [2181](https://db.idrowiki.org/klasik/item/2181/) | Hervor
 [2182](https://db.idrowiki.org/klasik/item/2182/) | Hervor Alvitr
+[2183](https://db.idrowiki.org/klasik/item/2183/) | Advanced Angelic Guard
 [2188](https://db.idrowiki.org/klasik/item/2188/) | Svalinn
 [2190](https://db.idrowiki.org/klasik/item/2190/) | Ancient Shield Of Aeon
 [2195](https://db.idrowiki.org/klasik/item/2195/) | Lian Shield
@@ -1473,13 +1384,10 @@ Item ID | Nama
 [2445](https://db.idrowiki.org/klasik/item/2445/) | Glorious Public Shoes
 [2446](https://db.idrowiki.org/klasik/item/2446/) | Glorious Supplied Shoes
 [2450](https://db.idrowiki.org/klasik/item/2450/) | Vital Tree Shoes
-[2451](https://db.idrowiki.org/klasik/item/2451/) | Freyja SSandal7
 [2456](https://db.idrowiki.org/klasik/item/2456/) | Paradise Team Boots1
 [2457](https://db.idrowiki.org/klasik/item/2457/) | Paradise Team Boots2
 [2458](https://db.idrowiki.org/klasik/item/2458/) | Paradise Team Boots3
 [2459](https://db.idrowiki.org/klasik/item/2459/) | Upg Shoes
-[2460](https://db.idrowiki.org/klasik/item/2460/) | Upg Boots
-[2461](https://db.idrowiki.org/klasik/item/2461/) | Upg Greave
 [2463](https://db.idrowiki.org/klasik/item/2463/) | Feral Boots
 [2465](https://db.idrowiki.org/klasik/item/2465/) | Dance Shoes
 [2467](https://db.idrowiki.org/klasik/item/2467/) | Golden Rod Shoes
@@ -1506,6 +1414,7 @@ Item ID | Nama
 [2496](https://db.idrowiki.org/klasik/item/2496/) | TE Woe Shoes
 [2497](https://db.idrowiki.org/klasik/item/2497/) | TE Woe Boots
 [2498](https://db.idrowiki.org/klasik/item/2498/) | TE Woe Magic Sandal
+[2499](https://db.idrowiki.org/klasik/item/2499/) | Temporal Boots
 [2501](https://db.idrowiki.org/klasik/item/2501/) | Hood
 [2502](https://db.idrowiki.org/klasik/item/2502/) | Hood
 [2503](https://db.idrowiki.org/klasik/item/2503/) | Muffler
@@ -1547,15 +1456,12 @@ Item ID | Nama
 [2543](https://db.idrowiki.org/klasik/item/2543/) | Neo Sylphid Manteau
 [2544](https://db.idrowiki.org/klasik/item/2544/) | Leather of Tendrilion
 [2545](https://db.idrowiki.org/klasik/item/2545/) | Musika
-[2547](https://db.idrowiki.org/klasik/item/2547/) | Cheap Undershirt
+[2548](https://db.idrowiki.org/klasik/item/2548/) | Neo Muffler
 [2549](https://db.idrowiki.org/klasik/item/2549/) | Glorious Muffler
 [2550](https://db.idrowiki.org/klasik/item/2550/) | Fisher's Muffler
 [2553](https://db.idrowiki.org/klasik/item/2553/) | Dragon Manteau
 [2554](https://db.idrowiki.org/klasik/item/2554/) | Piece Of Angent Skin
-[2555](https://db.idrowiki.org/klasik/item/2555/) | Freyja SScarf7
 [2560](https://db.idrowiki.org/klasik/item/2560/) | Paradise Team Manteau
-[2561](https://db.idrowiki.org/klasik/item/2561/) | Upg Hood
-[2562](https://db.idrowiki.org/klasik/item/2562/) | Upg Muffler
 [2563](https://db.idrowiki.org/klasik/item/2563/) | Upg Manteau
 [2564](https://db.idrowiki.org/klasik/item/2564/) | Feral Tail
 [2565](https://db.idrowiki.org/klasik/item/2565/) | Beach Towel
@@ -1667,7 +1573,7 @@ Item ID | Nama
 [2701](https://db.idrowiki.org/klasik/item/2701/) | Orleans's Glove
 [2702](https://db.idrowiki.org/klasik/item/2702/) | Bison Horn
 [2703](https://db.idrowiki.org/klasik/item/2703/) | Expert Ring
-[2704](https://db.idrowiki.org/klasik/item/2704/) | Mystic Accessories
+[2704](https://db.idrowiki.org/klasik/item/2704/) | Super Drop Item
 [2705](https://db.idrowiki.org/klasik/item/2705/) | Golden Accessory
 [2707](https://db.idrowiki.org/klasik/item/2707/) | GUSLI
 [2710](https://db.idrowiki.org/klasik/item/2710/) | Neo Bloody Iron Ball
@@ -1713,7 +1619,6 @@ Item ID | Nama
 [2760](https://db.idrowiki.org/klasik/item/2760/) | Bloody Ring
 [2761](https://db.idrowiki.org/klasik/item/2761/) | Satanic Ring
 [2762](https://db.idrowiki.org/klasik/item/2762/) | Dragoon Ring
-[2763](https://db.idrowiki.org/klasik/item/2763/) | Neo Skull Ring
 [2764](https://db.idrowiki.org/klasik/item/2764/) | Small Fishing Rod
 [2766](https://db.idrowiki.org/klasik/item/2766/) | Swordman Figure
 [2767](https://db.idrowiki.org/klasik/item/2767/) | Acolyte Figure
@@ -1750,14 +1655,12 @@ Item ID | Nama
 [2808](https://db.idrowiki.org/klasik/item/2808/) | Camouflage Generator
 [2809](https://db.idrowiki.org/klasik/item/2809/) | High Quality Cooler
 [2810](https://db.idrowiki.org/klasik/item/2810/) | Special Cooler
-[2811](https://db.idrowiki.org/klasik/item/2811/) | Freyja SBracelet7
 [2819](https://db.idrowiki.org/klasik/item/2819/) | Swordman Manual
 [2820](https://db.idrowiki.org/klasik/item/2820/) | Thief Manual
 [2821](https://db.idrowiki.org/klasik/item/2821/) | Acolyte Manual
 [2822](https://db.idrowiki.org/klasik/item/2822/) | Archer Manual
 [2823](https://db.idrowiki.org/klasik/item/2823/) | Merchant Manual
 [2824](https://db.idrowiki.org/klasik/item/2824/) | Mage Manual
-[2841](https://db.idrowiki.org/klasik/item/2841/) | Super Drop Accessory
 [2843](https://db.idrowiki.org/klasik/item/2843/) | Golden Bell
 [2844](https://db.idrowiki.org/klasik/item/2844/) | Light of El Dicastes
 [2853](https://db.idrowiki.org/klasik/item/2853/) | Telekinetic Orb
@@ -1771,9 +1674,10 @@ Item ID | Nama
 [2864](https://db.idrowiki.org/klasik/item/2864/) | Light Of Cure
 [2865](https://db.idrowiki.org/klasik/item/2865/) | Seal Of Cathedral
 [2866](https://db.idrowiki.org/klasik/item/2866/) | Ring Of Archbishop
-[2867](https://db.idrowiki.org/klasik/item/2867/) | Bambu Runcing
+[2867](https://db.idrowiki.org/klasik/item/2867/) | Potongan Bambu Runcing
 [2868](https://db.idrowiki.org/klasik/item/2868/) | Sarung Batik
 [2869](https://db.idrowiki.org/klasik/item/2869/) | Ketupat Warna Warni
+[2870](https://db.idrowiki.org/klasik/item/2870/) | Sarung Batik
 [2872](https://db.idrowiki.org/klasik/item/2872/) | G Honor Certificate
 [2873](https://db.idrowiki.org/klasik/item/2873/) | Cat Hand Glove
 [2883](https://db.idrowiki.org/klasik/item/2883/) | Ur's Seal
@@ -1821,11 +1725,15 @@ Item ID | Nama
 [2952](https://db.idrowiki.org/klasik/item/2952/) | Kvasir Ring Red
 [2953](https://db.idrowiki.org/klasik/item/2953/) | Kvasir Ring Green
 [2954](https://db.idrowiki.org/klasik/item/2954/) | Kvasir Ring Brown
+[2956](https://db.idrowiki.org/klasik/item/2956/) | Advanced Safety Ring
+[2957](https://db.idrowiki.org/klasik/item/2957/) | Advanced Ring Of Flame Lord
+[2958](https://db.idrowiki.org/klasik/item/2958/) | Advanced Ring Of Resonance
 [2959](https://db.idrowiki.org/klasik/item/2959/) | Fidelity Necklace
 [2966](https://db.idrowiki.org/klasik/item/2966/) | RWC Memorial Ring
 [2967](https://db.idrowiki.org/klasik/item/2967/) | RWC Memorial Ring
 [2968](https://db.idrowiki.org/klasik/item/2968/) | RWC Memorial Pendant
 [2969](https://db.idrowiki.org/klasik/item/2969/) | RWC Memorial Pendant
+[2971](https://db.idrowiki.org/klasik/item/2971/) | Pocket Watch
 [2979](https://db.idrowiki.org/klasik/item/2979/) | Strawberry Decoration
 [2985](https://db.idrowiki.org/klasik/item/2985/) | Gyges Ring
 [2998](https://db.idrowiki.org/klasik/item/2998/) | Shining Trapezohedron
@@ -2308,21 +2216,36 @@ Item ID | Nama
 [4480](https://db.idrowiki.org/klasik/item/4480/) | Sealed Kiel Card
 [4481](https://db.idrowiki.org/klasik/item/4481/) | Sealed Ktullanux Card
 [4482](https://db.idrowiki.org/klasik/item/4482/) | Sealed Boss Ygnizem Card
-[4484](https://db.idrowiki.org/klasik/item/4484/) | Sealed Mistress Card
 [4485](https://db.idrowiki.org/klasik/item/4485/) | Sealed Gloom Card
 [4486](https://db.idrowiki.org/klasik/item/4486/) | Sealed Berzebub Card
 [4487](https://db.idrowiki.org/klasik/item/4487/) | Sealed Ifrit Card
 [4488](https://db.idrowiki.org/klasik/item/4488/) | Sealed Dark Lord Card
 [4492](https://db.idrowiki.org/klasik/item/4492/) | Sealed Orc Hero Card
 [4493](https://db.idrowiki.org/klasik/item/4493/) | Sealed Tao Gunka Card
+[4494](https://db.idrowiki.org/klasik/item/4494/) | Sealed Turtle General Card
 [4495](https://db.idrowiki.org/klasik/item/4495/) | Sealed Amon Ra Card
 [4497](https://db.idrowiki.org/klasik/item/4497/) | Sealed Knight of Windstorm Card
 [4498](https://db.idrowiki.org/klasik/item/4498/) | Sealed Lady Tanee Card
 [4499](https://db.idrowiki.org/klasik/item/4499/) | Sealed Incantation Samurai Card
 [4500](https://db.idrowiki.org/klasik/item/4500/) | Sealed Orc Lord Card
+[4502](https://db.idrowiki.org/klasik/item/4502/) | Sealed MasterSmith Card
 [4503](https://db.idrowiki.org/klasik/item/4503/) | Sealed Vesper Card
 [4504](https://db.idrowiki.org/klasik/item/4504/) | Sealed Eddga Card
+[4505](https://db.idrowiki.org/klasik/item/4505/) | Scaraba Card
+[4506](https://db.idrowiki.org/klasik/item/4506/) | Dolomedes Card
+[4507](https://db.idrowiki.org/klasik/item/4507/) | Queen Scaraba Card
+[4508](https://db.idrowiki.org/klasik/item/4508/) | Gold Scaraba Card
+[4509](https://db.idrowiki.org/klasik/item/4509/) | Gold Queen Scaraba Card
+[4510](https://db.idrowiki.org/klasik/item/4510/) | Miming Card
+[4512](https://db.idrowiki.org/klasik/item/4512/) | Parus Card
+[4513](https://db.idrowiki.org/klasik/item/4513/) | Angra Mantis Card
+[4514](https://db.idrowiki.org/klasik/item/4514/) | Pom Spider Card
+[4515](https://db.idrowiki.org/klasik/item/4515/) | Alnoldi Card
+[4516](https://db.idrowiki.org/klasik/item/4516/) | Comodo Card
 [4517](https://db.idrowiki.org/klasik/item/4517/) | Cendrawasih Card
+[4518](https://db.idrowiki.org/klasik/item/4518/) | Banaspaty Card
+[4519](https://db.idrowiki.org/klasik/item/4519/) | Butoijo Card
+[4520](https://db.idrowiki.org/klasik/item/4520/) | Leak Card
 [4521](https://db.idrowiki.org/klasik/item/4521/) | Sedora Card
 [4522](https://db.idrowiki.org/klasik/item/4522/) | Sropho Card
 [4523](https://db.idrowiki.org/klasik/item/4523/) | Pot Dofle Card
@@ -2339,6 +2262,40 @@ Item ID | Nama
 [4534](https://db.idrowiki.org/klasik/item/4534/) | Giant Octopus Card
 [4539](https://db.idrowiki.org/klasik/item/4539/) | Sealed F Bishop Card
 [4549](https://db.idrowiki.org/klasik/item/4549/) | Upd Maya Puple Card
+[4574](https://db.idrowiki.org/klasik/item/4574/) | General Daehyon Card
+[4576](https://db.idrowiki.org/klasik/item/4576/) | Gioia Card
+[4578](https://db.idrowiki.org/klasik/item/4578/) | Pyuriel Card
+[4580](https://db.idrowiki.org/klasik/item/4580/) | Dark Guardian Kades Card
+[4582](https://db.idrowiki.org/klasik/item/4582/) | Bungisngis Card
+[4583](https://db.idrowiki.org/klasik/item/4583/) | Engkanto Card
+[4584](https://db.idrowiki.org/klasik/item/4584/) | Manananggal Card
+[4585](https://db.idrowiki.org/klasik/item/4585/) | Mangkukulam Card
+[4586](https://db.idrowiki.org/klasik/item/4586/) | Tikbalang Card
+[4587](https://db.idrowiki.org/klasik/item/4587/) | Tiyanak Card
+[4588](https://db.idrowiki.org/klasik/item/4588/) | Wakwak Card
+[4593](https://db.idrowiki.org/klasik/item/4593/) | Menblatt Card
+[4594](https://db.idrowiki.org/klasik/item/4594/) | Petal Card
+[4595](https://db.idrowiki.org/klasik/item/4595/) | Cenere Card
+[4596](https://db.idrowiki.org/klasik/item/4596/) | Antique Book Card
+[4597](https://db.idrowiki.org/klasik/item/4597/) | Lichtern Blue Card
+[4598](https://db.idrowiki.org/klasik/item/4598/) | Lichtern Yellow Card
+[4599](https://db.idrowiki.org/klasik/item/4599/) | Lichtern Red Card
+[4600](https://db.idrowiki.org/klasik/item/4600/) | Lichtern Green Card
+[4625](https://db.idrowiki.org/klasik/item/4625/) | Time Holder Card
+[4626](https://db.idrowiki.org/klasik/item/4626/) | Big Ben Card
+[4627](https://db.idrowiki.org/klasik/item/4627/) | Big Bell Card
+[4628](https://db.idrowiki.org/klasik/item/4628/) | Neo Punk Card
+[4629](https://db.idrowiki.org/klasik/item/4629/) | Arc Elder Card
+[4630](https://db.idrowiki.org/klasik/item/4630/) | Timer Keeper Card
+[4631](https://db.idrowiki.org/klasik/item/4631/) | Owl Viscount Card
+[4632](https://db.idrowiki.org/klasik/item/4632/) | Owl Marquees Card
+[4652](https://db.idrowiki.org/klasik/item/4652/) | Nightmare Amon Ra Card
+[4653](https://db.idrowiki.org/klasik/item/4653/) | Nightmare Arclouse Card
+[4654](https://db.idrowiki.org/klasik/item/4654/) | Nightmare Mimic Card
+[4655](https://db.idrowiki.org/klasik/item/4655/) | Nightmare Minorous Card
+[4656](https://db.idrowiki.org/klasik/item/4656/) | Nightmare Mummy Card
+[4657](https://db.idrowiki.org/klasik/item/4657/) | Nightmare Ancient Mummy Card
+[4658](https://db.idrowiki.org/klasik/item/4658/) | Nightmare Verit Card
 [4700](https://db.idrowiki.org/klasik/item/4700/) | STR+1
 [4701](https://db.idrowiki.org/klasik/item/4701/) | STR+2
 [4702](https://db.idrowiki.org/klasik/item/4702/) | STR+3
@@ -2492,12 +2449,14 @@ Item ID | Nama
 [4871](https://db.idrowiki.org/klasik/item/4871/) | SP+75
 [4872](https://db.idrowiki.org/klasik/item/4872/) | DelayafterAttack2Lv
 [4873](https://db.idrowiki.org/klasik/item/4873/) | DelayafterAttack3Lv
+[4875](https://db.idrowiki.org/klasik/item/4875/) | Bear's Power
 [4876](https://db.idrowiki.org/klasik/item/4876/) | Runaway Magic
+[4877](https://db.idrowiki.org/klasik/item/4877/) | Speed Of Light
+[4878](https://db.idrowiki.org/klasik/item/4878/) | Muscle Fool
+[4879](https://db.idrowiki.org/klasik/item/4879/) | Hawkeye
+[4880](https://db.idrowiki.org/klasik/item/4880/) | Lucky Day
 [4881](https://db.idrowiki.org/klasik/item/4881/) | DelayafterAttack4Lv
 [4900](https://db.idrowiki.org/klasik/item/4900/) | MHP+5%
-[4929](https://db.idrowiki.org/klasik/item/4929/) | MSP + 1%
-[4958](https://db.idrowiki.org/klasik/item/4958/) | MSP + 2%
-[4959](https://db.idrowiki.org/klasik/item/4959/) | MSP + 3%
 [5001](https://db.idrowiki.org/klasik/item/5001/) | Headset
 [5002](https://db.idrowiki.org/klasik/item/5002/) | Jewel Crown
 [5003](https://db.idrowiki.org/klasik/item/5003/) | Joker Jester
@@ -2623,11 +2582,10 @@ Item ID | Nama
 [5126](https://db.idrowiki.org/klasik/item/5126/) | Morpheus's Hood
 [5127](https://db.idrowiki.org/klasik/item/5127/) | Morrigane's Helm
 [5128](https://db.idrowiki.org/klasik/item/5128/) | Goibne's Helm
-[5131](https://db.idrowiki.org/klasik/item/5131/) | Close Helmet
 [5132](https://db.idrowiki.org/klasik/item/5132/) | Angeling Hat
 [5133](https://db.idrowiki.org/klasik/item/5133/) | Sheep Hat
 [5134](https://db.idrowiki.org/klasik/item/5134/) | Pumpkin-Head
-[5135](https://db.idrowiki.org/klasik/item/5135/) | Cyclop's Eye
+[5135](https://db.idrowiki.org/klasik/item/5135/) | Cyclops Visor
 [5136](https://db.idrowiki.org/klasik/item/5136/) | Antonio's Santa Hat
 [5137](https://db.idrowiki.org/klasik/item/5137/) | Alice Doll Hat
 [5138](https://db.idrowiki.org/klasik/item/5138/) | Magic Eyes
@@ -2664,7 +2622,6 @@ Item ID | Nama
 [5176](https://db.idrowiki.org/klasik/item/5176/) | Hahoe Mask
 [5177](https://db.idrowiki.org/klasik/item/5177/) | Mythical Lion Mask
 [5179](https://db.idrowiki.org/klasik/item/5179/) | Gold Tiara
-[5180](https://db.idrowiki.org/klasik/item/5180/) | Phrygian Cap
 [5181](https://db.idrowiki.org/klasik/item/5181/) | Helm of Darkness
 [5182](https://db.idrowiki.org/klasik/item/5182/) | Puppy Hat
 [5183](https://db.idrowiki.org/klasik/item/5183/) | Bird Nest Hat
@@ -2674,10 +2631,9 @@ Item ID | Nama
 [5187](https://db.idrowiki.org/klasik/item/5187/) | Twin Ribbon
 [5188](https://db.idrowiki.org/klasik/item/5188/) | Minstrel Hat
 [5189](https://db.idrowiki.org/klasik/item/5189/) | Hat of Falling Leaf
-[5190](https://db.idrowiki.org/klasik/item/5190/) | Indonesian RO Cap
+[5190](https://db.idrowiki.org/klasik/item/5190/) | idRO Cap
 [5198](https://db.idrowiki.org/klasik/item/5198/) | Party Rabbit Hat
 [5202](https://db.idrowiki.org/klasik/item/5202/) | Fantastic Pumpkin-Head
-[5203](https://db.idrowiki.org/klasik/item/5203/) | Tongue Mask
 [5204](https://db.idrowiki.org/klasik/item/5204/) | Rudolph's Nose
 [5206](https://db.idrowiki.org/klasik/item/5206/) | White Petal
 [5207](https://db.idrowiki.org/klasik/item/5207/) | Angel's Blessing
@@ -2710,7 +2666,7 @@ Item ID | Nama
 [5235](https://db.idrowiki.org/klasik/item/5235/) | Brown Beanie
 [5236](https://db.idrowiki.org/klasik/item/5236/) | Blue Beanie
 [5237](https://db.idrowiki.org/klasik/item/5237/) | Pink Beanie
-[5238](https://db.idrowiki.org/klasik/item/5238/) | Red Wizardry Hat
+[5238](https://db.idrowiki.org/klasik/item/5238/) | Red Mage Hat
 [5239](https://db.idrowiki.org/klasik/item/5239/) | Gray Mage Hat
 [5240](https://db.idrowiki.org/klasik/item/5240/) | Brown Mage Hat
 [5241](https://db.idrowiki.org/klasik/item/5241/) | Blue Mage Hat
@@ -2721,7 +2677,7 @@ Item ID | Nama
 [5254](https://db.idrowiki.org/klasik/item/5254/) | Deviling Hat
 [5255](https://db.idrowiki.org/klasik/item/5255/) | Triple Poring Hat
 [5256](https://db.idrowiki.org/klasik/item/5256/) | Valkyrie Feather Band
-[5257](https://db.idrowiki.org/klasik/item/5257/) | Soul Ring
+[5257](https://db.idrowiki.org/klasik/item/5257/) | Soulless Wing
 [5258](https://db.idrowiki.org/klasik/item/5258/) | Afro Wig
 [5263](https://db.idrowiki.org/klasik/item/5263/) | Pagdayaw
 [5265](https://db.idrowiki.org/klasik/item/5265/) | Neo Apple of Archer
@@ -2730,7 +2686,6 @@ Item ID | Nama
 [5268](https://db.idrowiki.org/klasik/item/5268/) | Grand Circlet
 [5269](https://db.idrowiki.org/klasik/item/5269/) | Flapping Angel Wing
 [5272](https://db.idrowiki.org/klasik/item/5272/) | Tongue Mask
-[5277](https://db.idrowiki.org/klasik/item/5277/) | Yellow Bandana
 [5279](https://db.idrowiki.org/klasik/item/5279/) | Neo Drooping Kitty
 [5283](https://db.idrowiki.org/klasik/item/5283/) | Chick Hat
 [5284](https://db.idrowiki.org/klasik/item/5284/) | Water Lily Crown
@@ -2756,25 +2711,23 @@ Item ID | Nama
 [5316](https://db.idrowiki.org/klasik/item/5316/) | Umbrella Hat
 [5317](https://db.idrowiki.org/klasik/item/5317/) | Fisherman's Hat
 [5320](https://db.idrowiki.org/klasik/item/5320/) | Sacred Palma
-[5321](https://db.idrowiki.org/klasik/item/5321/) | C Bandana Merah Putih
+[5321](https://db.idrowiki.org/klasik/item/5321/) | Bandana Merah Putih
 [5324](https://db.idrowiki.org/klasik/item/5324/) | Little Angel Doll
 [5325](https://db.idrowiki.org/klasik/item/5325/) | Robo Eye
 [5327](https://db.idrowiki.org/klasik/item/5327/) | Neo Orc Hero Helm
 [5328](https://db.idrowiki.org/klasik/item/5328/) | Neo Evil Wing Ears
 [5331](https://db.idrowiki.org/klasik/item/5331/) | Neo Corsair
 [5333](https://db.idrowiki.org/klasik/item/5333/) | Radio Antenna
-[5334](https://db.idrowiki.org/klasik/item/5334/) | Flapping Angeling
+[5334](https://db.idrowiki.org/klasik/item/5334/) | I-want-to-fly Angeling
 [5335](https://db.idrowiki.org/klasik/item/5335/) | Jumping Poring
-[5338](https://db.idrowiki.org/klasik/item/5338/) | BF Wanted
-[5346](https://db.idrowiki.org/klasik/item/5346/) | GF Wanted
 [5347](https://db.idrowiki.org/klasik/item/5347/) | Ph.D Hat
 [5348](https://db.idrowiki.org/klasik/item/5348/) | Big Ribbon
 [5349](https://db.idrowiki.org/klasik/item/5349/) | Boys Cap
 [5350](https://db.idrowiki.org/klasik/item/5350/) | Pirate Bandana
 [5351](https://db.idrowiki.org/klasik/item/5351/) | Sunflower
 [5353](https://db.idrowiki.org/klasik/item/5353/) | Helm of Sun
-[5354](https://db.idrowiki.org/klasik/item/5354/) | Muslim Hat
-[5355](https://db.idrowiki.org/klasik/item/5355/) | Selendang
+[5354](https://db.idrowiki.org/klasik/item/5354/) | C Peci
+[5355](https://db.idrowiki.org/klasik/item/5355/) | C Selendang
 [5356](https://db.idrowiki.org/klasik/item/5356/) | Festival Pumpkin Hat
 [5357](https://db.idrowiki.org/klasik/item/5357/) | Wings Of Victory
 [5359](https://db.idrowiki.org/klasik/item/5359/) | Master's Hat
@@ -2789,42 +2742,36 @@ Item ID | Nama
 [5369](https://db.idrowiki.org/klasik/item/5369/) | Dark Wing
 [5370](https://db.idrowiki.org/klasik/item/5370/) | Orchid Hairband
 [5371](https://db.idrowiki.org/klasik/item/5371/) | Judge Hat
-[5372](https://db.idrowiki.org/klasik/item/5372/) | Koneko Hat
 [5373](https://db.idrowiki.org/klasik/item/5373/) | Dark Randgris Helm
 [5374](https://db.idrowiki.org/klasik/item/5374/) | Gigantic Magestic Goat
-[5376](https://db.idrowiki.org/klasik/item/5376/) | Flywing Evil Wing
-[5377](https://db.idrowiki.org/klasik/item/5377/) | Gentleman's Pipe
-[5378](https://db.idrowiki.org/klasik/item/5378/) | Rabbit Ear Hat
 [5379](https://db.idrowiki.org/klasik/item/5379/) | Balloon Hat
 [5380](https://db.idrowiki.org/klasik/item/5380/) | Fish Head Hat
 [5381](https://db.idrowiki.org/klasik/item/5381/) | Santa Poring Hat
 [5382](https://db.idrowiki.org/klasik/item/5382/) | Bell Ribbon
-[5383](https://db.idrowiki.org/klasik/item/5383/) | Hunting Cap
-[5384](https://db.idrowiki.org/klasik/item/5384/) | Twin Pom Santa
 [5385](https://db.idrowiki.org/klasik/item/5385/) | Yoyo Hat
 [5387](https://db.idrowiki.org/klasik/item/5387/) | Neko Mimi Kafra
 [5388](https://db.idrowiki.org/klasik/item/5388/) | Snake Hat
 [5389](https://db.idrowiki.org/klasik/item/5389/) | Angel Spirit
-[5392](https://db.idrowiki.org/klasik/item/5392/) | Costume Louyang New Year Hat
+[5392](https://db.idrowiki.org/klasik/item/5392/) | Topi Raja Angpao
 [5393](https://db.idrowiki.org/klasik/item/5393/) | Love Valentine's Hat
 [5395](https://db.idrowiki.org/klasik/item/5395/) | Tiraya Bonnet
 [5396](https://db.idrowiki.org/klasik/item/5396/) | Jasper Crest
 [5397](https://db.idrowiki.org/klasik/item/5397/) | Scuba Mask
-[5398](https://db.idrowiki.org/klasik/item/5398/) | Costume Bone Head
+[5398](https://db.idrowiki.org/klasik/item/5398/) | Bone Head
 [5399](https://db.idrowiki.org/klasik/item/5399/) | Mandragora Cap
+[5401](https://db.idrowiki.org/klasik/item/5401/) | Black Frame Glasses
 [5403](https://db.idrowiki.org/klasik/item/5403/) | Fish In Mouth
 [5404](https://db.idrowiki.org/klasik/item/5404/) | Blue Ribbon
 [5409](https://db.idrowiki.org/klasik/item/5409/) | New Cowboy Hat
 [5410](https://db.idrowiki.org/klasik/item/5410/) | Brown Paperbag Hat
 [5413](https://db.idrowiki.org/klasik/item/5413/) | Popcorn Hat
 [5414](https://db.idrowiki.org/klasik/item/5414/) | Campfire Hat
-[5415](https://db.idrowiki.org/klasik/item/5415/) | Poring Cake Hat
 [5418](https://db.idrowiki.org/klasik/item/5418/) | Legionnaire Hat
 [5420](https://db.idrowiki.org/klasik/item/5420/) | Mask Of Ifrit
-[5421](https://db.idrowiki.org/klasik/item/5421/) | Costume Ears Of Ifrit
+[5421](https://db.idrowiki.org/klasik/item/5421/) | Ears of Ifrit
 [5422](https://db.idrowiki.org/klasik/item/5422/) | Linguistic Book Cap
 [5423](https://db.idrowiki.org/klasik/item/5423/) | I LOVE CHINA
-[5430](https://db.idrowiki.org/klasik/item/5430/) | Torch Cap
+[5429](https://db.idrowiki.org/klasik/item/5429/) | Hobgoblin's Hat
 [5431](https://db.idrowiki.org/klasik/item/5431/) | Cuckoo Hat
 [5436](https://db.idrowiki.org/klasik/item/5436/) | Bride's Corolla
 [5437](https://db.idrowiki.org/klasik/item/5437/) | Fairy Flower
@@ -2840,13 +2787,10 @@ Item ID | Nama
 [5447](https://db.idrowiki.org/klasik/item/5447/) | Frog Hat
 [5448](https://db.idrowiki.org/klasik/item/5448/) | Soloplay Box1
 [5449](https://db.idrowiki.org/klasik/item/5449/) | Soloplay Box2
-[5451](https://db.idrowiki.org/klasik/item/5451/) | Dragonhelm Gold
-[5452](https://db.idrowiki.org/klasik/item/5452/) | Dragonhelm Silver
-[5453](https://db.idrowiki.org/klasik/item/5453/) | Dragonhelm Copper
+[5453](https://db.idrowiki.org/klasik/item/5453/) | Dragon Helm Copper
 [5462](https://db.idrowiki.org/klasik/item/5462/) | Spiked Scarf
 [5463](https://db.idrowiki.org/klasik/item/5463/) | Rainbow Scarf
 [5464](https://db.idrowiki.org/klasik/item/5464/) | White Lady Doll
-[5465](https://db.idrowiki.org/klasik/item/5465/) | Hat of Fortune
 [5466](https://db.idrowiki.org/klasik/item/5466/) | Wind Milestone
 [5467](https://db.idrowiki.org/klasik/item/5467/) | Helm Of Dragoon
 [5468](https://db.idrowiki.org/klasik/item/5468/) | Parade Hat
@@ -2854,7 +2798,7 @@ Item ID | Nama
 [5470](https://db.idrowiki.org/klasik/item/5470/) | Darkness Eyes
 [5471](https://db.idrowiki.org/klasik/item/5471/) | Reginleif's Wing
 [5474](https://db.idrowiki.org/klasik/item/5474/) | Notice Board
-[5476](https://db.idrowiki.org/klasik/item/5476/) | Grand Peco Hairband
+[5476](https://db.idrowiki.org/klasik/item/5476/) | Hairband Of Grandpeco
 [5478](https://db.idrowiki.org/klasik/item/5478/) | Classic Hat
 [5480](https://db.idrowiki.org/klasik/item/5480/) | Bijofnil Wings
 [5481](https://db.idrowiki.org/klasik/item/5481/) | Hermose Cap
@@ -2879,8 +2823,6 @@ Item ID | Nama
 [5508](https://db.idrowiki.org/klasik/item/5508/) | Shark Hat
 [5509](https://db.idrowiki.org/klasik/item/5509/) | Sting Hat
 [5511](https://db.idrowiki.org/klasik/item/5511/) | Samanbaia
-[5512](https://db.idrowiki.org/klasik/item/5512/) | Aquarius Diadem
-[5513](https://db.idrowiki.org/klasik/item/5513/) | Aquarius Crown
 [5514](https://db.idrowiki.org/klasik/item/5514/) | Pisces Diadem
 [5515](https://db.idrowiki.org/klasik/item/5515/) | Pisces Crown
 [5516](https://db.idrowiki.org/klasik/item/5516/) | Hawk Eyes
@@ -2895,8 +2837,8 @@ Item ID | Nama
 [5537](https://db.idrowiki.org/klasik/item/5537/) | Quati Hat
 [5538](https://db.idrowiki.org/klasik/item/5538/) | Tucan Hat
 [5539](https://db.idrowiki.org/klasik/item/5539/) | Jaguar Hat
-[5545](https://db.idrowiki.org/klasik/item/5545/) | C Aries Diadem
-[5546](https://db.idrowiki.org/klasik/item/5546/) | C Aries Crown
+[5545](https://db.idrowiki.org/klasik/item/5545/) | Aries Diadem
+[5546](https://db.idrowiki.org/klasik/item/5546/) | Aries Crown
 [5547](https://db.idrowiki.org/klasik/item/5547/) | Flower Katusa
 [5548](https://db.idrowiki.org/klasik/item/5548/) | Scarlet Rose
 [5549](https://db.idrowiki.org/klasik/item/5549/) | Taurus Diadem
@@ -2909,14 +2851,10 @@ Item ID | Nama
 [5562](https://db.idrowiki.org/klasik/item/5562/) | Good Wedding Veil
 [5563](https://db.idrowiki.org/klasik/item/5563/) | Dolor Hat
 [5564](https://db.idrowiki.org/klasik/item/5564/) | Crown Of Deceit
-[5567](https://db.idrowiki.org/klasik/item/5567/) | Costume Monkey King
-[5569](https://db.idrowiki.org/klasik/item/5569/) | Gemini Diadem
-[5570](https://db.idrowiki.org/klasik/item/5570/) | Gemini Crown
-[5572](https://db.idrowiki.org/klasik/item/5572/) | Savage Babe Hat
+[5567](https://db.idrowiki.org/klasik/item/5567/) | Bright Fury
 [5573](https://db.idrowiki.org/klasik/item/5573/) | Dokkaebi Horn
-[5574](https://db.idrowiki.org/klasik/item/5574/) | Well-Chewed Pencil
 [5575](https://db.idrowiki.org/klasik/item/5575/) | Rice Ball Hat
-[5578](https://db.idrowiki.org/klasik/item/5578/) | Costume Voyage Hat
+[5578](https://db.idrowiki.org/klasik/item/5578/) | Voyage Hat
 [5579](https://db.idrowiki.org/klasik/item/5579/) | Wanderer's Sakkat
 [5580](https://db.idrowiki.org/klasik/item/5580/) | Indonesian Beret
 [5581](https://db.idrowiki.org/klasik/item/5581/) | Cancer Diadem
@@ -2924,9 +2862,6 @@ Item ID | Nama
 [5583](https://db.idrowiki.org/klasik/item/5583/) | Paradise Team Hat
 [5584](https://db.idrowiki.org/klasik/item/5584/) | Majestic Devil Horn
 [5585](https://db.idrowiki.org/klasik/item/5585/) | Rune Hairband
-[5586](https://db.idrowiki.org/klasik/item/5586/) | Symbol Of Loneliness
-[5588](https://db.idrowiki.org/klasik/item/5588/) | Leo Crown
-[5589](https://db.idrowiki.org/klasik/item/5589/) | Leo Diadem
 [5591](https://db.idrowiki.org/klasik/item/5591/) | Desert Prince
 [5592](https://db.idrowiki.org/klasik/item/5592/) | Sigrun's Wing
 [5593](https://db.idrowiki.org/klasik/item/5593/) | K Rabbit Bonnet
@@ -2937,23 +2872,18 @@ Item ID | Nama
 [5599](https://db.idrowiki.org/klasik/item/5599/) | Virgo Diadem
 [5610](https://db.idrowiki.org/klasik/item/5610/) | Ice Wing Ear
 [5611](https://db.idrowiki.org/klasik/item/5611/) | Turtle Hat
-[5644](https://db.idrowiki.org/klasik/item/5644/) | C Tiger Mask
 [5654](https://db.idrowiki.org/klasik/item/5654/) | Holy Marching Hat
 [5655](https://db.idrowiki.org/klasik/item/5655/) | Dark Snake Lord's Hat
-[5656](https://db.idrowiki.org/klasik/item/5656/) | Scooter Hat
 [5657](https://db.idrowiki.org/klasik/item/5657/) | Captain's Pipe
 [5660](https://db.idrowiki.org/klasik/item/5660/) | Gryphon Hat
-[5661](https://db.idrowiki.org/klasik/item/5661/) | Red Pirate Bandana
 [5662](https://db.idrowiki.org/klasik/item/5662/) | Libra Crown
 [5663](https://db.idrowiki.org/klasik/item/5663/) | Libra Diadem
 [5664](https://db.idrowiki.org/klasik/item/5664/) | Filir Wing
 [5667](https://db.idrowiki.org/klasik/item/5667/) | Skull Hood
 [5668](https://db.idrowiki.org/klasik/item/5668/) | Weird Pumpkin Hat
-[5670](https://db.idrowiki.org/klasik/item/5670/) | Anniversary Star Hat
 [5671](https://db.idrowiki.org/klasik/item/5671/) | Incarnation Of Morocc Doll
-[5675](https://db.idrowiki.org/klasik/item/5675/) | Poring Letter
-[5676](https://db.idrowiki.org/klasik/item/5676/) | C Scorpio Crown
-[5677](https://db.idrowiki.org/klasik/item/5677/) | C Scorpio Diadem
+[5676](https://db.idrowiki.org/klasik/item/5676/) | Scorpio Crown
+[5677](https://db.idrowiki.org/klasik/item/5677/) | Scorpio Diadem
 [5683](https://db.idrowiki.org/klasik/item/5683/) | Horn Arch Evil Model
 [5684](https://db.idrowiki.org/klasik/item/5684/) | Luxurious Crown
 [5685](https://db.idrowiki.org/klasik/item/5685/) | A Military Cap Of A Knight
@@ -2964,11 +2894,8 @@ Item ID | Nama
 [5692](https://db.idrowiki.org/klasik/item/5692/) | Sea Cat Hat
 [5737](https://db.idrowiki.org/klasik/item/5737/) | Cactus Hat
 [5738](https://db.idrowiki.org/klasik/item/5738/) | Snowman Hat
-[5739](https://db.idrowiki.org/klasik/item/5739/) | C Sagittarius Crown
-[5740](https://db.idrowiki.org/klasik/item/5740/) | C Sagittarius Diadem
-[5742](https://db.idrowiki.org/klasik/item/5742/) | Rudolph Santa Hat
-[5744](https://db.idrowiki.org/klasik/item/5744/) | Capricorn Crown
-[5745](https://db.idrowiki.org/klasik/item/5745/) | Capricorn Diadem
+[5739](https://db.idrowiki.org/klasik/item/5739/) | Sagittarius Crown
+[5740](https://db.idrowiki.org/klasik/item/5740/) | Sagittarius Diadem
 [5746](https://db.idrowiki.org/klasik/item/5746/) | Rune Circlet
 [5747](https://db.idrowiki.org/klasik/item/5747/) | Mitra
 [5748](https://db.idrowiki.org/klasik/item/5748/) | Sniper Goggle
@@ -2978,13 +2905,12 @@ Item ID | Nama
 [5752](https://db.idrowiki.org/klasik/item/5752/) | Midas Whisper
 [5753](https://db.idrowiki.org/klasik/item/5753/) | Magic Stone Hat
 [5754](https://db.idrowiki.org/klasik/item/5754/) | Blazing Soul
-[5755](https://db.idrowiki.org/klasik/item/5755/) | Costume Silent Executor
+[5755](https://db.idrowiki.org/klasik/item/5755/) | Silent Executer
 [5756](https://db.idrowiki.org/klasik/item/5756/) | Wind Whisper
 [5757](https://db.idrowiki.org/klasik/item/5757/) | Dip Schmidt Helm
 [5758](https://db.idrowiki.org/klasik/item/5758/) | Dying Swan
 [5760](https://db.idrowiki.org/klasik/item/5760/) | Driver Band
 [5761](https://db.idrowiki.org/klasik/item/5761/) | Sloth Hat
-[5762](https://db.idrowiki.org/klasik/item/5762/) | Duneyrr Helm
 [5765](https://db.idrowiki.org/klasik/item/5765/) | Black Tail Ribbon
 [5766](https://db.idrowiki.org/klasik/item/5766/) | Amistr Cap
 [5767](https://db.idrowiki.org/klasik/item/5767/) | Samurai Mask
@@ -2996,32 +2922,24 @@ Item ID | Nama
 [5776](https://db.idrowiki.org/klasik/item/5776/) | Blazing Sun
 [5777](https://db.idrowiki.org/klasik/item/5777/) | Remover Hat
 [5778](https://db.idrowiki.org/klasik/item/5778/) | Blue Arara Hat
-[5784](https://db.idrowiki.org/klasik/item/5784/) | Pink Bunny Band
-[5785](https://db.idrowiki.org/klasik/item/5785/) | Green Bunny Band
 [5786](https://db.idrowiki.org/klasik/item/5786/) | Ancient Elven Ears
-[5787](https://db.idrowiki.org/klasik/item/5787/) | Thanatos Maero Mask
 [5788](https://db.idrowiki.org/klasik/item/5788/) | 3D Glasses
 [5789](https://db.idrowiki.org/klasik/item/5789/) | Thanatos's Mal Mask
 [5790](https://db.idrowiki.org/klasik/item/5790/) | Holy Mom Love
 [5792](https://db.idrowiki.org/klasik/item/5792/) | Fish Pin
 [5793](https://db.idrowiki.org/klasik/item/5793/) | Life Ribbon
 [5795](https://db.idrowiki.org/klasik/item/5795/) | Red Dress Hat
-[5800](https://db.idrowiki.org/klasik/item/5800/) | Blush Of Groom
-[5801](https://db.idrowiki.org/klasik/item/5801/) | Ribbon Of Bride
 [5803](https://db.idrowiki.org/klasik/item/5803/) | Love Flower Hat
 [5804](https://db.idrowiki.org/klasik/item/5804/) | Pirate Eye Bandage
 [5808](https://db.idrowiki.org/klasik/item/5808/) | Dark Bacilium
 [5811](https://db.idrowiki.org/klasik/item/5811/) | Santa Beard
-[5813](https://db.idrowiki.org/klasik/item/5813/) | Red Ph.D Hat
 [5817](https://db.idrowiki.org/klasik/item/5817/) | Valentine's Emblem
 [5822](https://db.idrowiki.org/klasik/item/5822/) | Love Chick Hat
 [5823](https://db.idrowiki.org/klasik/item/5823/) | Love Arrow
 [5826](https://db.idrowiki.org/klasik/item/5826/) | idRO 6th Birthday Helm
 [5841](https://db.idrowiki.org/klasik/item/5841/) | Shaman Hat
-[5847](https://db.idrowiki.org/klasik/item/5847/) | I Am A Fool Hat
 [5848](https://db.idrowiki.org/klasik/item/5848/) | Robin Eyepatch
 [5849](https://db.idrowiki.org/klasik/item/5849/) | Doctor Hairband
-[5852](https://db.idrowiki.org/klasik/item/5852/) | Easter Egg Shell
 [5853](https://db.idrowiki.org/klasik/item/5853/) | IdRO Crown
 [5856](https://db.idrowiki.org/klasik/item/5856/) | Worldcup Hat of Passion
 [5857](https://db.idrowiki.org/klasik/item/5857/) | Worldcup Hat of Fight
@@ -3032,13 +2950,12 @@ Item ID | Nama
 [5875](https://db.idrowiki.org/klasik/item/5875/) | Diadem Of Bruenhild
 [5887](https://db.idrowiki.org/klasik/item/5887/) | Half L Magestic Goat
 [5914](https://db.idrowiki.org/klasik/item/5914/) | C Flutter Butterfly
-[5915](https://db.idrowiki.org/klasik/item/5915/) | C Angel Veil
 [5917](https://db.idrowiki.org/klasik/item/5917/) | Yellow Scarf
 [5918](https://db.idrowiki.org/klasik/item/5918/) | Gambler Seal
 [5919](https://db.idrowiki.org/klasik/item/5919/) | Camellia Hair Pin
 [5920](https://db.idrowiki.org/klasik/item/5920/) | Medical Boots
-[5933](https://db.idrowiki.org/klasik/item/5933/) | Costume Crow Tengu Mask
-[5942](https://db.idrowiki.org/klasik/item/5942/) | I Loves Games Hat
+[5930](https://db.idrowiki.org/klasik/item/5930/) | C Magical Feather
+[5933](https://db.idrowiki.org/klasik/item/5933/) | Crow Tengu Mask
 [5943](https://db.idrowiki.org/klasik/item/5943/) | Owl viscount Silk Hat
 [5966](https://db.idrowiki.org/klasik/item/5966/) | KarduiEar
 [5967](https://db.idrowiki.org/klasik/item/5967/) | Flying Galapago
@@ -3047,10 +2964,10 @@ Item ID | Nama
 [5971](https://db.idrowiki.org/klasik/item/5971/) | Moon Eyepatch
 [5972](https://db.idrowiki.org/klasik/item/5972/) | Chatty Parrot
 [5973](https://db.idrowiki.org/klasik/item/5973/) | Ancient Elven Ear J
-[5974](https://db.idrowiki.org/klasik/item/5974/) | C Unicorn Helm
 [5975](https://db.idrowiki.org/klasik/item/5975/) | Costume Flying Galapago
 [5976](https://db.idrowiki.org/klasik/item/5976/) | RO Festival Hat
 [5977](https://db.idrowiki.org/klasik/item/5977/) | Costume Blank Eyes
+[5978](https://db.idrowiki.org/klasik/item/5978/) | Syringe Toy
 [5979](https://db.idrowiki.org/klasik/item/5979/) | C Angel Fluttering
 [5980](https://db.idrowiki.org/klasik/item/5980/) | C Classical Fhat
 [5985](https://db.idrowiki.org/klasik/item/5985/) | Noble Mask
@@ -3061,13 +2978,11 @@ Item ID | Nama
 [6004](https://db.idrowiki.org/klasik/item/6004/) | Cursed Baphomet Doll
 [6010](https://db.idrowiki.org/klasik/item/6010/) | Pickaxe
 [6012](https://db.idrowiki.org/klasik/item/6012/) | Blue C Card
-[6014](https://db.idrowiki.org/klasik/item/6014/) | Infinity Coupon
-[6015](https://db.idrowiki.org/klasik/item/6015/) | Kartu 'M'
+[6015](https://db.idrowiki.org/klasik/item/6015/) | M
 [6020](https://db.idrowiki.org/klasik/item/6020/) | Fur
 [6021](https://db.idrowiki.org/klasik/item/6021/) | Peaked Hat
 [6022](https://db.idrowiki.org/klasik/item/6022/) | Hard Skin
 [6023](https://db.idrowiki.org/klasik/item/6023/) | Mystic Horn
-[6026](https://db.idrowiki.org/klasik/item/6026/) | Marriage Covenant
 [6027](https://db.idrowiki.org/klasik/item/6027/) | Bloody Crystal Of Darkness
 [6028](https://db.idrowiki.org/klasik/item/6028/) | Sealed Scroll
 [6029](https://db.idrowiki.org/klasik/item/6029/) | Morroc Tracking Log
@@ -3177,7 +3092,6 @@ Item ID | Nama
 [6224](https://db.idrowiki.org/klasik/item/6224/) | Bradium
 [6225](https://db.idrowiki.org/klasik/item/6225/) | HD Carnium
 [6226](https://db.idrowiki.org/klasik/item/6226/) | HD Bradium
-[6227](https://db.idrowiki.org/klasik/item/6227/) | Fragment Card
 [6228](https://db.idrowiki.org/klasik/item/6228/) | Safe to 9 Weapon Certificate
 [6229](https://db.idrowiki.org/klasik/item/6229/) | Safe to 8 Weapon Certificate
 [6230](https://db.idrowiki.org/klasik/item/6230/) | Safe to 7 Weapon Certificate
@@ -3191,7 +3105,7 @@ Item ID | Nama
 [6239](https://db.idrowiki.org/klasik/item/6239/) | Guarantee Armor 11Up
 [6240](https://db.idrowiki.org/klasik/item/6240/) | High Density Oridecon
 [6241](https://db.idrowiki.org/klasik/item/6241/) | High Density Elunium
-[6243](https://db.idrowiki.org/klasik/item/6243/) | Token Of Luck
+[6243](https://db.idrowiki.org/klasik/item/6243/) | Bloody Coin
 [6244](https://db.idrowiki.org/klasik/item/6244/) | Gun Powder
 [6245](https://db.idrowiki.org/klasik/item/6245/) | Black Powder
 [6246](https://db.idrowiki.org/klasik/item/6246/) | Yellow Powder
@@ -3242,7 +3156,7 @@ Item ID | Nama
 [6306](https://db.idrowiki.org/klasik/item/6306/) | Cotted Bloodstain
 [6307](https://db.idrowiki.org/klasik/item/6307/) | Strange Magic Stone
 [6308](https://db.idrowiki.org/klasik/item/6308/) | Unknown Relic
-[6312](https://db.idrowiki.org/klasik/item/6312/) | Golden Gear Coupon
+[6316](https://db.idrowiki.org/klasik/item/6316/) | E Token Of Siegfried
 [6319](https://db.idrowiki.org/klasik/item/6319/) | Small Bradium
 [6320](https://db.idrowiki.org/klasik/item/6320/) | Premium Reset Stone
 [6321](https://db.idrowiki.org/klasik/item/6321/) | Rake Horn Helm
@@ -3260,7 +3174,7 @@ Item ID | Nama
 [6361](https://db.idrowiki.org/klasik/item/6361/) | Indigo Point
 [6362](https://db.idrowiki.org/klasik/item/6362/) | Yellow Wish Point
 [6363](https://db.idrowiki.org/klasik/item/6363/) | Lime Green Point
-[6377](https://db.idrowiki.org/klasik/item/6377/) | Buy Market Permit
+[6377](https://db.idrowiki.org/klasik/item/6377/) | Street Stall License
 [6380](https://db.idrowiki.org/klasik/item/6380/) | Mora Coin
 [6381](https://db.idrowiki.org/klasik/item/6381/) | Field Shovel
 [6382](https://db.idrowiki.org/klasik/item/6382/) | Urn
@@ -3278,17 +3192,13 @@ Item ID | Nama
 [6394](https://db.idrowiki.org/klasik/item/6394/) | Golden Feather
 [6395](https://db.idrowiki.org/klasik/item/6395/) | Angel Magic Power
 [6396](https://db.idrowiki.org/klasik/item/6396/) | Auger Of Spirit
-[6397](https://db.idrowiki.org/klasik/item/6397/) | Essence Ancient
-[6398](https://db.idrowiki.org/klasik/item/6398/) | Armor Voucher
-[6399](https://db.idrowiki.org/klasik/item/6399/) | Weapon Voucher
-[6400](https://db.idrowiki.org/klasik/item/6400/) | Ancient MVP Coupon
 [6401](https://db.idrowiki.org/klasik/item/6401/) | Minyak Sawit
 [6402](https://db.idrowiki.org/klasik/item/6402/) | Buah Sawit
 [6403](https://db.idrowiki.org/klasik/item/6403/) | Sisik Komodo
 [6404](https://db.idrowiki.org/klasik/item/6404/) | Gagang Keris
 [6405](https://db.idrowiki.org/klasik/item/6405/) | Bulu Cendrawasih
 [6406](https://db.idrowiki.org/klasik/item/6406/) | Bulu Cendrawasih Berkilau
-[6410](https://db.idrowiki.org/klasik/item/6410/) | Kupon Lebaran
+[6410](https://db.idrowiki.org/klasik/item/6410/) | Kartu Lebaran
 [6415](https://db.idrowiki.org/klasik/item/6415/) | Strange Embryo
 [6417](https://db.idrowiki.org/klasik/item/6417/) | Silvervine Fruit
 [6418](https://db.idrowiki.org/klasik/item/6418/) | Aclass Coin
@@ -3362,6 +3272,7 @@ Item ID | Nama
 [6546](https://db.idrowiki.org/klasik/item/6546/) | Younger Bro Letter
 [6547](https://db.idrowiki.org/klasik/item/6547/) | Stained Research Book
 [6548](https://db.idrowiki.org/klasik/item/6548/) | Piece Of Lapine Wing
+[6549](https://db.idrowiki.org/klasik/item/6549/) | Courtesy Ticket
 [6552](https://db.idrowiki.org/klasik/item/6552/) | Mail Package
 [6553](https://db.idrowiki.org/klasik/item/6553/) | Leaf Made Wood
 [6554](https://db.idrowiki.org/klasik/item/6554/) | Seed Box
@@ -3389,20 +3300,23 @@ Item ID | Nama
 [6603](https://db.idrowiki.org/klasik/item/6603/) | Skin Of Hraesvelg
 [6604](https://db.idrowiki.org/klasik/item/6604/) | Essence Of Rune
 [6605](https://db.idrowiki.org/klasik/item/6605/) | Muspellium
+[6607](https://db.idrowiki.org/klasik/item/6607/) | Temporal Crystal
+[6608](https://db.idrowiki.org/klasik/item/6608/) | Coagulated Spell
+[6609](https://db.idrowiki.org/klasik/item/6609/) | Glast Decayed Nail
+[6610](https://db.idrowiki.org/klasik/item/6610/) | Glast Horrendous Mouth
+[6611](https://db.idrowiki.org/klasik/item/6611/) | Colorful Key
+[6612](https://db.idrowiki.org/klasik/item/6612/) | Gold Coin Basket
+[6613](https://db.idrowiki.org/klasik/item/6613/) | Colorful Brooch
 [6615](https://db.idrowiki.org/klasik/item/6615/) | Siege Guild Coin
-[6630](https://db.idrowiki.org/klasik/item/6630/) | Shield of Heemin
-[6631](https://db.idrowiki.org/klasik/item/6631/) | Shield of Andlerangh
-[6632](https://db.idrowiki.org/klasik/item/6632/) | Shield of Bidblind
-[6633](https://db.idrowiki.org/klasik/item/6633/) | Shield of Hueluid
-[6634](https://db.idrowiki.org/klasik/item/6634/) | Shield of Schatirnil
-[6636](https://db.idrowiki.org/klasik/item/6636/) | STR1 Stone (Upper)
-[6637](https://db.idrowiki.org/klasik/item/6637/) | INT1 Stone (Upper)
-[6638](https://db.idrowiki.org/klasik/item/6638/) | AGI1 Stone (Upper)
-[6639](https://db.idrowiki.org/klasik/item/6639/) | DEX1 Stone (Upper)
-[6640](https://db.idrowiki.org/klasik/item/6640/) | VIT1 Stone (Upper)
-[6641](https://db.idrowiki.org/klasik/item/6641/) | LUK1 Stone (Upper)
-[6642](https://db.idrowiki.org/klasik/item/6642/) | ATK1 Stone (Middle)
-[6643](https://db.idrowiki.org/klasik/item/6643/) | MATK1 Stone (Middle)
+[6623](https://db.idrowiki.org/klasik/item/6623/) | Rough Energy Crystal
+[6624](https://db.idrowiki.org/klasik/item/6624/) | Purified Energy Crystal
+[6625](https://db.idrowiki.org/klasik/item/6625/) | High Energy Crystal
+[6648](https://db.idrowiki.org/klasik/item/6648/) | Old Crown
+[6649](https://db.idrowiki.org/klasik/item/6649/) | Broken Horn
+[6650](https://db.idrowiki.org/klasik/item/6650/) | Old Ring
+[6651](https://db.idrowiki.org/klasik/item/6651/) | Rusty Bracelet
+[6652](https://db.idrowiki.org/klasik/item/6652/) | Old Photo Album
+[6653](https://db.idrowiki.org/klasik/item/6653/) | Old Pill
 [6654](https://db.idrowiki.org/klasik/item/6654/) | Needle And Thread
 [6655](https://db.idrowiki.org/klasik/item/6655/) | Firm Pumpkin
 [6656](https://db.idrowiki.org/klasik/item/6656/) | Goast Free Charm
@@ -3413,8 +3327,10 @@ Item ID | Nama
 [6712](https://db.idrowiki.org/klasik/item/6712/) | Love Wand
 [6720](https://db.idrowiki.org/klasik/item/6720/) | Status Reset Coupon
 [6721](https://db.idrowiki.org/klasik/item/6721/) | Status Reset Coupon
-[6743](https://db.idrowiki.org/klasik/item/6743/) | HP1 Stone (Middle)
-[6744](https://db.idrowiki.org/klasik/item/6744/) | SP1 Stone (Middle)
+[6746](https://db.idrowiki.org/klasik/item/6746/) | Steel Article
+[6747](https://db.idrowiki.org/klasik/item/6747/) | Steel Article 
+[6770](https://db.idrowiki.org/klasik/item/6770/) | Shark
+[6774](https://db.idrowiki.org/klasik/item/6774/) | Piranha
 [6795](https://db.idrowiki.org/klasik/item/6795/) | Ticket Special RO2
 [6796](https://db.idrowiki.org/klasik/item/6796/) | Kartu Nama RO2
 [6804](https://db.idrowiki.org/klasik/item/6804/) | ORGANIC PUMPKIN
@@ -3429,20 +3345,9 @@ Item ID | Nama
 [6843](https://db.idrowiki.org/klasik/item/6843/) | Thin Ring
 [6844](https://db.idrowiki.org/klasik/item/6844/) | Mild Stone
 [6845](https://db.idrowiki.org/klasik/item/6845/) | That Thing
-[6908](https://db.idrowiki.org/klasik/item/6908/) | ASPD Stone (Garment)
 [6913](https://db.idrowiki.org/klasik/item/6913/) | Sacred Rosary
 [6914](https://db.idrowiki.org/klasik/item/6914/) | Black Soul
 [6915](https://db.idrowiki.org/klasik/item/6915/) | Captured Soul
-[6943](https://db.idrowiki.org/klasik/item/6943/) | ATK1 Stone (Upper)
-[6944](https://db.idrowiki.org/klasik/item/6944/) | MATK1 Stone (Upper)
-[6945](https://db.idrowiki.org/klasik/item/6945/) | STR1 Stone (Middle)
-[6946](https://db.idrowiki.org/klasik/item/6946/) | INT1 Stone (Middle)
-[6947](https://db.idrowiki.org/klasik/item/6947/) | AGI1 Stone (Middle)
-[6948](https://db.idrowiki.org/klasik/item/6948/) | DEX1 Stone (Middle)
-[6949](https://db.idrowiki.org/klasik/item/6949/) | VIT1 Stone (Middle)
-[6950](https://db.idrowiki.org/klasik/item/6950/) | LUK1 Stone (Middle)
-[6951](https://db.idrowiki.org/klasik/item/6951/) | HP1 Stone (Lower)
-[6998](https://db.idrowiki.org/klasik/item/6998/) | Lottery Kupon
 [7001](https://db.idrowiki.org/klasik/item/7001/) | Mould Powder
 [7002](https://db.idrowiki.org/klasik/item/7002/) | Ogre Tooth
 [7003](https://db.idrowiki.org/klasik/item/7003/) | Anolian Skin
@@ -3667,6 +3572,9 @@ Item ID | Nama
 [7224](https://db.idrowiki.org/klasik/item/7224/) | Stone of Intelligence
 [7225](https://db.idrowiki.org/klasik/item/7225/) | Pumpkin Bucket
 [7226](https://db.idrowiki.org/klasik/item/7226/) | Pill
+[7228](https://db.idrowiki.org/klasik/item/7228/) | Gold Bullion
+[7229](https://db.idrowiki.org/klasik/item/7229/) | Silver Bullion
+[7230](https://db.idrowiki.org/klasik/item/7230/) | White Gold Bullion
 [7234](https://db.idrowiki.org/klasik/item/7234/) | Soul Of Guild
 [7235](https://db.idrowiki.org/klasik/item/7235/) | Soul Of Courage
 [7236](https://db.idrowiki.org/klasik/item/7236/) | Soul Of Guard
@@ -3788,38 +3696,38 @@ Item ID | Nama
 [7357](https://db.idrowiki.org/klasik/item/7357/) | Crest Piece
 [7358](https://db.idrowiki.org/klasik/item/7358/) | Crest Piece
 [7359](https://db.idrowiki.org/klasik/item/7359/) | Crest Piece
-[7361](https://db.idrowiki.org/klasik/item/7361/) | TICKET RUSIA
-[7362](https://db.idrowiki.org/klasik/item/7362/) | TICKET ARAB SAUDI
-[7363](https://db.idrowiki.org/klasik/item/7363/) | TICKET MESIR
-[7364](https://db.idrowiki.org/klasik/item/7364/) | TICKET URUGUAY
-[7365](https://db.idrowiki.org/klasik/item/7365/) | TICKET PORTUGAL
-[7366](https://db.idrowiki.org/klasik/item/7366/) | TICKET SPANYOL
-[7367](https://db.idrowiki.org/klasik/item/7367/) | TICKET MAROKO
-[7368](https://db.idrowiki.org/klasik/item/7368/) | TICKET IRAN
-[7369](https://db.idrowiki.org/klasik/item/7369/) | TICKET PRANCIS
-[7370](https://db.idrowiki.org/klasik/item/7370/) | TICKET AUSTRALIA
-[7371](https://db.idrowiki.org/klasik/item/7371/) | TICKET PERU
-[7372](https://db.idrowiki.org/klasik/item/7372/) | TICKET DENMARK
-[7373](https://db.idrowiki.org/klasik/item/7373/) | TICKET ARGENTINA
-[7374](https://db.idrowiki.org/klasik/item/7374/) | TICKET ISLANDIA
-[7375](https://db.idrowiki.org/klasik/item/7375/) | TICKET KROASIA
-[7376](https://db.idrowiki.org/klasik/item/7376/) | TICKET NIGERIA
-[7377](https://db.idrowiki.org/klasik/item/7377/) | TICKET BRASIL
-[7378](https://db.idrowiki.org/klasik/item/7378/) | TICKET SWISS
-[7379](https://db.idrowiki.org/klasik/item/7379/) | TICKET KOSTARIKA
-[7380](https://db.idrowiki.org/klasik/item/7380/) | TICKET SERBIA
-[7381](https://db.idrowiki.org/klasik/item/7381/) | TICKET JERMAN
-[7382](https://db.idrowiki.org/klasik/item/7382/) | TICKET MEKSIKO
-[7383](https://db.idrowiki.org/klasik/item/7383/) | TICKET SWEDIA
-[7384](https://db.idrowiki.org/klasik/item/7384/) | TICKET KOREA
-[7385](https://db.idrowiki.org/klasik/item/7385/) | TICKET BELGIA
-[7386](https://db.idrowiki.org/klasik/item/7386/) | TICKET PANAMA
-[7387](https://db.idrowiki.org/klasik/item/7387/) | TICKET TUNISIA
-[7388](https://db.idrowiki.org/klasik/item/7388/) | TICKET INGGRIS
-[7389](https://db.idrowiki.org/klasik/item/7389/) | TICKET POLANDIA
-[7390](https://db.idrowiki.org/klasik/item/7390/) | TICKET SENEGAL
-[7391](https://db.idrowiki.org/klasik/item/7391/) | TICKET KOLOMBIA
-[7392](https://db.idrowiki.org/klasik/item/7392/) | TICKET JEPANG
+[7361](https://db.idrowiki.org/klasik/item/7361/) | Russia for WorldCup 2018
+[7362](https://db.idrowiki.org/klasik/item/7362/) | Saudi Arabia for WorldCup 2018
+[7363](https://db.idrowiki.org/klasik/item/7363/) | Egypt for WorldCup 2018
+[7364](https://db.idrowiki.org/klasik/item/7364/) | Uruguay for WorldCup 2018
+[7365](https://db.idrowiki.org/klasik/item/7365/) | Portugal for WorldCup 2018
+[7366](https://db.idrowiki.org/klasik/item/7366/) | Spain for WorldCup 2018
+[7367](https://db.idrowiki.org/klasik/item/7367/) | Morocco for WorldCup 2018
+[7368](https://db.idrowiki.org/klasik/item/7368/) | IR Iran for WorldCup 2018
+[7369](https://db.idrowiki.org/klasik/item/7369/) | France for WorldCup 2018
+[7370](https://db.idrowiki.org/klasik/item/7370/) | Australia for WorldCup 2018
+[7371](https://db.idrowiki.org/klasik/item/7371/) | Peru for WorldCup 2018
+[7372](https://db.idrowiki.org/klasik/item/7372/) | Denmark for WorldCup 2018
+[7373](https://db.idrowiki.org/klasik/item/7373/) | Argentina for WorldCup 2018
+[7374](https://db.idrowiki.org/klasik/item/7374/) | Iceland for WorldCup 2018
+[7375](https://db.idrowiki.org/klasik/item/7375/) | Croatia for WorldCup 2018
+[7376](https://db.idrowiki.org/klasik/item/7376/) | Nigeria for WorldCup 2018
+[7377](https://db.idrowiki.org/klasik/item/7377/) | Brazil for WorldCup 2018
+[7378](https://db.idrowiki.org/klasik/item/7378/) | Switzerland for WorldCup 2018
+[7379](https://db.idrowiki.org/klasik/item/7379/) | Costa Rica for WorldCup 2018
+[7380](https://db.idrowiki.org/klasik/item/7380/) | Serbia for WorldCup 2018
+[7381](https://db.idrowiki.org/klasik/item/7381/) | Germany for WorldCup 2018
+[7382](https://db.idrowiki.org/klasik/item/7382/) | Mexico for WorldCup 2018
+[7383](https://db.idrowiki.org/klasik/item/7383/) | Sweden for WorldCup 2018
+[7384](https://db.idrowiki.org/klasik/item/7384/) | Korea Republic for WorldCup 2018
+[7385](https://db.idrowiki.org/klasik/item/7385/) | Belgium for WorldCup 2018
+[7386](https://db.idrowiki.org/klasik/item/7386/) | Panama for WorldCup 2018
+[7387](https://db.idrowiki.org/klasik/item/7387/) | Tunisia for WorldCup 2018
+[7388](https://db.idrowiki.org/klasik/item/7388/) | England for WorldCup 2018
+[7389](https://db.idrowiki.org/klasik/item/7389/) | Poland for WorldCup 2018
+[7390](https://db.idrowiki.org/klasik/item/7390/) | Senegal for WorldCup 2018
+[7391](https://db.idrowiki.org/klasik/item/7391/) | Colombia for WorldCup 2018
+[7392](https://db.idrowiki.org/klasik/item/7392/) | Japan for WorldCup 2018
 [7399](https://db.idrowiki.org/klasik/item/7399/) | selamat
 [7400](https://db.idrowiki.org/klasik/item/7400/) | Hari
 [7401](https://db.idrowiki.org/klasik/item/7401/) | Kemerdekaan
@@ -3871,12 +3779,12 @@ Item ID | Nama
 [7457](https://db.idrowiki.org/klasik/item/7457/) | Cooking Oil
 [7459](https://db.idrowiki.org/klasik/item/7459/) | Kartu Lebaran
 [7460](https://db.idrowiki.org/klasik/item/7460/) | Niflheim Express Ticket
-[7461](https://db.idrowiki.org/klasik/item/7461/) | Kartu 'A'
+[7461](https://db.idrowiki.org/klasik/item/7461/) | A
 [7462](https://db.idrowiki.org/klasik/item/7462/) | Blue E Card
 [7463](https://db.idrowiki.org/klasik/item/7463/) | Blue F Card
-[7464](https://db.idrowiki.org/klasik/item/7464/) | Kartu 'H'
+[7464](https://db.idrowiki.org/klasik/item/7464/) | H
 [7465](https://db.idrowiki.org/klasik/item/7465/) | Blue L Card
-[7466](https://db.idrowiki.org/klasik/item/7466/) | Kartu 'N'
+[7466](https://db.idrowiki.org/klasik/item/7466/) | N
 [7467](https://db.idrowiki.org/klasik/item/7467/) | Blue O Card
 [7468](https://db.idrowiki.org/klasik/item/7468/) | Blue P Card
 [7469](https://db.idrowiki.org/klasik/item/7469/) | Blue U Card
@@ -3932,7 +3840,8 @@ Item ID | Nama
 [7527](https://db.idrowiki.org/klasik/item/7527/) | True Life Book
 [7528](https://db.idrowiki.org/klasik/item/7528/) | Lucky Ticket
 [7529](https://db.idrowiki.org/klasik/item/7529/) | Stolen Sandals
-[7547](https://db.idrowiki.org/klasik/item/7547/) | Telstar Ball
+[7539](https://db.idrowiki.org/klasik/item/7539/) | Poring Coin
+[7547](https://db.idrowiki.org/klasik/item/7547/) | Bola
 [7548](https://db.idrowiki.org/klasik/item/7548/) | Sepatu Bola
 [7561](https://db.idrowiki.org/klasik/item/7561/) | Glacial Heart
 [7562](https://db.idrowiki.org/klasik/item/7562/) | Ice Scale
@@ -3956,8 +3865,8 @@ Item ID | Nama
 [7591](https://db.idrowiki.org/klasik/item/7591/) | Potongan Kue Bulan
 [7592](https://db.idrowiki.org/klasik/item/7592/) | Potongan Kue Bulan
 [7593](https://db.idrowiki.org/klasik/item/7593/) | Potongan Kue Bulan
-[7599](https://db.idrowiki.org/klasik/item/7599/) | Blue D Card
-[7602](https://db.idrowiki.org/klasik/item/7602/) | Blue R Card
+[7599](https://db.idrowiki.org/klasik/item/7599/) | D
+[7602](https://db.idrowiki.org/klasik/item/7602/) | R
 [7604](https://db.idrowiki.org/klasik/item/7604/) | Flour
 [7609](https://db.idrowiki.org/klasik/item/7609/) | Pumpkin Mojo 
 [7613](https://db.idrowiki.org/klasik/item/7613/) | Small Rice Dough
@@ -3972,6 +3881,9 @@ Item ID | Nama
 [7632](https://db.idrowiki.org/klasik/item/7632/) | After life Report
 [7633](https://db.idrowiki.org/klasik/item/7633/) | Heaven Report
 [7634](https://db.idrowiki.org/klasik/item/7634/) | Father Rose
+[7663](https://db.idrowiki.org/klasik/item/7663/) | Full Metal Jacket
+[7664](https://db.idrowiki.org/klasik/item/7664/) | Shooting Mine
+[7665](https://db.idrowiki.org/klasik/item/7665/) | Dragon Tail Missile
 [7702](https://db.idrowiki.org/klasik/item/7702/) | Special Cogwheel
 [7703](https://db.idrowiki.org/klasik/item/7703/) | Piece Of Cogwheel
 [7704](https://db.idrowiki.org/klasik/item/7704/) | Broken Thermometer
@@ -4018,6 +3930,8 @@ Item ID | Nama
 [7797](https://db.idrowiki.org/klasik/item/7797/) | Author's Memo
 [7798](https://db.idrowiki.org/klasik/item/7798/) | Fragment of Darkness
 [7799](https://db.idrowiki.org/klasik/item/7799/) | Crystal of Darkness
+[7801](https://db.idrowiki.org/klasik/item/7801/) | Surat Princess Munak
+[7807](https://db.idrowiki.org/klasik/item/7807/) | Ymir's Ore
 [7820](https://db.idrowiki.org/klasik/item/7820/) | Piece of Morocc Skin
 [7823](https://db.idrowiki.org/klasik/item/7823/) | Meat Skewer
 [7825](https://db.idrowiki.org/klasik/item/7825/) | Heroic Stone
@@ -4033,11 +3947,13 @@ Item ID | Nama
 [7836](https://db.idrowiki.org/klasik/item/7836/) | Dawn Essence
 [7837](https://db.idrowiki.org/klasik/item/7837/) | Cold Moonlight
 [7838](https://db.idrowiki.org/klasik/item/7838/) | Hazy Starlight
-[7839](https://db.idrowiki.org/klasik/item/7839/) | Exp Crystal 1
-[7840](https://db.idrowiki.org/klasik/item/7840/) | Valkyrie Gift
+[7839](https://db.idrowiki.org/klasik/item/7839/) | Crystal Key
+[7840](https://db.idrowiki.org/klasik/item/7840/) | Valkyrie's Gift
 [7863](https://db.idrowiki.org/klasik/item/7863/) | Spesial Gold
 [7864](https://db.idrowiki.org/klasik/item/7864/) | Love Flower
+[7868](https://db.idrowiki.org/klasik/item/7868/) | Water
 [7869](https://db.idrowiki.org/klasik/item/7869/) | Rice Pouch
+[7870](https://db.idrowiki.org/klasik/item/7870/) | Potongan Daun Kelapa
 [7875](https://db.idrowiki.org/klasik/item/7875/) | Pirate Treasure
 [7876](https://db.idrowiki.org/klasik/item/7876/) | Golden Key
 [7877](https://db.idrowiki.org/klasik/item/7877/) | Red Ring
@@ -4133,7 +4049,7 @@ Item ID | Nama
 [9055](https://db.idrowiki.org/klasik/item/9055/) | Succubus Egg
 [9056](https://db.idrowiki.org/klasik/item/9056/) | Imp Egg
 [9059](https://db.idrowiki.org/klasik/item/9059/) | Tikbalang Egg
-[9101](https://db.idrowiki.org/klasik/item/9101/) | Scatleton's Portable Cage
+[9101](https://db.idrowiki.org/klasik/item/9101/) | Portable cage for Scatleton
 [10001](https://db.idrowiki.org/klasik/item/10001/) | Skull Helm
 [10002](https://db.idrowiki.org/klasik/item/10002/) | Monster Oxygen Mask
 [10003](https://db.idrowiki.org/klasik/item/10003/) | Transparent Head Protector
@@ -4177,6 +4093,7 @@ Item ID | Nama
 [11024](https://db.idrowiki.org/klasik/item/11024/) | How To Vital Drink
 [11056](https://db.idrowiki.org/klasik/item/11056/) | Spiritualism Guide
 [11057](https://db.idrowiki.org/klasik/item/11057/) | February Sweets
+[11060](https://db.idrowiki.org/klasik/item/11060/) | Energy Crystal Book
 [11500](https://db.idrowiki.org/klasik/item/11500/) | Light Yellow Potion
 [11501](https://db.idrowiki.org/klasik/item/11501/) | Light White Potion
 [11502](https://db.idrowiki.org/klasik/item/11502/) | Light Blue Potion
@@ -4211,7 +4128,7 @@ Item ID | Nama
 [11565](https://db.idrowiki.org/klasik/item/11565/) | White Potion B
 [11567](https://db.idrowiki.org/klasik/item/11567/) | Novice Potion B
 [11568](https://db.idrowiki.org/klasik/item/11568/) | Red Slim Potion B
-[11572](https://db.idrowiki.org/klasik/item/11572/) | Event Blue Potion
+[11572](https://db.idrowiki.org/klasik/item/11572/) | Blue Potion
 [11573](https://db.idrowiki.org/klasik/item/11573/) | White Slim Potion
 [11575](https://db.idrowiki.org/klasik/item/11575/) | Lucky Cookie B
 [11576](https://db.idrowiki.org/klasik/item/11576/) | Lucky Candy Cane B
@@ -4232,7 +4149,7 @@ Item ID | Nama
 [11595](https://db.idrowiki.org/klasik/item/11595/) | Trans Candy Green
 [11598](https://db.idrowiki.org/klasik/item/11598/) | Bitter Cacao Bean
 [11605](https://db.idrowiki.org/klasik/item/11605/) | Cookie Bat
-[11610](https://db.idrowiki.org/klasik/item/11610/) | Sweet Melon
+[11702](https://db.idrowiki.org/klasik/item/11702/) | Moon Cookie
 [11708](https://db.idrowiki.org/klasik/item/11708/) | Fore Flank Sirloin
 [12000](https://db.idrowiki.org/klasik/item/12000/) | Level 5 Frost Diver
 [12001](https://db.idrowiki.org/klasik/item/12001/) | Level 3 Heal
@@ -4362,6 +4279,7 @@ Item ID | Nama
 [12130](https://db.idrowiki.org/klasik/item/12130/) | Cookie Bag
 [12131](https://db.idrowiki.org/klasik/item/12131/) | Lucky Potion
 [12132](https://db.idrowiki.org/klasik/item/12132/) | Santa's Bag
+[12133](https://db.idrowiki.org/klasik/item/12133/) | Es Krim Ramadhan
 [12142](https://db.idrowiki.org/klasik/item/12142/) | Magic Book
 [12144](https://db.idrowiki.org/klasik/item/12144/) | Lightning Sphere Pack
 [12145](https://db.idrowiki.org/klasik/item/12145/) | Blind Sphere Pack
@@ -4371,7 +4289,6 @@ Item ID | Nama
 [12149](https://db.idrowiki.org/klasik/item/12149/) | Cartridge
 [12150](https://db.idrowiki.org/klasik/item/12150/) | Blood Cartridge
 [12151](https://db.idrowiki.org/klasik/item/12151/) | Silver Cartridge
-[12152](https://db.idrowiki.org/klasik/item/12152/) | Random Box Waisak
 [12153](https://db.idrowiki.org/klasik/item/12153/) | Bow Bodyguard Scroll1
 [12154](https://db.idrowiki.org/klasik/item/12154/) | Bow Bodyguard Scroll2
 [12155](https://db.idrowiki.org/klasik/item/12155/) | Bow Bodyguard Scroll3
@@ -4405,7 +4322,7 @@ Item ID | Nama
 [12183](https://db.idrowiki.org/klasik/item/12183/) | Holy Arrow Quiver
 [12184](https://db.idrowiki.org/klasik/item/12184/) | Bodyguard Red Potion
 [12185](https://db.idrowiki.org/klasik/item/12185/) | Bodyguard Blue Potion
-[12188](https://db.idrowiki.org/klasik/item/12188/) | Kue Keberuntungan
+[12188](https://db.idrowiki.org/klasik/item/12188/) | Kue Bulan Spesial
 [12192](https://db.idrowiki.org/klasik/item/12192/) | Pumpkin Pie 
 [12195](https://db.idrowiki.org/klasik/item/12195/) | Plain Rice Cake
 [12196](https://db.idrowiki.org/klasik/item/12196/) | Hearty Rice Cake
@@ -4463,8 +4380,6 @@ Item ID | Nama
 [12292](https://db.idrowiki.org/klasik/item/12292/) | Unripe Yggdrasilberry
 [12293](https://db.idrowiki.org/klasik/item/12293/) | Dried Yggdrasilberry
 [12298](https://db.idrowiki.org/klasik/item/12298/) | SP D Potion
-[12301](https://db.idrowiki.org/klasik/item/12301/) | Doppelganger Scroll
-[12314](https://db.idrowiki.org/klasik/item/12314/) | Lotus Flower Hat Box
 [12319](https://db.idrowiki.org/klasik/item/12319/) | Rune Strawberry Cake
 [12320](https://db.idrowiki.org/klasik/item/12320/) | Schwartzwalt Pine Jubilee
 [12321](https://db.idrowiki.org/klasik/item/12321/) | Arunafeltz Desert Sandwich
@@ -4472,10 +4387,12 @@ Item ID | Nama
 [12323](https://db.idrowiki.org/klasik/item/12323/) | Novice Fly Wing
 [12324](https://db.idrowiki.org/klasik/item/12324/) | Novice Butterfly Wing
 [12325](https://db.idrowiki.org/klasik/item/12325/) | Novice Magnifier
-[12326](https://db.idrowiki.org/klasik/item/12326/) | Large Firecracker
 [12328](https://db.idrowiki.org/klasik/item/12328/) | Lucky Charm
 [12332](https://db.idrowiki.org/klasik/item/12332/) | Fruit Juice
 [12333](https://db.idrowiki.org/klasik/item/12333/) | Ansila
+[12335](https://db.idrowiki.org/klasik/item/12335/) | Grilled Delicious Skewer
+[12336](https://db.idrowiki.org/klasik/item/12336/) | Grilled Mushroom
+[12337](https://db.idrowiki.org/klasik/item/12337/) | Grilled Sausages
 [12339](https://db.idrowiki.org/klasik/item/12339/) | Pirate Dagger Box
 [12341](https://db.idrowiki.org/klasik/item/12341/) | Special Alloy Trap Box
 [12342](https://db.idrowiki.org/klasik/item/12342/) | Manuk's Opportunity
@@ -4492,10 +4409,12 @@ Item ID | Nama
 [12354](https://db.idrowiki.org/klasik/item/12354/) | Buche De Noel
 [12355](https://db.idrowiki.org/klasik/item/12355/) | Kado Spesial Natal
 [12356](https://db.idrowiki.org/klasik/item/12356/) | Louise Costume Box
+[12360](https://db.idrowiki.org/klasik/item/12360/) | Very Red Juice
 [12361](https://db.idrowiki.org/klasik/item/12361/) | Delicious Ice Flakes
 [12363](https://db.idrowiki.org/klasik/item/12363/) | Fit Well Pipe
 [12370](https://db.idrowiki.org/klasik/item/12370/) | Gril's Naivety
-[12373](https://db.idrowiki.org/klasik/item/12373/) | Boy's Pure Heart
+[12373](https://db.idrowiki.org/klasik/item/12373/) | Boy's Naivety
+[12374](https://db.idrowiki.org/klasik/item/12374/) | Flaming Ice
 [12375](https://db.idrowiki.org/klasik/item/12375/) | Akaraje
 [12379](https://db.idrowiki.org/klasik/item/12379/) | Pope Cookie
 [12380](https://db.idrowiki.org/klasik/item/12380/) | Job Change Flute
@@ -4513,9 +4432,11 @@ Item ID | Nama
 [12392](https://db.idrowiki.org/klasik/item/12392/) | Repair A
 [12393](https://db.idrowiki.org/klasik/item/12393/) | Repair B
 [12394](https://db.idrowiki.org/klasik/item/12394/) | Repair C
+[12395](https://db.idrowiki.org/klasik/item/12395/) | Tantan Noodle
 [12396](https://db.idrowiki.org/klasik/item/12396/) | Gift Box?
 [12397](https://db.idrowiki.org/klasik/item/12397/) | Gift Box?
 [12399](https://db.idrowiki.org/klasik/item/12399/) | Castle Treasure Box
+[12400](https://db.idrowiki.org/klasik/item/12400/) | Holy Water Blessing
 [12403](https://db.idrowiki.org/klasik/item/12403/) | Fortune Eggケ
 [12404](https://db.idrowiki.org/klasik/item/12404/) | Energizing Potion
 [12405](https://db.idrowiki.org/klasik/item/12405/) | Unripe Yggdrasil Seed
@@ -4549,10 +4470,17 @@ Item ID | Nama
 [12439](https://db.idrowiki.org/klasik/item/12439/) | RO Fest Battle Manual
 [12441](https://db.idrowiki.org/klasik/item/12441/) | RO Fest Bubble Gum
 [12475](https://db.idrowiki.org/klasik/item/12475/) | Cure Free
-[12479](https://db.idrowiki.org/klasik/item/12479/) | Super Drop Acc Box
 [12490](https://db.idrowiki.org/klasik/item/12490/) | Vivid Notation
 [12493](https://db.idrowiki.org/klasik/item/12493/) | Fortune Eggコ
-[12494](https://db.idrowiki.org/klasik/item/12494/) | Giant Fly Wing
+[12494](https://db.idrowiki.org/klasik/item/12494/) | Giant Gly Wing
+[12495](https://db.idrowiki.org/klasik/item/12495/) | E Battle Manual
+[12496](https://db.idrowiki.org/klasik/item/12496/) | E Insurance
+[12497](https://db.idrowiki.org/klasik/item/12497/) | E Bubble Gum
+[12498](https://db.idrowiki.org/klasik/item/12498/) | E Kafra Card
+[12515](https://db.idrowiki.org/klasik/item/12515/) | Medium Life Potion
+[12522](https://db.idrowiki.org/klasik/item/12522/) | LV10 Blessing Scroll
+[12523](https://db.idrowiki.org/klasik/item/12523/) | LV10 Agil Scroll
+[12529](https://db.idrowiki.org/klasik/item/12529/) | White Slim Potion Box
 [12531](https://db.idrowiki.org/klasik/item/12531/) | White Potion Box
 [12532](https://db.idrowiki.org/klasik/item/12532/) | Royal Jelly Box2
 [12533](https://db.idrowiki.org/klasik/item/12533/) | Blue Herb Box2
@@ -4573,14 +4501,12 @@ Item ID | Nama
 [12578](https://db.idrowiki.org/klasik/item/12578/) | Rapid Life Potion
 [12580](https://db.idrowiki.org/klasik/item/12580/) | Universal Catalog Silver
 [12581](https://db.idrowiki.org/klasik/item/12581/) | Universal Catalog Gold
-[12590](https://db.idrowiki.org/klasik/item/12590/) | Ketupat Special
 [12591](https://db.idrowiki.org/klasik/item/12591/) | Universal Catalog Bronze
 [12595](https://db.idrowiki.org/klasik/item/12595/) | Fortune Eggザ
 [12596](https://db.idrowiki.org/klasik/item/12596/) | Magic Candy
 [12597](https://db.idrowiki.org/klasik/item/12597/) | Opor Ayam
 [12598](https://db.idrowiki.org/klasik/item/12598/) | Dendeng Balado
 [12599](https://db.idrowiki.org/klasik/item/12599/) | Kurma
-[12601](https://db.idrowiki.org/klasik/item/12601/) | Fresh Watermelon Juice
 [12608](https://db.idrowiki.org/klasik/item/12608/) | Splendid Box2
 [12612](https://db.idrowiki.org/klasik/item/12612/) | Shabby Coin Bag
 [12613](https://db.idrowiki.org/klasik/item/12613/) | Premium Coin Bag
@@ -4605,7 +4531,7 @@ Item ID | Nama
 [12641](https://db.idrowiki.org/klasik/item/12641/) | Fortune Eggシ
 [12642](https://db.idrowiki.org/klasik/item/12642/) | Fruit Of Mastela 100 Box
 [12643](https://db.idrowiki.org/klasik/item/12643/) | E Coin Pack50
-[12646](https://db.idrowiki.org/klasik/item/12646/) | Fried Octopus Legs
+[12646](https://db.idrowiki.org/klasik/item/12646/) | Takoyaki
 [12647](https://db.idrowiki.org/klasik/item/12647/) | Ink Ball
 [12654](https://db.idrowiki.org/klasik/item/12654/) | Fortune Eggジ
 [12673](https://db.idrowiki.org/klasik/item/12673/) | Fortune Eggス
@@ -4630,7 +4556,6 @@ Item ID | Nama
 [12699](https://db.idrowiki.org/klasik/item/12699/) | Tikbalang Harness
 [12700](https://db.idrowiki.org/klasik/item/12700/) | Inside-out Shirt
 [12702](https://db.idrowiki.org/klasik/item/12702/) | Old Navy Box
-[12703](https://db.idrowiki.org/klasik/item/12703/) | Easter Egg
 [12708](https://db.idrowiki.org/klasik/item/12708/) | Kue Keberuntungan
 [12710](https://db.idrowiki.org/klasik/item/12710/) | Puding Pandan
 [12717](https://db.idrowiki.org/klasik/item/12717/) | Paralysis
@@ -4660,7 +4585,7 @@ Item ID | Nama
 [12743](https://db.idrowiki.org/klasik/item/12743/) | Valentine Gift Box
 [12744](https://db.idrowiki.org/klasik/item/12744/) | Chocolate Box
 [12754](https://db.idrowiki.org/klasik/item/12754/) | Kue Spesial Imlek
-[12755](https://db.idrowiki.org/klasik/item/12755/) | Traditional Firecracker
+[12755](https://db.idrowiki.org/klasik/item/12755/) | Kembang Api Spesial
 [12756](https://db.idrowiki.org/klasik/item/12756/) | Angpao
 [12767](https://db.idrowiki.org/klasik/item/12767/) | Worldcup Hat of Passion Box
 [12768](https://db.idrowiki.org/klasik/item/12768/) | Worldcup Hat of Fight Box
@@ -4690,7 +4615,6 @@ Item ID | Nama
 [12882](https://db.idrowiki.org/klasik/item/12882/) | Elf Tear Blind
 [12887](https://db.idrowiki.org/klasik/item/12887/) | Unlimited Wing Of Fly
 [12888](https://db.idrowiki.org/klasik/item/12888/) | Siege Kit Box
-[12889](https://db.idrowiki.org/klasik/item/12889/) | MVP Fly Wing
 [12900](https://db.idrowiki.org/klasik/item/12900/) | Battle Manual Box
 [12901](https://db.idrowiki.org/klasik/item/12901/) | Insurance Package
 [12902](https://db.idrowiki.org/klasik/item/12902/) | Bubble Gum Box
@@ -4715,12 +4639,12 @@ Item ID | Nama
 [12921](https://db.idrowiki.org/klasik/item/12921/) | Enriched Oridecon Box
 [12922](https://db.idrowiki.org/klasik/item/12922/) | Token of Siegfried Box
 [12923](https://db.idrowiki.org/klasik/item/12923/) | Pet Egg Box 1
-[12924](https://db.idrowiki.org/klasik/item/12924/) | All Dish Box20
+[12924](https://db.idrowiki.org/klasik/item/12924/) | Pet Egg Box 2
 [12925](https://db.idrowiki.org/klasik/item/12925/) | Pet Egg 1
 [12926](https://db.idrowiki.org/klasik/item/12926/) | Pet Egg 2
 [12928](https://db.idrowiki.org/klasik/item/12928/) | J Asp 5 Scroll
-[12929](https://db.idrowiki.org/klasik/item/12929/) | Ancient Costume Box
-[12930](https://db.idrowiki.org/klasik/item/12930/) | Ancient Costume Box II
+[12929](https://db.idrowiki.org/klasik/item/12929/) | Pet Egg Box 3
+[12930](https://db.idrowiki.org/klasik/item/12930/) | Pet Egg Box 4
 [12931](https://db.idrowiki.org/klasik/item/12931/) | Pet Egg Box 5
 [12932](https://db.idrowiki.org/klasik/item/12932/) | Pet Egg 3
 [12933](https://db.idrowiki.org/klasik/item/12933/) | Pet Egg 4
@@ -4755,16 +4679,12 @@ Item ID | Nama
 [12962](https://db.idrowiki.org/klasik/item/12962/) | Vesper Core 02 Box
 [12963](https://db.idrowiki.org/klasik/item/12963/) | Vesper Core 03 Box
 [12964](https://db.idrowiki.org/klasik/item/12964/) | Vesper Core 04 Box
-[12965](https://db.idrowiki.org/klasik/item/12965/) | Michael Box
-[12966](https://db.idrowiki.org/klasik/item/12966/) | Infinity Costume Box
-[12967](https://db.idrowiki.org/klasik/item/12967/) | Infinity Equip Box
-[12971](https://db.idrowiki.org/klasik/item/12971/) | World Cup Box
 [12983](https://db.idrowiki.org/klasik/item/12983/) | Ramadhan Box
-[12984](https://db.idrowiki.org/klasik/item/12984/) | Berkah Box 1
-[12985](https://db.idrowiki.org/klasik/item/12985/) | Berkah Box 2
-[12986](https://db.idrowiki.org/klasik/item/12986/) | Ramadhan Package A
-[12987](https://db.idrowiki.org/klasik/item/12987/) | Ramadhan Package B
-[12988](https://db.idrowiki.org/klasik/item/12988/) | Innocent Box
+[12984](https://db.idrowiki.org/klasik/item/12984/) | Pet Egg Scroll Box7
+[12985](https://db.idrowiki.org/klasik/item/12985/) | Pet Egg Scroll Box8
+[12986](https://db.idrowiki.org/klasik/item/12986/) | Pet Egg Scroll Box9
+[12987](https://db.idrowiki.org/klasik/item/12987/) | Pet Egg Scroll Box10
+[12988](https://db.idrowiki.org/klasik/item/12988/) | Pet Egg Scroll Box11
 [12989](https://db.idrowiki.org/klasik/item/12989/) | Pet Egg Scroll6
 [12990](https://db.idrowiki.org/klasik/item/12990/) | Pet Egg Scroll7
 [12991](https://db.idrowiki.org/klasik/item/12991/) | Pet Egg Scroll8
@@ -4837,20 +4757,13 @@ Item ID | Nama
 [13076](https://db.idrowiki.org/klasik/item/13076/) | Raksasa Dagger
 [13077](https://db.idrowiki.org/klasik/item/13077/) | Kagekiri
 [13078](https://db.idrowiki.org/klasik/item/13078/) | Mikatsuki
-[13079](https://db.idrowiki.org/klasik/item/13079/) | Knife (RARE)
-[13080](https://db.idrowiki.org/klasik/item/13080/) | Knife (EPIC)
 [13081](https://db.idrowiki.org/klasik/item/13081/) | Octo kitchen Knife
-[13082](https://db.idrowiki.org/klasik/item/13082/) | Knife (RARE)
 [13083](https://db.idrowiki.org/klasik/item/13083/) | TE Woe Knife
-[13084](https://db.idrowiki.org/klasik/item/13084/) | Knife (EPIC)
 [13085](https://db.idrowiki.org/klasik/item/13085/) | Volcano Knife
-[13087](https://db.idrowiki.org/klasik/item/13087/) | Cutter (RARE)
-[13088](https://db.idrowiki.org/klasik/item/13088/) | Cutter (EPIC)
+[13086](https://db.idrowiki.org/klasik/item/13086/) | Goldsmithing Dagger
 [13089](https://db.idrowiki.org/klasik/item/13089/) | FaceWorm Leg
-[13091](https://db.idrowiki.org/klasik/item/13091/) | Cutter (RARE)
+[13090](https://db.idrowiki.org/klasik/item/13090/) | Faceworm Queen Leg
 [13092](https://db.idrowiki.org/klasik/item/13092/) | RWC Memory Knife
-[13093](https://db.idrowiki.org/klasik/item/13093/) | Cutter (EPIC)
-[13095](https://db.idrowiki.org/klasik/item/13095/) | Cancer Asklepios
 [13096](https://db.idrowiki.org/klasik/item/13096/) | Half BF Dagger2
 [13097](https://db.idrowiki.org/klasik/item/13097/) | Blue Dagger
 [13098](https://db.idrowiki.org/klasik/item/13098/) | Blue Ashura
@@ -4870,20 +4783,13 @@ Item ID | Nama
 [13113](https://db.idrowiki.org/klasik/item/13113/) | P.Revolver2
 [13114](https://db.idrowiki.org/klasik/item/13114/) | Eden Group Revolver III
 [13115](https://db.idrowiki.org/klasik/item/13115/) | Upgrade Revolver
+[13116](https://db.idrowiki.org/klasik/item/13116/) | Novice Revolver
 [13117](https://db.idrowiki.org/klasik/item/13117/) | TE Woe Pistol
-[13121](https://db.idrowiki.org/klasik/item/13121/) | Six Shooter (Rare)
-[13123](https://db.idrowiki.org/klasik/item/13123/) | Six Shooter (Epic)
-[13125](https://db.idrowiki.org/klasik/item/13125/) | Six Shooter (Rare)
-[13126](https://db.idrowiki.org/klasik/item/13126/) | Six Shooter (Epic)
-[13127](https://db.idrowiki.org/klasik/item/13127/) | Crimson Bolt (Rare)
-[13128](https://db.idrowiki.org/klasik/item/13128/) | Crimson Bolt (Epic)
-[13129](https://db.idrowiki.org/klasik/item/13129/) | Crimson Bolt (Rare)
-[13130](https://db.idrowiki.org/klasik/item/13130/) | Crimson Bolt (Epic)
-[13131](https://db.idrowiki.org/klasik/item/13131/) | Garrison (Rare)
-[13132](https://db.idrowiki.org/klasik/item/13132/) | Garrison (Epic)
-[13133](https://db.idrowiki.org/klasik/item/13133/) | Garrison (Rare)
-[13134](https://db.idrowiki.org/klasik/item/13134/) | Garrison (Epic)
-[13149](https://db.idrowiki.org/klasik/item/13149/) | Ofiukus Revolver
+[13118](https://db.idrowiki.org/klasik/item/13118/) | Fading Flame
+[13119](https://db.idrowiki.org/klasik/item/13119/) | Freedom Flame
+[13120](https://db.idrowiki.org/klasik/item/13120/) | H FEATHER H FIRE
+[13122](https://db.idrowiki.org/klasik/item/13122/) | ALTAIR ARES
+[13124](https://db.idrowiki.org/klasik/item/13124/) | ALTAIR ARES 
 [13150](https://db.idrowiki.org/klasik/item/13150/) | Branch
 [13151](https://db.idrowiki.org/klasik/item/13151/) | Cyclone
 [13152](https://db.idrowiki.org/klasik/item/13152/) | Cyclone
@@ -4915,29 +4821,56 @@ Item ID | Nama
 [13178](https://db.idrowiki.org/klasik/item/13178/) | Glorious Shotgun
 [13179](https://db.idrowiki.org/klasik/item/13179/) | Glorious Grenade Launcher
 [13180](https://db.idrowiki.org/klasik/item/13180/) | Novice Rifle
+[13181](https://db.idrowiki.org/klasik/item/13181/) | Novice Shotgun
+[13182](https://db.idrowiki.org/klasik/item/13182/) | Novice Gatling
+[13183](https://db.idrowiki.org/klasik/item/13183/) | Novice Grenade Launcher
 [13184](https://db.idrowiki.org/klasik/item/13184/) | TE Woe Rifle
 [13185](https://db.idrowiki.org/klasik/item/13185/) | TE Woe Gatling
 [13186](https://db.idrowiki.org/klasik/item/13186/) | TE Woe Shotgun
 [13187](https://db.idrowiki.org/klasik/item/13187/) | TE Woe Grenade
-[13188](https://db.idrowiki.org/klasik/item/13188/) | Rolling Stone (Rare)
-[13191](https://db.idrowiki.org/klasik/item/13191/) | Rolling Stone (Epic)
-[13192](https://db.idrowiki.org/klasik/item/13192/) | Branch (Rare)
-[13193](https://db.idrowiki.org/klasik/item/13193/) | Branch (Epic)
-[13194](https://db.idrowiki.org/klasik/item/13194/) | Black Rose (Rare)
-[13195](https://db.idrowiki.org/klasik/item/13195/) | Black Rose (Epic)
-[13196](https://db.idrowiki.org/klasik/item/13196/) | Eufrat Branch
-[13197](https://db.idrowiki.org/klasik/item/13197/) | Inferno Tempest
-[13198](https://db.idrowiki.org/klasik/item/13198/) | Midheaven
-[13199](https://db.idrowiki.org/klasik/item/13199/) | Forer-Barnum
+[13189](https://db.idrowiki.org/klasik/item/13189/) | COLORSCOPE
+[13190](https://db.idrowiki.org/klasik/item/13190/) | RAG203 
+[13192](https://db.idrowiki.org/klasik/item/13192/) | DEATHFIRE
+[13193](https://db.idrowiki.org/klasik/item/13193/) | R THUNDER
+[13194](https://db.idrowiki.org/klasik/item/13194/) | P BREAKER
+[13195](https://db.idrowiki.org/klasik/item/13195/) | RAG203
+[13196](https://db.idrowiki.org/klasik/item/13196/) | P BREAKER 
+[13197](https://db.idrowiki.org/klasik/item/13197/) | MINIMAY
+[13198](https://db.idrowiki.org/klasik/item/13198/) | TEMPEST
+[13199](https://db.idrowiki.org/klasik/item/13199/) | TEMPEST 
 [13200](https://db.idrowiki.org/klasik/item/13200/) | Bullet
 [13201](https://db.idrowiki.org/klasik/item/13201/) | Silver Bullet
-[13202](https://db.idrowiki.org/klasik/item/13202/) | Bloody Shell
+[13202](https://db.idrowiki.org/klasik/item/13202/) | Shell Of Blood
 [13203](https://db.idrowiki.org/klasik/item/13203/) | Flare Sphere
-[13204](https://db.idrowiki.org/klasik/item/13204/) | Lightning Sphere
+[13204](https://db.idrowiki.org/klasik/item/13204/) | Lighting Sphere
 [13205](https://db.idrowiki.org/klasik/item/13205/) | Poison Sphere
 [13206](https://db.idrowiki.org/klasik/item/13206/) | Blind Sphere
 [13207](https://db.idrowiki.org/klasik/item/13207/) | Freezing Sphere
 [13208](https://db.idrowiki.org/klasik/item/13208/) | GongBug
+[13209](https://db.idrowiki.org/klasik/item/13209/) | FMJ 
+[13210](https://db.idrowiki.org/klasik/item/13210/) | Slug Bullet 1
+[13211](https://db.idrowiki.org/klasik/item/13211/) | Slug Bullet 2
+[13212](https://db.idrowiki.org/klasik/item/13212/) | Slug Bullet 3
+[13213](https://db.idrowiki.org/klasik/item/13213/) | Slug Bullet 4
+[13214](https://db.idrowiki.org/klasik/item/13214/) | Slug Bullet 5
+[13215](https://db.idrowiki.org/klasik/item/13215/) | AP Ammo
+[13216](https://db.idrowiki.org/klasik/item/13216/) | Blaze Bullet
+[13217](https://db.idrowiki.org/klasik/item/13217/) | Freezing Bullet
+[13218](https://db.idrowiki.org/klasik/item/13218/) | Electric Shock Bullet
+[13219](https://db.idrowiki.org/klasik/item/13219/) | Magical Stone Bullet
+[13220](https://db.idrowiki.org/klasik/item/13220/) | Sanctified Bullet
+[13221](https://db.idrowiki.org/klasik/item/13221/) | Silver Bullet
+[13222](https://db.idrowiki.org/klasik/item/13222/) | Shell Of Blood
+[13223](https://db.idrowiki.org/klasik/item/13223/) | Flare Sphere
+[13224](https://db.idrowiki.org/klasik/item/13224/) | Lighting Spher
+[13225](https://db.idrowiki.org/klasik/item/13225/) | Poison Sphere
+[13226](https://db.idrowiki.org/klasik/item/13226/) | Blind Sphere
+[13227](https://db.idrowiki.org/klasik/item/13227/) | Freezing Sphere
+[13228](https://db.idrowiki.org/klasik/item/13228/) | Flare Bullet
+[13229](https://db.idrowiki.org/klasik/item/13229/) | Lighting Bullet
+[13230](https://db.idrowiki.org/klasik/item/13230/) | Ice Bullet
+[13231](https://db.idrowiki.org/klasik/item/13231/) | Poison Bullet
+[13232](https://db.idrowiki.org/klasik/item/13232/) | Blind Bullet
 [13250](https://db.idrowiki.org/klasik/item/13250/) | Shuriken
 [13251](https://db.idrowiki.org/klasik/item/13251/) | Nimbus Shuriken
 [13252](https://db.idrowiki.org/klasik/item/13252/) | Flash Shuriken
@@ -5021,54 +4954,15 @@ Item ID | Nama
 [13431](https://db.idrowiki.org/klasik/item/13431/) | Chrome Metal Sword
 [13433](https://db.idrowiki.org/klasik/item/13433/) | Academy Sword
 [13434](https://db.idrowiki.org/klasik/item/13434/) | Eden Group Saber III
-[13435](https://db.idrowiki.org/klasik/item/13435/) | Sword (RARE)
-[13436](https://db.idrowiki.org/klasik/item/13436/) | Sword (EPIC)
-[13437](https://db.idrowiki.org/klasik/item/13437/) | Sword (RARE)
 [13438](https://db.idrowiki.org/klasik/item/13438/) | Magical Blade
 [13439](https://db.idrowiki.org/klasik/item/13439/) | TE Woe Sword
-[13441](https://db.idrowiki.org/klasik/item/13441/) | Sword (EPIC)
-[13443](https://db.idrowiki.org/klasik/item/13443/) | Falchion (RARE)
+[13440](https://db.idrowiki.org/klasik/item/13440/) | Ceremonial Sword
 [13444](https://db.idrowiki.org/klasik/item/13444/) | Pala
 [13445](https://db.idrowiki.org/klasik/item/13445/) | Half BF Sword1
-[13446](https://db.idrowiki.org/klasik/item/13446/) | Falchion (EPIC)
-[13447](https://db.idrowiki.org/klasik/item/13447/) | Falchion (RARE)
-[13448](https://db.idrowiki.org/klasik/item/13448/) | Falchion (EPIC)
-[13449](https://db.idrowiki.org/klasik/item/13449/) | Blade (RARE)
-[13450](https://db.idrowiki.org/klasik/item/13450/) | Blade (EPIC)
 [13451](https://db.idrowiki.org/klasik/item/13451/) | Blue Sword
 [13452](https://db.idrowiki.org/klasik/item/13452/) | Ru Gold Sword
-[13453](https://db.idrowiki.org/klasik/item/13453/) | Blade (RARE)
-[13454](https://db.idrowiki.org/klasik/item/13454/) | Blade (EPIC)
-[13455](https://db.idrowiki.org/klasik/item/13455/) | Lapier (RARE)
-[13456](https://db.idrowiki.org/klasik/item/13456/) | Lapier (EPIC)
-[13457](https://db.idrowiki.org/klasik/item/13457/) | Lapier (RARE)
-[13458](https://db.idrowiki.org/klasik/item/13458/) | Lapier (EPIC)
-[13459](https://db.idrowiki.org/klasik/item/13459/) | Scimiter (RARE)
-[13460](https://db.idrowiki.org/klasik/item/13460/) | Scimiter (EPIC)
-[13461](https://db.idrowiki.org/klasik/item/13461/) | Scimiter (RARE)
-[13462](https://db.idrowiki.org/klasik/item/13462/) | Scimiter (EPIC)
-[13463](https://db.idrowiki.org/klasik/item/13463/) | Ring Pommel Saber (RARE)
-[13464](https://db.idrowiki.org/klasik/item/13464/) | Ring Pommel Saber (EPIC)
-[13465](https://db.idrowiki.org/klasik/item/13465/) | Ring Pommel Saber (RARE)
-[13466](https://db.idrowiki.org/klasik/item/13466/) | Ring Pommel Saber (EPIC)
-[13467](https://db.idrowiki.org/klasik/item/13467/) | Katana (Rare)
-[13468](https://db.idrowiki.org/klasik/item/13468/) | Katana (Epic)
-[13469](https://db.idrowiki.org/klasik/item/13469/) | Katana (Rare)
-[13470](https://db.idrowiki.org/klasik/item/13470/) | Katana (Epic)
-[13471](https://db.idrowiki.org/klasik/item/13471/) | ^777777Slayer (Rare)^000000
-[13472](https://db.idrowiki.org/klasik/item/13472/) | Slayer (Epic)
-[13473](https://db.idrowiki.org/klasik/item/13473/) | Slayer (Rare)
-[13474](https://db.idrowiki.org/klasik/item/13474/) | Slayer (Epic)
-[13475](https://db.idrowiki.org/klasik/item/13475/) | Bastard Sword (Rare)
-[13476](https://db.idrowiki.org/klasik/item/13476/) | Bastard Sword (Epic)
-[13477](https://db.idrowiki.org/klasik/item/13477/) | Bastard Sword (Rare)
-[13478](https://db.idrowiki.org/klasik/item/13478/) | Bastard Sword (Epic)
-[13479](https://db.idrowiki.org/klasik/item/13479/) | Krasnaya (Rare)
-[13480](https://db.idrowiki.org/klasik/item/13480/) | Krasnaya (Epic)
-[13499](https://db.idrowiki.org/klasik/item/13499/) | Aries Freyr
 [13502](https://db.idrowiki.org/klasik/item/13502/) | Neo Drooping Kitty Box
 [13517](https://db.idrowiki.org/klasik/item/13517/) | Yggdrasilberry Box
-[13519](https://db.idrowiki.org/klasik/item/13519/) | White Rabbit Box
 [13531](https://db.idrowiki.org/klasik/item/13531/) | Light Red Potion Box
 [13532](https://db.idrowiki.org/klasik/item/13532/) | Light Orange Potion Box
 [13533](https://db.idrowiki.org/klasik/item/13533/) | Light Yellow Potion Box
@@ -5081,19 +4975,6 @@ Item ID | Nama
 [13549](https://db.idrowiki.org/klasik/item/13549/) | Pill Box
 [13553](https://db.idrowiki.org/klasik/item/13553/) | 5 Dungeon Teleport Scroll Box
 [13569](https://db.idrowiki.org/klasik/item/13569/) | PVP Teleport Scroll Box
-[13634](https://db.idrowiki.org/klasik/item/13634/) | Monday Box
-[13635](https://db.idrowiki.org/klasik/item/13635/) | Tuesday Box
-[13636](https://db.idrowiki.org/klasik/item/13636/) | Wednesday Box
-[13637](https://db.idrowiki.org/klasik/item/13637/) | Thursday Box
-[13638](https://db.idrowiki.org/klasik/item/13638/) | Friday Box
-[13639](https://db.idrowiki.org/klasik/item/13639/) | Saturday Box
-[13640](https://db.idrowiki.org/klasik/item/13640/) | Sunday Box
-[13641](https://db.idrowiki.org/klasik/item/13641/) | Headgear Box Agustus
-[13642](https://db.idrowiki.org/klasik/item/13642/) | Headgear Box September
-[13643](https://db.idrowiki.org/klasik/item/13643/) | Headgear Box Oktober
-[13644](https://db.idrowiki.org/klasik/item/13644/) | Headgear Box Desember
-[13646](https://db.idrowiki.org/klasik/item/13646/) | MVP Headgear Box
-[13647](https://db.idrowiki.org/klasik/item/13647/) | MVP Costume Box
 [13650](https://db.idrowiki.org/klasik/item/13650/) | Neo Counter Dagger Box
 [13652](https://db.idrowiki.org/klasik/item/13652/) | Neo Pole Axe Box
 [13653](https://db.idrowiki.org/klasik/item/13653/) | Neo Mighty Staff Box
@@ -5113,12 +4994,12 @@ Item ID | Nama
 [13714](https://db.idrowiki.org/klasik/item/13714/) | Medium Life Potion 10 Box
 [13715](https://db.idrowiki.org/klasik/item/13715/) | Medium Life Potion 30 Box
 [13716](https://db.idrowiki.org/klasik/item/13716/) | Medium Life Potion 50 Box
-[13717](https://db.idrowiki.org/klasik/item/13717/) | Abrasive 5 Box
-[13718](https://db.idrowiki.org/klasik/item/13718/) | Abrasive 10 Box
+[13717](https://db.idrowiki.org/klasik/item/13717/) | Abrasive Box 10
+[13718](https://db.idrowiki.org/klasik/item/13718/) | Abrasive Box20
 [13719](https://db.idrowiki.org/klasik/item/13719/) | Regeneration Potion 5 Box
-[13720](https://db.idrowiki.org/klasik/item/13720/) | Regeneration 10 Box
+[13720](https://db.idrowiki.org/klasik/item/13720/) | Regeneration Box 10
 [13721](https://db.idrowiki.org/klasik/item/13721/) | Dungeon Teleport Scroll 10 Box
-[13738](https://db.idrowiki.org/klasik/item/13738/) | Glass of Illusion 10 Box
+[13738](https://db.idrowiki.org/klasik/item/13738/) | Glass of Illusion 5 Box
 [13739](https://db.idrowiki.org/klasik/item/13739/) | Glass of Illusion 10 Box
 [13740](https://db.idrowiki.org/klasik/item/13740/) | Shadow Armor Scroll 5 Box
 [13741](https://db.idrowiki.org/klasik/item/13741/) | Shadow Armor Scroll 10 Box
@@ -5138,7 +5019,6 @@ Item ID | Nama
 [13755](https://db.idrowiki.org/klasik/item/13755/) | Big Magic Defense Potion 10 Box
 [13756](https://db.idrowiki.org/klasik/item/13756/) | Big Magic Defence Potion 30 Box
 [13757](https://db.idrowiki.org/klasik/item/13757/) | Big Magic Defense Potion 50 Box
-[13758](https://db.idrowiki.org/klasik/item/13758/) | Super Battle Manual Box
 [13766](https://db.idrowiki.org/klasik/item/13766/) | Neo Nagan Box
 [13767](https://db.idrowiki.org/klasik/item/13767/) | Neo Skewer Box
 [13768](https://db.idrowiki.org/klasik/item/13768/) | Neo Survival Rod Box
@@ -5152,7 +5032,8 @@ Item ID | Nama
 [13782](https://db.idrowiki.org/klasik/item/13782/) | Neo Corsair Box
 [13783](https://db.idrowiki.org/klasik/item/13783/) | Neo Bloody Iron Ball Box
 [13784](https://db.idrowiki.org/klasik/item/13784/) | Neo Spiritual Ring Box
-[13803](https://db.idrowiki.org/klasik/item/13803/) | Spritual Ring (7 hari)
+[13802](https://db.idrowiki.org/klasik/item/13802/) | Bloody Iron Ball Box
+[13803](https://db.idrowiki.org/klasik/item/13803/) | Spritual Ring Box & Hari
 [13804](https://db.idrowiki.org/klasik/item/13804/) | I Love You Firecracker Box
 [13805](https://db.idrowiki.org/klasik/item/13805/) | Whiteday Firecracker Box
 [13806](https://db.idrowiki.org/klasik/item/13806/) | Valentineday Firecracker Box
@@ -5174,13 +5055,6 @@ Item ID | Nama
 [13831](https://db.idrowiki.org/klasik/item/13831/) | Stat Boost 2
 [13832](https://db.idrowiki.org/klasik/item/13832/) | Stat Boost 3
 [13833](https://db.idrowiki.org/klasik/item/13833/) | Stat Boost 4
-[13836](https://db.idrowiki.org/klasik/item/13836/) | Amistr Bag Box (7 Day)
-[13837](https://db.idrowiki.org/klasik/item/13837/) | Great Devil Wing Box (7 Day)
-[13838](https://db.idrowiki.org/klasik/item/13838/) | Sword Wing Box (7 Day)
-[13839](https://db.idrowiki.org/klasik/item/13839/) | Amistr Bag Box(30 Day)
-[13840](https://db.idrowiki.org/klasik/item/13840/) | Archangel Wing Box (30 Day)
-[13841](https://db.idrowiki.org/klasik/item/13841/) | Great Devil Wing Box (30 Day)
-[13842](https://db.idrowiki.org/klasik/item/13842/) | Sword Wing Box (30 Day)
 [13844](https://db.idrowiki.org/klasik/item/13844/) | Heroic Stone Box
 [13849](https://db.idrowiki.org/klasik/item/13849/) | Yellow Butterfly Wing 5 Box
 [13850](https://db.idrowiki.org/klasik/item/13850/) | Yellow Butterfly Wing 10 Box
@@ -5204,8 +5078,6 @@ Item ID | Nama
 [13908](https://db.idrowiki.org/klasik/item/13908/) | Deviruchi Set Box
 [13909](https://db.idrowiki.org/klasik/item/13909/) | MVP Hunt Set Box
 [13910](https://db.idrowiki.org/klasik/item/13910/) | Dish Set Box
-[13923](https://db.idrowiki.org/klasik/item/13923/) | Darkness Helm Box
-[13937](https://db.idrowiki.org/klasik/item/13937/) | Robo Eye Box
 [13940](https://db.idrowiki.org/klasik/item/13940/) | Siege Teleport Scroll Gold 10Box
 [13952](https://db.idrowiki.org/klasik/item/13952/) | Neo Lever Action Rifle Box
 [13953](https://db.idrowiki.org/klasik/item/13953/) | Neo All In One Ring Box
@@ -5214,18 +5086,15 @@ Item ID | Nama
 [13956](https://db.idrowiki.org/klasik/item/13956/) | Neo Shealter Resistance Box
 [13957](https://db.idrowiki.org/klasik/item/13957/) | Neo Sylphid Manteau Box
 [13958](https://db.idrowiki.org/klasik/item/13958/) | Neo Refresh Shoes Box
-[13973](https://db.idrowiki.org/klasik/item/13973/) | Poison Bottle Box(50)
+[13973](https://db.idrowiki.org/klasik/item/13973/) | Poison Bottle Box
 [13990](https://db.idrowiki.org/klasik/item/13990/) | Job Manual Box
-[13995](https://db.idrowiki.org/klasik/item/13995/) | Speed Potion Box(50)
 [14001](https://db.idrowiki.org/klasik/item/14001/) | Recruit Siege Supply Box
 [14002](https://db.idrowiki.org/klasik/item/14002/) | Veteran Siege Supply Box
 [14003](https://db.idrowiki.org/klasik/item/14003/) | Elite Siege Supply Box
-[14004](https://db.idrowiki.org/klasik/item/14004/) | Acid Demon Box(100)
-[14005](https://db.idrowiki.org/klasik/item/14005/) | Coating Bottle Box(50)
-[14008](https://db.idrowiki.org/klasik/item/14008/) | Evolved Orc Hero Helm Box
-[14072](https://db.idrowiki.org/klasik/item/14072/) | Bloody Iron Ball 30 Hari
-[14176](https://db.idrowiki.org/klasik/item/14176/) | Enriched Elunium Box(50)
-[14177](https://db.idrowiki.org/klasik/item/14177/) | Enriched Oridecon Box(50)
+[14004](https://db.idrowiki.org/klasik/item/14004/) | Acid Demonstration Box
+[14005](https://db.idrowiki.org/klasik/item/14005/) | Coating Bottle Box
+[14072](https://db.idrowiki.org/klasik/item/14072/) | Bloody Iron Ball Box 30 Hari
+[14228](https://db.idrowiki.org/klasik/item/14228/) | Bloody Ring Box (30 Day)
 [14229](https://db.idrowiki.org/klasik/item/14229/) | Cherry Blossom Scroll
 [14232](https://db.idrowiki.org/klasik/item/14232/) | 10 Yggdrasilberry Box
 [14233](https://db.idrowiki.org/klasik/item/14233/) | 10 Branch Of Dead Tree Box
@@ -5250,10 +5119,7 @@ Item ID | Nama
 [14259](https://db.idrowiki.org/klasik/item/14259/) | Bloody Ring Box II
 [14260](https://db.idrowiki.org/klasik/item/14260/) | Satanic Ring Box II
 [14261](https://db.idrowiki.org/klasik/item/14261/) | Dragoon Ring Box II
-[14285](https://db.idrowiki.org/klasik/item/14285/) | Neo Valkyrja's Shield Box
-[14286](https://db.idrowiki.org/klasik/item/14286/) | Skull Ring Box
-[14287](https://db.idrowiki.org/klasik/item/14287/) | Barricade Repair Kit
-[14288](https://db.idrowiki.org/klasik/item/14288/) | Guardian Stone Repair Kit
+[14285](https://db.idrowiki.org/klasik/item/14285/) | Neo Valkyrja Shield Box (7 Hari)
 [14289](https://db.idrowiki.org/klasik/item/14289/) | Clothing Dye Coupon Box
 [14290](https://db.idrowiki.org/klasik/item/14290/) | Clothing Dye Coupon II Box
 [14293](https://db.idrowiki.org/klasik/item/14293/) | Bodyguard Contract Box
@@ -5278,7 +5144,8 @@ Item ID | Nama
 [14376](https://db.idrowiki.org/klasik/item/14376/) | Angeling Potion Box
 [14377](https://db.idrowiki.org/klasik/item/14377/) | Shouting Megaphone Box
 [14380](https://db.idrowiki.org/klasik/item/14380/) | Anubis Helm Box
-[14391](https://db.idrowiki.org/klasik/item/14391/) | Eternal Eye (7 hari)
+[14391](https://db.idrowiki.org/klasik/item/14391/) | Eternal Eye Box (7 hari)
+[14408](https://db.idrowiki.org/klasik/item/14408/) | Happy Egg
 [14426](https://db.idrowiki.org/klasik/item/14426/) | Neo Fortune Sword Box
 [14427](https://db.idrowiki.org/klasik/item/14427/) | Neo House Auger Box
 [14428](https://db.idrowiki.org/klasik/item/14428/) | Neo Kamaitachi Box
@@ -5304,16 +5171,15 @@ Item ID | Nama
 [14466](https://db.idrowiki.org/klasik/item/14466/) | Valentine's Emblem Box
 [14469](https://db.idrowiki.org/klasik/item/14469/) | Ox Tail Egg
 [14485](https://db.idrowiki.org/klasik/item/14485/) | Academy Badge Box
-[14488](https://db.idrowiki.org/klasik/item/14488/) | Blue Pajamas Hat Box
-[14501](https://db.idrowiki.org/klasik/item/14501/) | Ancient Medicine
+[14501](https://db.idrowiki.org/klasik/item/14501/) | Cold Medicine Box
 [14508](https://db.idrowiki.org/klasik/item/14508/) | Zeny Pet Egg
 [14509](https://db.idrowiki.org/klasik/item/14509/) | Light Concentration Potion
 [14510](https://db.idrowiki.org/klasik/item/14510/) | Light Awakening Potion
 [14511](https://db.idrowiki.org/klasik/item/14511/) | Light Berserk Potion
 [14512](https://db.idrowiki.org/klasik/item/14512/) | Meteor Storm Scroll
 [14513](https://db.idrowiki.org/klasik/item/14513/) | Storm Gust Scroll
+[14514](https://db.idrowiki.org/klasik/item/14514/) | Lord of Vermilion Scroll
 [14515](https://db.idrowiki.org/klasik/item/14515/) | Lex Aeterna Scroll
-[14516](https://db.idrowiki.org/klasik/item/14516/) | Magnificat Scroll
 [14517](https://db.idrowiki.org/klasik/item/14517/) | Chemical Protection Helm Scroll
 [14518](https://db.idrowiki.org/klasik/item/14518/) | Chemical Protection Shield Scroll
 [14519](https://db.idrowiki.org/klasik/item/14519/) | Chemical Protection Armor Scroll
@@ -5325,7 +5191,6 @@ Item ID | Nama
 [14529](https://db.idrowiki.org/klasik/item/14529/) | Greed Scroll
 [14530](https://db.idrowiki.org/klasik/item/14530/) | Evasion Scroll
 [14531](https://db.idrowiki.org/klasik/item/14531/) | Concentration Scroll
-[14532](https://db.idrowiki.org/klasik/item/14532/) | Field Manual 25
 [14534](https://db.idrowiki.org/klasik/item/14534/) | Small Life Potion
 [14535](https://db.idrowiki.org/klasik/item/14535/) | Medium Life Potion
 [14536](https://db.idrowiki.org/klasik/item/14536/) | Abrasive
@@ -5362,7 +5227,7 @@ Item ID | Nama
 [14567](https://db.idrowiki.org/klasik/item/14567/) | Mixed Juice
 [14568](https://db.idrowiki.org/klasik/item/14568/) | Fried Sweet Potato
 [14573](https://db.idrowiki.org/klasik/item/14573/) | Burning Stone
-[14574](https://db.idrowiki.org/klasik/item/14574/) | Vagabond's Skull
+[14574](https://db.idrowiki.org/klasik/item/14574/) | Skull Of Vagabond
 [14575](https://db.idrowiki.org/klasik/item/14575/) | Lutie Lady's Pancake
 [14576](https://db.idrowiki.org/klasik/item/14576/) | Mastela Fruit Wine
 [14577](https://db.idrowiki.org/klasik/item/14577/) | Spicy Fried Bao
@@ -5374,8 +5239,11 @@ Item ID | Nama
 [14584](https://db.idrowiki.org/klasik/item/14584/) | Red Butterfly Wing
 [14585](https://db.idrowiki.org/klasik/item/14585/) | Blue Butterfly Wing
 [14586](https://db.idrowiki.org/klasik/item/14586/) | Popping Candy
+[14588](https://db.idrowiki.org/klasik/item/14588/) | Party Blessing 10 Scroll
+[14589](https://db.idrowiki.org/klasik/item/14589/) | Party Inc Agility 10 Scroll
 [14591](https://db.idrowiki.org/klasik/item/14591/) | Siege Teleport Scroll Gold
 [14592](https://db.idrowiki.org/klasik/item/14592/) | Job Manual
+[14593](https://db.idrowiki.org/klasik/item/14593/) | Mystical Amplification Scroll
 [14594](https://db.idrowiki.org/klasik/item/14594/) | Quagmire Scroll
 [14595](https://db.idrowiki.org/klasik/item/14595/) | Unsealed Magic Spell
 [14596](https://db.idrowiki.org/klasik/item/14596/) | Pierre's Treasure Box
@@ -5392,17 +5260,6 @@ Item ID | Nama
 [14619](https://db.idrowiki.org/klasik/item/14619/) | INT Biscuit Stick
 [14620](https://db.idrowiki.org/klasik/item/14620/) | DEX Biscuit Stick
 [14621](https://db.idrowiki.org/klasik/item/14621/) | LUK Biscuit Stick
-[14622](https://db.idrowiki.org/klasik/item/14622/) | Valkyrie Warp Scroll
-[14623](https://db.idrowiki.org/klasik/item/14623/) | Greenwood Warp Scroll
-[14624](https://db.idrowiki.org/klasik/item/14624/) | Britoniah Warp Scroll
-[14625](https://db.idrowiki.org/klasik/item/14625/) | Luina Warp Scroll
-[14629](https://db.idrowiki.org/klasik/item/14629/) | Upper Enchant Stone Box
-[14630](https://db.idrowiki.org/klasik/item/14630/) | Schwaltzvalt Warp Scroll
-[14631](https://db.idrowiki.org/klasik/item/14631/) | Arunafeltz Warp Scroll
-[14632](https://db.idrowiki.org/klasik/item/14632/) | Tiket Legion Reward
-[14633](https://db.idrowiki.org/klasik/item/14633/) | Tiket Veteran Reward
-[14681](https://db.idrowiki.org/klasik/item/14681/) | Middle Enchant Stone Box
-[14695](https://db.idrowiki.org/klasik/item/14695/) | Lower Enchant Stone Box
 [14699](https://db.idrowiki.org/klasik/item/14699/) | Memorial Garuda Lucky Egg
 [14701](https://db.idrowiki.org/klasik/item/14701/) | Rune Imortal Lucky Egg
 [14735](https://db.idrowiki.org/klasik/item/14735/) | Shapeshifter Costume
@@ -5412,7 +5269,6 @@ Item ID | Nama
 [15000](https://db.idrowiki.org/klasik/item/15000/) | Bone Plate
 [15001](https://db.idrowiki.org/klasik/item/15001/) | Neo Odin's Blessing
 [15002](https://db.idrowiki.org/klasik/item/15002/) | Rune Plate
-[15003](https://db.idrowiki.org/klasik/item/15003/) | Freyja SRobe7
 [15008](https://db.idrowiki.org/klasik/item/15008/) | Flame Armor
 [15009](https://db.idrowiki.org/klasik/item/15009/) | Paradise TeamUniform1
 [15010](https://db.idrowiki.org/klasik/item/15010/) | Paradise TeamUniform2
@@ -5420,9 +5276,7 @@ Item ID | Nama
 [15012](https://db.idrowiki.org/klasik/item/15012/) | Puente Robe
 [15013](https://db.idrowiki.org/klasik/item/15013/) | Claire Suits
 [15014](https://db.idrowiki.org/klasik/item/15014/) | Ebone Armor
-[15015](https://db.idrowiki.org/klasik/item/15015/) | Upg Adv Suit
-[15016](https://db.idrowiki.org/klasik/item/15016/) | Upg Coat
-[15020](https://db.idrowiki.org/klasik/item/15020/) | Upg Mail
+[15021](https://db.idrowiki.org/klasik/item/15021/) | Upg Formal Dress
 [15023](https://db.idrowiki.org/klasik/item/15023/) | Half Brynhild
 [15024](https://db.idrowiki.org/klasik/item/15024/) | Army Padding
 [15025](https://db.idrowiki.org/klasik/item/15025/) | Golden Rod Robe
@@ -5456,14 +5310,24 @@ Item ID | Nama
 [15062](https://db.idrowiki.org/klasik/item/15062/) | TE Woe Coat
 [15063](https://db.idrowiki.org/klasik/item/15063/) | TE Woe Chain Mail
 [15064](https://db.idrowiki.org/klasik/item/15064/) | TE Woe Mage Coat
+[15066](https://db.idrowiki.org/klasik/item/15066/) | Engraved Armor
 [15067](https://db.idrowiki.org/klasik/item/15067/) | Rune Suit
+[15068](https://db.idrowiki.org/klasik/item/15068/) | Advanced Angelic Protection
+[15086](https://db.idrowiki.org/klasik/item/15086/) | Vermilion Bird Armor
+[15087](https://db.idrowiki.org/klasik/item/15087/) | Azure Dragon Armor
 [15088](https://db.idrowiki.org/klasik/item/15088/) | School Uniform
+[15089](https://db.idrowiki.org/klasik/item/15089/) | Lounge Suit
+[15092](https://db.idrowiki.org/klasik/item/15092/) | Black Tortoise Armor
+[15099](https://db.idrowiki.org/klasik/item/15099/) | White Tiger Armor
 [15103](https://db.idrowiki.org/klasik/item/15103/) | Kirin Armor
 [15104](https://db.idrowiki.org/klasik/item/15104/) | FishingMan Mail
 [15105](https://db.idrowiki.org/klasik/item/15105/) | Kaftan
-[15116](https://db.idrowiki.org/klasik/item/15116/) | Armor of Airship
+[15108](https://db.idrowiki.org/klasik/item/15108/) | Venomous Insect Armor
 [15123](https://db.idrowiki.org/klasik/item/15123/) | Whikebain Suit
 [15145](https://db.idrowiki.org/klasik/item/15145/) | Evil Dragon Armor
+[15169](https://db.idrowiki.org/klasik/item/15169/) | Kardui Robe
+[15209](https://db.idrowiki.org/klasik/item/15209/) | Drake Coat
+[15392](https://db.idrowiki.org/klasik/item/15392/) | C. Louyang New Year Hat
 [16000](https://db.idrowiki.org/klasik/item/16000/) | Erde
 [16001](https://db.idrowiki.org/klasik/item/16001/) | Red Square Bag
 [16003](https://db.idrowiki.org/klasik/item/16003/) | Carga Mace
@@ -5480,40 +5344,21 @@ Item ID | Nama
 [16019](https://db.idrowiki.org/klasik/item/16019/) | Upgrade Mace
 [16020](https://db.idrowiki.org/klasik/item/16020/) | Velum Stunner
 [16021](https://db.idrowiki.org/klasik/item/16021/) | Velum Flail
+[16024](https://db.idrowiki.org/klasik/item/16024/) | Quadrille
 [16025](https://db.idrowiki.org/klasik/item/16025/) | TE Woe Mace
 [16026](https://db.idrowiki.org/klasik/item/16026/) | RWC Memory Mace
 [16027](https://db.idrowiki.org/klasik/item/16027/) | Hammer Of Evil Slayer
-[16028](https://db.idrowiki.org/klasik/item/16028/) | Club(RARE)
-[16029](https://db.idrowiki.org/klasik/item/16029/) | Club (EPIC)
-[16030](https://db.idrowiki.org/klasik/item/16030/) | Club (RARE)
-[16031](https://db.idrowiki.org/klasik/item/16031/) | Club (EPIC)
-[16032](https://db.idrowiki.org/klasik/item/16032/) | Mace (RARE)
-[16033](https://db.idrowiki.org/klasik/item/16033/) | Mace (EPIC)
 [16034](https://db.idrowiki.org/klasik/item/16034/) | Half Mjolnir
 [16035](https://db.idrowiki.org/klasik/item/16035/) | Half BF Morning Star1
 [16036](https://db.idrowiki.org/klasik/item/16036/) | Blue Mace
 [16037](https://db.idrowiki.org/klasik/item/16037/) | Ru Gold Mace
-[16038](https://db.idrowiki.org/klasik/item/16038/) | Leo Gridarvol
-[16039](https://db.idrowiki.org/klasik/item/16039/) | Mace (RARE)
-[16040](https://db.idrowiki.org/klasik/item/16040/) | Mace (EPIC)
-[16041](https://db.idrowiki.org/klasik/item/16041/) | Flail (RARE)
-[16042](https://db.idrowiki.org/klasik/item/16042/) | Flail (EPIC)
 [16043](https://db.idrowiki.org/klasik/item/16043/) | Meteor Strike
-[16044](https://db.idrowiki.org/klasik/item/16044/) | Flail (RARE)
-[16045](https://db.idrowiki.org/klasik/item/16045/) | Flail (EPIC)
-[16046](https://db.idrowiki.org/klasik/item/16046/) | Smasher (RARE)
-[16047](https://db.idrowiki.org/klasik/item/16047/) | Smasher (EPIC)
-[16048](https://db.idrowiki.org/klasik/item/16048/) | Smasher (RARE)
-[16049](https://db.idrowiki.org/klasik/item/16049/) | Smasher (EPIC)
-[16050](https://db.idrowiki.org/klasik/item/16050/) | Chain (RARE)
 [16051](https://db.idrowiki.org/klasik/item/16051/) | Valkyrie Hammer
-[16052](https://db.idrowiki.org/klasik/item/16052/) | Chain (EPIC)
-[16053](https://db.idrowiki.org/klasik/item/16053/) | Chain (RARE)
-[16054](https://db.idrowiki.org/klasik/item/16054/) | Chain (EPIC)
 [16192](https://db.idrowiki.org/klasik/item/16192/) | Quati Hat Box
 [16193](https://db.idrowiki.org/klasik/item/16193/) | Tucan Hat Box
 [16194](https://db.idrowiki.org/klasik/item/16194/) | Jaguar Hat Box
 [16195](https://db.idrowiki.org/klasik/item/16195/) | March Scroll
+[16246](https://db.idrowiki.org/klasik/item/16246/) | Neo Crown Of Deceit
 [16250](https://db.idrowiki.org/klasik/item/16250/) | idRO Birthday  Box
 [16254](https://db.idrowiki.org/klasik/item/16254/) | Energizing Potion Box
 [16258](https://db.idrowiki.org/klasik/item/16258/) | HD Bradium 5 Box
@@ -5526,24 +5371,26 @@ Item ID | Nama
 [16265](https://db.idrowiki.org/klasik/item/16265/) | HD Carnium 10 Box
 [16266](https://db.idrowiki.org/klasik/item/16266/) | Indonesia Beret Box
 [16360](https://db.idrowiki.org/klasik/item/16360/) | Desert Prince Box
-[16363](https://db.idrowiki.org/klasik/item/16363/) | FSigrun's Wing Box
-[16372](https://db.idrowiki.org/klasik/item/16372/) | Four Leaf Clover In Mouth Box7
+[16372](https://db.idrowiki.org/klasik/item/16372/) | Four Leaf Clover In Mouth Box
 [16374](https://db.idrowiki.org/klasik/item/16374/) | Bubble Gum In Mouth Box
 [16378](https://db.idrowiki.org/klasik/item/16378/) | Siege Teleport Scroll Gold 30Box
 [16379](https://db.idrowiki.org/klasik/item/16379/) | Siege Teleport Scroll Silver 10Box
 [16380](https://db.idrowiki.org/klasik/item/16380/) | Siege Teleport Scroll Silver 30Box
-[16385](https://db.idrowiki.org/klasik/item/16385/) | Four Leaf Clover In Mouth Box30
-[16386](https://db.idrowiki.org/klasik/item/16386/) | Four Leaf Clover In Mouth Box30 
-[16389](https://db.idrowiki.org/klasik/item/16389/) | Bubble Gum In Mouth Box7
-[16390](https://db.idrowiki.org/klasik/item/16390/) | Bubble Gum In Mouth Box30
-[16393](https://db.idrowiki.org/klasik/item/16393/) | High Density Oridecon Box
+[16385](https://db.idrowiki.org/klasik/item/16385/) | Four Leaf Clover In Mouth Box2
+[16386](https://db.idrowiki.org/klasik/item/16386/) | Four Leaf Clover In Mouth Box3
+[16389](https://db.idrowiki.org/klasik/item/16389/) | Bubble Gum In Mouth Box2
+[16390](https://db.idrowiki.org/klasik/item/16390/) | Bubble Gum In Mouth Box3
+[16393](https://db.idrowiki.org/klasik/item/16393/) | HE Oridecon 5 Box
 [16394](https://db.idrowiki.org/klasik/item/16394/) | HE Oridecon 10 Box
-[16395](https://db.idrowiki.org/klasik/item/16395/) | High Density Elunium Box
+[16395](https://db.idrowiki.org/klasik/item/16395/) | HE Elunium 5 Box
 [16396](https://db.idrowiki.org/klasik/item/16396/) | HE Elunium 10 Box
 [16414](https://db.idrowiki.org/klasik/item/16414/) | Turtle Hat Box
 [16555](https://db.idrowiki.org/klasik/item/16555/) | Premium Reset Stone Box
 [16571](https://db.idrowiki.org/klasik/item/16571/) | Rice Ball Hat Box
+[16624](https://db.idrowiki.org/klasik/item/16624/) | half Asprika (3 Hari)
 [16625](https://db.idrowiki.org/klasik/item/16625/) | Half Asprika box 7days
+[16626](https://db.idrowiki.org/klasik/item/16626/) | Half Asprika Box30
+[16627](https://db.idrowiki.org/klasik/item/16627/) | HF Brynhild box 7 Hari
 [16628](https://db.idrowiki.org/klasik/item/16628/) | HF Brynhild box 7 Hari
 [16631](https://db.idrowiki.org/klasik/item/16631/) | Aributa Scroll
 [16638](https://db.idrowiki.org/klasik/item/16638/) | Life Ribbon Box
@@ -5554,8 +5401,8 @@ Item ID | Nama
 [16666](https://db.idrowiki.org/klasik/item/16666/) | Magic Candy 10Box
 [16668](https://db.idrowiki.org/klasik/item/16668/) | Kotak Ketupat Warna Warni
 [16675](https://db.idrowiki.org/klasik/item/16675/) | Splash Egg
-[16682](https://db.idrowiki.org/klasik/item/16682/) | Boarding Halter Box7
-[16683](https://db.idrowiki.org/klasik/item/16683/) | Boarding Halter Box30
+[16682](https://db.idrowiki.org/klasik/item/16682/) | Boarding Halter Box
+[16683](https://db.idrowiki.org/klasik/item/16683/) | Boarding Halter Box
 [16740](https://db.idrowiki.org/klasik/item/16740/) | Ptotection Seagod Box
 [16741](https://db.idrowiki.org/klasik/item/16741/) | Hairtail Box1
 [16742](https://db.idrowiki.org/klasik/item/16742/) | Hairtail Box2
@@ -5587,7 +5434,7 @@ Item ID | Nama
 [16977](https://db.idrowiki.org/klasik/item/16977/) | Red Minicrown Box
 [16979](https://db.idrowiki.org/klasik/item/16979/) | Silvervine Box4
 [16993](https://db.idrowiki.org/klasik/item/16993/) | Butterfly Wing 50 Box
-[16998](https://db.idrowiki.org/klasik/item/16998/) | Archangel Wing Box (7 Day)
+[16998](https://db.idrowiki.org/klasik/item/16998/) | Archangel Wing Box
 [16999](https://db.idrowiki.org/klasik/item/16999/) | Bravery Bag Box
 [17001](https://db.idrowiki.org/klasik/item/17001/) | Wander Man Summon Box
 [17013](https://db.idrowiki.org/klasik/item/17013/) | Malang Woe Encard Box
@@ -5596,7 +5443,7 @@ Item ID | Nama
 [17026](https://db.idrowiki.org/klasik/item/17026/) | Boitata Scroll
 [17064](https://db.idrowiki.org/klasik/item/17064/) | Magical Lucky Egg
 [17076](https://db.idrowiki.org/klasik/item/17076/) | Empty Bottle Box500
-[17079](https://db.idrowiki.org/klasik/item/17079/) | Flywing Box
+[17079](https://db.idrowiki.org/klasik/item/17079/) | Indonesian Box 2
 [17084](https://db.idrowiki.org/klasik/item/17084/) | Upgrade Katar Box
 [17085](https://db.idrowiki.org/klasik/item/17085/) | Upgrade Two Handed Axe Box
 [17086](https://db.idrowiki.org/klasik/item/17086/) | Upgrade Lance Box
@@ -5619,15 +5466,14 @@ Item ID | Nama
 [17146](https://db.idrowiki.org/klasik/item/17146/) | Depressed Alice doll Box
 [17147](https://db.idrowiki.org/klasik/item/17147/) | Ribbon Chef Box
 [17152](https://db.idrowiki.org/klasik/item/17152/) | Ribbon of Bride Box
-[17153](https://db.idrowiki.org/klasik/item/17153/) | Brave Pendant (30 Hari)
-[17154](https://db.idrowiki.org/klasik/item/17154/) | Strength Pendant Box30
+[17153](https://db.idrowiki.org/klasik/item/17153/) | Brave Pendant Box (30 Hari)
 [17155](https://db.idrowiki.org/klasik/item/17155/) | Upg Huuma Shuriken Box
 [17204](https://db.idrowiki.org/klasik/item/17204/) | Shining Egg
 [17207](https://db.idrowiki.org/klasik/item/17207/) | Unbreakable Egg
 [17230](https://db.idrowiki.org/klasik/item/17230/) | Valerian Egg
 [17242](https://db.idrowiki.org/klasik/item/17242/) | Immortal Egg
 [17245](https://db.idrowiki.org/klasik/item/17245/) | Heroes Egg
-[17251](https://db.idrowiki.org/klasik/item/17251/) | Unlimited Wing Of Fly 2H Box
+[17251](https://db.idrowiki.org/klasik/item/17251/) | Premium Flywing
 [17252](https://db.idrowiki.org/klasik/item/17252/) | RWC Memorial Set Box
 [17253](https://db.idrowiki.org/klasik/item/17253/) | RWC Memorial Ring Box
 [17254](https://db.idrowiki.org/klasik/item/17254/) | RWC Memorial Pendant Box
@@ -5636,6 +5482,7 @@ Item ID | Nama
 [17306](https://db.idrowiki.org/klasik/item/17306/) | Status Reset Coupon Box
 [17307](https://db.idrowiki.org/klasik/item/17307/) | Midgard Egg
 [17308](https://db.idrowiki.org/klasik/item/17308/) | Half Asprika box 1day
+[17310](https://db.idrowiki.org/klasik/item/17310/) | half Brynhild(3 Hari)
 [17311](https://db.idrowiki.org/klasik/item/17311/) | HF Brynhild box 1 Hari
 [17317](https://db.idrowiki.org/klasik/item/17317/) | Sweet Midgard Egg
 [17320](https://db.idrowiki.org/klasik/item/17320/) | Brithday IdRO10th Scroll
@@ -5681,6 +5528,7 @@ Item ID | Nama
 [17464](https://db.idrowiki.org/klasik/item/17464/) | Winter Midgard Egg
 [17470](https://db.idrowiki.org/klasik/item/17470/) | Headgear Costume Scroll
 [17471](https://db.idrowiki.org/klasik/item/17471/) | Spring Festival Lucky Egg
+[17476](https://db.idrowiki.org/klasik/item/17476/) | Kostum GirlsSelection2
 [17479](https://db.idrowiki.org/klasik/item/17479/) | Midgard Festival Egg
 [17481](https://db.idrowiki.org/klasik/item/17481/) | Flower Blossom Scroll
 [17482](https://db.idrowiki.org/klasik/item/17482/) | Solaris Festival Scroll
@@ -5688,6 +5536,9 @@ Item ID | Nama
 [17493](https://db.idrowiki.org/klasik/item/17493/) | Burning Feather Costume Scroll
 [17494](https://db.idrowiki.org/klasik/item/17494/) | Rise Midgard Lucky Egg
 [17497](https://db.idrowiki.org/klasik/item/17497/) | Seaside Costume Scroll
+[17500](https://db.idrowiki.org/klasik/item/17500/) | Kostum Monsters
+[17506](https://db.idrowiki.org/klasik/item/17506/) | Kostum AutumnParty
+[17514](https://db.idrowiki.org/klasik/item/17514/) | Kostum HalloweenII
 [17517](https://db.idrowiki.org/klasik/item/17517/) | Animal Costume Scroll
 [17519](https://db.idrowiki.org/klasik/item/17519/) | Epic Heroes Scroll
 [17523](https://db.idrowiki.org/klasik/item/17523/) | Mystical Costume Scroll
@@ -5709,11 +5560,6 @@ Item ID | Nama
 [17674](https://db.idrowiki.org/klasik/item/17674/) | Splash Rainbow Lucky Egg
 [17681](https://db.idrowiki.org/klasik/item/17681/) | Midgard Lucky Scroll
 [17692](https://db.idrowiki.org/klasik/item/17692/) | Blessing Scarlet Egg
-[17719](https://db.idrowiki.org/klasik/item/17719/) | Darkness Box
-[17720](https://db.idrowiki.org/klasik/item/17720/) | Crown Of Deceit Box30
-[17721](https://db.idrowiki.org/klasik/item/17721/) | Ribbon Of Bride Box30
-[17735](https://db.idrowiki.org/klasik/item/17735/) | Horror Box
-[17852](https://db.idrowiki.org/klasik/item/17852/) | Happiness Box
 [18000](https://db.idrowiki.org/klasik/item/18000/) | Cannon Ball
 [18001](https://db.idrowiki.org/klasik/item/18001/) | Holy Cannon Ball
 [18002](https://db.idrowiki.org/klasik/item/18002/) | Dark Cannon Ball
@@ -5730,44 +5576,23 @@ Item ID | Nama
 [18112](https://db.idrowiki.org/klasik/item/18112/) | Upgrade Bow
 [18113](https://db.idrowiki.org/klasik/item/18113/) | Velum Arbalest
 [18114](https://db.idrowiki.org/klasik/item/18114/) | Velum CrossBow
-[18115](https://db.idrowiki.org/klasik/item/18115/) | Bow (Epic)
 [18117](https://db.idrowiki.org/klasik/item/18117/) | Royal Bow
 [18118](https://db.idrowiki.org/klasik/item/18118/) | TE Woe Bow
-[18119](https://db.idrowiki.org/klasik/item/18119/) | Bow (Rare)
 [18120](https://db.idrowiki.org/klasik/item/18120/) | Bow Of Evil Slayer 
-[18121](https://db.idrowiki.org/klasik/item/18121/) | Bow (Epic)
-[18122](https://db.idrowiki.org/klasik/item/18122/) | Composite Bow (Rare)
-[18123](https://db.idrowiki.org/klasik/item/18123/) | Composite Bow (Epic)
 [18124](https://db.idrowiki.org/klasik/item/18124/) | Half BF Bow1
-[18125](https://db.idrowiki.org/klasik/item/18125/) | Composite Bow (Rare)
 [18126](https://db.idrowiki.org/klasik/item/18126/) | Blue Bow
 [18127](https://db.idrowiki.org/klasik/item/18127/) | Ru Gold Bow
-[18128](https://db.idrowiki.org/klasik/item/18128/) | Composite Bow (Epic)
-[18129](https://db.idrowiki.org/klasik/item/18129/) | Cross Bow (Rare)
-[18130](https://db.idrowiki.org/klasik/item/18130/) | Cross Bow (Epic)
-[18131](https://db.idrowiki.org/klasik/item/18131/) | Cross Bow (Rare)
-[18132](https://db.idrowiki.org/klasik/item/18132/) | Cross Bow (Epic)
-[18133](https://db.idrowiki.org/klasik/item/18133/) | Great Bow (Rare)
-[18134](https://db.idrowiki.org/klasik/item/18134/) | Great Bow (Epic)
-[18135](https://db.idrowiki.org/klasik/item/18135/) | Great Bow (Rare)
-[18136](https://db.idrowiki.org/klasik/item/18136/) | Great Bow (Epic)
-[18499](https://db.idrowiki.org/klasik/item/18499/) | Sagittarius Artemisia
-[18503](https://db.idrowiki.org/klasik/item/18503/) | Small Devil Horn
-[18505](https://db.idrowiki.org/klasik/item/18505/) | Umbala Spirit
 [18507](https://db.idrowiki.org/klasik/item/18507/) | Elven Ears
 [18508](https://db.idrowiki.org/klasik/item/18508/) | Garuda Hat
 [18509](https://db.idrowiki.org/klasik/item/18509/) | RWC 2010 Indonesia Cap
-[18510](https://db.idrowiki.org/klasik/item/18510/) | C Blood Angel Hairband
-[18511](https://db.idrowiki.org/klasik/item/18511/) | C Blood Angel Wing Ear
+[18510](https://db.idrowiki.org/klasik/item/18510/) | C Bloody Angel Hairband
 [18514](https://db.idrowiki.org/klasik/item/18514/) | Eden Group Hat II
 [18516](https://db.idrowiki.org/klasik/item/18516/) | RTC 2nd Helm
 [18520](https://db.idrowiki.org/klasik/item/18520/) | Cenderawasih  Crown
 [18521](https://db.idrowiki.org/klasik/item/18521/) | Lucky Clover
 [18522](https://db.idrowiki.org/klasik/item/18522/) | Evil Marching Hat
 [18523](https://db.idrowiki.org/klasik/item/18523/) | Super Cell
-[18524](https://db.idrowiki.org/klasik/item/18524/) | Costume Dokkebi Mask
-[18528](https://db.idrowiki.org/klasik/item/18528/) | Costume Tare Neko Cru
-[18530](https://db.idrowiki.org/klasik/item/18530/) | Thanatos Despero Mask
+[18530](https://db.idrowiki.org/klasik/item/18530/) | Tha Despero Mask
 [18531](https://db.idrowiki.org/klasik/item/18531/) | Drooping Permeter
 [18533](https://db.idrowiki.org/klasik/item/18533/) | Honeybee Hat
 [18536](https://db.idrowiki.org/klasik/item/18536/) | Foxtail
@@ -5775,36 +5600,28 @@ Item ID | Nama
 [18538](https://db.idrowiki.org/klasik/item/18538/) | Devil's Whisper
 [18539](https://db.idrowiki.org/klasik/item/18539/) | Skull Cap
 [18540](https://db.idrowiki.org/klasik/item/18540/) | Evil Mask
-[18541](https://db.idrowiki.org/klasik/item/18541/) | Little Feather Hat
 [18542](https://db.idrowiki.org/klasik/item/18542/) | Benevolent Guardian
 [18543](https://db.idrowiki.org/klasik/item/18543/) | Witchs Hat
-[18546](https://db.idrowiki.org/klasik/item/18546/) | Lover In Mouth
 [18550](https://db.idrowiki.org/klasik/item/18550/) | Asgard Blessing
 [18551](https://db.idrowiki.org/klasik/item/18551/) | Galaxy Circlet
-[18553](https://db.idrowiki.org/klasik/item/18553/) | Christmas Tree Hat
 [18558](https://db.idrowiki.org/klasik/item/18558/) | Sinsuncho Hat
 [18559](https://db.idrowiki.org/klasik/item/18559/) | Fafnir Skin
 [18560](https://db.idrowiki.org/klasik/item/18560/) | Fafnir Mask
-[18561](https://db.idrowiki.org/klasik/item/18561/) | Costume B Feather Beret
 [18563](https://db.idrowiki.org/klasik/item/18563/) | Heart Wing Hairband
 [18564](https://db.idrowiki.org/klasik/item/18564/) | Love Piece
 [18570](https://db.idrowiki.org/klasik/item/18570/) | Ancient Gold Deco
 [18573](https://db.idrowiki.org/klasik/item/18573/) | White Feather Hat
-[18574](https://db.idrowiki.org/klasik/item/18574/) | Lord of Dead Helm
+[18574](https://db.idrowiki.org/klasik/item/18574/) | Helm Of Death
 [18575](https://db.idrowiki.org/klasik/item/18575/) | Wunderkammer
 [18578](https://db.idrowiki.org/klasik/item/18578/) | Helm Of Valor
 [18580](https://db.idrowiki.org/klasik/item/18580/) | Yggdrasil Crown
-[18586](https://db.idrowiki.org/klasik/item/18586/) | Violet Bunny Band
-[18588](https://db.idrowiki.org/klasik/item/18588/) | Silver Bunny Band
 [18589](https://db.idrowiki.org/klasik/item/18589/) | Strawberry Hat
-[18593](https://db.idrowiki.org/klasik/item/18593/) | Fancy Mini Crown
 [18596](https://db.idrowiki.org/klasik/item/18596/) | Sprout Hat
 [18597](https://db.idrowiki.org/klasik/item/18597/) | Mercury Helm
 [18599](https://db.idrowiki.org/klasik/item/18599/) | Black Devil's Mask
 [18600](https://db.idrowiki.org/klasik/item/18600/) | Cat Ears Beret
 [18601](https://db.idrowiki.org/klasik/item/18601/) | Red Bread Hat
 [18603](https://db.idrowiki.org/klasik/item/18603/) | Black Devil's Mask
-[18604](https://db.idrowiki.org/klasik/item/18604/) | Costume Falcon Mask
 [18610](https://db.idrowiki.org/klasik/item/18610/) | Costume Cat ears Beret
 [18613](https://db.idrowiki.org/klasik/item/18613/) | Black Musang Hat
 [18616](https://db.idrowiki.org/klasik/item/18616/) | Long Tongue
@@ -5819,14 +5636,13 @@ Item ID | Nama
 [18642](https://db.idrowiki.org/klasik/item/18642/) | Scissorhand
 [18643](https://db.idrowiki.org/klasik/item/18643/) | Rockhand
 [18644](https://db.idrowiki.org/klasik/item/18644/) | Paperhand
-[18645](https://db.idrowiki.org/klasik/item/18645/) | Sailor Hat
 [18652](https://db.idrowiki.org/klasik/item/18652/) | Vanargandr Helm
 [18653](https://db.idrowiki.org/klasik/item/18653/) | Devi Headphone
-[18655](https://db.idrowiki.org/klasik/item/18655/) | Goedo Monocle
 [18659](https://db.idrowiki.org/klasik/item/18659/) | Boitata Hat
 [18661](https://db.idrowiki.org/klasik/item/18661/) | Trident Helmet
+[18663](https://db.idrowiki.org/klasik/item/18663/) | Costume Sunglasses Baseball Hat
 [18664](https://db.idrowiki.org/klasik/item/18664/) | Blind Glasses
-[18665](https://db.idrowiki.org/klasik/item/18665/) | C Orange In Mouth
+[18665](https://db.idrowiki.org/klasik/item/18665/) | Orange In Mouth
 [18666](https://db.idrowiki.org/klasik/item/18666/) | CD In Mouth
 [18670](https://db.idrowiki.org/klasik/item/18670/) | Handkerchief In Mouth
 [18671](https://db.idrowiki.org/klasik/item/18671/) | Rudolf Hairband
@@ -5845,18 +5661,16 @@ Item ID | Nama
 [18698](https://db.idrowiki.org/klasik/item/18698/) | Cheesy Snack In Mouth
 [18702](https://db.idrowiki.org/klasik/item/18702/) | Shaving Cream
 [18704](https://db.idrowiki.org/klasik/item/18704/) | Drosera Hairpin
-[18709](https://db.idrowiki.org/klasik/item/18709/) | Black Knitted Hat
 [18713](https://db.idrowiki.org/klasik/item/18713/) | Monkey On Fur Hat
 [18718](https://db.idrowiki.org/klasik/item/18718/) | Rose Hairband
 [18727](https://db.idrowiki.org/klasik/item/18727/) | Sedora Hat
-[18728](https://db.idrowiki.org/klasik/item/18728/) | Costume Aegir Helm
+[18728](https://db.idrowiki.org/klasik/item/18728/) | Egir Helm
 [18729](https://db.idrowiki.org/klasik/item/18729/) | MVP Basketball Hat
 [18732](https://db.idrowiki.org/klasik/item/18732/) | TE Woe Cap
 [18733](https://db.idrowiki.org/klasik/item/18733/) | TE Woe Bone Helm
 [18734](https://db.idrowiki.org/klasik/item/18734/) | TE Woe Magic Eyes
 [18736](https://db.idrowiki.org/klasik/item/18736/) | Censor Bar 
 [18737](https://db.idrowiki.org/klasik/item/18737/) | Fortier Mask
-[18738](https://db.idrowiki.org/klasik/item/18738/) | C White Boys Hat
 [18740](https://db.idrowiki.org/klasik/item/18740/) | Costume Hair Of The Strong
 [18741](https://db.idrowiki.org/klasik/item/18741/) | C Will O Wisp
 [18742](https://db.idrowiki.org/klasik/item/18742/) | MoonStar Accessory
@@ -5866,16 +5680,30 @@ Item ID | Nama
 [18747](https://db.idrowiki.org/klasik/item/18747/) | Eyes Of Ifrit
 [18748](https://db.idrowiki.org/klasik/item/18748/) | Gold Ingot Poring Hat
 [18750](https://db.idrowiki.org/klasik/item/18750/) | Poker Card In Mouth
+[18752](https://db.idrowiki.org/klasik/item/18752/) | Cursed Book
 [18754](https://db.idrowiki.org/klasik/item/18754/) | Blood Sucker
 [18755](https://db.idrowiki.org/klasik/item/18755/) | Feather Beret 
 [18756](https://db.idrowiki.org/klasik/item/18756/) | Black Shiba Inu Hat
 [18759](https://db.idrowiki.org/klasik/item/18759/) | Stretched Nose M
-[18779](https://db.idrowiki.org/klasik/item/18779/) | Champ Crown First Place
-[18780](https://db.idrowiki.org/klasik/item/18780/) | Champ Crown Second Place
-[18781](https://db.idrowiki.org/klasik/item/18781/) | Champ Crown Third Place
-[18782](https://db.idrowiki.org/klasik/item/18782/) | Butterfly Wing Ears
+[18760](https://db.idrowiki.org/klasik/item/18760/) | Improved Mage Hat
+[18761](https://db.idrowiki.org/klasik/item/18761/) | Improved Magician Hat
+[18762](https://db.idrowiki.org/klasik/item/18762/) | Improved Kitsune Mask
+[18763](https://db.idrowiki.org/klasik/item/18763/) | Improved Joker Jester
+[18764](https://db.idrowiki.org/klasik/item/18764/) | Improved Bunny Band
+[18765](https://db.idrowiki.org/klasik/item/18765/) | Enhanced Corsair
+[18766](https://db.idrowiki.org/klasik/item/18766/) | Enhanced Helm of Angel
+[18767](https://db.idrowiki.org/klasik/item/18767/) | Enhanced Hat of the Sun God
+[18768](https://db.idrowiki.org/klasik/item/18768/) | Enhanced Bone Helm
+[18769](https://db.idrowiki.org/klasik/item/18769/) | Improved Munak Hat
+[18770](https://db.idrowiki.org/klasik/item/18770/) | Improved Bongun Hat
+[18771](https://db.idrowiki.org/klasik/item/18771/) | Improved Opera Phantom Mask
+[18772](https://db.idrowiki.org/klasik/item/18772/) | Advanced Binoculars
+[18773](https://db.idrowiki.org/klasik/item/18773/) | Advanced Fin Helm
+[18774](https://db.idrowiki.org/klasik/item/18774/) | Advanced Assassin Mask
+[18775](https://db.idrowiki.org/klasik/item/18775/) | Advanced Welding Mask
+[18776](https://db.idrowiki.org/klasik/item/18776/) | Advanced Angel's Kiss
 [18792](https://db.idrowiki.org/klasik/item/18792/) | Indonesian Independence Sakkat
-[18799](https://db.idrowiki.org/klasik/item/18799/) | Nero Mask
+[18793](https://db.idrowiki.org/klasik/item/18793/) | Indonesian Sakkat Box
 [18803](https://db.idrowiki.org/klasik/item/18803/) | Rose Cascade
 [18810](https://db.idrowiki.org/klasik/item/18810/) | Hell Pumpkin Hat
 [18813](https://db.idrowiki.org/klasik/item/18813/) | New Wave Sunglasses
@@ -5886,8 +5714,7 @@ Item ID | Nama
 [18821](https://db.idrowiki.org/klasik/item/18821/) | Rainbow Feather Decoration
 [18823](https://db.idrowiki.org/klasik/item/18823/) | Imperial Feather
 [18827](https://db.idrowiki.org/klasik/item/18827/) | Valkyrie Circlet
-[18832](https://db.idrowiki.org/klasik/item/18832/) | C Baphomet Jr
-[18840](https://db.idrowiki.org/klasik/item/18840/) | Costume King Poring
+[18832](https://db.idrowiki.org/klasik/item/18832/) | Rolf Von Gigue the666th
 [18841](https://db.idrowiki.org/klasik/item/18841/) | Small Poring Band
 [18842](https://db.idrowiki.org/klasik/item/18842/) | Hat Of Girl
 [18843](https://db.idrowiki.org/klasik/item/18843/) | Small Deviling Hat
@@ -5905,6 +5732,7 @@ Item ID | Nama
 [18867](https://db.idrowiki.org/klasik/item/18867/) | Vajra
 [18868](https://db.idrowiki.org/klasik/item/18868/) | Assassin Mask
 [18873](https://db.idrowiki.org/klasik/item/18873/) | Sweet Valentine
+[18874](https://db.idrowiki.org/klasik/item/18874/) | Monocular Glass
 [18878](https://db.idrowiki.org/klasik/item/18878/) | Palace Guard Cap
 [18882](https://db.idrowiki.org/klasik/item/18882/) | Kannam On Head
 [18885](https://db.idrowiki.org/klasik/item/18885/) | Jejecap
@@ -5926,7 +5754,6 @@ Item ID | Nama
 [18909](https://db.idrowiki.org/klasik/item/18909/) | Isabella Brown Ear
 [18910](https://db.idrowiki.org/klasik/item/18910/) | Isabella Blue Ear
 [18914](https://db.idrowiki.org/klasik/item/18914/) | Costume Servant Devilring
-[18916](https://db.idrowiki.org/klasik/item/18916/) | Bear Balloon
 [18917](https://db.idrowiki.org/klasik/item/18917/) | LoveLove Balloon
 [18918](https://db.idrowiki.org/klasik/item/18918/) | Long Octopus Balloon
 [18925](https://db.idrowiki.org/klasik/item/18925/) | GodOfWinds Fan
@@ -5938,36 +5765,25 @@ Item ID | Nama
 [18937](https://db.idrowiki.org/klasik/item/18937/) | Memories Of Lovers
 [18938](https://db.idrowiki.org/klasik/item/18938/) | Astro Circle
 [18940](https://db.idrowiki.org/klasik/item/18940/) | 10 Gallon Hat Of Flame
-[18965](https://db.idrowiki.org/klasik/item/18965/) | Shaving Foam
-[18967](https://db.idrowiki.org/klasik/item/18967/) | Jinn Poring Balloon
+[19015](https://db.idrowiki.org/klasik/item/19015/) | Kostum Gemma's Hairband
 [19019](https://db.idrowiki.org/klasik/item/19019/) | Elemental Crown
 [19020](https://db.idrowiki.org/klasik/item/19020/) | Survive Circlet
 [19021](https://db.idrowiki.org/klasik/item/19021/) | Gigant Helm
 [19024](https://db.idrowiki.org/klasik/item/19024/) | Protect Feathers
 [19031](https://db.idrowiki.org/klasik/item/19031/) | Fallen Angel Blessing
+[19036](https://db.idrowiki.org/klasik/item/19036/) | Adventurer Hat
 [19047](https://db.idrowiki.org/klasik/item/19047/) | Angeling KnitCap
 [19048](https://db.idrowiki.org/klasik/item/19048/) | Elemental Clothes
 [19082](https://db.idrowiki.org/klasik/item/19082/) | Bio Protector
-[19109](https://db.idrowiki.org/klasik/item/19109/) | C Valhalla Idol
+[19083](https://db.idrowiki.org/klasik/item/19083/) | Mask Of Hero
+[19109](https://db.idrowiki.org/klasik/item/19109/) | Valhalla Idol
 [19111](https://db.idrowiki.org/klasik/item/19111/) | Laser of Eagle
+[19115](https://db.idrowiki.org/klasik/item/19115/) | C Red Baby Dragon
 [19116](https://db.idrowiki.org/klasik/item/19116/) | Red Baby Dragon
-[19120](https://db.idrowiki.org/klasik/item/19120/) | Costume Angel Of Happiness
-[19123](https://db.idrowiki.org/klasik/item/19123/) | Costume Queen Anne's Revenge
-[19128](https://db.idrowiki.org/klasik/item/19128/) | Costume Ears Of Ifrit
-[19139](https://db.idrowiki.org/klasik/item/19139/) | Costume Unidentified Flying Orb
-[19143](https://db.idrowiki.org/klasik/item/19143/) | Costume Poring Balloon
-[19148](https://db.idrowiki.org/klasik/item/19148/) | Santa Poring Balloon
-[19153](https://db.idrowiki.org/klasik/item/19153/) | Ghostring Balloon
-[19158](https://db.idrowiki.org/klasik/item/19158/) | Costume GeminiS58 Eyes Blue
-[19173](https://db.idrowiki.org/klasik/item/19173/) | Costume Floating Ice
-[19224](https://db.idrowiki.org/klasik/item/19224/) | Costume Galaxy
-[19274](https://db.idrowiki.org/klasik/item/19274/) | C Cyber Headphone
-[19291](https://db.idrowiki.org/klasik/item/19291/) | C Shiba Inu
-[19311](https://db.idrowiki.org/klasik/item/19311/) | Costume Greater Dracul Horn
-[19328](https://db.idrowiki.org/klasik/item/19328/) | Costume Fancy Spider web Hat
-[19377](https://db.idrowiki.org/klasik/item/19377/) | Mini Melon
-[19380](https://db.idrowiki.org/klasik/item/19380/) | C Protect Cloth
-[19381](https://db.idrowiki.org/klasik/item/19381/) | Costume Spirit of Balance
+[19139](https://db.idrowiki.org/klasik/item/19139/) | SurviveOrb
+[19140](https://db.idrowiki.org/klasik/item/19140/) | Squirrel Ear Hat
+[19173](https://db.idrowiki.org/klasik/item/19173/) | C. Floating Ice
+[19291](https://db.idrowiki.org/klasik/item/19291/) | C. Shiba Inu
 [19507](https://db.idrowiki.org/klasik/item/19507/) | Fine Sun
 [19509](https://db.idrowiki.org/klasik/item/19509/) | Butterfly Wing Ear
 [19510](https://db.idrowiki.org/klasik/item/19510/) | Nut On Head
@@ -5994,88 +5810,66 @@ Item ID | Nama
 [19552](https://db.idrowiki.org/klasik/item/19552/) | C Centimental Flower
 [19553](https://db.idrowiki.org/klasik/item/19553/) | C Assassin Mask 
 [19554](https://db.idrowiki.org/klasik/item/19554/) | C Hahoe Mask
-[19559](https://db.idrowiki.org/klasik/item/19559/) | C B Dragon Hat
-[19561](https://db.idrowiki.org/klasik/item/19561/) | Costume Tucan Hat
 [19567](https://db.idrowiki.org/klasik/item/19567/) | Costume Hattah Black
-[19574](https://db.idrowiki.org/klasik/item/19574/) | Lord of Death
-[19576](https://db.idrowiki.org/klasik/item/19576/) | Costume Tare Pope
+[19574](https://db.idrowiki.org/klasik/item/19574/) | Kostum Dead Man Helm
 [19577](https://db.idrowiki.org/klasik/item/19577/) | 10th Anni Poring Hat
 [19584](https://db.idrowiki.org/klasik/item/19584/) | Costume Pirate Dagger
 [19585](https://db.idrowiki.org/klasik/item/19585/) | C Feather Beret
-[19589](https://db.idrowiki.org/klasik/item/19589/) | C. Black Flying Angel
+[19587](https://db.idrowiki.org/klasik/item/19587/) | C. King Poring Hat
+[19589](https://db.idrowiki.org/klasik/item/19589/) | Fallen Angel's beloning
 [19599](https://db.idrowiki.org/klasik/item/19599/) | C Imp Hat
 [19607](https://db.idrowiki.org/klasik/item/19607/) | Love Chick Hat
-[19611](https://db.idrowiki.org/klasik/item/19611/) | Costume Peco Ears
 [19615](https://db.idrowiki.org/klasik/item/19615/) | C Loki Mask
-[19621](https://db.idrowiki.org/klasik/item/19621/) | C Ear Of Devils Wing
+[19642](https://db.idrowiki.org/klasik/item/19642/) | C Moonlight F Hat
 [19649](https://db.idrowiki.org/klasik/item/19649/) | White Kitten Ears
 [19650](https://db.idrowiki.org/klasik/item/19650/) | Costume Rainbow Feather Decoration
-[19658](https://db.idrowiki.org/klasik/item/19658/) | C Vacation Hat
-[19659](https://db.idrowiki.org/klasik/item/19659/) | C. Brown Beanie
 [19661](https://db.idrowiki.org/klasik/item/19661/) | Sweet Bonnet
-[19676](https://db.idrowiki.org/klasik/item/19676/) | C Rainbow Poring Hat
 [19677](https://db.idrowiki.org/klasik/item/19677/) | C Soulless Wing
-[19678](https://db.idrowiki.org/klasik/item/19678/) | Costume Bell Ribbon
 [19685](https://db.idrowiki.org/klasik/item/19685/) | ShineSantaPoring Hat Costume
 [19689](https://db.idrowiki.org/klasik/item/19689/) | Outfit Ati Atihan
 [19690](https://db.idrowiki.org/klasik/item/19690/) | Outfit Dark Snake Lord Hat
 [19695](https://db.idrowiki.org/klasik/item/19695/) | Outfit Kettle Hat
-[19696](https://db.idrowiki.org/klasik/item/19696/) | C Friend Mochiring Hat
+[19696](https://db.idrowiki.org/klasik/item/19696/) | Outfit Friend Mochiring Hat
 [19697](https://db.idrowiki.org/klasik/item/19697/) | Rudolph Santa Hat Costume
 [19707](https://db.idrowiki.org/klasik/item/19707/) | Polar Bear Cap Costume
 [19709](https://db.idrowiki.org/klasik/item/19709/) | Outfit Yellow Ribbon
-[19712](https://db.idrowiki.org/klasik/item/19712/) | Costume Little Angel Doll
 [19718](https://db.idrowiki.org/klasik/item/19718/) | Outfit Gothic Headdress
-[19721](https://db.idrowiki.org/klasik/item/19721/) | C Dark Randgris Helm
+[19721](https://db.idrowiki.org/klasik/item/19721/) | Outfit Darkness Helm
 [19724](https://db.idrowiki.org/klasik/item/19724/) | Outfit Deprote Doll Hat
 [19728](https://db.idrowiki.org/klasik/item/19728/) | Outfit Tare Zonda
 [19729](https://db.idrowiki.org/klasik/item/19729/) | Outfit Neko Mimi Kafra
-[19738](https://db.idrowiki.org/klasik/item/19738/) | C Renown Detective's Cap
-[19746](https://db.idrowiki.org/klasik/item/19746/) | Costume Executioner Hood
-[19747](https://db.idrowiki.org/klasik/item/19747/) | C Thanatos Despero Mask
 [19750](https://db.idrowiki.org/klasik/item/19750/) | C Saint Frill Ribbon
 [19751](https://db.idrowiki.org/klasik/item/19751/) | C Light Darkness Crown
 [19752](https://db.idrowiki.org/klasik/item/19752/) | C Shelter Wing Ears
-[19753](https://db.idrowiki.org/klasik/item/19753/) | C Hat of Fortune
-[19776](https://db.idrowiki.org/klasik/item/19776/) | C.Tomboy Fairy
 [19780](https://db.idrowiki.org/klasik/item/19780/) | Costume Rabbit Ear Knit Hat
-[19781](https://db.idrowiki.org/klasik/item/19781/) | C Angel Wing Ears
-[19791](https://db.idrowiki.org/klasik/item/19791/) | C Alarm Mask
-[19805](https://db.idrowiki.org/klasik/item/19805/) | Costume Taboo Cursed Scroll
-[19807](https://db.idrowiki.org/klasik/item/19807/) | Costume Majestic Helmet
-[19816](https://db.idrowiki.org/klasik/item/19816/) | C Pecopeco Cap
+[19788](https://db.idrowiki.org/klasik/item/19788/) | Kostum Heart Eyepatch
+[19823](https://db.idrowiki.org/klasik/item/19823/) | Costume White Cat Hood
+[19824](https://db.idrowiki.org/klasik/item/19824/) | C Black Evil Druid Hat
 [19826](https://db.idrowiki.org/klasik/item/19826/) | Costume Ice Wing Ear
 [19827](https://db.idrowiki.org/klasik/item/19827/) | C Amistr Cap
 [19831](https://db.idrowiki.org/klasik/item/19831/) | C Filir Hat
+[19834](https://db.idrowiki.org/klasik/item/19834/) | Kostum Baseball Cap
 [19835](https://db.idrowiki.org/klasik/item/19835/) | C Lif Doll Hat
 [19839](https://db.idrowiki.org/klasik/item/19839/) | C Vanilmirth Hat
 [19842](https://db.idrowiki.org/klasik/item/19842/) | C Puppy Hat
-[19846](https://db.idrowiki.org/klasik/item/19846/) | C Phantom Of Opera
 [19853](https://db.idrowiki.org/klasik/item/19853/) | C Filir Wing Ears
-[19871](https://db.idrowiki.org/klasik/item/19871/) | Costume Music Decoration
+[19883](https://db.idrowiki.org/klasik/item/19883/) | Costume Piamette Hood
 [19884](https://db.idrowiki.org/klasik/item/19884/) | Costume Vanargandr Helm
-[19885](https://db.idrowiki.org/klasik/item/19885/) | Costume Blinker
 [19903](https://db.idrowiki.org/klasik/item/19903/) | C Witchs Hat
-[19910](https://db.idrowiki.org/klasik/item/19910/) | Costume Halloween Hat
+[19910](https://db.idrowiki.org/klasik/item/19910/) | C Halloween Hat
 [19917](https://db.idrowiki.org/klasik/item/19917/) | C Gloomy Pumpkin Hat
 [19918](https://db.idrowiki.org/klasik/item/19918/) | C Lude Mask
 [19919](https://db.idrowiki.org/klasik/item/19919/) | C Cube Mask 
 [19920](https://db.idrowiki.org/klasik/item/19920/) | C Adv Whisper Mask
 [19929](https://db.idrowiki.org/klasik/item/19929/) | Costume Classical Ribbon
-[19931](https://db.idrowiki.org/klasik/item/19931/) | C Lazy Smokie
-[19934](https://db.idrowiki.org/klasik/item/19934/) | Costume Gallon Hat of Flame
-[19935](https://db.idrowiki.org/klasik/item/19935/) | C Hunting Cap Of Gust
-[19936](https://db.idrowiki.org/klasik/item/19936/) | C Knit Cap Of Water
-[19937](https://db.idrowiki.org/klasik/item/19937/) | C Silk Hat Of Earth
 [19955](https://db.idrowiki.org/klasik/item/19955/) | Mini Tree J Costume
-[19957](https://db.idrowiki.org/klasik/item/19957/) | C Scooter Hat
 [19976](https://db.idrowiki.org/klasik/item/19976/) | Cat Santa Hat Costume
 [19982](https://db.idrowiki.org/klasik/item/19982/) | Santa Hat Costume
 [19985](https://db.idrowiki.org/klasik/item/19985/) | Costume Aura Quartz Crown
 [19986](https://db.idrowiki.org/klasik/item/19986/) | Costume Lunatic Hat
 [19987](https://db.idrowiki.org/klasik/item/19987/) | Costume Blue Fur Hat
 [19988](https://db.idrowiki.org/klasik/item/19988/) | Costume Elder Crown
-[19989](https://db.idrowiki.org/klasik/item/19989/) | C. Mouton Life
+[19989](https://db.idrowiki.org/klasik/item/19989/) | Costume Mouton Life
 [19990](https://db.idrowiki.org/klasik/item/19990/) | Costume Snow Rabbit Knit Hat
 [19991](https://db.idrowiki.org/klasik/item/19991/) | Costume Galanthus Guard
 [19992](https://db.idrowiki.org/klasik/item/19992/) | Costume Chilly Breath
@@ -6085,7 +5879,7 @@ Item ID | Nama
 [20007](https://db.idrowiki.org/klasik/item/20007/) | Costume Bullock Helm J
 [20008](https://db.idrowiki.org/klasik/item/20008/) | Costume General Helmet
 [20009](https://db.idrowiki.org/klasik/item/20009/) | Costume Dragon Skull
-[20010](https://db.idrowiki.org/klasik/item/20010/) | Costume Rainbow Wing Ears
+[20010](https://db.idrowiki.org/klasik/item/20010/) | C Rainbow Wing Ears
 [20011](https://db.idrowiki.org/klasik/item/20011/) | Costume Lightning Speed
 [20012](https://db.idrowiki.org/klasik/item/20012/) | Costume Double Horn Helm
 [20014](https://db.idrowiki.org/klasik/item/20014/) | C Lincoln Hat
@@ -6093,8 +5887,14 @@ Item ID | Nama
 [20016](https://db.idrowiki.org/klasik/item/20016/) | C Cool dinner hat
 [20018](https://db.idrowiki.org/klasik/item/20018/) | C Holo ear
 [20019](https://db.idrowiki.org/klasik/item/20019/) | C Beret Of Artist
-[20033](https://db.idrowiki.org/klasik/item/20033/) | C Buddhist Priest Crown
-[20037](https://db.idrowiki.org/klasik/item/20037/) | Costume Owlduke Silk Hat
+[20020](https://db.idrowiki.org/klasik/item/20020/) | Kostum Zaha Doll Topi J
+[20021](https://db.idrowiki.org/klasik/item/20021/) | Kostum Heart Ribbon Band
+[20022](https://db.idrowiki.org/klasik/item/20022/) | C Love Piece
+[20023](https://db.idrowiki.org/klasik/item/20023/) | Kostum Red Beret
+[20024](https://db.idrowiki.org/klasik/item/20024/) | Kostum Ribbon Orange
+[20031](https://db.idrowiki.org/klasik/item/20031/) | Kostum Bunny Head Dress
+[20032](https://db.idrowiki.org/klasik/item/20032/) | Kostum Firinto Scarf
+[20033](https://db.idrowiki.org/klasik/item/20033/) | Kostum Buddhist Priest Crown
 [20038](https://db.idrowiki.org/klasik/item/20038/) | C Alphonse Helmet
 [20039](https://db.idrowiki.org/klasik/item/20039/) | C Butterfly Wing Ear J
 [20040](https://db.idrowiki.org/klasik/item/20040/) | C Rose Crown
@@ -6106,9 +5906,6 @@ Item ID | Nama
 [20046](https://db.idrowiki.org/klasik/item/20046/) | C Decoration bluerose
 [20047](https://db.idrowiki.org/klasik/item/20047/) | C Pray Cherry Blossom
 [20048](https://db.idrowiki.org/klasik/item/20048/) | C Wind Of The Prairie
-[20062](https://db.idrowiki.org/klasik/item/20062/) | Costume Angel Stairs
-[20063](https://db.idrowiki.org/klasik/item/20063/) | Yellow Brain Hat
-[20064](https://db.idrowiki.org/klasik/item/20064/) | Blue Brain Hat
 [20065](https://db.idrowiki.org/klasik/item/20065/) | C Hairband Of Grandpeco
 [20066](https://db.idrowiki.org/klasik/item/20066/) | C Pecopeco Hairband
 [20069](https://db.idrowiki.org/klasik/item/20069/) | C Gryphon Hairband
@@ -6118,13 +5915,10 @@ Item ID | Nama
 [20076](https://db.idrowiki.org/klasik/item/20076/) | C Idun Wing Ears
 [20077](https://db.idrowiki.org/klasik/item/20077/) | C Wing Form Spectacle
 [20078](https://db.idrowiki.org/klasik/item/20078/) | C White Feather
-[20079](https://db.idrowiki.org/klasik/item/20079/) | C Flapping Golden Angelwing
+[20079](https://db.idrowiki.org/klasik/item/20079/) | C Love Daddy 2013
 [20080](https://db.idrowiki.org/klasik/item/20080/) | C Shaman's Hair Ornament
-[20081](https://db.idrowiki.org/klasik/item/20081/) | Costume Metal Dragon Helm
-[20083](https://db.idrowiki.org/klasik/item/20083/) | Costume Mirsit Hat
-[20086](https://db.idrowiki.org/klasik/item/20086/) | Costume Dragon Cintamani Hat
 [20098](https://db.idrowiki.org/klasik/item/20098/) | C Vampire Hairband
-[20099](https://db.idrowiki.org/klasik/item/20099/) | C Flying Ljosalfar
+[20099](https://db.idrowiki.org/klasik/item/20099/) | Flying Ljosalfar
 [20100](https://db.idrowiki.org/klasik/item/20100/) | C Volume Fhat
 [20101](https://db.idrowiki.org/klasik/item/20101/) | C Bragi Wing Ears
 [20105](https://db.idrowiki.org/klasik/item/20105/) | Costume Fish Head Hat
@@ -6133,27 +5927,38 @@ Item ID | Nama
 [20108](https://db.idrowiki.org/klasik/item/20108/) | Costume Blind Glasses
 [20109](https://db.idrowiki.org/klasik/item/20109/) | Costume Jolly Roger
 [20112](https://db.idrowiki.org/klasik/item/20112/) | Aqua Ten Gallon Hat
-[20113](https://db.idrowiki.org/klasik/item/20113/) | Costume Star Reading Hat
+[20113](https://db.idrowiki.org/klasik/item/20113/) | Star Reading Hat
 [20115](https://db.idrowiki.org/klasik/item/20115/) | Under Rim Glasses
 [20116](https://db.idrowiki.org/klasik/item/20116/) | Mermaid Headphone
 [20117](https://db.idrowiki.org/klasik/item/20117/) | Raspberry Mousse Hat
-[20126](https://db.idrowiki.org/klasik/item/20126/) | C Thanatos Mal Mask
-[20130](https://db.idrowiki.org/klasik/item/20130/) | C Whisper Tall Hat
-[20131](https://db.idrowiki.org/klasik/item/20131/) | C Clock Tower Manager
-[20132](https://db.idrowiki.org/klasik/item/20132/) | C Subject Aura
-[20133](https://db.idrowiki.org/klasik/item/20133/) | Costume Poring Mascot Costume
-[20147](https://db.idrowiki.org/klasik/item/20147/) | Costume Bell of Pigeon
-[20148](https://db.idrowiki.org/klasik/item/20148/) | C Noble Hat
-[20152](https://db.idrowiki.org/klasik/item/20152/) | C Straw Rice Bag
-[20154](https://db.idrowiki.org/klasik/item/20154/) | C Maple Which Falls
-[20155](https://db.idrowiki.org/klasik/item/20155/) | C Ladys Feather Hat
-[20156](https://db.idrowiki.org/klasik/item/20156/) | C Fan in Mouth
-[20160](https://db.idrowiki.org/klasik/item/20160/) | Costume Magnolia Hat
-[20168](https://db.idrowiki.org/klasik/item/20168/) | Costume Skull Hood
-[20171](https://db.idrowiki.org/klasik/item/20171/) | C Sepia Cap
-[20172](https://db.idrowiki.org/klasik/item/20172/) | Costume Pumpkin Head
-[20173](https://db.idrowiki.org/klasik/item/20173/) | Costume Lude Hood
-[20175](https://db.idrowiki.org/klasik/item/20175/) | Costume Diabolic Headphone
+[20126](https://db.idrowiki.org/klasik/item/20126/) | Kostum Thanatos Topie Topeng
+[20127](https://db.idrowiki.org/klasik/item/20127/) | Kostum Abyss Helm
+[20128](https://db.idrowiki.org/klasik/item/20128/) | Kostum Remover Topi
+[20129](https://db.idrowiki.org/klasik/item/20129/) | Kostum Poporing Topi
+[20130](https://db.idrowiki.org/klasik/item/20130/) | Kostum Whisper Tall Topi
+[20131](https://db.idrowiki.org/klasik/item/20131/) | Kostum Clocktower Manager Topi
+[20132](https://db.idrowiki.org/klasik/item/20132/) | Kostum Subject Aura
+[20133](https://db.idrowiki.org/klasik/item/20133/) | Kostum Overlapped Poring
+[20134](https://db.idrowiki.org/klasik/item/20134/) | White Abyss Knight Helm
+[20148](https://db.idrowiki.org/klasik/item/20148/) | Kostum Noble Hat
+[20149](https://db.idrowiki.org/klasik/item/20149/) | Kostum Hexagon Spectacles
+[20150](https://db.idrowiki.org/klasik/item/20150/) | Kostum GodOfWinds Fan
+[20151](https://db.idrowiki.org/klasik/item/20151/) | Kostum Poison Spore Hat
+[20152](https://db.idrowiki.org/klasik/item/20152/) | Kostum Straw Rice Bag
+[20153](https://db.idrowiki.org/klasik/item/20153/) | Kostum Monochrome Cap
+[20154](https://db.idrowiki.org/klasik/item/20154/) | Kostum Maple Which Falls
+[20155](https://db.idrowiki.org/klasik/item/20155/) | Kostum Ladys Feather Hat
+[20156](https://db.idrowiki.org/klasik/item/20156/) | Kostum Fan In Mouth
+[20166](https://db.idrowiki.org/klasik/item/20166/) | Kostum Hockey Mask
+[20167](https://db.idrowiki.org/klasik/item/20167/) | Kostum Devi Headphone
+[20168](https://db.idrowiki.org/klasik/item/20168/) | Kostum Skull Jhood
+[20169](https://db.idrowiki.org/klasik/item/20169/) | Kostum Long Tongue
+[20170](https://db.idrowiki.org/klasik/item/20170/) | Kostum Gray Deviruchi Cap
+[20171](https://db.idrowiki.org/klasik/item/20171/) | Kostum Sepia Cap
+[20172](https://db.idrowiki.org/klasik/item/20172/) | Kostum Pumpkin Head
+[20173](https://db.idrowiki.org/klasik/item/20173/) | Kostum Lude Hood
+[20174](https://db.idrowiki.org/klasik/item/20174/) | Kostum Halloween Hat Orange
+[20175](https://db.idrowiki.org/klasik/item/20175/) | Kostum Diabolic Headphone
 [20183](https://db.idrowiki.org/klasik/item/20183/) | C There Is Something
 [20190](https://db.idrowiki.org/klasik/item/20190/) | C Chicken Hat
 [20191](https://db.idrowiki.org/klasik/item/20191/) | C Black Cat Ears Beret
@@ -6161,120 +5966,103 @@ Item ID | Nama
 [20193](https://db.idrowiki.org/klasik/item/20193/) | C Foxtail
 [20194](https://db.idrowiki.org/klasik/item/20194/) | C Lion Mask
 [20195](https://db.idrowiki.org/klasik/item/20195/) | C Scratching Cat
-[20196](https://db.idrowiki.org/klasik/item/20196/) | Costume Leopard Hat
+[20196](https://db.idrowiki.org/klasik/item/20196/) | C Leopard Ear Hat
 [20197](https://db.idrowiki.org/klasik/item/20197/) | C Amistr Beret
 [20198](https://db.idrowiki.org/klasik/item/20198/) | C Misty Ears
 [20213](https://db.idrowiki.org/klasik/item/20213/) | C Sirt Evil Eye
 [20214](https://db.idrowiki.org/klasik/item/20214/) | C Evil Marcher Hat
 [20215](https://db.idrowiki.org/klasik/item/20215/) | C Black Devil Mask
 [20216](https://db.idrowiki.org/klasik/item/20216/) | C Rideword Hat
-[20217](https://db.idrowiki.org/klasik/item/20217/) | C. Arabian Veil.
+[20217](https://db.idrowiki.org/klasik/item/20217/) | C Arabian Veil
 [20218](https://db.idrowiki.org/klasik/item/20218/) | C Spell Circuit
 [20219](https://db.idrowiki.org/klasik/item/20219/) | C Angel Marcher Hat
 [20220](https://db.idrowiki.org/klasik/item/20220/) | C Dark Night Veil
 [20221](https://db.idrowiki.org/klasik/item/20221/) | C Eyes Of Ifrit
 [20222](https://db.idrowiki.org/klasik/item/20222/) | Blue Pigtail Santa Hat Costume
-[20227](https://db.idrowiki.org/klasik/item/20227/) | Costume Husky Hat
-[20231](https://db.idrowiki.org/klasik/item/20231/) | Costume Snowman Hat
 [20234](https://db.idrowiki.org/klasik/item/20234/) | Costume Baphomet Hat
-[20236](https://db.idrowiki.org/klasik/item/20236/) | C Archangeling Hat
 [20240](https://db.idrowiki.org/klasik/item/20240/) | C Gift Of Snow
-[20242](https://db.idrowiki.org/klasik/item/20242/) | Costume Snownow Hat
-[20248](https://db.idrowiki.org/klasik/item/20248/) | C Black Strong Hair
-[20249](https://db.idrowiki.org/klasik/item/20249/) | C Red Strong Hair
-[20250](https://db.idrowiki.org/klasik/item/20250/) | C White Strong Hair
+[20242](https://db.idrowiki.org/klasik/item/20242/) | C Snownow Hat
+[20249](https://db.idrowiki.org/klasik/item/20249/) | C Red Hair of the Strong
 [20255](https://db.idrowiki.org/klasik/item/20255/) | Costume Love Cheek
-[20261](https://db.idrowiki.org/klasik/item/20261/) | C White Strong Hair
 [20268](https://db.idrowiki.org/klasik/item/20268/) | C Sleep Eclipse Family
-[20270](https://db.idrowiki.org/klasik/item/20270/) | C Gryphon Wing Ears
-[20273](https://db.idrowiki.org/klasik/item/20273/) | Costume Soft Sheep Hat
 [20285](https://db.idrowiki.org/klasik/item/20285/) | C Blossom Fluttering
-[20290](https://db.idrowiki.org/klasik/item/20290/) | C Black Evil Druid Hat
-[20302](https://db.idrowiki.org/klasik/item/20302/) | C Beelzebub Crown
-[20312](https://db.idrowiki.org/klasik/item/20312/) | C Baron's Evil Eye
+[20312](https://db.idrowiki.org/klasik/item/20312/) | C Baron Evil Eye
 [20315](https://db.idrowiki.org/klasik/item/20315/) | C Analyze Eye
 [20316](https://db.idrowiki.org/klasik/item/20316/) | C Seraph Wing Helm
-[20317](https://db.idrowiki.org/klasik/item/20317/) | C Nekomimi Cyber Headphone
+[20319](https://db.idrowiki.org/klasik/item/20319/) | C Crimson Booster
 [20324](https://db.idrowiki.org/klasik/item/20324/) | C Pigeon Hat
-[20325](https://db.idrowiki.org/klasik/item/20325/) | C Little Mermaid
-[20329](https://db.idrowiki.org/klasik/item/20329/) | C.Very Cute Doll Hat
-[20344](https://db.idrowiki.org/klasik/item/20344/) | C Happy Balloon
-[20375](https://db.idrowiki.org/klasik/item/20375/) | C Ignis Cap
+[20325](https://db.idrowiki.org/klasik/item/20325/) | C Little Aquarium
+[20347](https://db.idrowiki.org/klasik/item/20347/) | C Poring Pirate Hat
 [20397](https://db.idrowiki.org/klasik/item/20397/) | Jakk
-[20398](https://db.idrowiki.org/klasik/item/20398/) | C Niflheim Bunny Hat
-[20401](https://db.idrowiki.org/klasik/item/20401/) | Costume Angel Guidance
-[20403](https://db.idrowiki.org/klasik/item/20403/) | C Dolor Thanatos
+[20401](https://db.idrowiki.org/klasik/item/20401/) | C Angel Guidance
 [20404](https://db.idrowiki.org/klasik/item/20404/) | C Blessing Of Angels
-[20405](https://db.idrowiki.org/klasik/item/20405/) | Costume Eremes Scarf
+[20405](https://db.idrowiki.org/klasik/item/20405/) | Eremes Scarf
 [20406](https://db.idrowiki.org/klasik/item/20406/) | Commandments Of Chain
-[20407](https://db.idrowiki.org/klasik/item/20407/) | Costume Subject Aura Red
-[20415](https://db.idrowiki.org/klasik/item/20415/) | C Thanatos Maero Mask
-[20426](https://db.idrowiki.org/klasik/item/20426/) | C Ghostring Balloon
+[20407](https://db.idrowiki.org/klasik/item/20407/) | C Subject Aura Red
 [20430](https://db.idrowiki.org/klasik/item/20430/) | Costume Morocc Kid Servant
-[20440](https://db.idrowiki.org/klasik/item/20440/) | Costume Tone of Gold
-[20444](https://db.idrowiki.org/klasik/item/20444/) | C Aniv Star Hat
-[20446](https://db.idrowiki.org/klasik/item/20446/) | Costume Bunny Egg Shell
-[20447](https://db.idrowiki.org/klasik/item/20447/) | C Small Poring Band
-[20448](https://db.idrowiki.org/klasik/item/20448/) | C Water Spellcaster
-[20450](https://db.idrowiki.org/klasik/item/20450/) | C Gram Peony
-[20451](https://db.idrowiki.org/klasik/item/20451/) | Costume Night Sky of Memory
-[20456](https://db.idrowiki.org/klasik/item/20456/) | Costume Combat Vestige
-[20458](https://db.idrowiki.org/klasik/item/20458/) | Costume Wild Poring Rider
-[20465](https://db.idrowiki.org/klasik/item/20465/) | C. Black Framed Glasses
-[20468](https://db.idrowiki.org/klasik/item/20468/) | Costume You in ONE Mask
+[20433](https://db.idrowiki.org/klasik/item/20433/) | C Louise Red Hat
+[20434](https://db.idrowiki.org/klasik/item/20434/) | Costume: Drooping Gunslinger
+[20442](https://db.idrowiki.org/klasik/item/20442/) | C RW Mochiring Hat
+[20446](https://db.idrowiki.org/klasik/item/20446/) | C Bunny Eggshell
+[20459](https://db.idrowiki.org/klasik/item/20459/) | C Valhalla Idol
 [20470](https://db.idrowiki.org/klasik/item/20470/) | C SweetChocolate Hat
-[20480](https://db.idrowiki.org/klasik/item/20480/) | Anniversary Officer Hat
-[20492](https://db.idrowiki.org/klasik/item/20492/) | C. Whistle
-[20495](https://db.idrowiki.org/klasik/item/20495/) | Costume Quati Hat
+[20480](https://db.idrowiki.org/klasik/item/20480/) | C Dog Officer
 [20500](https://db.idrowiki.org/klasik/item/20500/) | C Archangel Wing
-[20501](https://db.idrowiki.org/klasik/item/20501/) | C Mechanic Wing
-[20502](https://db.idrowiki.org/klasik/item/20502/) | C Demonic Lilith Wings
-[20504](https://db.idrowiki.org/klasik/item/20504/) | C Cupid Wing Pink
-[20505](https://db.idrowiki.org/klasik/item/20505/) | C Cupid Wing Skyblue
 [20509](https://db.idrowiki.org/klasik/item/20509/) | C Wings Of Uriel
 [20510](https://db.idrowiki.org/klasik/item/20510/) | C Sword Wing
-[20511](https://db.idrowiki.org/klasik/item/20511/) | C Blue Fairy Wing
 [20514](https://db.idrowiki.org/klasik/item/20514/) | C Thanatos Sword
-[20515](https://db.idrowiki.org/klasik/item/20515/) | C Magic Circle
-[20516](https://db.idrowiki.org/klasik/item/20516/) | C Wings of Michael
+[20515](https://db.idrowiki.org/klasik/item/20515/) | Costume Magic Circle
+[20516](https://db.idrowiki.org/klasik/item/20516/) | C Wings Of Michael
 [20700](https://db.idrowiki.org/klasik/item/20700/) | Egir Manteau
 [20702](https://db.idrowiki.org/klasik/item/20702/) | TE Woe Muffler
 [20703](https://db.idrowiki.org/klasik/item/20703/) | TE Woe Manteau
 [20704](https://db.idrowiki.org/klasik/item/20704/) | TE Woe Magic Manteau
-[20706](https://db.idrowiki.org/klasik/item/20706/) | C Amistr Bag
+[20706](https://db.idrowiki.org/klasik/item/20706/) | Amistr Bag
 [20707](https://db.idrowiki.org/klasik/item/20707/) | Kirin Wing
 [20709](https://db.idrowiki.org/klasik/item/20709/) | Mana Manteau
-[20724](https://db.idrowiki.org/klasik/item/20724/) | Love Dad Wings 2018
+[20710](https://db.idrowiki.org/klasik/item/20710/) | Advanced Angelic Cardigan
+[20717](https://db.idrowiki.org/klasik/item/20717/) | Giant Faceworm Snake Skin
+[20718](https://db.idrowiki.org/klasik/item/20718/) | Giant Faceworm Snake Skin
+[20724](https://db.idrowiki.org/klasik/item/20724/) | Love Dad Wings 2012
 [20725](https://db.idrowiki.org/klasik/item/20725/) | Ribbon Piamat
-[20727](https://db.idrowiki.org/klasik/item/20727/) | C Golden Archangel Wing
+[20727](https://db.idrowiki.org/klasik/item/20727/) | Brilliant Golden Wings
 [20730](https://db.idrowiki.org/klasik/item/20730/) | Loyalists Hood
 [20737](https://db.idrowiki.org/klasik/item/20737/) | C Kirin Wing
-[20746](https://db.idrowiki.org/klasik/item/20746/) | Costume Rudra Wing
-[20748](https://db.idrowiki.org/klasik/item/20748/) | Manteau Of Fallen
-[20751](https://db.idrowiki.org/klasik/item/20751/) | Costume Fallen Angel Wing
+[20746](https://db.idrowiki.org/klasik/item/20746/) | C Rudra Wings
 [20753](https://db.idrowiki.org/klasik/item/20753/) | Lian Robe
 [20761](https://db.idrowiki.org/klasik/item/20761/) | C Wing Of Happiness
 [20762](https://db.idrowiki.org/klasik/item/20762/) | C Great Devil Wing
-[20763](https://db.idrowiki.org/klasik/item/20763/) | Amistr Bag
-[20766](https://db.idrowiki.org/klasik/item/20766/) | C GreatDevilWing
-[20768](https://db.idrowiki.org/klasik/item/20768/) | C Archangel Wing
-[20769](https://db.idrowiki.org/klasik/item/20769/) | C SwordWing
+[20778](https://db.idrowiki.org/klasik/item/20778/) | Red Lotus Stole
 [20783](https://db.idrowiki.org/klasik/item/20783/) | Hero Cape
 [20797](https://db.idrowiki.org/klasik/item/20797/) | Etran Shirt
 [20798](https://db.idrowiki.org/klasik/item/20798/) | Costume Reaper's Grace
-[20802](https://db.idrowiki.org/klasik/item/20802/) | C Wings Of Gabriel
-[20839](https://db.idrowiki.org/klasik/item/20839/) | C Light Darkness Wing
-[20862](https://db.idrowiki.org/klasik/item/20862/) | C. Tas Mudik Gravindo
+[20815](https://db.idrowiki.org/klasik/item/20815/) | SeraphimRobe
+[20862](https://db.idrowiki.org/klasik/item/20862/) | C Tas Mudik Gravindo
 [21000](https://db.idrowiki.org/klasik/item/21000/) | Upgrade Twohand Sword
 [21001](https://db.idrowiki.org/klasik/item/21001/) | Velum Claymore
 [21002](https://db.idrowiki.org/klasik/item/21002/) | Velum Katzbalger
+[21003](https://db.idrowiki.org/klasik/item/21003/) | Muramasa 
 [21006](https://db.idrowiki.org/klasik/item/21006/) | TE Woe Two Hand Sword
+[21007](https://db.idrowiki.org/klasik/item/21007/) | Heavy Sword
 [21010](https://db.idrowiki.org/klasik/item/21010/) | Tw Sword Of Evil Slayer
 [21012](https://db.idrowiki.org/klasik/item/21012/) | Some Wizard MagicSword
 [21013](https://db.idrowiki.org/klasik/item/21013/) | Hetairoi Sword
 [21019](https://db.idrowiki.org/klasik/item/21019/) | Onimaru
-[21999](https://db.idrowiki.org/klasik/item/21999/) | Aries Caladbolg
+[22000](https://db.idrowiki.org/klasik/item/22000/) | Temporal Str Boots
+[22001](https://db.idrowiki.org/klasik/item/22001/) | Temporal Int Boots
+[22002](https://db.idrowiki.org/klasik/item/22002/) | Temporal Agi Boots
+[22003](https://db.idrowiki.org/klasik/item/22003/) | Temporal Vit Boots
+[22004](https://db.idrowiki.org/klasik/item/22004/) | Temporal Dex Boots
+[22005](https://db.idrowiki.org/klasik/item/22005/) | Temporal Luk Boots
+[22006](https://db.idrowiki.org/klasik/item/22006/) | Temporal Str Boots 
+[22007](https://db.idrowiki.org/klasik/item/22007/) | Temporal Vit Boots 
+[22008](https://db.idrowiki.org/klasik/item/22008/) | Temporal Dex Boots 
+[22009](https://db.idrowiki.org/klasik/item/22009/) | Temporal Int Boots 
+[22010](https://db.idrowiki.org/klasik/item/22010/) | Temporal Agi Boots 
+[22011](https://db.idrowiki.org/klasik/item/22011/) | Temporal Luk Boots 
 [22012](https://db.idrowiki.org/klasik/item/22012/) | Mana Boots
+[22014](https://db.idrowiki.org/klasik/item/22014/) | Enhanced Variant Shoes
+[22015](https://db.idrowiki.org/klasik/item/22015/) | Advanced Angel's Reincarnation
 [22018](https://db.idrowiki.org/klasik/item/22018/) | Shoes Of Wise Man
 [22042](https://db.idrowiki.org/klasik/item/22042/) | Talaria Shoes
 [22064](https://db.idrowiki.org/klasik/item/22064/) | Thorny Shoes
@@ -6283,11 +6071,14 @@ Item ID | Nama
 [22072](https://db.idrowiki.org/klasik/item/22072/) | Hikingboots
 [22082](https://db.idrowiki.org/klasik/item/22082/) | Polyhedron Shoes
 [22103](https://db.idrowiki.org/klasik/item/22103/) | Excelion Leg
+[22106](https://db.idrowiki.org/klasik/item/22106/) | Giant Boots
+[22507](https://db.idrowiki.org/klasik/item/22507/) | Shabby Old Scroll
 [22508](https://db.idrowiki.org/klasik/item/22508/) | Para Team Mark 
 [22514](https://db.idrowiki.org/klasik/item/22514/) | Candy Holder
+[22515](https://db.idrowiki.org/klasik/item/22515/) | Twisted Time Key
 [22518](https://db.idrowiki.org/klasik/item/22518/) | Egg Of Wisdom
-[22530](https://db.idrowiki.org/klasik/item/22530/) | Kado Spesial Natal
-[22531](https://db.idrowiki.org/klasik/item/22531/) | Christmas Box
+[22530](https://db.idrowiki.org/klasik/item/22530/) | Christmas Box
+[22531](https://db.idrowiki.org/klasik/item/22531/) | Special Christmas Box
 [22532](https://db.idrowiki.org/klasik/item/22532/) | Santa Gift
 [22538](https://db.idrowiki.org/klasik/item/22538/) | Hanbok bag
 [22542](https://db.idrowiki.org/klasik/item/22542/) | Potion Concentration
@@ -6302,52 +6093,31 @@ Item ID | Nama
 [22685](https://db.idrowiki.org/klasik/item/22685/) | Solo Christmas Gift
 [22686](https://db.idrowiki.org/klasik/item/22686/) | Solo Cookie
 [22708](https://db.idrowiki.org/klasik/item/22708/) | Thrilling Box
-[22826](https://db.idrowiki.org/klasik/item/22826/) | Garment Enchant Stone Box
+[22737](https://db.idrowiki.org/klasik/item/22737/) | Bullet Case Blood 
+[22738](https://db.idrowiki.org/klasik/item/22738/) | Bullet Case Silver 
+[22739](https://db.idrowiki.org/klasik/item/22739/) | Sphere Case Wind 
+[22740](https://db.idrowiki.org/klasik/item/22740/) | Sphere Case Darkness 
+[22741](https://db.idrowiki.org/klasik/item/22741/) | Sphere Case Poison 
+[22742](https://db.idrowiki.org/klasik/item/22742/) | Sphere Case Water 
+[22743](https://db.idrowiki.org/klasik/item/22743/) | Sphere Case Fire 
+[22744](https://db.idrowiki.org/klasik/item/22744/) | Bullet Case AP
+[22745](https://db.idrowiki.org/klasik/item/22745/) | Bullet Case Blaze
+[22746](https://db.idrowiki.org/klasik/item/22746/) | Bullet Case Fleeze
+[22747](https://db.idrowiki.org/klasik/item/22747/) | Bullet Case Electric
+[22748](https://db.idrowiki.org/klasik/item/22748/) | Bullet Case Stone
+[22749](https://db.idrowiki.org/klasik/item/22749/) | Sanctified Bullet Case
+[22808](https://db.idrowiki.org/klasik/item/22808/) | Christmas Box
 [22838](https://db.idrowiki.org/klasik/item/22838/) | Something Candy Holder
 [22870](https://db.idrowiki.org/klasik/item/22870/) | Christmas Package
-[23197](https://db.idrowiki.org/klasik/item/23197/) | Firecracker Box
-[23198](https://db.idrowiki.org/klasik/item/23198/) | Louyang Box
-[23320](https://db.idrowiki.org/klasik/item/23320/) | Melon Juice
-[23321](https://db.idrowiki.org/klasik/item/23321/) | Sweet Melon Juice
-[23322](https://db.idrowiki.org/klasik/item/23322/) | Melon Parfait
-[23436](https://db.idrowiki.org/klasik/item/23436/) | Box 100 Siege Blue Potion 100
-[23437](https://db.idrowiki.org/klasik/item/23437/) | Box Siege White Potion 100
-[23723](https://db.idrowiki.org/klasik/item/23723/) | Melon Bread
-[24180](https://db.idrowiki.org/klasik/item/24180/) | Ancient Suit
-[24181](https://db.idrowiki.org/klasik/item/24181/) | Ancient Cloak
-[24182](https://db.idrowiki.org/klasik/item/24182/) | Ancient Shoes
-[24183](https://db.idrowiki.org/klasik/item/24183/) | Ancient Emblem
-[25020](https://db.idrowiki.org/klasik/item/25020/) | SP2 Stone (Garment)
-[25021](https://db.idrowiki.org/klasik/item/25021/) | SP3 Stone (Garment)
-[25022](https://db.idrowiki.org/klasik/item/25022/) | STR1 Stone (Lower)
-[25023](https://db.idrowiki.org/klasik/item/25023/) | STR2 Stone (Lower)
-[25024](https://db.idrowiki.org/klasik/item/25024/) | STR3 Stone (Lower)
-[25025](https://db.idrowiki.org/klasik/item/25025/) | AGI1 Stone (Lower)
-[25026](https://db.idrowiki.org/klasik/item/25026/) | AGI2 Stone (Lower)
-[25027](https://db.idrowiki.org/klasik/item/25027/) | AGI3 Stone (Lower)
-[25028](https://db.idrowiki.org/klasik/item/25028/) | INT1 Stone (Lower)
-[25029](https://db.idrowiki.org/klasik/item/25029/) | INT2 Stone (Lower)
-[25030](https://db.idrowiki.org/klasik/item/25030/) | INT3 Stone (Lower)
-[25031](https://db.idrowiki.org/klasik/item/25031/) | VIT1 Stone (Lower)
-[25032](https://db.idrowiki.org/klasik/item/25032/) | VIT2 Stone (Lower)
-[25033](https://db.idrowiki.org/klasik/item/25033/) | VIT3 Stone (Lower)
-[25034](https://db.idrowiki.org/klasik/item/25034/) | DEX1 Stone (Lower)
-[25035](https://db.idrowiki.org/klasik/item/25035/) | DEX2 Stone (Lower)
-[25036](https://db.idrowiki.org/klasik/item/25036/) | DEX3Stone (Lower)
-[25037](https://db.idrowiki.org/klasik/item/25037/) | LUK1 Stone (Lower)
-[25038](https://db.idrowiki.org/klasik/item/25038/) | Piece of Box
-[25039](https://db.idrowiki.org/klasik/item/25039/) | Strange Dust
-[25040](https://db.idrowiki.org/klasik/item/25040/) | Eternal Dark
-[25041](https://db.idrowiki.org/klasik/item/25041/) | Hallow Emblem
-[25049](https://db.idrowiki.org/klasik/item/25049/) | Infinity Stones
-[25090](https://db.idrowiki.org/klasik/item/25090/) | Monday Coupon
-[25091](https://db.idrowiki.org/klasik/item/25091/) | Sunday Coupon
-[25092](https://db.idrowiki.org/klasik/item/25092/) | Tuesday Coupon
-[25093](https://db.idrowiki.org/klasik/item/25093/) | Wednesday Coupon
-[25094](https://db.idrowiki.org/klasik/item/25094/) | Thursday Coupon
-[25095](https://db.idrowiki.org/klasik/item/25095/) | Friday Coupon
-[25096](https://db.idrowiki.org/klasik/item/25096/) | Saturday Coupon
-[25097](https://db.idrowiki.org/klasik/item/25097/) | Horror Point
+[23123](https://db.idrowiki.org/klasik/item/23123/) | Bullet Case Flare
+[23124](https://db.idrowiki.org/klasik/item/23124/) | Bullet Case Lighting
+[23125](https://db.idrowiki.org/klasik/item/23125/) | Bullet Case Ice
+[23126](https://db.idrowiki.org/klasik/item/23126/) | Bullet Case Poison
+[23127](https://db.idrowiki.org/klasik/item/23127/) | Bullet Case Blind
+[23187](https://db.idrowiki.org/klasik/item/23187/) | Sap Jelly
+[23188](https://db.idrowiki.org/klasik/item/23188/) | Airship Part
+[23189](https://db.idrowiki.org/klasik/item/23189/) | Little Dall Needle
+[23196](https://db.idrowiki.org/klasik/item/23196/) | Shining Blue Lucky Egg
 [25132](https://db.idrowiki.org/klasik/item/25132/) | Pumpkin Deco
 [25133](https://db.idrowiki.org/klasik/item/25133/) | Dried White Stem
 [25143](https://db.idrowiki.org/klasik/item/25143/) | Gift Stuffed Doll
@@ -6358,479 +6128,233 @@ Item ID | Nama
 [25148](https://db.idrowiki.org/klasik/item/25148/) | Cute Starved Demon Doll
 [25149](https://db.idrowiki.org/klasik/item/25149/) | Doll With Warm Scarf
 [25150](https://db.idrowiki.org/klasik/item/25150/) | Hugging Alice Pilow
-[25189](https://db.idrowiki.org/klasik/item/25189/) | LUK2 Stone (Lower)
-[25190](https://db.idrowiki.org/klasik/item/25190/) | LUK3 Stone (Lower)
-[25191](https://db.idrowiki.org/klasik/item/25191/) | ATK1 Stone (Lower)
-[25192](https://db.idrowiki.org/klasik/item/25192/) | ATK2 Stone (Lower)
-[25193](https://db.idrowiki.org/klasik/item/25193/) | ATK3 Stone (Lower)
-[25194](https://db.idrowiki.org/klasik/item/25194/) | MATK1 Stone (Lower)
-[25195](https://db.idrowiki.org/klasik/item/25195/) | MATK2 Stone (Lower)
-[25196](https://db.idrowiki.org/klasik/item/25196/) | MATK3 Stone (Lower)
-[25197](https://db.idrowiki.org/klasik/item/25197/) | HP2 Stone (Lower)
-[25198](https://db.idrowiki.org/klasik/item/25198/) | HP3 Stone (Lower)
-[25241](https://db.idrowiki.org/klasik/item/25241/) | STR2 Stone (Middle)
-[25242](https://db.idrowiki.org/klasik/item/25242/) | STR3 Stone (Middle)
-[25243](https://db.idrowiki.org/klasik/item/25243/) | AGI2 Stone (Middle)
-[25244](https://db.idrowiki.org/klasik/item/25244/) | AGI3 Stone (Middle)
-[25318](https://db.idrowiki.org/klasik/item/25318/) | Dalcom Rind
-[25320](https://db.idrowiki.org/klasik/item/25320/) | Suspicious Melon
-[25321](https://db.idrowiki.org/klasik/item/25321/) | STR1 Stone (Garment)
-[25322](https://db.idrowiki.org/klasik/item/25322/) | STR2 Stone (Garment)
-[25323](https://db.idrowiki.org/klasik/item/25323/) | STR3 Stone (Garment)
-[25324](https://db.idrowiki.org/klasik/item/25324/) | AGI1 Stone (Garment)
-[25325](https://db.idrowiki.org/klasik/item/25325/) | AGI2 Stone (Garment)
-[25326](https://db.idrowiki.org/klasik/item/25326/) | AGI3 Stone (Garment)
-[25327](https://db.idrowiki.org/klasik/item/25327/) | INT1 Stone (Garment)
-[25328](https://db.idrowiki.org/klasik/item/25328/) | INT2 Stone (Garment)
-[25329](https://db.idrowiki.org/klasik/item/25329/) | INT3 Stone (Garment)
-[25330](https://db.idrowiki.org/klasik/item/25330/) | VIT1 Stone (Garment)
-[25331](https://db.idrowiki.org/klasik/item/25331/) | VIT2 Stone (Garment)
-[25332](https://db.idrowiki.org/klasik/item/25332/) | VIT3 Stone (Garment)
-[25333](https://db.idrowiki.org/klasik/item/25333/) | DEX1 Stone (Garment)
-[25334](https://db.idrowiki.org/klasik/item/25334/) | DEX2 Stone (Garment)
-[25335](https://db.idrowiki.org/klasik/item/25335/) | DEX3Stone (Garment)
-[25336](https://db.idrowiki.org/klasik/item/25336/) | LUK1 Stone (Garment)
-[25337](https://db.idrowiki.org/klasik/item/25337/) | LUK2 Stone (Garment)
-[25338](https://db.idrowiki.org/klasik/item/25338/) | LUK3 Stone (Garment)
-[25345](https://db.idrowiki.org/klasik/item/25345/) | SP1 Stone (Lower)
-[25346](https://db.idrowiki.org/klasik/item/25346/) | SP2 Stone (Lower)
-[25347](https://db.idrowiki.org/klasik/item/25347/) | SP3 Stone (Lower)
-[25348](https://db.idrowiki.org/klasik/item/25348/) | INT2 Stone (Middle)
-[25349](https://db.idrowiki.org/klasik/item/25349/) | INT3 Stone (Middle)
-[25350](https://db.idrowiki.org/klasik/item/25350/) | VIT2 Stone (Middle)
-[25351](https://db.idrowiki.org/klasik/item/25351/) | VIT3 Stone (Middle)
-[25352](https://db.idrowiki.org/klasik/item/25352/) | DEX2 Stone (Middle)
-[25353](https://db.idrowiki.org/klasik/item/25353/) | DEX3Stone (Middle)
-[25354](https://db.idrowiki.org/klasik/item/25354/) | LUK2 Stone (Middle)
-[25355](https://db.idrowiki.org/klasik/item/25355/) | LUK3 Stone (Middle)
-[25356](https://db.idrowiki.org/klasik/item/25356/) | ATK2 Stone (Middle)
-[25367](https://db.idrowiki.org/klasik/item/25367/) | Common-Rare Upgrade Ticket
-[25368](https://db.idrowiki.org/klasik/item/25368/) | Rare-Epic Upgrade Ticket
-[25409](https://db.idrowiki.org/klasik/item/25409/) | ATK3 Stone (Middle)
-[25410](https://db.idrowiki.org/klasik/item/25410/) | MATK2 Stone (Middle)
-[25411](https://db.idrowiki.org/klasik/item/25411/) | MATK3 Stone (Middle)
-[25412](https://db.idrowiki.org/klasik/item/25412/) | HP2 Stone (Middle)
-[25413](https://db.idrowiki.org/klasik/item/25413/) | HP3 Stone (Middle)
-[25414](https://db.idrowiki.org/klasik/item/25414/) | SP2 Stone (Middle)
-[25415](https://db.idrowiki.org/klasik/item/25415/) | SP3 Stone (Middle)
-[25416](https://db.idrowiki.org/klasik/item/25416/) | STR2 Stone (Upper)
-[25417](https://db.idrowiki.org/klasik/item/25417/) | STR3 Stone (Upper)
-[25418](https://db.idrowiki.org/klasik/item/25418/) | AGI2 Stone (Upper)
-[25419](https://db.idrowiki.org/klasik/item/25419/) | AGI3 Stone (Upper)
-[25420](https://db.idrowiki.org/klasik/item/25420/) | SP3 Stone (Upper)
-[25434](https://db.idrowiki.org/klasik/item/25434/) | INT2 Stone (Upper)
-[25435](https://db.idrowiki.org/klasik/item/25435/) | INT3 Stone (Upper)
-[25436](https://db.idrowiki.org/klasik/item/25436/) | VIT2 Stone (Upper)
-[25437](https://db.idrowiki.org/klasik/item/25437/) | VIT3 Stone (Upper)
-[25438](https://db.idrowiki.org/klasik/item/25438/) | HP3 Stone (Upper)
-[25439](https://db.idrowiki.org/klasik/item/25439/) | SP1 Stone (Upper)
-[25440](https://db.idrowiki.org/klasik/item/25440/) | SP2 Stone (Upper)
-[25441](https://db.idrowiki.org/klasik/item/25441/) | Costume Seal
-[25445](https://db.idrowiki.org/klasik/item/25445/) | DEX2 Stone (Upper)
-[25446](https://db.idrowiki.org/klasik/item/25446/) | DEX3Stone (Upper)
-[25447](https://db.idrowiki.org/klasik/item/25447/) | LUK2 Stone (Upper)
-[25448](https://db.idrowiki.org/klasik/item/25448/) | LUK3 Stone (Upper)
-[25449](https://db.idrowiki.org/klasik/item/25449/) | ATK2 Stone (Upper)
-[25450](https://db.idrowiki.org/klasik/item/25450/) | ATK3 Stone (Upper)
-[25451](https://db.idrowiki.org/klasik/item/25451/) | MATK2 Stone (Upper)
-[25452](https://db.idrowiki.org/klasik/item/25452/) | MATK3 Stone (Upper)
-[25453](https://db.idrowiki.org/klasik/item/25453/) | HP1 Stone (Upper)
-[25454](https://db.idrowiki.org/klasik/item/25454/) | HP2 Stone (Upper)
-[25461](https://db.idrowiki.org/klasik/item/25461/) | Supreme Costume Box
-[25462](https://db.idrowiki.org/klasik/item/25462/) | Limited April Box
-[25465](https://db.idrowiki.org/klasik/item/25465/) | ATK1 Stone (Garment)
-[25466](https://db.idrowiki.org/klasik/item/25466/) | ATK2 Stone (Garment)
-[25467](https://db.idrowiki.org/klasik/item/25467/) | ATK3 Stone (Garment)
-[25468](https://db.idrowiki.org/klasik/item/25468/) | MATK1 Stone (Garment)
-[25469](https://db.idrowiki.org/klasik/item/25469/) | MATK2 Stone (Garment)
-[25470](https://db.idrowiki.org/klasik/item/25470/) | MATK3 Stone (Garment)
-[25471](https://db.idrowiki.org/klasik/item/25471/) | HP1 Stone (Garment)
-[25472](https://db.idrowiki.org/klasik/item/25472/) | HP2 Stone (Garment)
-[25473](https://db.idrowiki.org/klasik/item/25473/) | HP3 Stone (Garment)
-[25474](https://db.idrowiki.org/klasik/item/25474/) | SP1 Stone (Garment)
-[25477](https://db.idrowiki.org/klasik/item/25477/) | Angeling Coupon(Juni)
-[25478](https://db.idrowiki.org/klasik/item/25478/) | Angeling Coupon(Juli)
-[25655](https://db.idrowiki.org/klasik/item/25655/) | Dalcom Coin
-[25659](https://db.idrowiki.org/klasik/item/25659/) | Organic Wheat Flour
-[26000](https://db.idrowiki.org/klasik/item/26000/) | Battle Fork (Rare)
-[26001](https://db.idrowiki.org/klasik/item/26001/) | Battle Fork (Epic)
-[26002](https://db.idrowiki.org/klasik/item/26002/) | Partizan (Rare)
-[26003](https://db.idrowiki.org/klasik/item/26003/) | Partizan (Epic)
-[26004](https://db.idrowiki.org/klasik/item/26004/) | Partizan (Rare)
-[26005](https://db.idrowiki.org/klasik/item/26005/) | Partizan (Epic)
-[26200](https://db.idrowiki.org/klasik/item/26200/) | Wire(RARE)
-[26201](https://db.idrowiki.org/klasik/item/26201/) | Wire (EPIC)
-[26202](https://db.idrowiki.org/klasik/item/26202/) | Wire (RARE)
-[26203](https://db.idrowiki.org/klasik/item/26203/) | Wire (EPIC)
+[25187](https://db.idrowiki.org/klasik/item/25187/) | Slug Bullet
+[25321](https://db.idrowiki.org/klasik/item/25321/) | Imlek Coupon
+[25322](https://db.idrowiki.org/klasik/item/25322/) | Lukisan Prince Bongun
 [28001](https://db.idrowiki.org/klasik/item/28001/) | Katar Of Evil Slayer
 [28002](https://db.idrowiki.org/klasik/item/28002/) | Half BF Katar2
 [28005](https://db.idrowiki.org/klasik/item/28005/) | Blue Katar
 [28006](https://db.idrowiki.org/klasik/item/28006/) | Ru Gold Katar
-[28007](https://db.idrowiki.org/klasik/item/28007/) | Jur (Rare)
-[28008](https://db.idrowiki.org/klasik/item/28008/) | Jur (Epic)
 [28102](https://db.idrowiki.org/klasik/item/28102/) | Half BF Two Handed Axe1
 [28103](https://db.idrowiki.org/klasik/item/28103/) | Blue Twohand Axe
 [28104](https://db.idrowiki.org/klasik/item/28104/) | Ru Gold Axe M
+[28200](https://db.idrowiki.org/klasik/item/28200/) | END OF HORIZON
+[28201](https://db.idrowiki.org/klasik/item/28201/) | SOUTHERN CROSS
+[28202](https://db.idrowiki.org/klasik/item/28202/) | SOUTHERN CROSS 
 [28203](https://db.idrowiki.org/klasik/item/28203/) | Half BF Rifle1
 [28204](https://db.idrowiki.org/klasik/item/28204/) | Half BF Shotgun1
-[28205](https://db.idrowiki.org/klasik/item/28205/) | Cyclone (Rare)
-[28206](https://db.idrowiki.org/klasik/item/28206/) | Cyclone (Epic)
-[28207](https://db.idrowiki.org/klasik/item/28207/) | Cyclone (Rare)
-[28208](https://db.idrowiki.org/klasik/item/28208/) | Cyclone (Epic)
-[28209](https://db.idrowiki.org/klasik/item/28209/) | Destroyer (Rare)
-[28210](https://db.idrowiki.org/klasik/item/28210/) | Destroyer (Epic)
-[28211](https://db.idrowiki.org/klasik/item/28211/) | Destroyer (Rare)
-[28212](https://db.idrowiki.org/klasik/item/28212/) | Destroyer (Epic)
-[28213](https://db.idrowiki.org/klasik/item/28213/) | Drifter (Rare)
-[28214](https://db.idrowiki.org/klasik/item/28214/) | Drifter (Epic)
-[28215](https://db.idrowiki.org/klasik/item/28215/) | Dusk (Rare
-[28216](https://db.idrowiki.org/klasik/item/28216/) | Dusk (Epic)
-[28217](https://db.idrowiki.org/klasik/item/28217/) | Gate Keeper (Rare)
-[28218](https://db.idrowiki.org/klasik/item/28218/) | Gate Keeper (Epic)
-[28219](https://db.idrowiki.org/klasik/item/28219/) | Inferno (Rare)
-[28220](https://db.idrowiki.org/klasik/item/28220/) | Inferno (Epic)
 [28321](https://db.idrowiki.org/klasik/item/28321/) | Falconer Claw
 [28332](https://db.idrowiki.org/klasik/item/28332/) | Jewerly Ring
 [28342](https://db.idrowiki.org/klasik/item/28342/) | Critical Anklet
+[28352](https://db.idrowiki.org/klasik/item/28352/) | Vesper Gear01
+[28353](https://db.idrowiki.org/klasik/item/28353/) | Vesper Gear02
+[28357](https://db.idrowiki.org/klasik/item/28357/) | Vesper Gear03
 [28358](https://db.idrowiki.org/klasik/item/28358/) | Cursed Lucky Clover
+[28359](https://db.idrowiki.org/klasik/item/28359/) | Vesper Gear04
 [28372](https://db.idrowiki.org/klasik/item/28372/) | Imperial Ring
 [28377](https://db.idrowiki.org/klasik/item/28377/) | Magical Ring
 [28386](https://db.idrowiki.org/klasik/item/28386/) | Fallen Monk Rosary
+[28394](https://db.idrowiki.org/klasik/item/28394/) | King Spirit's Ring
 [28410](https://db.idrowiki.org/klasik/item/28410/) | Sapphire Wrist
 [28411](https://db.idrowiki.org/klasik/item/28411/) | Emerald Earring
-[28502](https://db.idrowiki.org/klasik/item/28502/) | Black Scarf
+[28437](https://db.idrowiki.org/klasik/item/28437/) | Hibram's Gloves
+[28438](https://db.idrowiki.org/klasik/item/28438/) | Fairy Leaf Powder
+[28503](https://db.idrowiki.org/klasik/item/28503/) | Keraunos
+[28521](https://db.idrowiki.org/klasik/item/28521/) | Giant's Protection
+[28573](https://db.idrowiki.org/klasik/item/28573/) | Emerald Ring
 [28600](https://db.idrowiki.org/klasik/item/28600/) | Blue Book
 [28601](https://db.idrowiki.org/klasik/item/28601/) | Ru Gold Book
 [28602](https://db.idrowiki.org/klasik/item/28602/) | Demon Hunting Bible
 [28700](https://db.idrowiki.org/klasik/item/28700/) | Ru Gold Dagger
 [28701](https://db.idrowiki.org/klasik/item/28701/) | Ru Gold Knife
 [28702](https://db.idrowiki.org/klasik/item/28702/) | Ru Gold Ashura
-[28704](https://db.idrowiki.org/klasik/item/28704/) | Kindling Dagger (RARE)
-[28705](https://db.idrowiki.org/klasik/item/28705/) | Kindling Dagger (EPIC)
-[28706](https://db.idrowiki.org/klasik/item/28706/) | Obsidian Dagger (RARE)
-[28707](https://db.idrowiki.org/klasik/item/28707/) | Obsidian Dagger (EPIC)
-[28708](https://db.idrowiki.org/klasik/item/28708/) | Fisherman's Dagger (RARE)
-[28709](https://db.idrowiki.org/klasik/item/28709/) | Fisherman's Dagger (EPIC)
-[28710](https://db.idrowiki.org/klasik/item/28710/) | Jujube Dagger (RARE)
-[28711](https://db.idrowiki.org/klasik/item/28711/) | Jujube Dagger (EPIC)
-[28712](https://db.idrowiki.org/klasik/item/28712/) | Main Gauche (RARE)
-[28713](https://db.idrowiki.org/klasik/item/28713/) | Main Gauche (EPIC)
-[28716](https://db.idrowiki.org/klasik/item/28716/) | Main Gauche (RARE)
-[28717](https://db.idrowiki.org/klasik/item/28717/) | Main Gauche (EPIC)
-[28718](https://db.idrowiki.org/klasik/item/28718/) | Sandstorm (RARE)
-[28719](https://db.idrowiki.org/klasik/item/28719/) | Sandstorm (EPIC)
-[28720](https://db.idrowiki.org/klasik/item/28720/) | Dirk (RARE)
-[28721](https://db.idrowiki.org/klasik/item/28721/) | Dirk (EPIC)
-[28722](https://db.idrowiki.org/klasik/item/28722/) | Dirk (RARE)
-[28723](https://db.idrowiki.org/klasik/item/28723/) | Dirk (EPIC)
-[28724](https://db.idrowiki.org/klasik/item/28724/) | Dagger (RARE)
-[28725](https://db.idrowiki.org/klasik/item/28725/) | Dagger (EPIC)
-[28726](https://db.idrowiki.org/klasik/item/28726/) | Dagger (RARE)
-[28727](https://db.idrowiki.org/klasik/item/28727/) | Dagger (EPIC)
-[28728](https://db.idrowiki.org/klasik/item/28728/) | Stiletto (RARE)
-[28729](https://db.idrowiki.org/klasik/item/28729/) | Stiletto (EPIC)
-[28730](https://db.idrowiki.org/klasik/item/28730/) | Stiletto (RARE)
-[28731](https://db.idrowiki.org/klasik/item/28731/) | Stiletto (EPIC)
-[28732](https://db.idrowiki.org/klasik/item/28732/) | Krieg (RARE)
-[28733](https://db.idrowiki.org/klasik/item/28733/) | Krieg (EPIC)
+[28901](https://db.idrowiki.org/klasik/item/28901/) | Mad Bunny Special
+[28902](https://db.idrowiki.org/klasik/item/28902/) | Mad Bunny Special
 [28903](https://db.idrowiki.org/klasik/item/28903/) | Scutum
 [28906](https://db.idrowiki.org/klasik/item/28906/) | Shield Of Flame [1]
 [28907](https://db.idrowiki.org/klasik/item/28907/) | Shield Of Gust [1]
 [28908](https://db.idrowiki.org/klasik/item/28908/) | Shield Of Water [1]
 [28909](https://db.idrowiki.org/klasik/item/28909/) | Shield Of Earth [1]
-[29084](https://db.idrowiki.org/klasik/item/29084/) | Exp Crystal 2
-[30068](https://db.idrowiki.org/klasik/item/30068/) | Thor Arena Ticket 1-A
-[30069](https://db.idrowiki.org/klasik/item/30069/) | Thor Arena Ticket 1-B
-[30070](https://db.idrowiki.org/klasik/item/30070/) | Thor Arena Ticket 2-A
-[30071](https://db.idrowiki.org/klasik/item/30071/) | Thor Arena Ticket 2-B
-[30078](https://db.idrowiki.org/klasik/item/30078/) | C Bapho.Jr Parachute
-[31047](https://db.idrowiki.org/klasik/item/31047/) | C First Love Cheek
-[31051](https://db.idrowiki.org/klasik/item/31051/) | Sunproof Poring Cap
-[31053](https://db.idrowiki.org/klasik/item/31053/) | C King Tiger Doll Hat
-[31055](https://db.idrowiki.org/klasik/item/31055/) | Costume Poring Soap Pipe
-[31057](https://db.idrowiki.org/klasik/item/31057/) | C Eremes Scarf Black
-[31059](https://db.idrowiki.org/klasik/item/31059/) | C Sailor Hat
+[28910](https://db.idrowiki.org/klasik/item/28910/) | Imuke Upper Shield
+[29038](https://db.idrowiki.org/klasik/item/29038/) | New Year Doll Ticket
 [31062](https://db.idrowiki.org/klasik/item/31062/) | Costume Eleanor Wig
-[31089](https://db.idrowiki.org/klasik/item/31089/) | C Exploding Crimson Blade
-[31099](https://db.idrowiki.org/klasik/item/31099/) | C. Spiky Cyber
-[31117](https://db.idrowiki.org/klasik/item/31117/) | C Hoplite Helmet
-[31118](https://db.idrowiki.org/klasik/item/31118/) | C Assassin Skull Mask
+[31088](https://db.idrowiki.org/klasik/item/31088/) | C Mad Hatter
 [31120](https://db.idrowiki.org/klasik/item/31120/) | Costume Vampire Familiar
-[31121](https://db.idrowiki.org/klasik/item/31121/) | Costume Bat Stole
-[31122](https://db.idrowiki.org/klasik/item/31122/) | C Bloody Stop Bandage
-[31132](https://db.idrowiki.org/klasik/item/31132/) | Costume Christmas Wreath
-[31136](https://db.idrowiki.org/klasik/item/31136/) | Costume Clock Casket
-[31138](https://db.idrowiki.org/klasik/item/31138/) | C Piamette Hood
-[31139](https://db.idrowiki.org/klasik/item/31139/) | C. White Rabbit Ear
+[31125](https://db.idrowiki.org/klasik/item/31125/) | C QueenAnzRevenge
 [31149](https://db.idrowiki.org/klasik/item/31149/) | Costume Nydhog Wig
-[31164](https://db.idrowiki.org/klasik/item/31164/) | Costume Brown Stole
 [31165](https://db.idrowiki.org/klasik/item/31165/) | Costume Piggyback
 [31177](https://db.idrowiki.org/klasik/item/31177/) | C Tail Hat
 [31178](https://db.idrowiki.org/klasik/item/31178/) | Costume Flame Muffler
 [31179](https://db.idrowiki.org/klasik/item/31179/) | Costume Wolf Musketeer
-[31180](https://db.idrowiki.org/klasik/item/31180/) | Costume Prosecution Shura
-[31183](https://db.idrowiki.org/klasik/item/31183/) | C. Fallen Angel Blessing
 [31186](https://db.idrowiki.org/klasik/item/31186/) | Costume Black Cat
-[31190](https://db.idrowiki.org/klasik/item/31190/) | C Angel Mini Silk Hat Black
-[31202](https://db.idrowiki.org/klasik/item/31202/) | Anniversary Officer Hat
-[31208](https://db.idrowiki.org/klasik/item/31208/) | C.Golden Wig
-[31209](https://db.idrowiki.org/klasik/item/31209/) | C. White Hair
-[31249](https://db.idrowiki.org/klasik/item/31249/) | C Rabbit Hopping
+[31189](https://db.idrowiki.org/klasik/item/31189/) | C Cat Ears Cape Red
+[31250](https://db.idrowiki.org/klasik/item/31250/) | C Wonderful Beast Ear
 [31254](https://db.idrowiki.org/klasik/item/31254/) | Costume Horse King
-[31265](https://db.idrowiki.org/klasik/item/31265/) | C Straightpony Blue
-[31266](https://db.idrowiki.org/klasik/item/31266/) | C Straightpony Red
-[31267](https://db.idrowiki.org/klasik/item/31267/) | C Straightpony Yellow
-[31268](https://db.idrowiki.org/klasik/item/31268/) | C Straightpony Green
-[31269](https://db.idrowiki.org/klasik/item/31269/) | C Straightpony Black
-[31270](https://db.idrowiki.org/klasik/item/31270/) | C Straightpony White
-[31271](https://db.idrowiki.org/klasik/item/31271/) | C Straightpony Brown
-[31272](https://db.idrowiki.org/klasik/item/31272/) | C Straightpony Purple
-[31273](https://db.idrowiki.org/klasik/item/31273/) | C Cowlick Blue
-[31274](https://db.idrowiki.org/klasik/item/31274/) | C Cowlick Red
-[31275](https://db.idrowiki.org/klasik/item/31275/) | C Cowlick Yellow
-[31276](https://db.idrowiki.org/klasik/item/31276/) | C Cowlick Green
-[31277](https://db.idrowiki.org/klasik/item/31277/) | C Cowlick Black
-[31278](https://db.idrowiki.org/klasik/item/31278/) | C Cowlick White
-[31279](https://db.idrowiki.org/klasik/item/31279/) | C Cowlick Brown
-[31280](https://db.idrowiki.org/klasik/item/31280/) | C Cowlick Purple
-[31281](https://db.idrowiki.org/klasik/item/31281/) | C Loosewavetwin Blue
-[31282](https://db.idrowiki.org/klasik/item/31282/) | C Loosewavetwin Red
-[31283](https://db.idrowiki.org/klasik/item/31283/) | C Loosewavetwin Yellow
-[31284](https://db.idrowiki.org/klasik/item/31284/) | C Loosewavetwin Green
-[31285](https://db.idrowiki.org/klasik/item/31285/) | C Loosewavetwin Black
-[31286](https://db.idrowiki.org/klasik/item/31286/) | C Loosewavetwin White
-[31287](https://db.idrowiki.org/klasik/item/31287/) | C Loosewavetwin Brown
-[31288](https://db.idrowiki.org/klasik/item/31288/) | C Loosewavetwin Purple
-[31289](https://db.idrowiki.org/klasik/item/31289/) | Costume Drooping Incubus
-[31290](https://db.idrowiki.org/klasik/item/31290/) | Costume Drooping Succubus
-[31291](https://db.idrowiki.org/klasik/item/31291/) | Costume Octopus Hat
-[31294](https://db.idrowiki.org/klasik/item/31294/) | Costume Sloth Hat
-[31295](https://db.idrowiki.org/klasik/item/31295/) | C Jinn Poring Balloon
-[31296](https://db.idrowiki.org/klasik/item/31296/) | Costume Garuda Hat
-[31297](https://db.idrowiki.org/klasik/item/31297/) | Costume Blue Eremes Scarf
-[31299](https://db.idrowiki.org/klasik/item/31299/) | C. White Rabbit
-[31300](https://db.idrowiki.org/klasik/item/31300/) | C Warm Cat Muffler
+[31265](https://db.idrowiki.org/klasik/item/31265/) | Costume: Straight Pony Blue
+[31266](https://db.idrowiki.org/klasik/item/31266/) | Costume: Straight Pony Red
+[31268](https://db.idrowiki.org/klasik/item/31268/) | Costume: Straight Pony Green
+[31300](https://db.idrowiki.org/klasik/item/31300/) | Warm Cat Muffler
 [31301](https://db.idrowiki.org/klasik/item/31301/) | C Brief Eye
-[31308](https://db.idrowiki.org/klasik/item/31308/) | C Archangel Wing Ears
-[31313](https://db.idrowiki.org/klasik/item/31313/) | Costume Fallen Angel Wing Ear
-[31315](https://db.idrowiki.org/klasik/item/31315/) | Costume Angel Stole
-[31318](https://db.idrowiki.org/klasik/item/31318/) | Costume Deviruchi Balloon
+[31315](https://db.idrowiki.org/klasik/item/31315/) | C Stall Of Angel
 [31329](https://db.idrowiki.org/klasik/item/31329/) | Costume Alice Wig
-[31330](https://db.idrowiki.org/klasik/item/31330/) | C Fallen Angel Valletta
-[31332](https://db.idrowiki.org/klasik/item/31332/) | Costume Khalitzburg Helm
-[31378](https://db.idrowiki.org/klasik/item/31378/) | Costume Katarina von Blood 60
-[31380](https://db.idrowiki.org/klasik/item/31380/) | C Crow
-[31381](https://db.idrowiki.org/klasik/item/31381/) | Costume Diabolic Lapel
-[31395](https://db.idrowiki.org/klasik/item/31395/) | Costume Book of Magic
-[31396](https://db.idrowiki.org/klasik/item/31396/) | Sorcerer Hood
-[31404](https://db.idrowiki.org/klasik/item/31404/) | C. Poring Traffic Light
-[31410](https://db.idrowiki.org/klasik/item/31410/) | Costume Godshelm
-[31423](https://db.idrowiki.org/klasik/item/31423/) | Costume Bear Balloon
-[31433](https://db.idrowiki.org/klasik/item/31433/) | C Astro Circle
-[31512](https://db.idrowiki.org/klasik/item/31512/) | Costume Tuxedo Rabbit
-[31513](https://db.idrowiki.org/klasik/item/31513/) | Costume Black Rabbit Ears
-[31516](https://db.idrowiki.org/klasik/item/31516/) | Costume Mini Melon
-[31533](https://db.idrowiki.org/klasik/item/31533/) | Costume Warm Black Cat Muffler
-[31540](https://db.idrowiki.org/klasik/item/31540/) | Costume Red Gemini Eyes
-[31542](https://db.idrowiki.org/klasik/item/31542/) | Costume Poring Jar
-[31544](https://db.idrowiki.org/klasik/item/31544/) | Costume Piamette's Curls
-[31546](https://db.idrowiki.org/klasik/item/31546/) | Costume Clockwork Cap
-[31547](https://db.idrowiki.org/klasik/item/31547/) | Costume Poporing Mascot
-[32001](https://db.idrowiki.org/klasik/item/32001/) | Pre OBT Box01
-[32002](https://db.idrowiki.org/klasik/item/32002/) | Pre OBT Box02
-[32003](https://db.idrowiki.org/klasik/item/32003/) | Pre OBT Box03
-[32004](https://db.idrowiki.org/klasik/item/32004/) | Pre OBT Box04
-[32005](https://db.idrowiki.org/klasik/item/32005/) | Siege White Potion Box
-[32006](https://db.idrowiki.org/klasik/item/32006/) | Siege Blue Potion Box
+[31330](https://db.idrowiki.org/klasik/item/31330/) | C Torturous Redeemer Helm
+[31395](https://db.idrowiki.org/klasik/item/31395/) | Costume Book Of Magic
+[31396](https://db.idrowiki.org/klasik/item/31396/) | Costume Sorcerer Hood
+[31512](https://db.idrowiki.org/klasik/item/31512/) | Costume: Panda Rabbit
+[31513](https://db.idrowiki.org/klasik/item/31513/) | Costume: Rabbit Hopping BL
+[32001](https://db.idrowiki.org/klasik/item/32001/) | Loyalty Point
 [32007](https://db.idrowiki.org/klasik/item/32007/) | Permit Box
-[32008](https://db.idrowiki.org/klasik/item/32008/) | Monster Box Hunter
-[32009](https://db.idrowiki.org/klasik/item/32009/) | Fried Octo Box
 [32010](https://db.idrowiki.org/klasik/item/32010/) | Mental Potion Box
-[32018](https://db.idrowiki.org/klasik/item/32018/) | Gathering Box01
-[32019](https://db.idrowiki.org/klasik/item/32019/) | Gathering Box02
-[32020](https://db.idrowiki.org/klasik/item/32020/) | Gathering Box03
-[32021](https://db.idrowiki.org/klasik/item/32021/) | Gathering7 SK02
-[32022](https://db.idrowiki.org/klasik/item/32022/) | Gathering Box05
-[32023](https://db.idrowiki.org/klasik/item/32023/) | Gathering Box06
-[32024](https://db.idrowiki.org/klasik/item/32024/) | Gathering Box07
-[32025](https://db.idrowiki.org/klasik/item/32025/) | GM Hat
-[32026](https://db.idrowiki.org/klasik/item/32026/) | C Sword Master Crown
-[32027](https://db.idrowiki.org/klasik/item/32027/) | C Rune Helm
-[32028](https://db.idrowiki.org/klasik/item/32028/) | C Wanderer Sakkat
-[32029](https://db.idrowiki.org/klasik/item/32029/) | C Whikebain Ears
-[32030](https://db.idrowiki.org/klasik/item/32030/) | Mana Plus 10 Box
-[32031](https://db.idrowiki.org/klasik/item/32031/) | Siege White Potion Box
-[32032](https://db.idrowiki.org/klasik/item/32032/) | Siege Blue Potion Box
-[32033](https://db.idrowiki.org/klasik/item/32033/) | Limited Edition Headgear
-[32034](https://db.idrowiki.org/klasik/item/32034/) | Limited Edition Costume Loki
-[32035](https://db.idrowiki.org/klasik/item/32035/) | Costume 100 Hari
 [32036](https://db.idrowiki.org/klasik/item/32036/) | Crown Of Deceit Box
 [32037](https://db.idrowiki.org/klasik/item/32037/) | Sarung Batik
-[32038](https://db.idrowiki.org/klasik/item/32038/) | Gathering7 SK04
-[32039](https://db.idrowiki.org/klasik/item/32039/) | Gathering7 SK05
-[32040](https://db.idrowiki.org/klasik/item/32040/) | Gathering7 SK06
-[32041](https://db.idrowiki.org/klasik/item/32041/) | Gathering7 SK07
-[32042](https://db.idrowiki.org/klasik/item/32042/) | Gathering7 SK03
-[32043](https://db.idrowiki.org/klasik/item/32043/) | 7th RO Gravindo Gath
-[32044](https://db.idrowiki.org/klasik/item/32044/) | Lebaran Costume Box1
-[32045](https://db.idrowiki.org/klasik/item/32045/) | Buwaya Agimat Box
-[32046](https://db.idrowiki.org/klasik/item/32046/) | Armor Airship Box
 [32047](https://db.idrowiki.org/klasik/item/32047/) | Golden Box
-[32048](https://db.idrowiki.org/klasik/item/32048/) | Foxtail Box
-[32049](https://db.idrowiki.org/klasik/item/32049/) | Lebaran Costume Box2
-[32050](https://db.idrowiki.org/klasik/item/32050/) | Love Arrow Box
 [32051](https://db.idrowiki.org/klasik/item/32051/) | Acaraje Box
-[32052](https://db.idrowiki.org/klasik/item/32052/) | C Independence Wing
-[32053](https://db.idrowiki.org/klasik/item/32053/) | Independence Box
-[32054](https://db.idrowiki.org/klasik/item/32054/) | Cheap Undershirt Box
 [32055](https://db.idrowiki.org/klasik/item/32055/) | Daily Login Box
-[32056](https://db.idrowiki.org/klasik/item/32056/) | Ice Wing Ear Box
-[32057](https://db.idrowiki.org/klasik/item/32057/) | C Notice Board
-[32058](https://db.idrowiki.org/klasik/item/32058/) | C Umbrella Hat
-[32059](https://db.idrowiki.org/klasik/item/32059/) | C Wondering Wolf Helm
-[32060](https://db.idrowiki.org/klasik/item/32060/) | C Navy Beret
-[32061](https://db.idrowiki.org/klasik/item/32061/) | C Fools Day Helmet
-[32062](https://db.idrowiki.org/klasik/item/32062/) | C Helm Of Angel
-[32063](https://db.idrowiki.org/klasik/item/32063/) | Buwaya Agimat Box2
-[32064](https://db.idrowiki.org/klasik/item/32064/) | Armor Airship Box2
-[32065](https://db.idrowiki.org/klasik/item/32065/) | Bloody Iron Ball Box2
-[32066](https://db.idrowiki.org/klasik/item/32066/) | All Dish Box 10
+[32059](https://db.idrowiki.org/klasik/item/32059/) | Costume Wandering Wolf Helm
 [32067](https://db.idrowiki.org/klasik/item/32067/) | Rookie Armlet
-[32068](https://db.idrowiki.org/klasik/item/32068/) | Treasure Coupon Box
-[32069](https://db.idrowiki.org/klasik/item/32069/) | Hyper Pendant
+[32069](https://db.idrowiki.org/klasik/item/32069/) | Hyper Pendant Box
 [32070](https://db.idrowiki.org/klasik/item/32070/) | Brave Pendant
 [32071](https://db.idrowiki.org/klasik/item/32071/) | Strength Pendant
-[32072](https://db.idrowiki.org/klasik/item/32072/) | Savage BBQ Box
-[32073](https://db.idrowiki.org/klasik/item/32073/) | Veteran Coupon
-[32074](https://db.idrowiki.org/klasik/item/32074/) | Rookie Coupon
-[32075](https://db.idrowiki.org/klasik/item/32075/) | Red Strong Hair Box
-[32076](https://db.idrowiki.org/klasik/item/32076/) | Garuda Hat Box 15D
-[32077](https://db.idrowiki.org/klasik/item/32077/) | Hyper Pendant Box
+[32076](https://db.idrowiki.org/klasik/item/32076/) | Garuda Hat Box
+[32077](https://db.idrowiki.org/klasik/item/32077/) | Hyper Pendant Box (7 Hari)
 [32078](https://db.idrowiki.org/klasik/item/32078/) | Brave Pendant Box
-[32079](https://db.idrowiki.org/klasik/item/32079/) | Strength Pendant Box
-[32080](https://db.idrowiki.org/klasik/item/32080/) | Garuda Hat Box 7D
-[32081](https://db.idrowiki.org/klasik/item/32081/) | Wug Blood Cocktail Box
-[32082](https://db.idrowiki.org/klasik/item/32082/) | Minor Brisket Box
-[32083](https://db.idrowiki.org/klasik/item/32083/) | Siroma Icetea Box
-[32084](https://db.idrowiki.org/klasik/item/32084/) | Drocera Herb Stew Box
-[32085](https://db.idrowiki.org/klasik/item/32085/) | Petti Tail Noodle Box
-[32086](https://db.idrowiki.org/klasik/item/32086/) | Secret Dungeon Ticket
-[32087](https://db.idrowiki.org/klasik/item/32087/) | Pandora Box
-[32088](https://db.idrowiki.org/klasik/item/32088/) | Headgear Box
-[32089](https://db.idrowiki.org/klasik/item/32089/) | Equipment Box
-[32096](https://db.idrowiki.org/klasik/item/32096/) | Master Hat Box
-[32097](https://db.idrowiki.org/klasik/item/32097/) | Master hat
-[32098](https://db.idrowiki.org/klasik/item/32098/) | Angel Spirit Box
-[32099](https://db.idrowiki.org/klasik/item/32099/) | Majestic Evil Box
-[32100](https://db.idrowiki.org/klasik/item/32100/) | Halloween Coupon Box
-[32101](https://db.idrowiki.org/klasik/item/32101/) | Halloween Coupon
-[32103](https://db.idrowiki.org/klasik/item/32103/) | WOE HP Potion
-[32104](https://db.idrowiki.org/klasik/item/32104/) | WOE SP Potion
-[32105](https://db.idrowiki.org/klasik/item/32105/) | WOE HP Pill
-[32106](https://db.idrowiki.org/klasik/item/32106/) | WOE Supply Box
-[32107](https://db.idrowiki.org/klasik/item/32107/) | Grim Reaper Box
-[32108](https://db.idrowiki.org/klasik/item/32108/) | Snake Hat Box
-[32109](https://db.idrowiki.org/klasik/item/32109/) | Snake Head Rent
-[32110](https://db.idrowiki.org/klasik/item/32110/) | Hankie In Mouth Rent
-[32111](https://db.idrowiki.org/klasik/item/32111/) | Hankie In Mouth Box
-[32112](https://db.idrowiki.org/klasik/item/32112/) | Kupon Point Reward
-[32114](https://db.idrowiki.org/klasik/item/32114/) | Golden Armor Box2
-[32115](https://db.idrowiki.org/klasik/item/32115/) | Ares Helmet
-[32116](https://db.idrowiki.org/klasik/item/32116/) | Ares Armor
-[32117](https://db.idrowiki.org/klasik/item/32117/) | Ares Robe
-[32118](https://db.idrowiki.org/klasik/item/32118/) | Ares Shield
-[32119](https://db.idrowiki.org/klasik/item/32119/) | Ares Manteau
-[32120](https://db.idrowiki.org/klasik/item/32120/) | Ares Boots
-[32121](https://db.idrowiki.org/klasik/item/32121/) | Pendant Of Valkyrie
-[32122](https://db.idrowiki.org/klasik/item/32122/) | Pendant Of Greenwood
-[32123](https://db.idrowiki.org/klasik/item/32123/) | Pendant Of Britoniah
-[32124](https://db.idrowiki.org/klasik/item/32124/) | Pendant Of Luina
-[32125](https://db.idrowiki.org/klasik/item/32125/) | Hero Point Reward Costume Box
-[32126](https://db.idrowiki.org/klasik/item/32126/) | Cute Pet Box
-[32128](https://db.idrowiki.org/klasik/item/32128/) | Angeling Coupon (Mei)
-[32129](https://db.idrowiki.org/klasik/item/32129/) | Heroes Coupon
-[32146](https://db.idrowiki.org/klasik/item/32146/) | Zodiac Soul Fragment
-[32147](https://db.idrowiki.org/klasik/item/32147/) | Zodiac Mind Fragment
-[32148](https://db.idrowiki.org/klasik/item/32148/) | Fragment of Vicious Mind
-[32149](https://db.idrowiki.org/klasik/item/32149/) | Piece of Clothes of A Saint
-[32150](https://db.idrowiki.org/klasik/item/32150/) | War Invitation
-[32151](https://db.idrowiki.org/klasik/item/32151/) | Heroes Badge
-[32152](https://db.idrowiki.org/klasik/item/32152/) | Halloween Box
-[32153](https://db.idrowiki.org/klasik/item/32153/) | Golden Armor Box
-[32154](https://db.idrowiki.org/klasik/item/32154/) | Gunslinger Costume Box
-[32155](https://db.idrowiki.org/klasik/item/32155/) | Bodyguard Box
-[32156](https://db.idrowiki.org/klasik/item/32156/) | White Ghost Box
-[32157](https://db.idrowiki.org/klasik/item/32157/) | Brilliant Box
+[32079](https://db.idrowiki.org/klasik/item/32079/) | Time Skip Crown
+[32080](https://db.idrowiki.org/klasik/item/32080/) | Time Skip Suit
+[32081](https://db.idrowiki.org/klasik/item/32081/) | Time Skip Cloak
+[32082](https://db.idrowiki.org/klasik/item/32082/) | Time Skip Shoes
+[32083](https://db.idrowiki.org/klasik/item/32083/) | Time Skip Emblem
+[32084](https://db.idrowiki.org/klasik/item/32084/) | Fruit Of Life
+[32085](https://db.idrowiki.org/klasik/item/32085/) | Valkyrie Set Box
+[32086](https://db.idrowiki.org/klasik/item/32086/) | Eden Box
+[32087](https://db.idrowiki.org/klasik/item/32087/) | Eden Box AM
+[32088](https://db.idrowiki.org/klasik/item/32088/) | Paket Dugdug I
+[32089](https://db.idrowiki.org/klasik/item/32089/) | Paket Dugdug II
+[32090](https://db.idrowiki.org/klasik/item/32090/) | Paket Ngabuburit I
+[32091](https://db.idrowiki.org/klasik/item/32091/) | Paket Ngabuburit II
+[32092](https://db.idrowiki.org/klasik/item/32092/) | Paket Bukber I
+[32093](https://db.idrowiki.org/klasik/item/32093/) | Paket Bukber II
+[32094](https://db.idrowiki.org/klasik/item/32094/) | Lebaran Equipment Reward Box
+[32095](https://db.idrowiki.org/klasik/item/32095/) | Lebaran Costume Reward Box
+[32096](https://db.idrowiki.org/klasik/item/32096/) | Lebaran Coupon
+[32097](https://db.idrowiki.org/klasik/item/32097/) | Orleans Set Box
+[32098](https://db.idrowiki.org/klasik/item/32098/) | Summer Holiday Box
+[32099](https://db.idrowiki.org/klasik/item/32099/) | Summer Holiday Box AM
+[32100](https://db.idrowiki.org/klasik/item/32100/) | Costume Fisherman's Hat
+[32101](https://db.idrowiki.org/klasik/item/32101/) | Costume Jejecap
+[32113](https://db.idrowiki.org/klasik/item/32113/) | Valhalla Coupon
+[32114](https://db.idrowiki.org/klasik/item/32114/) | Golden Armor Box
+[32115](https://db.idrowiki.org/klasik/item/32115/) | Spring Time Box
+[32116](https://db.idrowiki.org/klasik/item/32116/) | Spring Time Box AM
+[32117](https://db.idrowiki.org/klasik/item/32117/) | Happy Passover Box
+[32118](https://db.idrowiki.org/klasik/item/32118/) | Easter Package
+[32119](https://db.idrowiki.org/klasik/item/32119/) | Easter Package AM
+[32125](https://db.idrowiki.org/klasik/item/32125/) | Valhalla Costume Box 1
+[32126](https://db.idrowiki.org/klasik/item/32126/) | Valhalla Costume Box 2
+[32127](https://db.idrowiki.org/klasik/item/32127/) | Costume Unidentified Flying Orb
 [32158](https://db.idrowiki.org/klasik/item/32158/) | Boss Card Box
-[32159](https://db.idrowiki.org/klasik/item/32159/) | CSK01
-[32160](https://db.idrowiki.org/klasik/item/32160/) | CSK02
-[32161](https://db.idrowiki.org/klasik/item/32161/) | CSK03
-[32162](https://db.idrowiki.org/klasik/item/32162/) | CSK04
-[32163](https://db.idrowiki.org/klasik/item/32163/) | CSK05
-[32164](https://db.idrowiki.org/klasik/item/32164/) | CSK06
-[32165](https://db.idrowiki.org/klasik/item/32165/) | CSK07
-[32168](https://db.idrowiki.org/klasik/item/32168/) | Buwaya Agimat Tattoo (30 Hari)
+[32159](https://db.idrowiki.org/klasik/item/32159/) | RSK01
+[32160](https://db.idrowiki.org/klasik/item/32160/) | RSK02
+[32161](https://db.idrowiki.org/klasik/item/32161/) | RSK03
+[32162](https://db.idrowiki.org/klasik/item/32162/) | RSK04
+[32163](https://db.idrowiki.org/klasik/item/32163/) | RSK05
+[32164](https://db.idrowiki.org/klasik/item/32164/) | RSK06
+[32165](https://db.idrowiki.org/klasik/item/32165/) | RSK07
+[32166](https://db.idrowiki.org/klasik/item/32166/) | RSK08
+[32167](https://db.idrowiki.org/klasik/item/32167/) | RSK09
+[32168](https://db.idrowiki.org/klasik/item/32168/) | Buwaya Agimat Box (30 Hari)
 [32169](https://db.idrowiki.org/klasik/item/32169/) | Godly Material Box
-[32170](https://db.idrowiki.org/klasik/item/32170/) | Citrine Box
-[32171](https://db.idrowiki.org/klasik/item/32171/) | November Poring Box
-[32175](https://db.idrowiki.org/klasik/item/32175/) | 1-Day Area Pass
-[32176](https://db.idrowiki.org/klasik/item/32176/) | 3-Days Area Pass
-[32177](https://db.idrowiki.org/klasik/item/32177/) | 7-Days Area Pass
-[32178](https://db.idrowiki.org/klasik/item/32178/) | Taekwon Coupon
-[32179](https://db.idrowiki.org/klasik/item/32179/) | Taekwon Costume Box
-[32180](https://db.idrowiki.org/klasik/item/32180/) | Bazaar Box1
-[32181](https://db.idrowiki.org/klasik/item/32181/) | Bazaar Box2
-[32182](https://db.idrowiki.org/klasik/item/32182/) | Bazaar Box3
-[32183](https://db.idrowiki.org/klasik/item/32183/) | Bazaar Box4
-[32184](https://db.idrowiki.org/klasik/item/32184/) | Bazaar Box5
-[32185](https://db.idrowiki.org/klasik/item/32185/) | Bazaar Box6
-[32186](https://db.idrowiki.org/klasik/item/32186/) | Bazaar Box7
-[32187](https://db.idrowiki.org/klasik/item/32187/) | Bazaar Box8
-[32188](https://db.idrowiki.org/klasik/item/32188/) | Bazaar Box9
-[32189](https://db.idrowiki.org/klasik/item/32189/) | Bazaar Box10
-[32190](https://db.idrowiki.org/klasik/item/32190/) | Bazaar Box11
-[32191](https://db.idrowiki.org/klasik/item/32191/) | Bazaar Box12
-[32192](https://db.idrowiki.org/klasik/item/32192/) | Buwaya Agimat Box4
-[32193](https://db.idrowiki.org/klasik/item/32193/) | Bloody Iron Ball Box4
-[32194](https://db.idrowiki.org/klasik/item/32194/) | FSigrun's Wing Box4
-[32195](https://db.idrowiki.org/klasik/item/32195/) | Refresh Shoes Box4
-[32196](https://db.idrowiki.org/klasik/item/32196/) | Spiritual Tunic Box4
-[32197](https://db.idrowiki.org/klasik/item/32197/) | Hyper Pendant Box4
-[32198](https://db.idrowiki.org/klasik/item/32198/) | Hankie In Mouth Box4
+[32172](https://db.idrowiki.org/klasik/item/32172/) | Magical CD in Mouth
+[32173](https://db.idrowiki.org/klasik/item/32173/) | Hyper Pendant Box30
+[32174](https://db.idrowiki.org/klasik/item/32174/) | Strength Pendant Box30
+[32175](https://db.idrowiki.org/klasik/item/32175/) | Rebellion Equipment Box
+[32176](https://db.idrowiki.org/klasik/item/32176/) | Rebellion Costume Box
+[32178](https://db.idrowiki.org/klasik/item/32178/) | Nightmare Coupon
+[32179](https://db.idrowiki.org/klasik/item/32179/) | Nightmare Coupon Box
+[32180](https://db.idrowiki.org/klasik/item/32180/) | Neo Crown Of Deceit Box7
+[32181](https://db.idrowiki.org/klasik/item/32181/) | Special Weapon Box
+[32182](https://db.idrowiki.org/klasik/item/32182/) | Kado Millia
+[32183](https://db.idrowiki.org/klasik/item/32183/) | kado Joe
+[32184](https://db.idrowiki.org/klasik/item/32184/) | Kado Julia
+[32185](https://db.idrowiki.org/klasik/item/32185/) | Rebellion Coupon
+[32186](https://db.idrowiki.org/klasik/item/32186/) | New Year Box
+[32187](https://db.idrowiki.org/klasik/item/32187/) | New Year Box V
+[32188](https://db.idrowiki.org/klasik/item/32188/) | All Dish Box +15
+[32189](https://db.idrowiki.org/klasik/item/32189/) | Rookie Badge
+[32190](https://db.idrowiki.org/klasik/item/32190/) | Advanced Badge
+[32191](https://db.idrowiki.org/klasik/item/32191/) | Expert Badge
+[32192](https://db.idrowiki.org/klasik/item/32192/) | Buff Ticket Pass
+[32193](https://db.idrowiki.org/klasik/item/32193/) | Bounty Permit
+[32194](https://db.idrowiki.org/klasik/item/32194/) | Special Headgear Box
+[32195](https://db.idrowiki.org/klasik/item/32195/) | Silver Supreme Package 1
+[32196](https://db.idrowiki.org/klasik/item/32196/) | Silver Supreme Package 2
+[32197](https://db.idrowiki.org/klasik/item/32197/) | Silver Supreme Package 3
+[32198](https://db.idrowiki.org/klasik/item/32198/) | Silver Supreme Package 4
 [32199](https://db.idrowiki.org/klasik/item/32199/) | Uriel Box
-[32200](https://db.idrowiki.org/klasik/item/32200/) | WOE Supply Box Event
-[32201](https://db.idrowiki.org/klasik/item/32201/) | C White Strong Hair Box
+[32200](https://db.idrowiki.org/klasik/item/32200/) | Large Mvp Hunt Box
+[32201](https://db.idrowiki.org/klasik/item/32201/) | Event Poring Box
 [32202](https://db.idrowiki.org/klasik/item/32202/) | Super Takoyaki
-[32203](https://db.idrowiki.org/klasik/item/32203/) | Kupon Topup Januari
-[32204](https://db.idrowiki.org/klasik/item/32204/) | Neo Flapping Angel Box
-[32205](https://db.idrowiki.org/klasik/item/32205/) | Neo Master Hat Box
-[32206](https://db.idrowiki.org/klasik/item/32206/) | Neo Vital Shoes Box
-[32207](https://db.idrowiki.org/klasik/item/32207/) | Angelic Box
-[32208](https://db.idrowiki.org/klasik/item/32208/) | Hankie In Mouth Box30
-[32209](https://db.idrowiki.org/klasik/item/32209/) | Hyper Pendant Box30
-[32210](https://db.idrowiki.org/klasik/item/32210/) | Valentine Box
-[32211](https://db.idrowiki.org/klasik/item/32211/) | Lunar Box
-[32212](https://db.idrowiki.org/klasik/item/32212/) | Memories Lovers Box
-[32213](https://db.idrowiki.org/klasik/item/32213/) | All Dish15 Box
-[32214](https://db.idrowiki.org/klasik/item/32214/) | Garuda Hat
-[32215](https://db.idrowiki.org/klasik/item/32215/) | Summer Box
-[32216](https://db.idrowiki.org/klasik/item/32216/) | Autumn Festival Package
-[32217](https://db.idrowiki.org/klasik/item/32217/) | Morpheus Set Box
-[32218](https://db.idrowiki.org/klasik/item/32218/) | October Festival Box
-[32219](https://db.idrowiki.org/klasik/item/32219/) | Armor Elemental Box
-[32220](https://db.idrowiki.org/klasik/item/32220/) | Golden Armor Box 3
-[32221](https://db.idrowiki.org/klasik/item/32221/) | Blessed Ore Box
-[32222](https://db.idrowiki.org/klasik/item/32222/) | Isabella Gear Box
-[32223](https://db.idrowiki.org/klasik/item/32223/) | Halloween Costume I
-[32224](https://db.idrowiki.org/klasik/item/32224/) | Halloween Costume II
-[32225](https://db.idrowiki.org/klasik/item/32225/) | Halloween 2018 Coupon
-[32226](https://db.idrowiki.org/klasik/item/32226/) | Hell O' Spooky Box
-[32227](https://db.idrowiki.org/klasik/item/32227/) | Scatleton Ticket
-[32228](https://db.idrowiki.org/klasik/item/32228/) | Battle Scroll Box
-[32229](https://db.idrowiki.org/klasik/item/32229/) | Harvest Box
-[32230](https://db.idrowiki.org/klasik/item/32230/) | Black Rabbit Box
-[32231](https://db.idrowiki.org/klasik/item/32231/) | Bronze Chip
-[32232](https://db.idrowiki.org/klasik/item/32232/) | Silver Chip
-[32233](https://db.idrowiki.org/klasik/item/32233/) | Gold Chip
-[32234](https://db.idrowiki.org/klasik/item/32234/) | Ninja Coupon Reward
-[32235](https://db.idrowiki.org/klasik/item/32235/) | Ninja Costume Box
+[32203](https://db.idrowiki.org/klasik/item/32203/) | S Takoyaki Box
+[32204](https://db.idrowiki.org/klasik/item/32204/) | Imlek Box AM
+[32205](https://db.idrowiki.org/klasik/item/32205/) | Imlek Box V
+[32206](https://db.idrowiki.org/klasik/item/32206/) | Imlek Costume Box
+[32207](https://db.idrowiki.org/klasik/item/32207/) | Imlek Equip Box
+[32208](https://db.idrowiki.org/klasik/item/32208/) | Lunar Box
+[32209](https://db.idrowiki.org/klasik/item/32209/) | Buwaya Agimat Box7
+[32210](https://db.idrowiki.org/klasik/item/32210/) | Bakonawa Agimat Box7
+[32211](https://db.idrowiki.org/klasik/item/32211/) | Spiritual Tunic Box7
+[32212](https://db.idrowiki.org/klasik/item/32212/) | C Solar God Helm
+[32213](https://db.idrowiki.org/klasik/item/32213/) | C Big Kafra Band
+[32214](https://db.idrowiki.org/klasik/item/32214/) | Bloody Coin Box
+[32215](https://db.idrowiki.org/klasik/item/32215/) | Gold Supreme Package 1
+[32216](https://db.idrowiki.org/klasik/item/32216/) | Gold Supreme Package 2
+[32217](https://db.idrowiki.org/klasik/item/32217/) | Gold Supreme Package 3
+[32218](https://db.idrowiki.org/klasik/item/32218/) | Gold Supreme Package 4
+[32219](https://db.idrowiki.org/klasik/item/32219/) | Mystery Box
+[32220](https://db.idrowiki.org/klasik/item/32220/) | Mystery Box AM
+[32221](https://db.idrowiki.org/klasik/item/32221/) | Speed Set Box
+[32233](https://db.idrowiki.org/klasik/item/32233/) | Fishing Point
+[32234](https://db.idrowiki.org/klasik/item/32234/) | Merdeka Lucky Box
+[32235](https://db.idrowiki.org/klasik/item/32235/) | Merdeka Lucky Box AM
+[32236](https://db.idrowiki.org/klasik/item/32236/) | Costume: Fox Ears Bell Ribbon
+[32237](https://db.idrowiki.org/klasik/item/32237/) | Costume: Alchemist Mask
+[32238](https://db.idrowiki.org/klasik/item/32238/) | Costume: Magical Booster
+[32239](https://db.idrowiki.org/klasik/item/32239/) | Costume: Reginleif Hairband
+[32240](https://db.idrowiki.org/klasik/item/32240/) | Costume: Tipsy
+[32241](https://db.idrowiki.org/klasik/item/32241/) | Lovely Autumn Box
+[32242](https://db.idrowiki.org/klasik/item/32242/) | Lovely Autumn Box AM
+[32243](https://db.idrowiki.org/klasik/item/32243/) | Equinox Costume Box
+[32244](https://db.idrowiki.org/klasik/item/32244/) | Spooktober Costume Box
+[32245](https://db.idrowiki.org/klasik/item/32245/) | Costume: Chain Puppet
+[32246](https://db.idrowiki.org/klasik/item/32246/) | Costume: Niffleheim Bunny Hat
+[32247](https://db.idrowiki.org/klasik/item/32247/) | Costume: Witch's Pumpkin Hat
+[32248](https://db.idrowiki.org/klasik/item/32248/) | Costume: Cat's Eye
+[32249](https://db.idrowiki.org/klasik/item/32249/) | Costume: Deviruchi Balloon
+[32250](https://db.idrowiki.org/klasik/item/32250/) | Costume: Secret Bandana
+[32251](https://db.idrowiki.org/klasik/item/32251/) | Costume: Khalitzburg Helm
+[32252](https://db.idrowiki.org/klasik/item/32252/) | Costume: Skull Cap
+[32253](https://db.idrowiki.org/klasik/item/32253/) | Costume: Helm of Abyss
+[32254](https://db.idrowiki.org/klasik/item/32254/) | Costume: Black Frame Glasses
+[32255](https://db.idrowiki.org/klasik/item/32255/) | Costume : Criatura Academy Hat
+[32257](https://db.idrowiki.org/klasik/item/32257/) | Festa Ticket
+[32260](https://db.idrowiki.org/klasik/item/32260/) | Costume : ROR 1st Anniversary Crown
+[32262](https://db.idrowiki.org/klasik/item/32262/) | Mad Bunny Scroll
+[32263](https://db.idrowiki.org/klasik/item/32263/) | Enriched Elunium Box25
+[32264](https://db.idrowiki.org/klasik/item/32264/) | Enriched Oridecon Box25
+[32265](https://db.idrowiki.org/klasik/item/32265/) | Cyber November Costume Scroll
+[32266](https://db.idrowiki.org/klasik/item/32266/) | Costume: Nekomimi Cyber Headphone
+[32267](https://db.idrowiki.org/klasik/item/32267/) | Costume: Open Air Headset
+[32268](https://db.idrowiki.org/klasik/item/32268/) | Costume: Cyclops Visor
+[32269](https://db.idrowiki.org/klasik/item/32269/) | Costume: Mobile Pursuit System
+[32270](https://db.idrowiki.org/klasik/item/32270/) | Costume: Mecha Nekomimi
+[32271](https://db.idrowiki.org/klasik/item/32271/) | Costume: Cyber Commander
+[32272](https://db.idrowiki.org/klasik/item/32272/) | Holiday Groove Pack
+[32282](https://db.idrowiki.org/klasik/item/32282/) | Harvest Costume Box
+[32283](https://db.idrowiki.org/klasik/item/32283/) | Costume: Costume Chick Hat
+[32284](https://db.idrowiki.org/klasik/item/32284/) | Costume: Clockwork Cap
+[32285](https://db.idrowiki.org/klasik/item/32285/) | Costume: Poporing Mascot Head
+[32286](https://db.idrowiki.org/klasik/item/32286/) | Costume: Red Gemini Eyes
+[32287](https://db.idrowiki.org/klasik/item/32287/) | Costume: Wild Poring Rider
+[32288](https://db.idrowiki.org/klasik/item/32288/) | Costume: Droopy Lunatic Ears
+[32289](https://db.idrowiki.org/klasik/item/32289/) | Costume: Minstrel Hat
+[32290](https://db.idrowiki.org/klasik/item/32290/) | Costume: Teddy Bear Hood
+[32291](https://db.idrowiki.org/klasik/item/32291/) | Black Rabbit Costume Remix
