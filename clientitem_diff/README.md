@@ -13,11 +13,11 @@ Tambahkan **isi dari** file-file berikut ke dalam masing-masing file di dalam da
 
 ## Table of Contents
 ---
-./klasik              				- Untuk item client server Klasik
-  ./add_idnum2displaynametable.txt	- Daftar display name yang tidak dimiliki server Klasik, tamb
-  ./add_idnum2itemdesctable.txt   	- Daftar deksripsi item yang tidak dimiliki server Klasik
-  ./add_idnum2itemresnametable.txt	- Daftar resource name yang tidak dimiliki server Klasik
-./renewal						- Untuk item client server Renewal
-  ./add_idnum2displaynametable.txt	- Daftar display name yang tidak dimiliki server Renewal
-  ./add_idnum2itemdesctable.txt   	- Daftar deksripsi item yang tidak dimiliki server Renewal
-  ./add_idnum2itemresnametable.txt	- Daftar resource name yang tidak dimiliki server Renewal
+* klasik              				- Untuk item client server Klasik
+  * add_idnum2displaynametable.txt	- Daftar display name yang tidak dimiliki server Klasik, tamb
+  * add_idnum2itemdesctable.txt   	- Daftar deksripsi item yang tidak dimiliki server Klasik
+  * add_idnum2itemresnametable.txt	- Daftar resource name yang tidak dimiliki server Klasik
+* renewal						- Untuk item client server Renewal
+  * add_idnum2displaynametable.txt	- Daftar display name yang tidak dimiliki server Renewal
+  * add_idnum2itemdesctable.txt   	- Daftar deksripsi item yang tidak dimiliki server Renewal
+  * add_idnum2itemresnametable.txt	- Daftar resource name yang tidak dimiliki server Renewal

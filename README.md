@@ -7,10 +7,10 @@ REPOSITORY INI HANYA DIGUNAKAN UNTUK BERBAGAI INFORMASI YANG ADA DI DALAM GAME Y
 
 ## Table of Contents
 ---
-./items.md              				- File daftar nama item yang ada pada client server Klasik
-./items_re.md           				- File daftar nama item yang ada pada client server Renewal
-./midgard_cash_shop.md  				- Daftar harga cash shop yang di server renewal Midgard (not updated, lihat [Cash Shop](https://ror.idrowiki.org/cash-shop/)
-./valhalla_cash_card.md 				- Daftar harga cards di cash shop yang di server renewal Valhalla (not updated, lihat [Cash Shop](https://ror.idrowiki.org/cash-shop/)
-./README.MD             				- FILE ini
-./clientitem_diff       				- Merupakan file perbedaan daftar item yang di client-side RO Gravindo dengan rAthena `40a4edc4f8fff75ba35b969882edabd17dd4c258`
-  ./README              				- Baca untuk penjelasan file pada folder ini
+* items.md              				- File daftar nama item yang ada pada client server Klasik
+* items_re.md           				- File daftar nama item yang ada pada client server Renewal
+* midgard_cash_shop.md  				- Daftar harga cash shop yang di server renewal Midgard (not updated, lihat [Cash Shop](https://ror.idrowiki.org/cash-shop/)
+* valhalla_cash_card.md 				- Daftar harga cards di cash shop yang di server renewal Valhalla (not updated, lihat [Cash Shop](https://ror.idrowiki.org/cash-shop/)
+* README.MD             				- FILE ini
+* clientitem_diff       				- Merupakan file perbedaan daftar item yang di client-side RO Gravindo dengan rAthena `40a4edc4f8fff75ba35b969882edabd17dd4c258`
+  * README              				- Baca untuk penjelasan file pada folder ini
