@@ -1061,6 +1061,9 @@ NO DESC 2942:Taekwon_Manual
 2960#
 NO DESC 2960:Badge_Of_Manny
 #
+2962#
+NO DESC 2962
+#
 2963#
 NO DESC 2963:Body_Power_Up_Ring
 #
@@ -15206,6 +15209,15 @@ NO DESC 23087:Small_Leather_Bag
 23177#
 NO DESC 23177:Kafra_Card_
 #
+23187#
+NO DESC 23187
+#
+23188#
+NO DESC 23188
+#
+23189#
+NO DESC 23189
+#
 23191#
 NO DESC 23191:Varetyr_Spear_Scroll_1_5
 #
@@ -18539,10 +18551,13 @@ NO DESC 32005:Illusion_Pole_Axe
 32019#
 NO DESC 32019:Boost_Lance-OS
 #
+32265#
+NO DESC 32265
+#
 32301#
 NO DESC 32301:Illusion_Gold_Lux
 #
 32302#
 NO DESC 32302:Crimson_Rose
 #
-// We filled 6182 holes with sand [Cydh]
+// We filled 6187 holes with sand [Cydh]

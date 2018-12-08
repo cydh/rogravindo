@@ -878,6 +878,9 @@ NO DESC 2958:Good_Ring_Of_Resonance
 2960#
 NO DESC 2960:Badge_Of_Manny
 #
+2962#
+NO DESC 2962
+#
 2963#
 NO DESC 2963:Body_Power_Up_Ring
 #
@@ -12197,6 +12200,9 @@ NO DESC 19344:Illusion_Hot_blooded_Headband
 19366#
 NO DESC 19366:Illusion_Goibne_Helm
 #
+19377#
+NO DESC 19377
+#
 19428#
 NO DESC 19428:Illusion_Morpheus's_Hood
 #
@@ -16088,6 +16094,9 @@ NO DESC 26154:Spirit_Plumb
 26155#
 NO DESC 26155:Meowmeow_Foxtail
 #
+26201#
+NO DESC 26201
+#
 27012#
 NO DESC 27012:Kick_Step_Card
 #
@@ -18116,6 +18125,9 @@ NO DESC 31476:C_Cherry_Blossom_Hat_YL
 31478#
 NO DESC 31478:C_Eleanor_Wig_
 #
+32025#
+NO DESC 32025
+#
 32237#
 NO DESC 32237:Celine's_Brooch
 #
@@ -18131,4 +18143,4 @@ NO DESC 32301:Illusion_Gold_Lux
 32302#
 NO DESC 32302:Crimson_Rose
 #
-// We filled 6044 holes with sand [Cydh]
+// We filled 6048 holes with sand [Cydh]
