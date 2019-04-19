@@ -1,0 +1,10823 @@
+// 최종 수정일 11. 09. 14 (최종수정)
+// 김나리
+quest {
+	quest_info (1000, "Job 3")
+}
+
+quest {
+	quest_info (1001, "Quest Rubah Job Acolyte")
+}
+
+quest {
+	quest_info (1002, "Quest Rubah Job Acolyte")
+}
+
+quest {
+	quest_info (1003, "Quest Rubah Job Acolyte")
+}
+
+quest {
+	quest_info (1004, "Quest Rubah Job Archer")
+}
+
+quest {
+	quest_info (1005, "Quest Rubah Job Mage")
+}
+
+quest {
+	quest_info (1006, "Quest Rubah Job Mage")
+}
+
+quest {
+	quest_info (1007, "Quest Rubah Job Mage")
+}
+
+quest {
+	quest_info (1008, "Quest Rubah Job Mage")
+}
+
+quest {
+	quest_info (1009, "Quest Rubah Job Merchant")
+}
+
+quest {
+	quest_info (1010, "Quest Rubah Job Merchant")
+}
+
+quest {
+	quest_info (1011, "Quest Rubah Job Merchant")
+}
+
+quest {
+	quest_info (1012, "Quest Rubah Job Merchant")
+}
+
+quest {
+	quest_info (1013, "Quest Rubah Job Thief")
+}
+
+quest {
+	quest_info (1014, "Quest Rubah Job Swordman")
+}
+// 조미정
+quest {
+	quest_info (2000, "Quest Rubah Job Blacksmith")
+}
+
+quest {
+	quest_info (2001, "Quest Rubah Job Blacksmith")
+}
+
+quest {
+	quest_info (2002, "Quest Rubah Job Blacksmith")
+}
+
+quest {
+	quest_info (2003, "Quest Rubah Job Blacksmith")
+}
+
+quest {
+	quest_info (2004, "Quest Rubah Job Blacksmith")
+}
+
+quest {
+	quest_info (2005, "Quest Rubah Job Blacksmith")
+}
+
+quest {
+	quest_info (2006, "Quest Rubah Job Blacksmith")
+}
+
+quest {
+	quest_info (2007, "Quest Rubah Job Blacksmith")
+}
+
+quest {
+	quest_info (2008, "Quest Rubah Job Blacksmith")
+}
+
+quest {
+	quest_info (2009, "Quest Rubah Job Blacksmith")
+}
+
+quest {
+	quest_info (2010, "Quest Rubah Job Blacksmith")
+}
+
+quest {
+	quest_info (2011, "Quest Rubah Job Blacksmith")
+}
+
+quest {
+	quest_info (2012, "Quest Rubah Job Blacksmith")
+}
+
+quest {
+	quest_info (2013, "Quest Rubah Job Blacksmith")
+}
+
+quest {
+	quest_info (2014, "Quest Rubah Job Blacksmith")
+}
+
+quest {
+	quest_info (2015, "Quest Rubah Job Blacksmith")
+}
+
+quest {
+	quest_info (2016, "Quest Rubah Job Blacksmith")
+}
+
+quest {
+	quest_info (2017, "Quest Rubah Job Rogue")
+}
+
+quest {
+	quest_info (2018, "Quest Rubah Job Rogue")
+}
+
+quest {
+	quest_info (2019, "Quest Rubah Job Rogue")
+}
+
+quest {
+	quest_info (2020, "Quest Rubah Job Rogue")
+}
+
+quest {
+	quest_info (2021, "Quest Rubah Job Rogue")
+}
+
+quest {
+	quest_info (2022, "Quest Rubah Job Rogue")
+}
+
+quest {
+	quest_info (2023, "Quest Rubah Job Rogue")
+}
+
+quest {
+	quest_info (2024, "Quest Rubah Job Rogue")
+}
+
+quest {
+	quest_info (2025, "Quest Rubah Job Rogue")
+}
+
+quest {
+	quest_info (2026, "Quest Rubah Job Rogue")
+}
+
+quest {
+	quest_info (2027, "Quest Rubah Job Rogue")
+}
+
+quest {
+	quest_info (2028, "Quest Rubah Job Alchemist")
+}
+
+quest {
+	quest_info (2029, "Quest Rubah Job Alchemist")
+}
+
+quest {
+	quest_info (2030, "Quest Rubah Job Alchemist")
+}
+
+quest {
+	quest_info (2031, "Quest Rubah Job Alchemist")
+}
+
+quest {
+	quest_info (2032, "Quest Rubah Job Alchemist")
+}
+
+quest {
+	quest_info (2033, "Quest Rubah Job Alchemist")
+}
+
+quest {
+	quest_info (2034, "Quest Rubah Job Alchemist")
+}
+
+quest {
+	quest_info (2035, "Quest Rubah Job Alchemist")
+}
+
+quest {
+	quest_info (2036, "Quest Rubah Job Alchemist")
+}
+
+quest {
+	quest_info (2037, "Quest Rubah Job Alchemist")
+}
+
+quest {
+	quest_info (2038, "Quest Rubah Job Alchemist")
+}
+
+quest {
+	quest_info (2039, "Quest Rubah Job Alchemist")
+}
+
+quest {
+	quest_info (2040, "Quest Rubah Job Alchemist")
+}
+
+quest {
+	quest_info (2041, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2042, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2043, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2044, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2045, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2046, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2047, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2048, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2049, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2050, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2051, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2052, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2053, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2054, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2055, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2056, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2057, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2058, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2059, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2060, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2061, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2062, "Quest Rubah Job Sage")
+}
+
+quest {
+	quest_info (2063, "Takdir Seekor gagak")
+}
+
+quest {
+	quest_info (2064, "Takdir Seekor gagak")
+}
+
+quest {
+	quest_info (2065, "Takdir Seekor gagak")
+}
+
+quest {
+	quest_info (2066, "Takdir Seekor gagak")
+}
+
+quest {
+	quest_info (2067, "Takdir Seekor gagak")
+}
+
+quest {
+	quest_info (2068, "Takdir Seekor gagak")
+}
+//==================== Cursed Expectation ========================
+quest {
+	quest_info (2071, "Kutukan")
+}
+
+quest {
+	quest_info (2072, "Kutukan")
+}
+
+quest {
+	quest_info (2073, "Kutukan")
+}
+
+quest {
+	quest_info (2074, "Kutukan")
+}
+
+quest {
+	quest_info (2075, "Kutukan")
+}
+
+quest {
+	quest_info (2076, "Kutukan")
+}
+
+quest {
+	quest_info (2077, "Kutukan")
+}
+
+quest {
+	quest_info (2078, "Kutukan")
+}
+//==================== Past Clashed ========================
+quest {
+	quest_info (2079, "Masa lalu yang kacau")
+}
+
+quest {
+	quest_info (2080, "Masa lalu yang kacau")
+}
+
+quest {
+	quest_info (2081, "Masa lalu yang kacau")
+}
+
+quest {
+	quest_info (2082, "Masa lalu yang kacau")
+}
+
+quest {
+	quest_info (2083, "Masa lalu yang kacau")
+}
+
+quest {
+	quest_info (2084, "Masa lalu yang kacau")
+}
+
+quest {
+	quest_info (2085, "Masa lalu yang kacau")
+}
+//==================== Enterprise ========================
+quest {
+	quest_info (2086, "Perusahaan")
+}
+
+quest {
+	quest_info (2087, "Perusahaan")
+}
+
+quest {
+	quest_info (2088, "Perusahaan")
+}
+
+quest {
+	quest_info (2089, "Perusahaan")
+}
+
+quest {
+	quest_info (2090, "Perusahaan")
+}
+
+quest {
+	quest_info (2091, "Perusahaan")
+}
+
+quest {
+	quest_info (2092, "Perusahaan")
+}
+
+quest {
+	quest_info (2093, "Perusahaan")
+}
+
+quest {
+	quest_info (2094, "Perusahaan")
+}
+
+quest {
+	quest_info (2095, "Perusahaan")
+}
+//==================== A mage in the ice dungeon ========================
+quest {
+	quest_info (2109, "Magician di dalam ice dungeon")
+}
+
+quest {
+	quest_info (2110, "Magician di dalam ice dungeon")
+}
+
+quest {
+	quest_info (2111, "Magician di dalam ice dungeon")
+}
+
+quest {
+	quest_info (2112, "Magician di dalam ice dungeon")
+}
+
+quest {
+	quest_info (2113, "Magician di dalam ice dungeon")
+}
+//==================== A camp in the Thor Volcano ========================
+quest {
+	quest_info (2114, "Perkemahan Thor Volcano")
+}
+
+quest {
+	quest_info (2115, "Perkemahan Thor Volcano")
+}
+
+quest {
+	quest_info (2116, "Perkemahan Thor Volcano")
+}
+
+quest {
+	quest_info (2117, "Perkemahan Thor Volcano")
+}
+
+quest {
+	quest_info (2118, "Perkemahan Thor Volcano")
+}
+
+quest {
+	quest_info (2119, "Perkemahan Thor Volcano")
+}
+
+quest {
+	quest_info (2120, "Perkemahan Thor Volcano")
+}
+
+quest {
+	quest_info (2121, "Perkemahan Thor Volcano")
+}
+
+quest {
+	quest_info (2122, "Perkemahan Thor Volcano")
+}
+
+quest {
+	quest_info (2123, "Perkemahan Thor Volcano")
+}
+
+quest {
+	quest_info (2124, "Perkemahan Thor Volcano")
+}
+
+quest {
+	quest_info (2125, "Perkemahan Thor Volcano")
+}
+
+quest {
+	quest_info (2126, "Perkemahan Thor Volcano")
+}
+
+quest {
+	quest_info (2127, "Perkemahan Thor Volcano")
+}
+
+quest {
+	quest_info (2128, "Perkemahan Thor Volcano")
+}
+
+//==================== 아루나펠츠를 위하여 ========================
+quest {
+	quest_info (2129, "아루나펠츠를 위하여")
+}
+
+quest {
+	quest_info (2130, "아루나펠츠를 위하여")
+}
+
+quest {
+	quest_info (2131, "아루나펠츠를 위하여")
+}
+
+quest {
+	quest_info (2132, "아루나펠츠를 위하여")
+}
+
+quest {
+	quest_info (2133, "아루나펠츠를 위하여")
+}
+
+quest {
+	quest_info (2134, "아루나펠츠를 위하여")
+}
+
+quest {
+	quest_info (2135, "아루나펠츠를 위하여")
+}
+
+quest {
+	quest_info (2136, "아루나펠츠를 위하여")
+}
+
+quest {
+	quest_info (2137, "아루나펠츠를 위하여")
+}
+
+quest {
+	quest_info (2138, "아루나펠츠를 위하여")
+}
+
+quest {
+	quest_info (2139, "아루나펠츠를 위하여")
+}
+
+quest {
+	quest_info (2140, "아루나펠츠를 위하여")
+}
+
+quest {
+	quest_info (2141, "아루나펠츠를 위하여")
+}
+
+quest {
+	quest_info (2142, "아루나펠츠를 위하여")
+}
+
+
+//길드 던전
+quest {
+	quest_info (2143, "Event Guild Dungeon")
+	time(50)
+}
+
+quest {
+	quest_info (2144, "Event Guild Dungeon")
+}
+//EP13
+quest {
+	quest_info (2147,"Lingkungan Baru")
+}
+
+quest {
+	quest_info (2148,"Lingkungan Baru")
+}
+
+quest {
+	quest_info (2149,"Lingkungan Baru")
+}
+
+quest {
+	quest_info (2150,"Lingkungan Baru")
+	hunt("PINGUICULA", 30)
+}
+
+quest {
+	quest_info (2151,"Lingkungan Baru")
+	hunt("CORNUS", 10)
+}
+
+quest {
+	quest_info (2152,"Lingkungan Baru")
+}
+
+quest {
+	quest_info (2153,"Lingkungan Baru")
+}
+
+quest {
+	quest_info (2154,"Lingkungan Baru")
+}
+
+quest {
+	quest_info (2155,"Lingkungan Baru")
+}
+
+quest {
+	quest_info (2156,"Lingkungan Baru")
+}
+
+quest {
+	quest_info (2157,"Lingkungan Baru")
+	hunt("TATACHO", 10)
+}
+
+quest {
+	quest_info (2158,"Menemukan Peri")
+}
+
+quest {
+	quest_info (2159,"Menemukan Pohon Raksasa")
+}
+
+//---------------------------
+quest {
+	quest_info (2160, "Pedang yang Patah")
+}
+
+quest {
+	quest_info (2161, "Pedang yang Patah")
+}
+
+quest {
+	quest_info (2162, "Pedang yang Patah")
+}
+
+quest {
+	quest_info (2163, "Pedang yang Patah")
+}
+
+quest {
+	quest_info (2164, "Pedang yang Patah")
+}
+
+quest {
+	quest_info (2165, "Pedang yang Patah")
+}
+
+quest {
+	quest_info (2166, "Pedang yang Patah")
+}
+
+quest {
+	quest_info (2167, "Pedang yang Patah")
+}
+
+quest {
+	quest_info (2168, "Pedang yang Patah")
+}
+
+quest {
+	quest_info (2169, "Pedang yang Patah")
+}
+
+quest {
+	quest_info (2170, "Pedang yang Patah")
+}
+
+quest {
+	quest_info (2171, "Pedang yang Patah")
+}
+
+quest {
+	quest_info (2172, "Pedang yang Patah")
+}
+
+quest {
+	quest_info (2173, "Pedang yang Patah")
+}
+
+quest {
+	quest_info (2174, "Pedang yang Patah")
+}
+
+quest {
+	quest_info (2175, "Pedang yang Patah")
+}
+
+quest {
+	quest_info (2176, "Pedang yang Patah")
+}
+
+quest {
+	quest_info (2177, "Pedang yang Patah")
+}
+
+quest {
+	quest_info (2178, "Pedang yang Patah")
+}
+
+quest {
+	quest_info (2179, "Batu Tambang Midgard")
+}
+
+quest {
+	quest_info (2180, "Batu Tambang Midgard")
+}
+
+quest {
+	quest_info (2181, "Batu Tambang Midgard")
+}
+
+quest {
+	quest_info (2182, "Batu Tambang Midgard")
+		time(64800)
+}
+
+quest {
+	quest_info (2183, "Bunga Alfheim")
+}
+
+quest {
+	quest_info (2184, "Bunga Alfheim")
+}
+
+quest {
+	quest_info (2185, "Bunga Alfheim")
+}
+
+quest {
+	quest_info (2186, "Bunga Alfheim")
+		time(64800)
+}
+
+quest {
+	quest_info (2187, "아크비숍 전직 퀘스트")
+}
+
+quest {
+	quest_info (2188, "아크비숍 전직 퀘스트")
+}
+
+quest {
+	quest_info (2189, "아크비숍 전직 퀘스트")
+}
+
+quest {
+	quest_info (2190, "아크비숍 전직 퀘스트")
+}
+
+quest {
+	quest_info (2191, "아크비숍 전직 퀘스트")
+}
+
+//브라질리스
+
+quest {
+	quest_info (2192, "과라나 퀘스트")
+}
+
+quest {
+	quest_info (2193, "과라나 퀘스트")
+}
+
+quest {
+	quest_info (2194, "과라나 퀘스트")
+}
+
+quest {
+	quest_info (2195, "과라나 퀘스트")
+}
+
+quest {
+	quest_info (2196, "과라나 퀘스트")
+}
+
+quest {
+	quest_info (2197, "과라나 퀘스트")
+}
+
+quest {
+	quest_info (2198, "과라나 퀘스트")
+}
+
+quest {
+	quest_info (2199, "과라나 퀘스트")
+}
+
+quest {
+	quest_info (2200, "과라나 퀘스트")
+}
+
+quest {
+	quest_info (2201, "행운의 수련")
+}
+
+quest {
+	quest_info (2202, "행운의 수련")
+}
+
+quest {
+	quest_info (2203, "행운의 수련")
+}
+
+quest {
+	quest_info (2204, "행운의 수련")
+}
+
+quest {
+	quest_info (2205, "행운의 수련")
+}
+
+quest {
+	quest_info (2206, "행운의 수련")
+}
+
+quest {
+	quest_info (2207, "행운의 수련")
+}
+
+quest {
+	quest_info (2208, "화장실의 유령")
+}
+
+//--- 3-2 전직퀘스트
+quest {
+	quest_info (2209, "제네릭 전직 퀘스트")
+}
+
+quest {
+	quest_info (2210, "제네릭 전직 퀘스트")
+}
+
+quest {
+	quest_info (2211, "제네릭 전직 퀘스트")
+}
+
+quest {
+	quest_info (2212, "제네릭 전직 퀘스트")
+}
+
+quest {
+	quest_info (2213, "제네릭 전직 퀘스트")
+}
+
+quest {
+	quest_info (2214, "제네릭 전직 퀘스트")
+}
+
+quest {
+	quest_info (2215, "제네릭 전직 퀘스트")
+}
+
+quest {
+	quest_info (2216, "제네릭 전직 퀘스트")
+}
+
+quest {
+	quest_info (2217, "제네릭 전직 퀘스트")
+}
+
+quest {
+	quest_info (2218, "원더러 전직 퀘스트")
+}
+
+quest {
+	quest_info (2219, "원더러 전직 퀘스트")
+}
+
+quest {
+	quest_info (2220, "원더러 전직 퀘스트")
+}
+
+quest {
+	quest_info (2221, "원더러 전직 퀘스트")
+	time(600)
+	hunt("NOVUS_", 50)
+}
+
+quest {
+	quest_info (2222, "원더러 전직 퀘스트")
+}
+quest {
+	quest_info (2223, "제네릭 전직 퀘스트")
+	hunt("G_POISON_SPORE", 100)
+}
+
+//-- 2010 설날 이벤트
+quest {
+	quest_info (2224, "방앗간 - 잠시만 기다려주세요")
+	time(21600)
+}
+
+quest {
+	quest_info (2225, "새해 인사")
+	time(3600)
+}
+
+// 김은동
+quest {
+	quest_info (3000, "Quest Rubah Job Bard - Lagu indah")
+}
+
+quest {
+	quest_info (3001, "Quest Rubah Job Bard - Membayar dengan bunga?")
+}
+
+quest {
+	quest_info (3002, "Quest Rubah Job Bard - Langkah awal menjadi Bard")
+}
+
+quest {
+	quest_info (3003, "Quest Rubah Job Bard - Mengikuti lagu.")
+}
+
+quest {
+	quest_info (3004, "Quest Rubah Job Bard - Ujian terakhir.")
+}
+
+quest {
+	quest_info (3005, "Quest Rubah Job Bard - Ujian terakhir.")
+}
+
+quest {
+	quest_info (3006, "Quest Rubah Job Crusader")
+}
+
+quest {
+	quest_info (3007, "Quest Rubah Job Crusader")
+}
+
+quest {
+	quest_info (3008, "Quest Rubah Job Crusader")
+}
+
+quest {
+	quest_info (3009, "Quest Rubah Job Crusader")
+}
+
+quest {
+	quest_info (3010, "Quest Rubah Job Crusader")
+}
+
+quest {
+	quest_info (3011, "Quest Rubah Job Crusader")
+}
+
+quest {
+	quest_info (3012, "Quest Rubah Job Crusader")
+}
+
+quest {
+	quest_info (3013, "Quest Rubah Job Crusader")
+}
+
+quest {
+	quest_info (3014, "Quest Rubah Job Crusader")
+}
+
+quest {
+	quest_info (3015, "Quest Rubah Job Crusader")
+}
+
+quest {
+	quest_info (3016, "Quest Rubah Job Monk")
+}
+
+quest {
+	quest_info (3017, "Quest Rubah Job Monk")
+}
+
+quest {
+	quest_info (3018, "Quest Rubah Job Monk")
+}
+
+quest {
+	quest_info (3019, "Quest Rubah Job Monk")
+}
+
+quest {
+	quest_info (3020, "Quest Rubah Job Monk")
+}
+
+quest {
+	quest_info (3021, "Quest Rubah Job Monk")
+}
+
+quest {
+	quest_info (3022, "Quest Rubah Job Monk")
+}
+
+quest {
+	quest_info (3023, "Quest Rubah Job Monk")
+}
+
+quest {
+	quest_info (3024, "Quest Rubah Job Monk")
+}
+
+quest {
+	quest_info (3025, "Quest Rubah Job Monk")
+}
+
+quest {
+	quest_info (3026, "Quest Rubah Job Monk")
+}
+
+quest {
+	quest_info (3027, "Quest Rubah Job Monk")
+}
+
+quest {
+	quest_info (3028, "Quest Rubah Job Monk")
+}
+
+quest {
+	quest_info (3029, "Quest Rubah Job Monk")
+}
+
+quest {
+	quest_info (3030, "Quest Rubah Job Monk")
+}
+
+quest {
+	quest_info (3031, "Quest Rubah Job Monk")
+}
+
+quest {
+	quest_info (3032, "Quest Rubah Job Monk")
+}
+
+quest {
+	quest_info (3050, "Bangkitnya Satan Morroc - Berita Kehancuran kota Morroc")
+}
+
+quest {
+	quest_info (3051, "Bangkitnya Satan Morroc - Tes Seleksi")
+}
+
+quest {
+	quest_info (3052, "Bangkitnya Satan Morroc - Tes Seleksi ke 2")
+}
+
+quest {
+	quest_info (3053, "Bangkitnya Satan Morroc - Bergabung dengan Continental Guard")
+}
+
+quest {
+	quest_info (3054, "Bangkitnya Satan Morroc - Mengalahkan Satan Morocc!")
+}
+
+quest {
+	quest_info (3055, "Bangkitnya Satan Morroc - Retaknya Ruang dan Waktu")
+}
+
+quest {
+	quest_info (3056, "Bangkitnya Satan Morroc - Hadiah")
+}
+
+quest {
+	quest_info (3040, "Kutukan Baphomet - Makam Terkutuk")
+	time(43200)
+}
+
+quest {
+	quest_info (3041, "Kutukan Baphomet - Hilangnya Kekuatasn Sihir")
+	time(180)
+}
+
+quest {
+	quest_info (3042, "Identitas Asli Cursed Baphomet Doll - Temukan Rust Blackhand...")
+}
+
+quest {
+	quest_info (3043, "Identitas Asli Cursed Baphomet Doll - Kekuatan Magestic Goat?")
+}
+
+quest {
+	quest_info (3060, "Saudara Kandung - Dimana adikku?")
+}
+
+quest {
+	quest_info (3061, "Saudara Kandung - Temukan cara untuk membuka?")
+}
+
+quest {
+	quest_info (3062, "Saudara Kandung - Temukan Ahli Kunci")
+}
+
+quest {
+	quest_info (3063, "Saudara Kandung - Mr. Lockenlock?")
+}
+
+quest {
+	quest_info (3064, "Saudara Kandung - Sabun Chamelepu")
+}
+
+quest {
+	quest_info (3065, "Saudara Kandung - Bahan sabun")
+}
+
+quest {
+	quest_info (3066, "Saudara Kandung - Membuat Sabun Chamelepu...")
+}
+
+quest {
+	quest_info (3067, "Saudara Kandung - Makanan Unta")
+}
+
+quest {
+	quest_info (3068, "Saudara Kandung - Mendapatkan Kotoran Unta")
+}
+
+quest {
+	quest_info (3069, "Saudara Kandung - Dimana Unta Silk Sand?")
+}
+
+quest {
+	quest_info (3070, "Saudara Kandung - Unta Silk Sand hilang")
+}
+
+quest {
+	quest_info (3071, "Saudara Kandung - SUnta Silk Sand Ditemukan!")
+}
+
+quest {
+	quest_info (3072, "Saudara Kandung - 1 Kotoran Unta didapatkan")
+}
+
+quest {
+	quest_info (3073, "Saudara Kandung - 2 Kotoran Unta didapatkan")
+}
+
+quest {
+	quest_info (3074, "Saudara Kandung - 3 Kotoran Unta didapatkan")
+}
+
+quest {
+	quest_info (3075, "Saudara Kandung - 4 Kotoran Unta didapatkan")
+}
+
+quest {
+	quest_info (3076, "Saudara Kandung - 5 Kotoran Unta didapatkan")
+}
+
+quest {
+	quest_info (3077, "Saudara Kandung - Temui Nona Ivory")
+}
+
+quest {
+	quest_info (3078, "Saudara Kandung - Sabun Chamalepu dibuat")
+}
+
+quest {
+	quest_info (3079, "Saudara Kandung - Membuat cetakan kunci")
+}
+
+quest {
+	quest_info (3080, "Saudara Kandung - Membawa Cetakan Kunci")
+}
+
+quest {
+	quest_info (3081, "Saudara Kandung - Mencari Steel")
+}
+
+quest {
+	quest_info (3082, "Saudara Kandung - Kunci berhasil dibuat")
+}
+
+quest {
+	quest_info (3083, "Saudara Kandung - Kunci Mr. Lockenlock")
+}
+
+quest {
+	quest_info (3085, "Melapor ke Benua - Panggilan dari panglima")
+}
+
+quest {
+	quest_info (3086, "Melapor ke Benua - Tugas dari Panglima")
+}
+
+quest {
+	quest_info (3087, "Melapor ke Benua - Tugas dari Panglima")
+}
+
+quest {
+	quest_info (3088, "Melapor ke Benua - Kecelakaan!")
+}
+
+quest {
+	quest_info (3089, "Melapor ke Benua - Bagaimana membuat ulang laporan")
+}
+
+quest {
+	quest_info (3090, "Melapor ke Benua - Lokasi dari laporan")
+}
+
+quest {
+	quest_info (3091, "Melapor ke Benua - Lokasi dari laporan")
+	time(1800)
+}
+
+quest {
+	quest_info (3092, "Melapor ke Benua - Berhasil membuat ulang laporan!")
+}
+
+quest {
+	quest_info (3093, "Melapor ke Benua - Melapor ke Benua")
+}
+
+quest {
+	quest_info (3094, "Melapor ke Benua - Bergabung dalam penyelidikan")
+}
+
+quest {
+	quest_info (3100, "Konsultasi pinjaman - Kehilangan catatan pinjaman")
+}
+
+quest {
+	quest_info (3101, "Konsultasi pinjaman - Gundukan aneh di tanah")
+}
+
+quest {
+	quest_info (3102, "Konsultasi pinjaman - Catatan hutang ditemukan, namun...")
+}
+
+quest {
+	quest_info (3103, "Konsultasi pinjaman - Penemu Dorian")
+}
+
+quest {
+	quest_info (3104, "Konsultasi pinjaman - Bahan untuk memperbaiki mesin pengering")
+}
+
+quest {
+	quest_info (3105, "Konsultasi pinjaman - Memperbaiki mesin pengering")
+}
+
+quest {
+	quest_info (3106, "Konsultasi pinjaman - Memperbaiki mesin pengering yang rusak")
+}
+
+quest {
+	quest_info (3107, "Konsultasi pinjaman - Berhasil memperbaiki mesin pengering")
+}
+
+quest {
+	quest_info (3108, "Konsultasi pinjaman - Menggunakan mesin pengering")
+}
+
+quest {
+	quest_info (3109, "Konsultasi pinjaman - Berhasil memperbaiki catatan")
+}
+
+quest {
+	quest_info (3110, "Jejak Permata - Mencari jejak Permata")
+}
+
+quest {
+	quest_info (3111, "Jejak Permata - Perkiraan Reblo")
+}
+
+quest {
+	quest_info (3112, "Jejak Permata - Minister Hyang Ah")
+}
+
+quest {
+	quest_info (3113, "Jejak Permata - Minister Hyang Ah")
+}
+
+quest {
+	quest_info (3114, "Jejak Permata - Minister Hyang Ah")
+}
+
+quest {
+	quest_info (3115, "Jejak Permata - Informasi dari Reblo")
+}
+
+quest {
+	quest_info (3116, "Jejak Permata - Informasi dari penyelidikan Rogue")
+}
+
+quest {
+	quest_info (3117, "Jejak Permata - Mesin aneh")
+}
+
+quest {
+	quest_info (3118, "Jejak Permata - Kembalikan Permata")
+}
+
+quest {
+	quest_info (3119, "Z Geng - Berita pencarian")
+}
+
+quest {
+	quest_info (3120, "Z Geng - Tentang Z Gang")
+}
+
+quest {
+	quest_info (3121, "Z Geng - Kesukaan Valdes")
+}
+
+quest {
+	quest_info (3122, "Z Geng - Informasi dari Valdes")
+}
+
+quest {
+	quest_info (3123, "Z Geng - Ujian dari Merrybell")
+}
+
+quest {
+	quest_info (3124, "Z Geng - Menantang Moonho Ahn")
+}
+
+quest {
+	quest_info (3125, "Z Geng - Menantang Moonho Ahn")
+}
+
+quest {
+	quest_info (3126, "Z Geng - Informasi dari Merrybell")
+}
+
+quest {
+	quest_info (3127, "Z Geng - Serangan Z Gang")
+}
+
+quest {
+	quest_info (3128, "Z Geng - Serangan Z Gang")
+}
+
+quest {
+	quest_info (3129, "Z Geng - Surat Aneh")
+}
+
+quest {
+	quest_info (3130, "Z Geng - Mengartikan surat bersegel...")
+}
+
+quest {
+	quest_info (3131, "Z Geng - Sandi terpecahkan")
+}
+
+quest {
+	quest_info (3132, "Z Geng - Temukan persembunyian Z Gang")
+}
+
+quest {
+	quest_info (3133, "Z Geng - Persembunyian ditemukan!")
+}
+
+quest {
+	quest_info (3134, "Z Geng - Membersihkan persembunyian Z Gang")
+}
+
+quest {
+	quest_info (3135, "Kerusakan Hutan Yggdrasil - Pemulihan hutan")
+	time(259200)
+}
+
+quest {
+	quest_info (3200, "룬나이트 전직 - 룬나이트로의 추천")
+}
+
+quest {
+	quest_info (3201, "룬나이트 전직 - 룬나이트의 비밀 집결지")
+}
+
+quest {
+	quest_info (3202, "룬나이트 전직 - 첫 번째 시험")
+}
+
+quest {
+	quest_info (3203, "룬나이트 전직 - 첫 번째 시험")
+}
+
+quest {
+	quest_info (3204, "룬나이트 전직 - 첫 번째 시험 통과")
+}
+
+quest {
+	quest_info (3205, "룬나이트 전직 - 두 번째 시험")
+}
+
+quest {
+	quest_info (3206, "룬나이트 전직 - 두 번째 시험")
+}
+
+quest {
+	quest_info (3207, "룬나이트 전직 - 두 번째 시험")
+}
+
+quest {
+	quest_info (3208, "룬나이트 전직 - 두 번째 시험")
+}
+
+quest {
+	quest_info (3209, "룬나이트 전직 - 마법에너지 축적1")
+	hunt("DULLAHAN", 10)
+}
+
+quest {
+	quest_info (3210, "룬나이트 전직 - 마법에너지 축적2")
+	hunt("DISGUISE", 10)
+}
+
+quest {
+	quest_info (3211, "룬나이트 전직 - 마법에너지 축적3")
+	hunt("QUVE", 10)
+}
+
+quest {
+	quest_info (3212, "룬나이트 전직 - 마법에너지 축적4")
+	hunt("HYLOZOIST", 10)
+}
+
+quest {
+	quest_info (3213, "룬나이트 전직 - 두 번째 시험")
+}
+
+quest {
+	quest_info (3214, "룬나이트 전직 - 두 번째 시험")
+}
+
+quest {
+	quest_info (3215, "룬나이트 전직 - 두 번째 시험 통과")
+}
+
+quest {
+	quest_info (3216, "룬나이트 전직 - 마지막 시험")
+}
+
+quest {
+	quest_info (3217, "룬나이트 전직 - 마지막 시험")
+}
+
+quest {
+	quest_info (3218, "룬나이트 전직 - 마지막 시험 통과")
+}
+
+quest {
+	quest_info (3219, "룬나이트 전직 - 모든 시험의 끝")
+}
+
+quest {
+	quest_info (3220, "룬나이트 전직 - 시험 대기시간")
+	time(600)
+}
+
+quest {
+	quest_info (3250, "의뢰 - 무엇에 쓰는 붕대인고?")
+	hunt("MUMMY", 30)
+}
+
+quest {
+	quest_info (3251, "의뢰 - 역습의 악어")
+	hunt("ALLIGATOR", 30)
+}
+
+quest {
+	quest_info (3252, "의뢰 - 나의 인어는 이렇지 않아")
+	hunt("MERMAN", 30)
+}
+
+quest {
+	quest_info (3253, "의뢰 - 실종된 오컬트 매니아")
+}
+
+quest {
+	quest_info (3265, "의뢰 - 실종된 오컬트 매니아")
+}
+
+quest {
+	quest_info (3254, "의뢰 - 국가는 자네를 부른다")
+}
+
+quest {
+	quest_info (3255, "의뢰 - 멧돼지 토벌 작전")
+	hunt("SAVAGE", 30)
+}
+
+quest {
+	quest_info (3256, "의뢰 - 여름을 기다리는 준비")
+}
+
+quest {
+	quest_info (3257, "의뢰 - 여자의 원한")
+	hunt("SOHEE", 30)
+}
+
+quest {
+	quest_info (3258, "의뢰 - 별미의 재료")
+}
+
+quest {
+	quest_info (3259, "의뢰 - 인형술사의 고민")
+	hunt("MARIONETTE", 30)
+}
+
+quest {
+	quest_info (3260, "의뢰 - 지긋지긋한 파리떼")
+	hunt("HUNTER_FLY", 30)
+}
+
+quest {
+	quest_info (3261, "의뢰 - 부정한 소녀")
+	hunt("MUNAK", 30)
+}
+
+quest {
+	quest_info (3262, "의뢰 - 괴상한 취미")
+}
+
+quest {
+	quest_info (3263, "의뢰 - 도깨비 방망이")
+}
+
+// 오남경
+quest {
+	quest_info (4000, "Quest Rubah Job Hunter")
+}
+
+quest {
+	quest_info (4001, "Quest Rubah Job Hunter")
+}
+
+quest {
+	quest_info (4002, "Quest Rubah Job Hunter")
+}
+
+quest {
+	quest_info (4003, "Quest Rubah Job Hunter")
+}
+
+quest {
+	quest_info (4004, "Quest Rubah Job Hunter")
+}
+
+quest {
+	quest_info (4005, "Quest Rubah Job Hunter")
+}
+
+quest {
+	quest_info (4006, "Quest Rubah Job Hunter")
+}
+
+quest {
+	quest_info (4007, "Quest Rubah Job Hunter")
+}
+
+quest {
+	quest_info (4008, "Quest Rubah Job Hunter")
+}
+
+quest {
+	quest_info (4009, "Quest Rubah Job Hunter")
+}
+
+quest {
+	quest_info (4010, "Quest Rubah Job Hunter")
+}
+
+quest {
+	quest_info (4011, "Quest Rubah Job Hunter")
+}
+
+quest {
+	quest_info (4012, "Quest Rubah Job Hunter")
+}
+
+quest {
+	quest_info (4013, "Quest Rubah Job Hunter")
+}
+
+quest {
+	quest_info (4015, "Menjadi seorang petualang penafsir")
+}
+
+quest {
+	quest_info (4016, "Bukti Kemampuan")
+}
+
+quest {
+	quest_info (4017, "Ujian Kemampuan")
+}
+
+quest {
+	quest_info (4018, "Wawancara dengan Pangeran")
+}
+
+quest {
+	quest_info (4019, "Wawancara dengan Pangeran")
+}
+
+quest {
+	quest_info (4020, "Wawancara dengan Pangeran")
+}
+
+quest {
+	quest_info (4021, "Wawancara dengan Pangeran")
+}
+
+quest {
+	quest_info (4022, "Wawancara dengan Pangeran")
+}
+
+quest {
+	quest_info (4023, "Wawancara dengan Pangeran")
+}
+
+quest {
+	quest_info (4024, "Wawancara dengan Pangeran")
+}
+
+quest {
+	quest_info (4025, "Wawancara dengan Pangeran")
+}
+
+quest {
+	quest_info (4026, "Wawancara dengan Pangeran")
+}
+
+quest {
+	quest_info (4027, "Wawancara dengan Pangeran")
+}
+
+quest {
+	quest_info (4028, "Yang disukai Pangeran Peter")
+}
+
+quest {
+	quest_info (4029, "Yang disukai Gadis")
+}
+
+quest {
+	quest_info (4030, "Cerita tentang Ahrum dan Ernst")
+}
+
+quest {
+	quest_info (4031, "Cerita tentang Ahrum dan Erns")
+}
+
+quest {
+	quest_info (4032, "Persekongkolan dua Keluarga")
+}
+
+quest {
+	quest_info (4033, "Kematian Ahrum")
+}
+//-- 브라질리아 이아라 퀘스트
+quest {
+	quest_info (4133,"이아라")
+}
+
+
+quest {
+	quest_info (4134,"이아라")
+}
+
+
+quest {
+	quest_info (4135, "이아라")
+	time(86400)
+}
+
+
+quest {
+	quest_info (4150,"낙원단원되기")
+}
+
+//-- 5000 ~ 한덕연
+//- 개구리모자 ~5004 현재 미적용
+
+
+//-- 2010년 발렌타인이벤트
+quest {
+	quest_info (5005, "홀그렌")
+	time(86400)
+}
+
+quest {
+	quest_info (5006, "프론테라 안내요원")
+	time(86400)
+}
+
+quest {
+	quest_info (5007, "폐이욘 안내요원")
+	time(86400)
+}
+
+quest {
+	quest_info (5008, "게펜 안내요원")
+	time(86400)
+}
+
+quest {
+	quest_info (5009, "모로크 안내요원")
+	time(86400)
+}
+
+quest {
+	quest_info (5010, "슈크림")
+	time(86400)
+}
+
+quest {
+	quest_info (5011, "이진하")
+	time(86400)
+}
+
+quest {
+	quest_info (5012, "존다 기획사 직원")
+	time(86400)
+}
+
+quest {
+	quest_info (5013, "아를르 오를레앙")
+	time(86400)
+}
+
+quest {
+	quest_info (5014, "이세류")
+	time(86400)
+}
+
+quest {
+	quest_info (5015, "모로크 안내요원")
+	time(10800)
+}
+
+//-- 데와타
+quest {
+	quest_info (5035, "데와타 섬 - 전통음료")
+}
+
+quest {
+	quest_info (5036, "데와타 섬 - 전통음료")
+}
+
+quest {
+	quest_info (5037, "데와타 섬 - 전통음료")
+}
+
+quest {
+	quest_info (5038, "데와타 섬 - 전통음료")
+}
+
+quest {
+	quest_info (5039, "데와타 섬 - 전통음료")
+}
+
+quest {
+	quest_info (5040, "데와타 섬 - 전통음료")
+}
+
+quest {
+	quest_info (5041, "데와타 섬 - 전통음료")
+}
+
+quest {
+	quest_info (5042, "데와타 섬 - 전통음료")
+}
+
+quest {
+	quest_info (5043, "데와타 섬 - 전통음료")
+	time(300)
+}
+
+quest {
+	quest_info (5044, "데와타 섬 - 전통음료")
+	time(86400)
+}
+
+quest {
+	quest_info (5045, "데와타 섬 - 전통음료")
+}
+
+quest {
+	quest_info (5046, "데와타 섬 - 전통음료")
+}
+
+quest {
+	quest_info (5047, "데와타 섬 - 전통음료")
+}
+
+quest {
+	quest_info (5048, "데와타 섬 - 전통음료")
+}
+
+quest {
+	quest_info (5049, "데와타 섬 - 전통음료")
+}
+
+quest {
+	quest_info (5050, "데와타 섬 - 전통음료")
+}
+
+quest {
+	quest_info (5051, "데와타 섬 - 전통음료")
+}
+
+quest {
+	quest_info (5052, "데와타 섬 - 전통무기")
+}
+
+quest {
+	quest_info (5053, "데와타 섬 - 전통무기")
+}
+
+quest {
+	quest_info (5054, "데와타 섬 - 전통무기")
+}
+
+//-------- 노비스 레벨 돌파
+quest {
+	quest_info (5092, "노비스 한계돌파")
+}
+
+quest {
+	quest_info (5093, "노비스 한계돌파")
+}
+
+quest {
+	quest_info (5094, "노비스 한계돌파")
+	hunt("PORING", 1000)
+}
+
+quest {
+	quest_info (5095, "노비스 한계돌파")
+	hunt("LUNATIC", 1000)
+}
+
+quest {
+	quest_info (5096, "노비스 한계돌파")
+	hunt("FABRE", 1000)
+}
+
+quest {
+	quest_info (5097, "노비스 한계돌파")
+	hunt("PICKY", 1000)
+}
+
+quest {
+	quest_info (5098, "노비스 한계돌파")
+}
+
+quest {
+	quest_info (5099, "노비스 한계돌파")
+}
+
+quest {
+	quest_info (5100, "노비스 한계돌파")
+
+// 권오민 //태권
+quest {
+	quest_info (6000, "Quest Rubah Job Taekwon")
+}
+
+quest {
+	quest_info (6001, "Quest Rubah Job Taekwon")
+}
+
+quest {
+	quest_info (6002, "Quest Rubah Job Taekwon")
+}
+//소울링커
+quest {
+	quest_info (6005, "Quest Rubah Job Soul-Linker")
+}
+
+quest {
+	quest_info (6006, "Quest Rubah Job Soul-Linker")
+}
+
+quest {
+	quest_info (6007, "Quest Rubah Job Soul-Linker")
+}
+
+quest {
+	quest_info (6008, "Quest Rubah Job Soul-Linker")
+}
+//슈노
+quest {
+	quest_info (6010, "Quest Rubah Job Super Novice")
+}
+//닌자
+quest {
+	quest_info (6015, "Keinginan Cougar")
+}
+
+quest {
+	quest_info (6016, "Keinginan Suspicious Man")
+}
+
+quest {
+	quest_info (6017, "Balasan Red Leopard Joe")
+}
+
+quest {
+	quest_info (6018, "Kegilaan Cougar")
+}
+//건슬링거
+quest {
+	quest_info (6020, "Surat Master Miller")
+}
+
+quest {
+	quest_info (6021, "Voucher dari Wise Bull Horn")
+}
+
+quest {
+	quest_info (6022, "Membuat Kupon")
+}
+
+quest {
+	quest_info (6023, "Keinginan Wise Bull Horn")
+}
+
+quest {
+	quest_info (6024, "Berubah Profesi menjadi Gunslinger!")
+}
+
+quest {
+	quest_info (6025, "Pendaftaran KVM")
+	time(300)
+}
+// 배혜령
+quest {
+	quest_info (7000, "Quest Rubah Job Dancer!")
+}
+
+quest {
+	quest_info (7001, "Quest Rubah Job Dancer!")
+}
+
+quest {
+	quest_info (7002, "Quest Rubah Job Dancer!")
+}
+
+quest {
+	quest_info (7003, "Quest Rubah Job Dancer!")
+}
+
+quest {
+	quest_info (7004, "Quest Rubah Job Dancer!")
+}
+
+quest {
+	quest_info (7005, "Quest Rubah Job Dancer!")
+}
+
+quest {
+	quest_info (7006, "Quest Rubah Job Dancer!")
+}
+//---권성 전직 퀘스트------------------
+quest {
+	quest_info (7007, "Prajurit Bulan, Bintang dan Matahari")
+}
+
+quest {
+	quest_info (7008, "Prajurit Bulan, Bintang dan Matahari")
+}
+
+quest {
+	quest_info (7009, "Prajurit Bulan, Bintang dan Matahari")
+}
+
+quest {
+	quest_info (7010, "Prajurit Bulan, Bintang dan Matahari")
+}
+
+quest {
+	quest_info (7011, "Prajurit Bulan, Bintang dan Matahari")
+}
+//-- 에피소드 13.1 단델리온의 의뢰 2부 모로크추적
+quest {
+	quest_info (7012, "Menyusul tim - Tugas mudah dan ringan")
+}
+
+quest {
+	quest_info (7013, "Menyusul tim - Tugas mudah dan ringan")
+}
+
+quest {
+	quest_info (7014, "Menyusul tim - Tugas mudah dan ringan")
+}
+
+quest {
+	quest_info (7015, "Menyusul tim - Tugas mudah dan ringan")
+}
+
+quest {
+	quest_info (7016, "Menyusul tim - Tugas mudah dan ringan")
+}
+
+quest {
+	quest_info (7017, "Menyusul tim - Tugas mudah dan ringan")
+}
+
+quest {
+	quest_info (7018, "Menyusul tim - Tugas mudah dan ringan")
+}
+
+quest {
+	quest_info (7019, "Menyusul tim - Tugas selesai, namun...")
+}
+
+quest {
+	quest_info (7020, "Menyusul tim - Tugas selesai, namun...")
+}
+
+quest {
+	quest_info (7021, "Menyusul tim - Sebuah gulungan mantra")
+}
+
+quest {
+	quest_info (7022, "Menyusul tim - Sebuah gulungan mantra")
+}
+
+quest {
+	quest_info (7023, "Menyusul tim - Sebuah gulungan mantra")
+}
+
+quest {
+	quest_info (7024, "Menyusul tim - Sebuah gulungan mantra")
+}
+
+quest {
+	quest_info (7025, "Menyusul tim - Sebuah gulungan mantra")
+}
+
+quest {
+	quest_info (7026, "Menyusul tim - Sebuah gulungan mantra")
+}
+
+quest {
+	quest_info (7027, "Menyusul tim - Patroli")
+}
+
+quest {
+	quest_info (7028, "Menyusul tim - Patroli")
+}
+
+quest {
+	quest_info (7029, "Menyusul tim - Rayan tertangkap")
+}
+
+quest {
+	quest_info (7030, "Menyusul tim - Rayan tertangkap")
+}
+
+quest {
+	quest_info (7031, "Menyusul tim - Rayan melarikan diri")
+}
+
+quest {
+	quest_info (7032, "Menyusul tim - Rayan melarikan diri")
+}
+
+quest {
+	quest_info (7033, "Menyusul tim - Rayan melarikan diri")
+}
+
+quest {
+	quest_info (7034, "Menyusul tim - Rayan melarikan diri")
+}
+
+quest {
+	quest_info (7035, "Menyusul tim - Rayan melarikan diri")
+}
+
+quest {
+	quest_info (7036, "Menyusul tim - Rayan melarikan diri")
+}
+
+quest {
+	quest_info (7037, "Dandelion dan kami")
+}
+
+quest {
+	quest_info (7038, "Nafsu untuk kentang manis panggang")
+}
+
+quest {
+	quest_info (7039, "Sebuah rahasia")
+}
+
+quest {
+	quest_info (7040, "Sebuah rahasia")
+}
+
+quest {
+	quest_info (7041, "Politik adalah untuk seorang Politisi")
+}
+//---- 사육사 보조 일일퀘
+quest {
+	quest_info (7042, "Monster Berkembang biak - Makanan Tatacho")
+}
+
+quest {
+	quest_info (7043, "Monster Berkembang biak - Makanan Cornus")
+}
+
+quest {
+	quest_info (7044, "Monster Berkembang biak - Makanan Hillsrion 1")
+}
+
+quest {
+	quest_info (7045, "Monster Berkembang biak - Makanan Hillsrion 2")
+}
+
+quest {
+	quest_info (7046, "Monster Berkembang biak - Permadani lantai")
+}
+
+quest {
+	quest_info (7047, "Monster Berkembang biak - Mari sapa hari ini!")
+	time(18000)
+}
+//-타나토스타워 080702
+quest {
+	quest_info (7048, "Thanatos Tower - Keinginan Burled")
+}
+
+quest {
+	quest_info (7049, "Thanatos Tower - Segel Menara")
+}
+
+quest {
+	quest_info (7050, "Thanatos Tower - Segel Menara")
+}
+
+quest {
+	quest_info (7051, "Thanatos Tower - Segel Menara")
+}
+
+quest {
+	quest_info (7052, "Thanatos Tower - Segel Menara")
+}
+
+quest {
+	quest_info (7053, "Thanatos Tower - Apa yang mereka ingin adalah..")
+}
+
+//--- 신규모자 제작 2008년 고양이발머리핀
+quest {
+	quest_info (7054, "Keinginan Mue - Ajarkan mereka!")
+	hunt("KOBOLD_ARCHER", 1000)
+}
+
+quest {
+	quest_info (7055, "Keinginan Mue - Bukan kucing!")
+	hunt("WILD_ROSE", 1)
+}
+
+//--- ep13.2 [messenger]
+quest {
+	quest_info (7056, "Pesan - Keinginan Arch")
+}
+
+quest {
+	quest_info (7057, "Pesan - Keinginan Arch")
+}
+quest {
+	quest_info (7058, "Pesan - Keinginan Arch")
+}
+
+quest {
+	quest_info (7059, "Pesan - Dimana Terra")
+}
+quest {
+	quest_info (7060, "Pesan - Dimana Terra")
+}
+
+quest {
+	quest_info (7061, "Pesan - Dimana Terra")
+}
+quest {
+	quest_info (7062, "Pesan - Dimana Terra")
+}
+
+quest {
+	quest_info (7063, "Pesan - Dimana Terra")
+}
+quest {
+	quest_info (7064, "Pesan - Dimana Terra")
+}
+
+quest {
+	quest_info (7065, "Pesan - Dimana Terra")
+}
+
+quest {
+	quest_info (7066, "Pesan - Buktikan kebenaran")
+}
+
+quest {
+	quest_info (7067, "Pesan - Buktikan kebenaran")
+}
+
+quest {
+	quest_info (7068, "Pesan - Buktikan kebenaran")
+}
+
+quest {
+	quest_info (7069, "Pesan - Terlambat!")
+}
+
+quest {
+	quest_info (7070, "Pesan - Terra Kembali")
+}
+
+quest {
+	quest_info (7071, "Pesan - Undangan")
+}
+
+//-- PPL
+quest {
+	quest_info (7072, "Laporan Harian")
+}
+
+quest {
+	quest_info (7073, "Laporan Harian")
+	time(86400)
+}
+
+
+//-- 마누크- 갈튼
+quest {
+	quest_info (7074, "Tantangan - Mengalahkan Rata")
+	hunt("RATA", 1)
+}
+
+quest {
+	quest_info (7075, "Tantangan - Mengalahkan Duneyrr")
+	hunt("DUNEYRR", 1)
+}
+
+//-- 원정대- 민들레뿌리를 뽑아라
+quest {
+	quest_info (7076, "Permintaan Rin - Membersihkan pelarian")
+	hunt("DANDELION_", 1)
+}
+
+//----원정대 드라코의 알
+quest {
+	quest_info (7077, "Koleksi telur naga - Sebagai peliharaan")
+}
+
+quest {
+	quest_info (7078, "Koleksi telur naga - Sampai jumpa lagi")
+	time(86400)
+}
+
+//--------마누크 공학자
+quest {
+	quest_info (7079, "Koleksi Bradium - Mineral misterius")
+}
+
+quest {
+	quest_info (7080, "Koleksi Bradium - Sampai jumpa lagi")
+	time(86400)
+}
+
+//----- 스플랑디드 장인
+quest {
+	quest_info (7081, "Laphine si Penempa - Bahan dekorasi untuk Yai")
+}
+
+quest {
+	quest_info (7082, "Laphine si Penempa - Sampai jumpa lagi")
+	time(86400)
+}
+
+//---- 2009 설날 이벤트 - 떡국구하기
+quest {
+	quest_info (7083, "Saya membutuhkan Rice Cake Soup")
+}
+
+quest {
+	quest_info (7084, "Saya membutuhkan Rice Cake Soup")
+	time(86400)
+}
+
+//---- 2009년 설날 이벤트 - 쌀배달
+quest {
+	quest_info (7085, "2009 New Year")
+	time(3600)
+}
+
+quest {
+	quest_info (7086, "2009 New Year Reciept1")
+}
+
+quest {
+	quest_info (7087, "2009 New Year Reciept2")
+}
+
+quest {
+	quest_info (7088, "2009 New Year Reciept3")
+}
+
+quest {
+	quest_info (7089, "2009 New Year Reciept4")
+}
+
+quest {
+	quest_info (7090, "2009 New Year")
+	time(86400)
+}
+
+//--- 길로틴 크로스 전직 퀘스트
+quest {
+	quest_info (7091, "다오라의술잔")
+}
+
+quest {
+	quest_info (7092, "다오라의술잔")
+}
+
+quest {
+	quest_info (7093, "다오라의술잔")
+}
+
+quest {
+	quest_info (7094, "다오라의술잔")
+}
+
+quest {
+	quest_info (7095, "다오라의술잔")
+}
+
+quest {
+	quest_info (7096, "새로운자격의증명")
+}
+
+quest {
+	quest_info (7097, "새로운자격의증명")
+}
+
+quest {
+	quest_info (7098, "새로운자격의증명")
+}
+
+quest {
+	quest_info (7099, "새로운자격의증명")
+}
+
+quest {
+	quest_info (7100, "베르카셀")
+}
+
+quest {
+	quest_info (7101, "특수임무")
+}
+
+quest {
+	quest_info (7102, "특수임무")
+}
+
+quest {
+	quest_info (7103, "특수임무")
+}
+
+quest {
+	quest_info (7104, "특수임무")
+	time(3000)
+}
+
+quest {
+	quest_info (7105, "특수임무")
+	time(600)
+}
+
+quest {
+	quest_info (7106, "특수임무")
+}
+
+quest {
+	quest_info (7107, "특수임무")
+	time(10800)
+}
+
+quest {
+	quest_info (7108, "특수임무")
+}
+
+quest {
+	quest_info (7109, "특수임무")
+
+}
+quest {
+	quest_info (7110, "특수임무")
+	time(600)
+	hunt("HIDEN_PRIEST", 1)
+}
+
+quest {
+	quest_info (7111, "특수임무")
+}
+
+quest {
+	quest_info (7112, "마델레의정보")
+}
+
+quest {
+	quest_info (7113, "크레이브의정보")
+}
+
+quest {
+	quest_info (7114, "트로반의정보")
+}
+
+quest {
+	quest_info (7115, "행상인의정보")
+}
+
+quest {
+	quest_info (7116, "마을노인의정보")
+}
+
+//-----------2009 초보자 수련장 개편
+quest {
+	quest_info (7117, "라그나로크 첫걸음")
+}
+
+quest {
+	quest_info (7118, "초보자수련장-1")
+}
+
+quest {
+	quest_info (7119, "초보자수련장-2")
+}
+
+quest {
+	quest_info (7120, "초보자수련장-3")
+}
+
+quest {
+	quest_info (7121, "초보자수련장-4")
+}
+
+quest {
+	quest_info (7122, "전투의기본00")
+	hunt("PORING", 1)
+}
+
+quest {
+	quest_info (7123, "전투의기본01")
+	hunt("PICKY", 2)
+}
+
+quest {
+	quest_info (7124, "전투의기본02")
+	hunt("LUNATIC", 5)
+}
+
+quest {
+	quest_info (7125, "나만의특수기술01")
+}
+
+quest {
+	quest_info (7126, "나만의특수기술02")
+}
+
+quest {
+	quest_info (7127, "전투의기본03")
+	hunt("WILOW", 5)
+}
+
+//-------- 낙원단 장비지원 연속 퀘스트
+
+quest {
+	quest_info (7128, "사막을정복시작")
+}
+
+quest {
+	quest_info (7129, "사막을정복실전1")
+	hunt("CONDOR", 10)
+}
+
+quest {
+	quest_info (7130, "사막을정복실전2")
+	hunt("DESERT_WOLF_B", 10)
+}
+
+quest {
+	quest_info (7131, "사막을정복실전3")
+	hunt("SCORPION", 5)
+}
+
+quest {
+	quest_info (7132, "사막을정복완료")
+}
+
+quest {
+	quest_info (7133, "지하수로정복시작")
+}
+
+quest {
+	quest_info (7134, "지하수로정복1")
+	hunt("THIEF_BUG", 10)
+}
+
+quest {
+	quest_info (7135, "지하수로정복2")
+	hunt("TAROU", 10)
+}
+
+quest {
+	quest_info (7136, "지하수로정복3")
+	hunt("FARMILIAR", 5)
+}
+
+quest {
+	quest_info (7137, "지하수로정복완료")
+}
+
+quest {
+	quest_info (7138, "귀신동굴정복시작")
+}
+
+quest {
+	quest_info (7139, "귀신동굴정복1")
+	hunt("SKELETON", 15)
+}
+
+quest {
+	quest_info (7140, "귀신동굴정복2")
+	hunt("POPORING", 10)
+}
+
+quest {
+	quest_info (7141, "귀신동굴정복완료")
+}
+
+quest {
+	quest_info (7142, "개미지옥정복시작")
+}
+
+quest {
+	quest_info (7143, "개미지옥정복1")
+	hunt("PIERE", 15)
+}
+
+quest {
+	quest_info (7144, "개미지옥정복2")
+	hunt("ANDRE", 15)
+}
+
+quest {
+	quest_info (7145, "개미지옥정복3")
+	hunt("VITATA", 10)
+}
+
+quest {
+	quest_info (7146, "개미지옥정복완료")
+}
+
+quest {
+	quest_info (7147, "오크마을정복시작")
+}
+
+quest {
+	quest_info (7148, "오크마을정복1")
+	hunt("ORC_BABY", 10)
+}
+
+quest {
+	quest_info (7149, "오크마을정복2")
+	hunt("ORK_WARRIOR", 10)
+}
+
+quest {
+	quest_info (7150, "오크마을정복3")
+	hunt("ORC_LADY", 10)
+}
+
+quest {
+	quest_info (7151, "오크마을정복완료")
+}
+
+quest {
+	quest_info (7152, "오크던전정복시작")
+}
+
+quest {
+	quest_info (7153, "오크던전정복1")
+	hunt("ORC_ZOMBIE", 20)
+}
+
+quest {
+	quest_info (7154, "오크던전정복2")
+	hunt("ORC_SKELETON", 20)
+}
+
+quest {
+	quest_info (7155, "오크던전정복완료")
+}
+
+quest {
+	quest_info (7156, "해저도시정복시작")
+}
+
+quest {
+	quest_info (7157, "해저도시정복1")
+	hunt("MERMAN", 15)
+}
+
+quest {
+	quest_info (7158, "해저도시정복2")
+	hunt("STROUF", 10)
+}
+
+quest {
+	quest_info (7159, "해저도시정복완료")
+}
+
+//--- 쉐도우 체이서 전직 퀘스트
+quest {
+	quest_info (7160, "수수께끼의암호문")
+}
+
+quest {
+	quest_info (7161, "수수께끼의암호문-23")
+}
+
+quest {
+	quest_info (7162, "수수께기의암호문-24")
+}
+
+quest {
+	quest_info (7163, "수수께끼의암호문-25")
+}
+
+quest {
+	quest_info (7164, "기만의그림자")
+	hunt("S_WIND_GHOST", 1)
+}
+
+quest {
+	quest_info (7165, "기만의열쇠")
+}
+
+quest {
+	quest_info (7166, "라헬의그림자공방")
+}
+
+quest {
+	quest_info (7167, "수수께끼의암호문-3")
+}
+
+quest {
+	quest_info (7168, "수수께끼의암호문-seed")
+}
+
+quest {
+	quest_info (7169, "수수께끼의암호문-foot")
+}
+
+quest {
+	quest_info (7170, "수수께끼의암호문-cold")
+}
+
+quest {
+	quest_info (7171, "허상의그림자")
+	hunt("S_SKOGUL", 1)
+}
+
+quest {
+	quest_info (7172, "허상의열쇠")
+}
+
+quest {
+	quest_info (7173, "할레드에게폴의전언")
+}
+
+quest {
+	quest_info (7174, "수수께끼의암호문-노래")
+}
+
+quest {
+	quest_info (7175, "환락의그림자")
+	hunt("S_SUCCUBUS", 1)
+}
+
+quest {
+	quest_info (7176, "환락의열쇠")
+}
+
+quest {
+	quest_info (7177, "리히타르젠의그림자공방")
+}
+
+quest {
+	quest_info (7178, "기만,허상,환락의종착지")
+}
+
+quest {
+	quest_info (7179, "비센테..")
+}
+
+quest {
+	quest_info (7180, "둠크의전언")
+}
+
+//-- 미안해요 보상
+quest {
+	quest_info (7181, "소서러와제네릭보상")
+}
+
+//--------- 에피소드 13.3
+quest {
+	quest_info (7182, "사파의초청")
+}
+
+quest {
+	quest_info (7183, "사파의방문")
+}
+
+quest {
+	quest_info (7184, "엘디카스테스로")
+}
+
+quest {
+	quest_info (7185, "감찰관도하")
+}
+
+quest {
+	quest_info (7186, "도하의 비밀지령-조사")
+}
+
+quest {
+	quest_info (7187, "도하의 비밀지령-조사")
+}
+
+quest {
+	quest_info (7188, "정보수집-광장")
+}
+
+quest {
+	quest_info (7189, "정보수집-공장")
+}
+
+quest {
+	quest_info (7190, "정보수집-근위대")
+}
+
+quest {
+	quest_info (7191, "샤이의지명-비케이")
+}
+
+quest {
+	quest_info (7192, "비케이의정보")
+}
+
+quest {
+	quest_info (7193, "균열의조사")
+}
+
+quest {
+	quest_info (7194, "혈흔의정체는?")
+}
+
+quest {
+	quest_info (7195, "조각의정체는?")
+}
+
+quest {
+	quest_info (7196, "마력의정체는?")
+}
+
+quest {
+	quest_info (7197, "공훈증을모아라")
+}
+
+quest {
+	quest_info (7198, "대신아하트")
+}
+
+quest {
+	quest_info (7199, "은밀한지령")
+}
+
+quest {
+	quest_info (7200, "체셔의호출")
+	time(86400)
+}
+
+quest {
+	quest_info (7201, "매일매일균열정리")
+}
+
+quest {
+	quest_info (7202, "보고서를위해")
+}
+
+quest {
+	quest_info (7203, "최종보고")
+}
+
+// 이경숙
+quest {
+	quest_info (8000, "Quest Rubah Job Assassin")
+}
+
+quest {
+	quest_info (8001, "Quest Rubah Job Assassin")
+}
+
+quest {
+	quest_info (8002, "Quest Rubah Job Assassin")
+}
+
+quest {
+	quest_info (8003, "Quest Rubah Job Assassin")
+}
+
+quest {
+	quest_info (8004, "Quest Rubah Job Assassin")
+}
+
+quest {
+	quest_info (8005, "Quest Rubah Job Assassin")
+}
+
+quest {
+	quest_info (8006, "Quest Rubah Job Assassin")
+}
+
+quest {
+	quest_info (8007, "Quest Rubah Job Assassin")
+}
+
+quest {
+	quest_info (8008, "Quest Rubah Job Assassin")
+}
+
+quest {
+	quest_info (8009, "Quest Rubah Job Priest")
+}
+
+quest {
+	quest_info (8010, "Quest Rubah Job Priest")
+}
+
+quest {
+	quest_info (8011, "Quest Rubah Job Priest")
+}
+
+quest {
+	quest_info (8012, "Quest Rubah Job Priest")
+}
+
+quest {
+	quest_info (8013, "Quest Rubah Job Priest")
+}
+
+quest {
+	quest_info (8014, "Quest Rubah Job Priest")
+}
+
+quest {
+	quest_info (8015, "Quest Rubah Job Priest")
+}
+
+quest {
+	quest_info (8016, "Quest Rubah Job Priest")
+}
+
+quest {
+	quest_info (8017, "Pemeriksaan Pabrik di kota Einbroch")
+}
+
+quest {
+	quest_info (8018, "Memeriksa Pabrik di kota Einbroch")
+}
+
+quest {
+	quest_info (8019, "Memeriksa Pabrik di kota Einbroch")
+}
+
+quest {
+	quest_info (8020, "Memeriksa Pabrik di kota Einbroch")
+}
+
+quest {
+	quest_info (8021, "Memeriksa Pabrik di kota Einbroch")
+}
+
+quest {
+	quest_info (8022, "Memeriksa Pabrik di kota Einbroch")
+}
+
+quest {
+	quest_info (8023, "Memeriksa Pabrik di kota Einbroch")
+}
+
+quest {
+	quest_info (8024, "Memeriksa Pabrik di kota Einbroch")
+}
+
+quest {
+	quest_info (8025, "Memeriksa Pabrik di kota Einbroch")
+}
+
+quest {
+	quest_info (8026, "Memeriksa Pabrik di kota Einbroch")
+}
+
+quest {
+	quest_info (8027, "Memeriksa Pabrik di kota Einbroch")
+}
+
+quest {
+	quest_info (8028, "Memeriksa Pabrik di kota Einbroch")
+}
+
+quest {
+	quest_info (8029, "Memeriksa Pabrik di kota Einbroch")
+}
+
+quest {
+	quest_info (8030, "Memeriksa Pabrik di kota Einbroch")
+}
+
+quest {
+	quest_info (8031, "Perkerjaan untuk memperbaiki pabrik Einbroch")
+}
+
+quest {
+	quest_info (8032, "Permohonan Tarlock")
+}
+
+quest {
+	quest_info (8033, "Permohonan Ferlock")
+}
+
+quest {
+	quest_info (8034, "Permohonan Ferlock")
+}
+
+quest {
+	quest_info (8035, "Antarkan surat kepada Tarlock")
+}
+
+quest {
+	quest_info (8036, "Permohonan Hallen")
+}
+
+quest {
+	quest_info (8037, "Antarkan surat kepada Kaci")
+}
+
+quest {
+	quest_info (8038, "Antarkan surat kepada Kaci")
+}
+
+quest {
+	quest_info (8039, "Rahasia dari Airships")
+}
+
+quest {
+	quest_info (8040, "Rahasia dari Airships")
+}
+
+quest {
+	quest_info (8041, "Rahasia dari Airships")
+}
+
+quest {
+	quest_info (8042, "Rahasia dari Airships")
+}
+
+quest {
+	quest_info (8043, "Rahasia dari Airships")
+}
+
+quest {
+	quest_info (8044, "Tunangan Euslan")
+}
+
+quest {
+	quest_info (8045, "Tips dari Kaci")
+}
+
+quest {
+	quest_info (8046, "Daftar penumpang kapten Ferlock")
+}
+
+quest {
+	quest_info (8047, "Permohonan Euslan")
+}
+
+quest {
+	quest_info (8048, "Testimoni dari Eukran")
+}
+
+quest {
+	quest_info (8049, "Permohonan Thierry")
+}
+
+quest {
+	quest_info (8050, "Bahaya pada Thierry")
+}
+
+quest {
+	quest_info (8051, "Obat untuk Euslan")
+}
+
+quest {
+	quest_info (8052, "Permohonan Thierry")
+}
+
+quest {
+	quest_info (8053, "Permohonan Elreon")
+}
+
+quest {
+	quest_info (8054, "Pesan dari Postell")
+}
+
+quest {
+	quest_info (8055, "Menjaga Allen")
+}
+
+quest {
+	quest_info (8056, "Sebuah hadiah kecil")
+}
+
+quest {
+	quest_info (8057, "Rungutan Manainne")
+}
+
+quest {
+	quest_info (8058, "Pembicaraan dengan El Schatt")
+}
+
+quest {
+	quest_info (8059, "Perbincangan dengan Perfitz")
+}
+
+quest {
+	quest_info (8060, "El Schatt yang keras kepala")
+}
+
+quest {
+	quest_info (8061, "Gerutuan Manainne")
+}
+
+quest {
+	quest_info (8062, "Arwah dari Kanainne")
+}
+
+quest {
+	quest_info (8063, "Kanainne bertemu dengan El Schatt")
+}
+
+quest {
+	quest_info (8064, "Fish Cake Soup")
+}
+
+quest {
+	quest_info (8065, "Fish Cake Soup")
+}
+
+quest {
+	quest_info (8066, "Fish Cake Soup")
+}
+
+quest {
+	quest_info (8067, "Fish Cake Soup")
+}
+
+quest {
+	quest_info (8068, "Fish Cake Soup")
+}
+
+quest {
+	quest_info (8069, "Fish Cake Soup")
+}
+
+quest {
+	quest_info (8070, "Fish Cake Soup")
+}
+
+quest {
+	quest_info (8071, "Fish Cake Soup")
+}
+
+quest {
+	quest_info (8072, "Fish Cake Soup")
+}
+
+quest {
+	quest_info (8073, "Fish Cake Soup")
+}
+
+quest {
+	quest_info (8074, "Fish Cake Soup")
+}
+
+quest {
+	quest_info (8075, "Fish Cake Soup")
+}
+
+quest {
+	quest_info (8076, "Klitzer dan Calla")
+}
+
+quest {
+	quest_info (8077, "Klitzer dan Calla")
+}
+
+quest {
+	quest_info (8078, "Klitzer dan Calla")
+}
+
+quest {
+	quest_info (8079, "Klitzer dan Calla")
+}
+
+quest {
+	quest_info (8080, "Klitzer dan Calla")
+}
+
+quest {
+	quest_info (8081, "Klitzer dan Calla")
+}
+
+quest {
+	quest_info (8082, "Klitzer dan Calla")
+}
+
+quest {
+	quest_info (8083, "Klitzer dan Calla")
+}
+
+quest {
+	quest_info (8084, "Klitzer dan Calla")
+}
+
+quest {
+	quest_info (8085, "Klitzer dan Calla")
+}
+
+quest {
+	quest_info (8086, "Klitzer dan Calla")
+}
+
+quest {
+	quest_info (8087, "Klitzer dan Calla")
+}
+
+quest {
+	quest_info (8088, "Klitzer dan Calla")
+}
+
+quest {
+	quest_info (8089, "Gemstone yang dicuri")
+}
+
+quest {
+	quest_info (8090, "Gemstone yang dicuri")
+}
+
+quest {
+	quest_info (8091, "Gemstone yang dicuri")
+}
+
+quest {
+	quest_info (8092, "Gemstone yang dicuri")
+}
+
+quest {
+	quest_info (8093, "Gemstone yang dicuri")
+}
+
+quest {
+	quest_info (8094, "Gemstone yang dicuri")
+}
+
+quest {
+	quest_info (8095, "Gemstone yang dicuri")
+}
+
+quest {
+	quest_info (8096, "Gemstone yang dicuri")
+}
+
+quest {
+	quest_info (8097, "Gemstone yang dicuri")
+}
+
+quest {
+	quest_info (8098, "Gemstone yang dicuri")
+}
+
+quest {
+	quest_info (8099, "Gemstone yang dicuri")
+}
+
+quest {
+	quest_info (8100, "Rekomendasi dari High Priest Zhed")
+}
+
+quest {
+	quest_info (8101, "Rekomendasi dari High Priest Zhed")
+}
+
+quest {
+	quest_info (8102, "Rekomendasi dari High Priest Zhed")
+}
+
+quest {
+	quest_info (8103, "Rekomendasi dari High Priest Zhed")
+}
+
+quest {
+	quest_info (8104, "Rekomendasi dari High Priest Zhed")
+}
+
+quest {
+	quest_info (8105, "Rekomendasi dari High Priest Zhed")
+}
+
+quest {
+	quest_info (8106, "Keberadaan Bruspetti")
+}
+
+quest {
+	quest_info (8107, "Testimoni dari Lachellen")
+}
+
+quest {
+	quest_info (8108, "Pendatang asing, Katinshuell")
+}
+
+quest {
+	quest_info (8109, "Wewangian Bruspetti")
+}
+
+quest {
+	quest_info (8110, "Wewangian Bruspetti")
+}
+
+quest {
+	quest_info (8111, "Testimoni dari Lachellen")
+}
+
+quest {
+	quest_info (8112, "Kolam Freya")
+}
+
+quest {
+	quest_info (8113, "Bruspetti Diari")
+}
+
+quest {
+	quest_info (8114, "Bruspetti Diari")
+}
+
+quest {
+	quest_info (8115, "Bruspetti Diari")
+}
+
+quest {
+	quest_info (8116, "Katinshuell yang mencurigakan")
+}
+
+quest {
+	quest_info (8117, "Testimoni Lachellen")
+}
+
+quest {
+	quest_info (8118, "Kolam Freya")
+}
+
+quest {
+	quest_info (8119, "Perbincangan dengan Mr. Shendar")
+}
+
+quest {
+	quest_info (8120, "Perbincangan dengan Katinshuell")
+}
+
+quest {
+	quest_info (8121, "Perbincangan dengan Katinshuell")
+}
+
+quest {
+	quest_info (8122, "Perbincangan dengan Katinshuell")
+}
+
+quest {
+	quest_info (8123, "Quest Tomyamgoong Ayotaya")
+}
+
+quest {
+	quest_info (8124, "Quest Tomyamgoong Ayotaya")
+}
+
+quest {
+	quest_info (8125, "Quest Tomyamgoong Ayotaya")
+}
+
+quest {
+	quest_info (8126, "Quest Tomyamgoong Ayotaya")
+}
+
+quest {
+	quest_info (8127, "Perjalanan Momotaro")
+}
+
+quest {
+	quest_info (8128, "Perjalanan Momotaro")
+}
+
+quest {
+	quest_info (8129, "Perjalanan Momotaro")
+}
+
+quest {
+	quest_info (8130, "Perjalanan Momotaro")
+}
+
+quest {
+	quest_info (8131, "Ibu Suri Kerajaan Amatsu")
+}
+
+quest {
+	quest_info (8132, "Ibu Suri Kerajaan Amatsu")
+}
+
+quest {
+	quest_info (8133, "Nyanyian sang rubah")
+}
+
+quest {
+	quest_info (8134, "Lelaki di kuil Utara")
+}
+
+quest {
+	quest_info (8135, "Pengusiran Rubah")
+}
+
+quest {
+	quest_info (8136, "Hutan berbahaya")
+}
+
+quest {
+	quest_info (8137, "Misteri Batu nisan dipersimpangan jalan")
+}
+
+quest {
+	quest_info (8138, "Peringatan dari serigala abu abu")
+}
+
+quest {
+	quest_info (8139, "Permohonan Serigala Abu abu")
+}
+
+quest {
+	quest_info (8140, "Maria Morebna")
+}
+
+quest {
+	quest_info (8141, "Blacksmith Di Moscovia")
+}
+
+quest {
+	quest_info (8142, "Golden Key")
+}
+
+quest {
+	quest_info (8143, "Bassili Red Ring")
+}
+
+quest {
+	quest_info (8144, "Tentang Keberadaan Mashenka")
+}
+
+quest {
+	quest_info (8145, "Tentang Keberadaan Mashenka")
+}
+
+quest {
+	quest_info (8146, "Seruling dari Pointed Wooden Flute")
+}
+
+quest {
+	quest_info (8147, "Seruling dari Pointed Wooden Flute")
+}
+
+quest {
+	quest_info (8148, "Wanita yang kecewa")
+}
+
+quest {
+	quest_info (8149, "Wanita yang kecewa")
+}
+
+quest {
+	quest_info (8150, "Para Pecinta Lusalka")
+}
+
+quest {
+	quest_info (8151, "Petualang dari negeri antah berantah")
+}
+
+quest {
+	quest_info (8152, "Penduduk desa Morroc")
+}
+
+quest {
+	quest_info (8153, "Pesan Igor")
+}
+
+quest {
+	quest_info (8155, "Mazroka, Penguasa Musim dingin")
+}
+
+quest {
+	quest_info (8156, "Mazroka, Penguasa Musim dingin")
+}
+
+quest {
+	quest_info (8157, "Ujian Mazroka")
+}
+
+quest {
+	quest_info (8158, "Permohonan Babayaga")
+}
+
+quest {
+	quest_info (8159, "Permohonan Babayaga")
+}
+
+quest {
+	quest_info (8160, "Permohonan Babayaga")
+}
+
+quest {
+	quest_info (8161, "Permohonan Babayaga")
+}
+
+quest {
+	quest_info (8162, "Permohonan Babayaga")
+}
+
+quest {
+	quest_info (8163, "Permohonan Babayaga")
+}
+
+quest {
+	quest_info (8164, "Permohonan Babayaga")
+}
+
+quest {
+	quest_info (8165, "Permohonan Babayaga")
+}
+
+quest {
+	quest_info (8166, "Permohonan Babayaga")
+}
+
+quest {
+	quest_info (8167, "Permohonan Babayaga")
+}
+
+quest {
+	quest_info (8168, "Permohonan Babayaga")
+}
+
+quest {
+	quest_info (8169, "Permohonan Babayaga")
+}
+
+quest {
+	quest_info (8170, "Permohonan Babayaga")
+}
+
+quest {
+	quest_info (8171, "Permohonan Babayaga")
+}
+
+quest {
+	quest_info (8172, "Permohonan Babayaga")
+}
+
+quest {
+	quest_info (8173, "Permohonan Babayaga")
+}
+
+quest {
+	quest_info (8174, "Permohonan Babayaga")
+}
+
+quest {
+	quest_info (8175, "Permohonan Babayaga")
+}
+
+quest {
+	quest_info (8176, "Penjahat abadi, Koshei")
+}
+
+quest {
+	quest_info (8177, "Penjahat abadi, Koshei")
+}
+
+quest {
+	quest_info (8178, "Living Water dan Dead Water")
+}
+
+quest {
+	quest_info (8179, "Living Water dan Dead Water")
+}
+
+quest {
+	quest_info (8180, "Living Water dan Dead Water")
+}
+
+quest {
+	quest_info (8181, "Quest skill, Wizard")
+}
+
+quest {
+	quest_info (8182, "Quest skill, Wizard")
+}
+
+quest {
+	quest_info (8183, "Quest skill, Wizard")
+}
+
+quest {
+	quest_info (8184, "Quest skill, Sage")
+}
+
+quest {
+	quest_info (8185, "Quest skill, Sage")
+}
+
+quest {
+	quest_info (8186, "Quest skill, Sage")
+}
+
+quest {
+	quest_info (8187, "Quest skill, Sage")
+}
+
+quest {
+	quest_info (8188, "Quest skill, Sage")
+}
+
+quest {
+	quest_info (8189, "Quest skill, Sage")
+}
+
+quest {
+	quest_info (8190, "Quest skill, Dancer")
+}
+
+quest {
+	quest_info (8191, "Quest skill, Dancer")
+}
+
+quest {
+	quest_info (8192, "Quest skill, Dancer")
+}
+
+quest {
+	quest_info (8193, "Quest skill, Dancer")
+}
+
+quest {
+	quest_info (8194, "Quest skill, Dancer")
+}
+
+quest {
+	quest_info (8195, "Quest skill, Dancer")
+}
+
+quest {
+	quest_info (8196, "Konflik serikat 3 negara")
+}
+
+quest {
+	quest_info (8197, "Konflik serikat 3 negara")
+}
+
+quest {
+	quest_info (8198, "Konflik serikat 3 negara")
+}
+
+quest {
+	quest_info (8199, "Konflik serikat 3 negara")
+}
+
+quest {
+	quest_info (8200, "Konflik serikat 3 negara")
+}
+
+quest {
+	quest_info (8201, "Konflik serikat 3 negara")
+}
+
+quest {
+	quest_info (8202, "Konflik serikat 3 negara")
+}
+
+quest {
+	quest_info (8203, "Konflik serikat 3 negara")
+}
+
+quest {
+	quest_info (8204, "Konflik serikat 3 negara")
+}
+
+quest {
+	quest_info (8205, "Konflik serikat 3 negara")
+}
+
+quest {
+	quest_info (8206, "Konflik serikat 3 negara")
+}
+
+quest {
+	quest_info (8207, "Konflik serikat 3 negara")
+}
+
+quest {
+	quest_info (8208, "Konflik serikat 3 negara")
+}
+
+quest {
+	quest_info (8209, "Konflik serikat 3 negara")
+}
+
+quest {
+	quest_info (8210, "Konflik serikat 3 negara")
+}
+
+
+quest {
+	quest_info (8211, "Tutorial Skill - Swordman")
+}
+
+quest {
+	quest_info (8212, "Tutorial Skill - Swordman")
+}
+
+quest {
+	quest_info (8213, "Tutorial Skill - Swordman")
+}
+
+quest {
+	quest_info (8214, "Tutorial Skill - Swordman")
+}
+
+quest {
+	quest_info (8215, "Tutorial Skill - Swordman")
+}
+
+quest {
+	quest_info (8216, "Tutorial Skill - Swordmand")
+}
+
+quest {
+	quest_info (8217, "Tutorial Skill - Swordman")
+}
+
+quest {
+	quest_info (8218, "Tutorial Skill - Swordman")
+}
+
+quest {
+	quest_info (8219, "Tutorial Skill - Swordman")
+}
+
+quest {
+	quest_info (8220, "Tutorial Skill - Swordman")
+}
+
+quest {
+	quest_info (8221, "Tutorial Skill - Swordman")
+}
+
+quest {
+	quest_info (8222, "Tutorial Skill - Swordman")
+}
+
+quest {
+	quest_info (8223, "Tutorial Skill - Swordman")
+}
+
+quest {
+	quest_info (8224, "Tutorial Skill - Swordman")
+}
+
+quest {
+	quest_info (8225, "Tutorial Skill - Swordman")
+}
+
+quest {
+	quest_info (8226, "Tutorial Skill - Swordman")
+}
+
+quest {
+	quest_info (8227, "Tutorial Skill - Swordman")
+}
+
+quest {
+	quest_info (8228, "Tutorial Skill - Swordman")
+}
+
+
+quest {
+	quest_info (8229, "Tutorial Skill - Merchant")
+}
+
+quest {
+	quest_info (8230, "Tutorial Skill - Merchant")
+}
+
+quest {
+	quest_info (8231, "Tutorial Skill - Merchant")
+}
+
+quest {
+	quest_info (8232, "Tutorial Skill - Merchant")
+}
+
+quest {
+	quest_info (8233, "Tutorial Skill - Merchant")
+}
+
+quest {
+	quest_info (8234, "Tutorial Skill - Merchant")
+}
+
+quest {
+	quest_info (8235, "Tutorial Skill - Merchant")
+}
+
+quest {
+	quest_info (8236, "Tutorial Skill - Merchant")
+}
+
+quest {
+	quest_info (8237, "Tutorial Skill - Merchant")
+}
+
+quest {
+	quest_info (8238, "Tutorial Skill - Merchant")
+}
+
+quest {
+	quest_info (8239, "Tutorial Skill - Merchant")
+}
+
+quest {
+	quest_info (8240, "Tutorial Skill - Merchant")
+}
+
+quest {
+	quest_info (8241, "Quest alat penerjemah")
+}
+
+quest {
+	quest_info (8242, "Quest alat penerjemah")
+}
+
+quest {
+	quest_info (8243, "Quest alat penerjemah")
+}
+
+quest {
+	quest_info (8244, "Quest alat penerjemah")
+}
+
+quest {
+	quest_info (8245, "Quest alat penerjemah")
+}
+
+quest {
+	quest_info (8246, "Quest alat penerjemah")
+}
+
+quest {
+	quest_info (8247, "Quest alat penerjemah")
+}
+
+quest {
+	quest_info (8248, "Quest alat penerjemah")
+}
+
+quest {
+	quest_info (8249, "Quest alat penerjemah")
+}
+
+quest {
+	quest_info (8250, "Quest alat penerjemah")
+}
+
+quest {
+	quest_info (8251, "Quest alat penerjemah")
+}
+
+quest {
+	quest_info (8252, "Quest alat penerjemah")
+}
+
+quest {
+	quest_info (8253, "Quest alat penerjemah")
+	time(3600)
+}
+
+quest {
+	quest_info (8254, "레인저 전직 퀘스트")
+}
+
+quest {
+	quest_info (8255, "레인저 전직 퀘스트")
+}
+
+quest {
+	quest_info (8256, "레인저 전직 퀘스트")
+}
+
+quest {
+	quest_info (8257, "레인저 전직 퀘스트")
+	hunt("DRAGON_TAIL", 1)
+}
+
+quest {
+	quest_info (8258, "레인저 전직 퀘스트")
+}
+
+quest {
+	quest_info (8259, "레인저 전직 퀘스트")
+}
+
+quest {
+	quest_info (8260, "레인저 전직 퀘스트")
+}
+
+quest {
+	quest_info (8261, "레인저 전직 퀘스트")
+}
+
+quest {
+	quest_info (8262, "레인저 전직 퀘스트")
+}
+
+
+quest {
+	quest_info (8265, "핵실드보상이벤트")
+	time(3600)
+}
+
+quest {
+	quest_info (8266, "포이즌스포아사냥")
+	hunt("POISON_SPORE", 10)
+}
+
+quest {
+	quest_info (8267, "스모키사냥")
+	hunt("SMOKIE", 10)
+}
+
+quest {
+	quest_info (8268, "엘더윌로우사냥")
+	hunt("ELDER_WILOW", 10)
+}
+
+quest {
+	quest_info (8269, "코코사냥")
+	hunt("COCO", 10)
+}
+
+quest {
+	quest_info (8270, "타라프로그사냥")
+	hunt("THARA_FROG", 10)
+}
+
+quest {
+	quest_info (8271, "해충박멸제배달")
+}
+
+quest {
+	quest_info (8272, "꿀배달")
+}
+
+quest {
+	quest_info (8273, "모포배달")
+}
+
+quest {
+	quest_info (8274, "뼈모으기")
+}
+
+quest {
+	quest_info (8275, "발바닥모으기")
+}
+
+quest {
+	quest_info (8276, "등껍질모으기")
+}
+
+quest {
+	quest_info (8277, "꼬리모으기")
+}
+
+quest {
+	quest_info (8278, "쿠키모으기")
+}
+
+quest {
+	quest_info (8279, "수염모으기")
+}
+
+// 박선구 // ===================== 나이트 ========================
+quest {
+	quest_info (9000, "Quest Rubah Job Knight")
+}
+
+quest {
+	quest_info (9001, "Ujian Kesetiaan Knight")
+}
+
+quest {
+	quest_info (9002, "Ujian Kesetiaan Knight")
+}
+
+quest {
+	quest_info (9003, "Kehormatan seorang Knight")
+}
+
+quest {
+	quest_info (9004, "Kehormatan seorang Knight")
+}
+
+quest {
+	quest_info (9005, "Keteguhan seorang Knight")
+}
+
+quest {
+	quest_info (9006, "Keteguhan seorang Knight")
+}
+
+quest {
+	quest_info (9007, "Kehormatan seorang Knight")
+}
+
+quest {
+	quest_info (9008, "Perilaku seorang Knight")
+}
+
+quest {
+	quest_info (9009, "Hidup sebagai seorang Knight")
+}
+
+quest {
+	quest_info (9010, "Kehormatan seorang Knight")
+}
+
+quest {
+	quest_info (9011, "Kehormatan seorang Knight")
+}
+
+quest {
+	quest_info (9012, "Kemuliaan seorang Knight!")
+}
+// ===================== 위자드 ========================
+quest {
+	quest_info (9013, "Menjadi seorang Wizard!")
+}
+
+quest {
+	quest_info (9014, "Menjadi seorang Wizard!")
+}
+
+quest {
+	quest_info (9015, "Gloomy Wizard?")
+}
+
+quest {
+	quest_info (9016, "Pengertian Sihir dan Zat")
+}
+
+quest {
+	quest_info (9017, "Penggunaan dari Sihir")
+}
+
+quest {
+	quest_info (9018, "Peresmian sebagai Wizard!")
+}
+// ===================== 전장 ========================
+quest {
+	quest_info (2069, "Tierra Gorge Battlefield")
+	time(300)
+}
+
+quest {
+	quest_info (2070, "Flavius Battlefield")
+	time(300)
+}
+
+// 프론테라 - 아인브로크의 심부름꾼
+
+quest {
+	quest_info (9024, "아인브로크의 심부름꾼")
+}
+
+//---2009Shipcleaning
+quest {
+	quest_info (9025, "Swab the Deck: Sticky Rats")
+}
+
+quest {
+	quest_info (9026, "Swab the Deck: Present status")
+	time(72000)
+}
+
+
+// 브라질리스 - 이상한 해변가
+quest {
+	quest_info (9028, "이상한 해변가")
+}
+
+quest {
+	quest_info (9029, "이상한 해변가: 현재 상황")
+	time(86400)
+}
+
+//이범수 - 멍멍이 찾기
+
+quest {
+	quest_info (9030,"브라질멍멍이")
+}
+
+
+quest {
+	quest_info (9031,"브라질멍멍이")
+}
+
+quest {
+	quest_info (9032,"브라질멍멍이")
+	time(86400)
+}
+
+
+//-------------2010 Idul Fitri Event in indonesia
+quest {
+	quest_info (9151, "Idul Fitri Event")
+	time (82800)
+}
+
+quest {
+	quest_info (9152, "Idul Fitri Event")
+}
+quest {
+	quest_info (9153, "Idul Fitri Event")
+}
+quest {
+	quest_info (9154, "Idul Fitri Event")
+}
+
+// Indonesisa  local "legend"  인도네시아 로컬 : "전설"
+
+quest {
+	quest_info (9155, "자티 왕관 제작 재료 구하기")
+}
+
+quest {
+	quest_info (9156, "자티 왕관 제작")
+}
+
+quest {
+	quest_info (9157, "현자 카시아파의 보답")
+}
+
+quest {
+	quest_info (9158, "경사스러운 소식 전하기(1)")
+}
+
+quest {
+	quest_info (9159, "파이코에게 돌아가기")
+}
+
+quest {
+	quest_info (9160, "경사스러운 소식 전하기(2)")
+}
+
+quest {
+	quest_info (9161, "파이코에게 돌아가기")
+}
+
+quest {
+	quest_info (9162, "경사스러운 소식 전하기(3)")
+}
+
+quest {
+	quest_info (9163, "파이코에게 돌아가기")
+}
+
+quest {
+	quest_info (9164, "경사스러운 소식 전하기(4)")
+}
+
+quest {
+	quest_info (9165, "자티왕관의 제작 성공과 파이코의 보답")
+}
+
+//------- 19 Jan 2011 Event Reset Status
+quest {
+	quest_info (9166, "능력치 초기화 : 현재상황")
+//	time(0)
+}
+
+
+// 곽동언 //==================== 왕위조례 ========================
+quest {
+	quest_info (10000, "Istana kerajaan prontera")
+}
+
+quest {
+	quest_info (10001, "Ujian keberhasilan")
+}
+
+quest {
+	quest_info (10002, "Meninjau keberhasilan")
+}
+
+quest {
+	quest_info (10003, "Mendapat perintah")
+}
+
+quest {
+	quest_info (10004, "Laporan sementara")
+}
+
+quest {
+	quest_info (10005, "Pangeran Eigen Ahrum")
+}
+
+quest {
+	quest_info (10006, "Pangeran Ernst")
+}
+
+quest {
+	quest_info (10007, "Pangeran Poe")
+}
+
+quest {
+	quest_info (10008, "Pangeran Peter")
+}
+
+quest {
+	quest_info (10009, "Pangeran Urugen")
+}
+
+quest {
+	quest_info (10010, "Pangeran Helmut")
+}
+
+quest {
+	quest_info (10011, "Pangeran Erich")
+}
+
+quest {
+	quest_info (10012, "Pembicaraan dua pangeran")
+}
+
+quest {
+	quest_info (10013, "Pencarian gadis tidak dikenal")
+}
+
+quest {
+	quest_info (10014, "Kembali ke pangeran Peter")
+}
+
+quest {
+	quest_info (10015, "Ujian 15")
+}
+
+quest {
+	quest_info (10016, "Orang dari keluarga Walter")
+}
+
+quest {
+	quest_info (10017, "Persekongkolan")
+}
+
+quest {
+	quest_info (10018, "Villainous Ahrum - Poe")
+}
+
+quest {
+	quest_info (10019, "Villainous Ahrum - Peter")
+}
+
+quest {
+	quest_info (10020, "Villainous Ahrum - Erich")
+}
+
+quest {
+	quest_info (10021, "Villainous Ahrum - Urugen")
+}
+
+quest {
+	quest_info (10022, "Villainous Ahrum - Helmut")
+}
+
+quest {
+	quest_info (10023, "Eigen Ahrum dan Ernst -Dahulu-")
+}
+
+quest {
+	quest_info (10024, "Eigen Ahrum dan Ernst -Setelahnya-")
+}
+
+quest {
+	quest_info (10025, "Selamat tinggal!")
+}
+//==================== 유노 메토 퀘 ========================
+quest {
+	quest_info (10026, "Meyusul Meto")
+}
+
+quest {
+	quest_info (10027, "Meyusul Meto")
+}
+
+quest {
+	quest_info (10028, "Meyusul Meto")
+}
+
+quest {
+	quest_info (10029, "Meyusul Meto")
+}
+
+quest {
+	quest_info (10030, "Meyusul Meto")
+}
+
+quest {
+	quest_info (10031, "Meyusul Meto")
+}
+
+quest {
+	quest_info (10032, "Meyusul Meto - Terakhir")
+}
+
+quest {
+	quest_info (10033, "Meyusul Meto - lapor ke Weigon")
+}
+//==================== 곤륜 착한 인간 ========================
+quest {
+	quest_info (10034, "Mencari pisau")
+}
+
+quest {
+	quest_info (10035, "Antarkan pisau")
+}
+//========== 스시! 와사비! 스시! 와사비! 스시! ==============
+quest {
+	quest_info (10036, "Bahan persediaan - Candy")
+}
+
+quest {
+	quest_info (10037, "Bahan persediaan - Crap Shell")
+}
+
+quest {
+	quest_info (10038, "Bahan persediaan - Conch")
+}
+
+quest {
+	quest_info (10039, "Bahan persediaan - Fish Tail")
+}
+
+quest {
+	quest_info (10040, "Bahan persediaan - China")
+}
+
+quest {
+	quest_info (10041, "Bahan persediaan - ?")
+}
+//=================== 건반을 찾아라 =======================
+quest {
+	quest_info (10042, "Mencari tuts piano - 5 tersisa")
+}
+
+quest {
+	quest_info (10043, "Mencari tuts piano - 5 tersisa")
+}
+
+quest {
+	quest_info (10044, "Mencari tuts piano - 4 tersisa")
+}
+
+quest {
+	quest_info (10045, "Mencari tuts piano - 4 tersisa")
+}
+
+quest {
+	quest_info (10046, "Mencari tuts piano - 3 tersisa")
+}
+
+quest {
+	quest_info (10047, "Mencari tuts piano - 3 tersisa")
+}
+
+quest {
+	quest_info (10048, "Mencari tuts piano - 2 tersisa")
+}
+
+quest {
+	quest_info (10049, "Mencari tuts piano - 2 tersisa")
+}
+
+quest {
+	quest_info (10050, "Mencari tuts piano - 1 tersisa")
+}
+
+quest {
+	quest_info (10051, "Mencari tuts piano - 1 tersisa")
+}
+
+quest {
+	quest_info (10052, "Mencari tuts piano - Piano")
+}
+
+quest {
+	quest_info (10053, "Mencari tuts piano - Mengisi slot kosong")
+}
+
+quest {
+	quest_info (10054, "Diambang pelarian - Clint Kana")
+}
+//=================== 번역 서비스 =======================
+quest {
+	quest_info (10055, "Memahami kebudayaan")
+}
+
+quest {
+	quest_info (10056, "Belajar bahasa")
+}
+
+quest {
+	quest_info (10057, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10058, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10059, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10060, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10061, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10062, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10063, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10064, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10065, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10066, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10067, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10068, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10069, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10070, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10071, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10072, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10073, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10074, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10075, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10076, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10077, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10078, "Perjalanan ke Dunia lain")
+}
+
+quest {
+	quest_info (10079, "Pergi dari dunia nyata, menuju suatu Dunia baru")
+}
+
+quest {
+	quest_info (10080, "Pergi dari dunia nyata, menuju suatu Dunia baru")
+}
+
+quest {
+	quest_info (10081, "Pergi dari dunia nyata, menuju suatu Dunia baru")
+}
+
+quest {
+	quest_info (10082, "Pergi dari dunia nyata, menuju suatu Dunia baru")
+}
+
+quest {
+	quest_info (10083, "Pergi dari dunia nyata, menuju suatu Dunia baru")
+}
+
+quest {
+	quest_info (10084, "Pergi dari dunia nyata, menuju suatu Dunia baru")
+	hunt("WILD_ROSE", 1)
+}
+
+quest {
+	quest_info (10085, "Pergi dari dunia nyata, menuju suatu Dunia baru")
+	time(86400)
+}
+
+quest {
+	quest_info (10086, "Pergi dari dunia nyata, menuju suatu Dunia baru")
+}
+
+quest {
+	quest_info (10087, "Pergi dari dunia nyata, menuju suatu Dunia baru")
+	time(86400)
+}
+
+quest {
+	quest_info (10088, "Pergi dari dunia nyata, menuju suatu Dunia baru")
+}
+
+quest {
+	quest_info (10089, "Pergi dari dunia nyata, menuju suatu Dunia baru")
+}
+
+quest {
+	quest_info (10090, "미케닉 전직")
+}
+
+quest {
+	quest_info (10091, "미케닉 전직")
+}
+
+quest {
+	quest_info (10092, "미케닉 전직")
+}
+
+quest {
+	quest_info (10093, "미케닉 전직")
+}
+
+quest {
+	quest_info (10094, "미케닉 전직")
+}
+
+quest {
+	quest_info (10095, "미케닉 전직")
+}
+
+quest {
+	quest_info (10096, "미케닉 전직")
+}
+
+quest {
+	quest_info (10097, "미케닉 전직")
+}
+
+quest {
+	quest_info (10098, "미케닉 전직")
+}
+
+quest {
+	quest_info (10099, "미케닉 전직")
+}
+
+quest {
+	quest_info (10100, "미케닉 전직")
+}
+
+quest {
+	quest_info (10101, "미케닉 전직")
+}
+
+quest {
+	quest_info (10102, "의뢰인에게 - 스핑크스 던전편")
+}
+
+quest {
+	quest_info (10103, "의뢰인에게 - 글래스트 헤임편")
+}
+
+quest {
+	quest_info (10104, "의뢰인에게 - 유노편")
+}
+
+quest {
+	quest_info (10105, "의뢰인에게 - 시계탑편")
+}
+
+quest {
+	quest_info (10106, "의뢰인에게 - 로컬라이징편")
+}
+
+quest {
+	quest_info (10107, "스핑크스 던전 - 레퀴엠")
+	hunt("REQUIEM", 10)
+}
+
+quest {
+	quest_info (10108, "스핑크스 던전 - 마르두크")
+	hunt("MARDUK", 10)
+}
+
+quest {
+	quest_info (10109, "스핑크스 던전 - 파사나")
+	hunt("PASANA", 10)
+}
+
+quest {
+	quest_info (10110, "글래스트 헤임 - 다크 프레임")
+	hunt("DARK_FRAME", 10)
+}
+
+quest {
+	quest_info (10111, "글래스트 헤임 - 이블 드루이드")
+	hunt("EVIL_DRUID", 10)
+}
+
+quest {
+	quest_info (10112, "글래스트 헤임 - 레이쓰")
+	hunt("WRAITH", 10)
+}
+
+quest {
+	quest_info (10113, "글래스트 헤임 - 레이드릭 아쳐")
+	hunt("RAYDRIC_ARCHER", 10)
+}
+
+quest {
+	quest_info (10114, "유노 - 그랜드 페코")
+	hunt("GRAND_PECO", 20)
+}
+
+quest {
+	quest_info (10115, "유노 - 슬리퍼")
+	hunt("SLEEPER", 20)
+}
+
+quest {
+	quest_info (10116, "유노 - 고우트")
+	hunt("GOAT", 20)
+}
+
+quest {
+	quest_info (10117, "유노 - 하피")
+	hunt("HARPY", 20)
+}
+
+quest {
+	quest_info (10118, "시계탑 - 클락")
+	hunt("CLOCK", 15)
+}
+
+quest {
+	quest_info (10119, "시계탑 - 펑크")
+	hunt("PUNK", 15)
+}
+
+quest {
+	quest_info (10120, "시계탑 - 라이드워드")
+	hunt("RIDEWORD", 15)
+}
+
+quest {
+	quest_info (10121, "로컬라이징 - 우자스")
+	hunt("UZHAS", 15)
+}
+
+quest {
+	quest_info (10122, "로컬라이징 - 미야비인형")
+	hunt("MIYABI_NINGYO", 15)
+}
+
+quest {
+	quest_info (10123, "로컬라이징 - 식양")
+	hunt("INCREASE_SOIL", 15)
+}
+
+// 송송이
+quest {
+	quest_info (11000, "Inspeksi dari Kuil Odin")
+}
+
+quest {
+	quest_info (11001, "Inspeksi dari Kuil Odin")
+}
+
+quest {
+	quest_info (11002, "Inspeksi dari Kuil Odin")
+}
+
+quest {
+	quest_info (11003, "Inspeksi dari Kuil Odin")
+}
+
+quest {
+	quest_info (11004, "Inspeksi dari Kuil Odin")
+}
+
+quest {
+	quest_info (11005, "Inspeksi dari Kuil Odin")
+}
+
+quest {
+	quest_info (11006, "Inspeksi dari Kuil Odin")
+}
+
+quest {
+	quest_info (11007, "Inspeksi dari Kuil Odin")
+}
+
+quest {
+	quest_info (11008, "Inspeksi dari Kuil Odin")
+}
+
+quest {
+	quest_info (11009, "Bio Research")
+}
+
+quest {
+	quest_info (11010, "Bio Research")
+}
+
+quest {
+	quest_info (11011, "Bio Research")
+}
+
+quest {
+	quest_info (11012, "Bio Research")
+}
+
+quest {
+	quest_info (11013, "Bio Research")
+}
+
+quest {
+	quest_info (11014, "Bio Research")
+}
+
+quest {
+	quest_info (11015, "Bio Research")
+}
+
+quest {
+	quest_info (11016, "Bio Research")
+}
+
+quest {
+	quest_info (11017, "Menjelajah Juperos")
+}
+
+quest {
+	quest_info (11018, "Menjelajah Juperos")
+}
+
+quest {
+	quest_info (11019, "Menjelajah Juperos")
+}
+
+quest {
+	quest_info (11020, "Menjelajah Juperos")
+}
+
+quest {
+	quest_info (11021, "Menjelajah Juperos")
+}
+
+quest {
+	quest_info (11022, "Menjelajah Juperos")
+}
+
+quest {
+	quest_info (11023, "Wincing Old Man")
+}
+
+quest {
+	quest_info (11024, "Wincing Old Man")
+}
+
+quest {
+	quest_info (11025, "Wincing Old Man")
+}
+
+quest {
+	quest_info (11026, "Wincing Old Man")
+}
+
+quest {
+	quest_info (11027, "Wincing Old Man")
+}
+
+quest {
+	quest_info (11028, "Wincing Old Man")
+}
+
+quest {
+	quest_info (11029, "Pergi ke Turtle Island..")
+}
+
+quest {
+	quest_info (11030, "Pergi ke Turtle Island..")
+}
+
+quest {
+	quest_info (11031, "Pergi ke Turtle Island..")
+}
+
+quest {
+	quest_info (11032, "Pergi ke Turtle Island..")
+}
+
+quest {
+	quest_info (11033, "Pergi ke Turtle Island..")
+}
+
+quest {
+	quest_info (11034, "Pergi ke Turtle Island..")
+}
+
+quest {
+	quest_info (11035, "Pergi ke Turtle Island..")
+}
+
+quest {
+	quest_info (11036, "Pergi ke Turtle Island..")
+}
+
+quest {
+	quest_info (11037, "Pergi ke Turtle Island..")
+}
+
+quest {
+	quest_info (11038, "Bertemu yang sudah meninggal")
+}
+
+quest {
+	quest_info (11039, "Bertemu yang sudah meninggal")
+}
+
+quest {
+	quest_info (11040, "Bertemu yang sudah meninggal")
+}
+
+quest {
+	quest_info (11041, "Bertemu yang sudah meninggal")
+}
+
+quest {
+	quest_info (11042, "Bertemu yang sudah meninggal")
+}
+
+quest {
+	quest_info (11043, "Bertemu yang sudah meninggal")
+}
+
+quest {
+	quest_info (11044, "Tanaman obat - Menjadi seorang Asisten Doktor")
+}
+
+quest {
+	quest_info (11045, "Tanaman obat - Menjadi seorang Asisten Doktor")
+}
+
+quest {
+	quest_info (11046, "Tanaman obat - Menjadi seorang Asisten Doktor")
+}
+
+quest {
+	quest_info (11047, "Tanaman obat - Menjadi seorang Asisten Doktor")
+}
+
+quest {
+	quest_info (11048, "Tanaman obat - Menjadi seorang Asisten Doktor")
+}
+
+quest {
+	quest_info (11049, "Tanaman obat - Menjadi seorang Asisten Doktor")
+}
+
+quest {
+	quest_info (11050, "Tanaman obat - Menjadi seorang Asisten Doktor")
+}
+
+quest {
+	quest_info (11051, "Tanaman obat - Menjadi seorang Asisten Doktor")
+}
+
+quest {
+	quest_info (11052, "Tanaman obat - Menjadi seorang Asisten Doktor")
+}
+
+quest {
+	quest_info (11053, "Tanaman obat - Menjadi seorang Asisten Doktor")
+}
+
+quest {
+	quest_info (11054, "Tanaman obat - Menjadi seorang Asisten Doktor")
+}
+
+quest {
+	quest_info (11055, "Tanaman obat - Menjadi seorang Asisten Doktor")
+}
+
+quest {
+	quest_info (11056, "Tanaman obat - Menjadi seorang Asisten Doktor")
+}
+
+quest {
+	quest_info (11057, "Tanaman obat - Menjadi seorang Asisten Doktor")
+}
+
+quest {
+	quest_info (11058, "Mikhail yang penakut")
+}
+
+quest {
+	quest_info (11059, "Mikhail yang penakut")
+}
+
+quest {
+	quest_info (11060, "Mikhail yang penakut")
+}
+
+quest {
+	quest_info (11061, "Mikhail yang penakut")
+}
+
+quest {
+	quest_info (11062, "Mikhail yang penakut")
+}
+
+quest {
+	quest_info (11063, "Mikhail yang penakut")
+}
+
+quest {
+	quest_info (11064, "Mikhail yang penakut")
+}
+
+quest {
+	quest_info (11065, "Mikhail yang penakut")
+}
+
+quest {
+	quest_info (11066, "Mikhail yang penakut")
+}
+
+quest {
+	quest_info (11067, "Mikhail yang penakut")
+}
+
+quest {
+	quest_info (11068, "Mikhail yang penakut")
+}
+
+quest {
+	quest_info (11069, "Mikhail yang penakut")
+}
+
+quest {
+	quest_info (11070, "Raja Racun")
+}
+
+quest {
+	quest_info (11071, "Raja Racun")
+}
+
+quest {
+	quest_info (11072, "Raja Racun")
+}
+
+quest {
+	quest_info (11073, "Raja Racun")
+}
+
+quest {
+	quest_info (11074, "Raja Racun")
+}
+
+quest {
+	quest_info (11075, "Raja Racun")
+}
+
+quest {
+	quest_info (11076, "Raja Racun")
+}
+
+quest {
+	quest_info (11077, "Raja Racun")
+}
+
+quest {
+	quest_info (11078, "Raja Racun")
+}
+
+quest {
+	quest_info (11079, "Raja Racun")
+}
+
+quest {
+	quest_info (11080, "Raja Racun")
+}
+
+quest {
+	quest_info (11081, "Raja Racun")
+}
+
+quest {
+	quest_info (11082, "Raja Racun")
+}
+
+quest {
+	quest_info (11083, "Raja Racun")
+}
+
+quest {
+	quest_info (11084, "Mengenalkan dirimu dengan orang disekitar")
+}
+
+quest {
+	quest_info (11085, "Mengenalkan dirimu dengan orang disekitar")
+}
+
+quest {
+	quest_info (11086, "Mengenalkan dirimu dengan orang disekitar")
+}
+
+quest {
+	quest_info (11087, "Memperbaiki Tenda")
+}
+
+quest {
+	quest_info (11088, "Memperbaiki Tenda")
+}
+
+quest {
+	quest_info (11089, "Memperbaiki Tenda")
+}
+
+quest {
+	quest_info (11090, "Memperbaiki Tenda")
+}
+
+quest {
+	quest_info (11091, "Mengantarkan Persediaan")
+}
+
+quest {
+	quest_info (11092, "Mengantarkan Persediaan")
+}
+
+quest {
+	quest_info (11093, "Mengantarkan Persediaan")
+}
+
+quest {
+	quest_info (11094, "Mengantarkan Persediaan")
+}
+
+quest {
+	quest_info (11095, "Mengantarkan Persediaan")
+}
+
+quest {
+	quest_info (11096, "Mengantarkan Persediaan")
+}
+
+quest {
+	quest_info (11097, "Mengantarkan Persediaan")
+}
+
+quest {
+	quest_info (11098, "Mengantarkan Persediaan")
+}
+
+quest {
+	quest_info (11099, "Kepada temanku")
+}
+
+quest {
+	quest_info (11100, "Kepada temanku")
+}
+
+quest {
+	quest_info (11101, "Catatan rahasia dari Bazet")
+}
+
+quest {
+	quest_info (11102, "Catatan rahasia dari Bazet")
+}
+
+quest {
+	quest_info (11103, "Catatan rahasia dari Bazet")
+}
+
+quest {
+	quest_info (11104, "Waktunya istirahat")
+	time(82800)
+}
+
+quest {
+	quest_info (11105, "Tendrilion skin")
+}
+
+quest {
+	quest_info (11106, "워록 전직")
+}
+
+quest {
+	quest_info (11107, "워록 전직")
+}
+
+quest {
+	quest_info (11108, "워록 전직")
+}
+
+quest {
+	quest_info (11109, "워록 전직")
+}
+
+quest {
+	quest_info (11110, "워록 전직")
+}
+
+quest {
+	quest_info (11111, "워록 전직")
+}
+
+quest {
+	quest_info (11112, "워록 전직")
+}
+
+quest {
+	quest_info (11113, "레이더링이 다시 작동할 때까지")
+	time(82800)
+}
+
+quest {
+	quest_info (11114,"의뢰 : 호넷 사냥")
+	hunt("HORNET",10)
+}
+
+quest {
+	quest_info (11115,"의뢰 : 콘도르 사냥")
+	hunt("CONDOR",20)
+}
+
+quest {
+	quest_info (11116,"의뢰 : 메뚜기의 뒷다리")
+	hunt("ROCKER",10)
+}
+
+quest {
+	quest_info (11117,"의뢰 : 웜테일 사냥")
+	hunt("WORM_TAIL",20)
+}
+
+quest {
+	quest_info (11118,"의뢰 : 스포아 사냥")
+	hunt("SPORE",30)
+}
+
+quest {
+	quest_info (11119,"의뢰 : 해충 박멸")
+	hunt("THIEF_BUG_EGG",20)
+}
+
+quest {
+	quest_info (11120,"의뢰 : 무카 사냥")
+	hunt("MUKA",20)
+}
+
+quest {
+	quest_info (11121,"의뢰 : 퍼밀리어 사냥")
+	hunt("FARMILIAR",20)
+}
+
+quest {
+	quest_info (11122,"의뢰 : 깃털 수집")
+	hunt("PECOPECO",30)
+}
+
+quest {
+	quest_info (11123,"의뢰 : 독버섯 포자 수집")
+	hunt("POISON_SPORE",30)
+}
+
+quest {
+	quest_info (11124,"의뢰 : 호넷 사냥 - 완료")
+	time(82800)
+}
+
+quest {
+	quest_info (11125,"의뢰 : 콘도르 사냥 - 완료")
+	time(82800)
+}
+
+quest {
+	quest_info (11126,"의뢰 : 메뚜기의 뒷다리 - 완료")
+	time(82800)
+}
+
+quest {
+	quest_info (11127,"의뢰 : 웜테일 사냥 - 완료")
+	time(82800)
+}
+
+quest {
+	quest_info (11128,"의뢰 : 스포아 사냥 - 완료")
+	time(82800)
+}
+
+quest {
+	quest_info (11129,"의뢰 : 해충 박멸 - 완료")
+	time(82800)
+}
+
+quest {
+	quest_info (11130,"의뢰 : 무카 사냥 - 완료")
+	time(82800)
+}
+
+quest {
+	quest_info (11131,"의뢰 : 퍼밀리어 사냥 - 완료")
+	time(82800)
+}
+
+quest {
+	quest_info (11132,"의뢰 : 깃털 수집 - 완료")
+	time(82800)
+}
+
+quest {
+	quest_info (11133,"의뢰 : 독버섯 포자 수집 - 완료")
+	time(82800)
+}
+
+quest {
+	quest_info (11134,"피의 마왕 소탕 작전")
+	hunt("E_ANOPHELES_",10)
+}
+
+//-- 민스트럴
+quest {
+	quest_info (11135, "민스트럴 송을 찾아서")
+}
+
+quest {
+	quest_info (11136, "민스트럴 송을 찾아서")
+}
+
+quest {
+	quest_info (11137, "민스트럴 송을 찾아서")
+}
+
+quest {
+	quest_info (11138, "민스트럴 송을 찾아서")
+}
+
+quest {
+	quest_info (11139, "민스트럴 송을 찾아서")
+}
+
+quest {
+	quest_info (11140, "하늘과 비공정과 멀미")
+}
+
+quest {
+	quest_info (11141, "사람과 소문은 주점으로")
+}
+
+quest {
+	quest_info (11142, "공포의 메탈릭 사운드")
+}
+
+quest {
+	quest_info (11143, "타나토스 타워?")
+}
+
+quest {
+	quest_info (11144, "유노 지점장 : 김찰칵")
+}
+
+quest {
+	quest_info (11145, "곰인형이 갖고 싶어")
+	hunt("TEDDY_BEAR",33)
+}
+
+quest {
+	quest_info (11146, "얼음동굴로...")
+}
+
+quest {
+	quest_info (11147, "라레드의 이슬")
+}
+
+quest {
+	quest_info (11148, "노를 저어 코모도로")
+}
+
+quest {
+	quest_info (11149, "물을 퍼낸다. 물을 퍼낸다. 물을...")
+}
+
+quest {
+	quest_info (11150, "민스트럴 송을 찾아서")
+}
+
+quest {
+	quest_info (11151, "민스트럴 송을 찾아서")
+}
+
+quest {
+	quest_info (11152, "전조용한 곳으로...")
+}
+
+quest {
+	quest_info (11153, "시계탑이 보고싶어")
+}
+
+quest {
+	quest_info (11154, "기억할게. 너와 나의 추억을...")
+}
+
+// 수라 전직
+quest {
+	quest_info (11155, "의문의 격투가")
+}
+
+quest {
+	quest_info (11156, "귀찮은 숙제")
+	hunt("DESERT_WOLF",100)
+}
+
+quest {
+	quest_info (11157, "엘메스 협곡 - 심연의 골짜기")
+}
+
+quest {
+	quest_info (11158, "수라의 길")
+}
+
+//--에피소드13.3
+quest {
+	quest_info (11159, "브라이언의 이야기")
+}
+
+quest {
+	quest_info (11160, "죤의 이야기")
+}
+
+quest {
+	quest_info (11161, "테일러의 이야기")
+}
+
+quest {
+	quest_info (11162, "로즈의 이야기")
+}
+
+quest {
+	quest_info (11163, "베인의 이야기")
+}
+
+quest {
+	quest_info (11164, "래쉬의 이야기")
+}
+
+quest {
+	quest_info (11165, "브라이언에게 전달")
+}
+
+quest {
+	quest_info (11166, "죤에게 전달")
+}
+
+quest {
+	quest_info (11167, "테일러에게 전달")
+}
+
+quest {
+	quest_info (11168, "로즈에게 전달")
+}
+
+quest {
+	quest_info (11169, "베인에게 전달")
+}
+
+quest {
+	quest_info (11170, "래쉬에게 전달")
+}
+
+quest {
+	quest_info (11171, "프레드의 부탁")
+}
+
+quest {
+	quest_info (11172, "프레드의 부탁")
+}
+
+quest {
+	quest_info (11173, "프레드의 부탁")
+}
+
+quest {
+	quest_info (11174, "물량 부족")
+}
+
+quest {
+	quest_info (11175, "물량 부족")
+	time(7200)
+}
+
+quest {
+	quest_info (11176, "친구들을 위해")
+}
+
+//--- 2009 크리스마스 이벤트
+quest {
+	quest_info (11177, "상자속의 요정")
+}
+
+quest {
+	quest_info (11178, "춤추는 소녀")
+}
+
+quest {
+	quest_info (11179, "중얼거리는 요정")
+}
+
+quest {
+	quest_info (11180, "분주한 부인")
+}
+
+quest {
+	quest_info (11181, "크리스마스를 위하여...")
+}
+
+
+// 박일용
+quest {
+	quest_info (12000, "Teman - Sahabat lama")
+}
+
+quest {
+	quest_info (12001, "Sangat dekat, namun jauh")
+}
+
+quest {
+	quest_info (12002, "Pesan dari Persahabatan")
+}
+
+quest {
+	quest_info (12003, "Sahabat yang lain")
+}
+
+quest {
+	quest_info (12004, "Diari sahabat")
+}
+
+quest {
+	quest_info (12005, "Sahabat sejati")
+}
+
+quest {
+	quest_info (12006, "Rahasia sahabat sejati")
+}
+
+quest {
+	quest_info (12007, "Persediaan Senjata --1")
+}
+
+quest {
+	quest_info (12008, "Persediaan Senjata --2")
+}
+
+quest {
+	quest_info (12009, "Persediaan Senjata --gagal")
+}
+
+quest {
+	quest_info (12010, "Persediaan Senjata --3")
+}
+
+quest {
+	quest_info (12011, "Persediaan Senjata --4")
+}
+
+quest {
+	quest_info (12012, "Persediaan Senjata --5")
+}
+
+quest {
+	quest_info (12013, "Persediaan Senjata --6")
+}
+
+quest {
+	quest_info (12014, "Menyelinap kedalam Perusahaan Rekenber")
+}
+
+quest {
+	quest_info (12015, "Presiden - 1")
+}
+
+quest {
+	quest_info (12016, "Presiden - 2")
+}
+
+quest {
+	quest_info (12017, "Presiden - 3")
+}
+
+quest {
+	quest_info (12018, "Presiden - 4")
+}
+
+quest {
+	quest_info (12019, "Presiden - 5")
+}
+
+quest {
+	quest_info (12020, "Presiden - 6")
+}
+
+quest {
+	quest_info (12021, "Presiden - 7")
+}
+
+quest {
+	quest_info (12022, "Presiden - 8")
+}
+
+quest {
+	quest_info (12023, "Presiden - 9")
+}
+
+quest {
+	quest_info (12024, "Presiden - 10")
+}
+
+quest {
+	quest_info (12025, "Presiden - 11")
+}
+
+quest {
+	quest_info (12026, "Presiden - 12")
+}
+
+quest {
+	quest_info (12027, "Presiden - 13")
+}
+
+quest {
+	quest_info (12028, "Presiden - 14")
+}
+
+quest {
+	quest_info (12029, "Cincin pertunangan - 1")
+}
+
+quest {
+	quest_info (12030, "Cincin pertunangan - 2")
+}
+
+quest {
+	quest_info (12031, "Cincin pertunangan - 3")
+}
+
+quest {
+	quest_info (12032, "Cincin pertunangan - 4")
+}
+
+quest {
+	quest_info (12033, "Cincin pertunangan - 5")
+}
+
+quest {
+	quest_info (12034, "Cincin pertunangan - 6")
+}
+
+quest {
+	quest_info (12035, "Sa-mhing Tiger")
+}
+
+quest {
+	quest_info (12036, "Sa-mhing Tiger")
+}
+
+quest {
+	quest_info (12037, "Sa-mhing Tiger")
+}
+
+quest {
+	quest_info (12038, "Sa-mhing Tiger")
+}
+
+quest {
+	quest_info (12039, "Sa-mhing Tiger")
+}
+
+quest {
+	quest_info (12040, "Susu sapi - 1")
+}
+
+quest {
+	quest_info (12041, "Susu sapi - 2")
+}
+
+quest {
+	quest_info (12042, "Susu sapi - 3")
+}
+
+quest {
+	quest_info (12043, "Susu sapi - 4")
+}
+
+quest {
+	quest_info (12044, "Menenangkan anak menangis - 1")
+}
+
+quest {
+	quest_info (12045, "Menenangkan anak menangis - 2")
+}
+
+quest {
+	quest_info (12046, "Menenangkan anak menangis - 3")
+}
+
+quest {
+	quest_info (12047, "Menenangkan anak menangis - 4")
+}
+
+quest {
+	quest_info (12048, "Menenangkan anak menangis - 5")
+}
+
+quest {
+	quest_info (12049, "Quest Job - Rogue")
+}
+
+quest {
+	quest_info (12050, "Quest Job - Rogue")
+}
+
+quest {
+	quest_info (12051, "Quest Job - Rogue")
+}
+
+quest {
+	quest_info (12052, "Quest Job - Rogue")
+}
+
+quest {
+	quest_info (12053, "Quest Job - Rogue")
+}
+
+quest {
+	quest_info (12054, "Quest Job - Rogue")
+}
+
+quest {
+	quest_info (12055, "Quest Job - Assassin")
+}
+
+quest {
+	quest_info (12056, "Quest Job - Assassin")
+}
+
+quest {
+	quest_info (12057, "Masuk kedalam Lab")
+}
+
+quest {
+	quest_info (12058, "Membatasi Hak untuk 102 Tower")
+	time(604800)
+}
+
+quest {
+	quest_info (12059, "Membatasi Hak memory Orc dungeon")
+	time(7200)
+}
+
+quest {
+	quest_info (12060, "Hari ini Pemancingan Di tutup")
+	time(86400)
+}
+
+quest {
+	quest_info (12061, "Konsentrasi")
+	time(10)
+}
+
+quest {
+	quest_info (12062, "Hari ini tambang Di tutup")
+	time(86400)
+}
+
+quest {
+	quest_info (12070,"Batas Waktu")
+	time(14400)
+}
+
+quest {
+	quest_info (12071,"Batas Waktu")
+	time(86400)
+}
+
+quest {
+ quest_info (12072,"타라프로그 사냥")
+ hunt("THARA_FROG", 20)
+}
+
+quest {
+ quest_info (12073,"크루이저 처치")
+ hunt("CRUISER", 15)
+}
+
+quest {
+ quest_info (12074,"쿠크레 사냥")
+ hunt("KUKRE", 30)
+}
+
+quest {
+ quest_info (12075,"오크베이비 처치")
+ hunt("ORC_BABY", 15)
+}
+
+quest {
+ quest_info (12076,"오크워리어 처치")
+ hunt("ORK_WARRIOR", 20)
+}
+
+quest {
+ quest_info (12077,"바돈 사냥")
+ hunt("VADON", 15)
+}
+
+quest {
+ quest_info (12078,"메갈로돈 사냥")
+ hunt("MEGALODON", 30)
+}
+
+quest {
+ quest_info (12079,"마르스 사냥")
+ hunt("MARSE", 15)
+}
+
+quest {
+ quest_info (12080,"커너투스 사냥")
+ hunt("CORNUTUS", 20)
+}
+
+quest {
+ quest_info (12081,"미스트 처치")
+ hunt("MYST", 15)
+}
+
+quest {
+ quest_info (12082,"조개 사냥")
+ hunt("SHELLFISH", 30)
+}
+
+quest {
+ quest_info (12083,"마린스피어 사냥")
+ hunt("MARINE_SPHERE", 15)
+}
+
+quest {
+ quest_info (12084,"휀 사냥")
+ hunt("PHEN", 20)
+}
+
+quest {
+ quest_info (12085,"오크스켈레톤 처치")
+ hunt("ORC_SKELETON", 15)
+}
+
+quest {
+ quest_info (12086,"제노크 처치")
+ hunt("ZENORC", 30)
+}
+
+quest {
+ quest_info (12087,"미이라 처치")
+ hunt("MUMMY", 15)
+}
+
+quest {
+ quest_info (12088,"이 모험가는 이미 의뢰를 받은 상태임을 인증함")
+}
+
+//-- 박일용 3-2 차 전직
+quest {
+	quest_info (12090,"수상한 남자")
+}
+
+quest {
+	quest_info (12091,"불타는심장을 구하라")
+}
+
+quest {
+	quest_info (12092,"계속되는 이야기")
+}
+
+quest {
+	quest_info (12093,"정보원이 료다에게 남긴 기록")
+}
+
+quest {
+	quest_info (12094,"훼손된 방패의 문자")
+}
+
+//- 소서러
+quest {
+	quest_info (12096,"카라카스를 찾아서")
+}
+
+quest {
+ 	quest_info (12097,"기본준비")
+}
+
+quest {
+	 quest_info (12098,"4곳의 던전")
+}
+
+
+//-- 박일용 EP13_3
+
+quest {
+ quest_info (12099,"근원의 차단")
+ hunt("DRACO_EGG", 10)
+}
+
+quest {
+ quest_info (12100,"사나운 날벌레")
+ hunt("LUCIOLA_VESPA", 12)
+}
+
+quest {
+ quest_info (12101,"작업의 방해")
+ hunt("DRACO", 5)
+}
+
+quest {
+ quest_info (12102,"지능을 가진 뱀")
+ hunt("NAGA", 10)
+}
+
+quest {
+ quest_info (12103,"신화속의 동물")
+ hunt("CORNUS", 1)
+}
+
+quest {
+ quest_info (12104,"먹성좋은 벌레")
+ hunt("CENTIPEDE", 15)
+}
+
+quest {
+ quest_info (12105,"움직이는 암석")
+ hunt("BRADIUM_GOLEM", 10)
+}
+
+　
+quest {
+ quest_info (12106,"꽃 위의 꼬마아이")
+ hunt("PINGUICULA", 15)
+}
+
+quest {
+ quest_info (12107,"삐뚤어진 순정")
+ hunt("PINGUICULA_D", 10)
+}
+
+quest {
+ quest_info (12108,"위험한 벌초길")
+ hunt("NEPENTHES", 12)
+}
+
+quest {
+ quest_info (12109,"유충 구제")
+ hunt("CENTIPEDE_LARVA", 14)
+}
+
+quest {
+ quest_info (12110,"물의 악령")
+ hunt("AQUA_ELEMENTAL", 7)
+}
+
+quest {
+ quest_info (12111,"괴상한 얼굴의 새")
+ hunt("TATACHO", 10)
+}
+
+quest {
+ quest_info (12117,"시들어 버린 꽃")
+}
+
+quest {
+ quest_info (12118,"반가운 광석")
+}
+
+quest {
+ quest_info (12119,"귀한 섬유")
+}
+
+quest {
+ quest_info (12120,"의문의 고깃덩이")
+}
+
+quest {
+ quest_info (12121,"제설 작업의 도구")
+}
+
+quest {
+ quest_info (12122,"최고의 냉각재료")
+}
+
+quest {
+ quest_info (12123,"훌륭한 도료")
+}
+
+quest {
+ quest_info (12124,"희귀한 귀중품")
+}
+
+quest {
+ quest_info (12125,"보호구의 재료")
+}
+
+quest {
+ quest_info (12126,"고급 보호구의 재료")
+}
+
+quest {
+ quest_info (12127,"감독관의 도구")
+}
+
+quest {
+ quest_info (12128,"난방을 위한 준비")
+}
+
+quest {
+ quest_info (12129,"수상한 음식")
+}
+
+quest {
+ quest_info (12130,"유용한 재료")
+}
+
+quest {
+ quest_info (12131,"건축의 필수재료")
+}
+
+quest {
+ quest_info (12132,"건축의 필수재료 2")
+}
+
+quest {
+ quest_info (12133,"장식물의 제작")
+}
+
+quest {
+ quest_info (12134,"일회용 접시 급구")
+}
+
+quest {
+ quest_info (12135,"부족한 치료약")
+}
+
+quest {
+ quest_info (12136,"꿀도둑")
+}
+
+quest {
+ quest_info (12137,"실험용 도구")
+}
+
+quest {
+ quest_info (12138,"좋은 선물의 표본")
+}
+
+quest {
+ quest_info (12139,"취향을 존중해!")
+}
+
+quest {
+ quest_info (12140,"단골에 대한 예우")
+}
+
+quest {
+ quest_info (12141,"이것은 좋은 물건이다")
+}
+
+quest {
+ quest_info (12142,"위험한 의뢰")
+}
+
+quest {
+ quest_info (12143,"이상한 유행")
+}
+
+quest {
+ quest_info (12144,"알수없는 용도")
+}
+
+quest {
+ quest_info (12145,"이계의 요리")
+}
+
+quest {
+ quest_info (12146,"빈틈 메꾸기")
+}
+
+quest {
+ quest_info (12147,"접착제의 재료")
+}
+
+quest {
+ quest_info (12148,"따따초사냥의 재료")
+}
+
+quest {
+ quest_info (12149,"칼솜씨 수련")
+}
+
+quest {
+ quest_info (12150,"빨갛고 예쁜 채소")
+}
+
+quest {
+ quest_info (12151,"주점주인의 집념")
+}
+
+quest {
+ quest_info (12152,"고향의 맛")
+}
+
+quest {
+ quest_info (12153,"구우면 위험한 식물")
+}
+
+quest {
+ quest_info (12154,"의외로 평범한데?")
+}
+
+quest {
+ quest_info (12155,"마음이 담긴 선물")
+}
+
+quest {
+ quest_info (12156,"취향을 존중해!-2")
+}
+
+quest {
+ quest_info (12157,"주점주인의 결의")
+}
+
+quest {
+ quest_info (12158,"주점주인의 분노")
+}
+
+quest {
+ quest_info (12159,"라폰테의 의뢰 기록")
+	time(82800)
+}
+
+quest {
+ quest_info (12160,"칼리포의 의뢰 기록")
+	time(82800)
+}
+
+quest {
+ quest_info (12161,"퓌라의 의뢰 기록")
+	time(82800)
+}
+
+quest {
+ quest_info (12162,"트라기스의 의뢰 기록")
+	time(82800)
+}
+
+quest {
+ quest_info (12163,"칼리온의 의뢰 기록")
+	time(82800)
+}
+
+quest {
+ quest_info (12164,"몰투카의 의뢰 기록")
+	time(82800)
+}
+
+
+quest {
+ quest_info (12165,"격렬한 현기증")
+	time(21600)
+}
+
+quest {
+ quest_info (12166,"나무뿌리에 관한 문서")
+}
+
+quest {
+ quest_info (12167,"파충류혓바닥에 관한 문서")
+}
+
+quest {
+ quest_info (12168,"전갈의꼬리에 관한 문서")
+}
+
+quest {
+ quest_info (12169,"식물의줄기에 관한 문서")
+}
+
+quest {
+ quest_info (12170,"비늘줄기에 관한 문서")
+}
+
+quest {
+ quest_info (12171,"고목나무진에 관한 문서")
+}
+
+quest {
+ quest_info (12172,"개구리알에 관한 문서")
+}
+
+quest {
+ quest_info (12173,"젤로피에 관한 문서")
+}
+
+quest {
+ quest_info (12174,"생선의꼬리에 관한 문서")
+}
+
+quest {
+ quest_info (12175,"벌레껍질에 관한 문서")
+}
+
+quest {
+ quest_info (12176,"가시달린아가미에 관한 문서")
+}
+
+quest {
+ quest_info (12177,"박쥐의이빨에 관한 문서")
+}
+
+quest {
+ quest_info (12178,"솜털에 관한 문서")
+}
+
+quest {
+ quest_info (12179,"번데기껍질에 관한 문서")
+}
+
+quest {
+ quest_info (12180,"새의깃털에 관한 문서")
+}
+
+quest {
+ quest_info (12181,"새의발톱에 관한 문서")
+}
+
+quest {
+ quest_info (12182,"끈적이는물갈퀴에 관한 문서")
+}
+
+quest {
+ quest_info (12183,"동물가죽에 관한 문서")
+}
+
+quest {
+ quest_info (12184,"늑대의발톱에 관한 문서")
+}
+
+quest {
+ quest_info (12185,"버섯포자에 관한 문서")
+}
+
+quest {
+ quest_info (12186,"오크의송곳니에 관한 문서")
+}
+
+quest {
+ quest_info (12187,"악마의뿔에 관한 문서")
+}
+
+quest {
+ quest_info (12188,"나비날개분에 관한 문서")
+}
+
+quest {
+ quest_info (12189,"새의부리에 관한 문서")
+}
+
+quest {
+ quest_info (12190,"뱀의비늘에 관한 문서")
+}
+
+quest {
+ quest_info (12191,"벌레더듬이에 관한 문서")
+}
+
+quest {
+ quest_info (12192,"멈추지않는심장에 관한 문서")
+}
+
+quest {
+ quest_info (12193,"썩은붕대에 관한 문서")
+}
+
+quest {
+ quest_info (12194,"망자의손톱에 관한 문서")
+}
+
+quest {
+ quest_info (12195,"망자의이빨에 관한 문서")
+}
+
+quest {
+ quest_info (12196,"촉수에 관한 문서")
+}
+
+quest {
+ quest_info (12197,"단단한껍질에 관한 문서")
+}
+
+quest {
+ quest_info (12198,"비늘피부에 관한 문서")
+}
+
+quest {
+ quest_info (12199,"독송곳니에 관한 문서")
+}
+
+quest {
+ quest_info (12200,"끈적끈적한액체에 관한 문서")
+}
+
+quest {
+ quest_info (12201,"벌의뒷침에 관한 문서")
+}
+
+quest {
+ quest_info (12202,"메뚜기뒷다리에 관한 문서")
+}
+
+quest {
+ quest_info (12203,"로얄제리에 관한 문서")
+}
+
+quest {
+ quest_info (12204,"원숭이꼬리에 관한 문서")
+}
+
+quest {
+ quest_info (12205,"매우단단한껍질에 관한 문서")
+}
+
+quest {
+ quest_info (12206,"밤고구마에 관한 문서")
+}
+
+quest {
+ quest_info (12207,"너구리나뭇잎에 관한 문서")
+}
+
+quest {
+ quest_info (12208,"달팽이껍질에 관한 문서")
+}
+
+quest {
+ quest_info (12209,"딱딱한뿔에 관한 문서")
+}
+
+quest {
+ quest_info (12210,"곰발바닥에 관한 문서")
+}
+
+quest {
+ quest_info (12211,"부드러운털에 관한 문서")
+}
+
+quest {
+ quest_info (12212,"빨간허브에 관한 문서")
+}
+
+quest {
+ quest_info (12213,"당근에 관한 문서")
+}
+
+quest {
+ quest_info (12214,"선인장침에 관한 문서")
+}
+
+quest {
+ quest_info (12215,"돌심장에 관한 문서")
+}
+
+quest {
+ quest_info (12216,"단단히삐진 쟈봉")
+time(21600)
+}
+
+//--- 낙원단 퀘스트 추가
+quest {
+ quest_info (12217,"멧돼지 토벌의 흔적")
+}
+
+//--- 워록 궁극의 마법서 퀘스트
+quest {
+ quest_info (12218,"용암의 정수 제조법")
+}
+
+quest {
+ quest_info (12219,"불꽃의 정수 제조법")
+}
+
+quest {
+ quest_info (12220,"빙하의 정수 제조법")
+}
+
+quest {
+ quest_info (12221,"화석의 정수 제조법")
+}
+
+quest {
+ quest_info (12222,"폭풍의 정수 제조법")
+}
+
+//---2010년 4월 Aprilfools
+quest {
+ quest_info (12223,"허가받지 못한 상인")
+}
+
+//-----2011년 10월 RWC황금포링이벤트
+
+quest {
+        quest_info (13000, "RWC2011카드 모으기")
+}
+
+quest {
+        quest_info (13001, "RWC2011카드모으기 - 대기")
+        time(82800)
+}
+
+//----------2011 크리스마스 이벤트
+
+quest {
+	quest_info (1194, "창밖을 보라, 너구리 만세단!")
+}
+
+quest {
+	quest_info (1195, "창밖을 보라, 너구리 만세단!")
+}
+
+quest {
+	quest_info (1196, "창밖을 보라, 너구리 만세단!")
+}
+
+quest {
+	quest_info (1197, "창밖을 보라, 너구리 만세단!")
+}
+
+quest {
+	quest_info (1198, "창밖을 보라, 너구리 만세단!")
+}
+
+quest {
+	quest_info (1199, "창밖을 보라, 너구리 만세단!")
+}
+
+quest {
+	quest_info (1200, "창밖을 보라, 너구리 만세단!")
+}
+
+quest {
+	quest_info (1201, "창밖을 보라, 너구리 만세단!")
+}
+
+quest {
+	quest_info (1202, "창밖을 보라, 너구리 만세단!")
+}
+
+quest {
+	quest_info (1203, "창밖을 보라, 너구리 만세단!")
+}
+
+quest {
+	quest_info (1204, "창밖을 보라, 너구리 만세단!")
+}
+
+quest {
+	quest_info (1205, "창밖을 보라, 너구리 만세단!")
+}
+
+quest {
+	quest_info (1206, "창밖을 보라, 너구리 만세단!")
+}
+
+quest {
+	quest_info (1207, "창밖을 보라, 너구리 만세단!")
+}
+
+quest {
+	quest_info (1208, "창밖을 보라, 너구리 만세단!")
+}
+
+quest {
+	quest_info (1209, "창밖을 보라, 너구리 만세단!")
+}
+
+quest {
+	quest_info (1210, "창밖을 보라, 너구리 만세단!")
+}
+
+quest {
+	quest_info (1211, "창밖을 보라, 너구리 만세단!")
+}
+
+quest {
+	quest_info (1212, "창밖을 보라, 너구리 만세단!")
+}
+
+quest {
+	quest_info (1213, "창밖을 보라, 너구리 만세단!")
+}
+
+// 2012 발렌타인화이트 이벤트
+quest {
+	quest_info (7454, "2012발렌타인")
+}
+
+quest {
+	quest_info (7455, "2012발렌타인")
+}
+
+quest {
+	quest_info (7456, "2012발렌타인")
+}
+
+quest {
+	quest_info (7457, "2012발렌타인")
+}
+
+quest {
+	quest_info (7458, "2012발렌타인")
+}
+
+quest {
+	quest_info (7459, "2012발렌타인")
+	time(82800)
+}
+
+quest {
+	quest_info (7460, "2012발렌타인")
+}
+
+quest {
+	quest_info (7461, "2012발렌타인")
+}
+
+quest {
+	quest_info (7462, "2012발렌타인")
+}
+
+quest {
+	quest_info (7463, "2012발렌타인")
+}
+
+quest {
+	quest_info (7464, "2012발렌타인")
+}
+
+quest {
+	quest_info (7465, "2012발렌타인")
+}
+
+quest {
+	quest_info (7466, "2012발렌타인")
+}
+
+quest {
+	quest_info (7467, "2012발렌타인")
+	time(82800)
+}
+
+quest {
+	quest_info (7468, "2012발렌타인")
+}
+
+quest {
+	quest_info (7469, "2012발렌타인")
+	time(82800)
+}
+
+// Homunculus S Mutation Mission
+quest {
+	quest_info (4154, "Homunculus Researcher")
+}
+
+quest {
+	quest_info (4155, "Mutasi Homunculus - 1")
+}
+
+quest {
+	quest_info (4156, "Mutasi Homunculus - 2")
+}
+
+quest {
+	quest_info (4157, "Mutasi Homunculus - 3")
+}
+
+quest {
+	quest_info (4158, "Mutasi Homunculus - 4")
+}
+
+quest {
+	quest_info (4159, "Mutasi Homunculus - 5")
+}
+
+quest {
+	quest_info (4160, "Mutasi Homunculus - 6")
+}
+//
+
+//-- 포트 말라야
+quest {
+	quest_info (12278,"버코너워 호수를 향해...")
+	time(590400)
+}
+
+quest {
+	quest_info (12279, "버코너워를 처치하라!!")
+	hunt ("BAKONAWA_3", 1)
+}
+
+//--포트말라야----필리핀 로컬라이징 바코나와 입장퀘스트
+
+quest {
+	quest_info (1174, "소문과 세월과 전설")
+}
+
+quest {
+	quest_info (1175, "소문과 세월과 전설")
+}
+
+quest {
+	quest_info (1176, "소문과 세월과 전설")
+}
+
+quest {
+	quest_info (1177, "소문과 세월과 전설")
+}
+
+quest {
+	quest_info (1178, "소문과 세월과 전설")
+}
+
+quest {
+	quest_info (1179, "소문과 세월과 전설")
+}
+
+quest {
+	quest_info (1180, "바코나와를 물리쳐라!")
+        qitem("TIYANAK", "Lost_Belongings", 30)
+}
+
+quest {
+	quest_info (1181, "바코나와를 물리쳐라!")
+        qitem("TIYANAK", "Lost_Belongings", 30)
+}
+
+quest {
+	quest_info (1182, "바코나와를 물리쳐라!")
+        qitem("TIYANAK", "Lost_Belongings", 30)
+}
+
+quest {
+	quest_info (1183, "바코나와를 물리쳐라!")
+        qitem("TIYANAK", "Lost_Belongings", 30)
+}
+
+quest {
+	quest_info (1184, "바코나와를 물리쳐라!")
+}
+
+quest {
+	quest_info (1185, "바코나와를 물리쳐라!")
+}
+
+quest {
+	quest_info (1186, "바코나와를 물리쳐라!")
+        hunt("TIKBALANG", 15)
+}
+
+quest {
+	quest_info (1187, "바코나와를 물리쳐라!")
+}
+
+quest {
+	quest_info (1188, "바코나와를 물리쳐라!")
+}
+
+quest {
+	quest_info (1189, "바코나와를 물리쳐라!")
+}
+
+quest {
+	quest_info (1190, "바코나와를 물리쳐라!")
+}
+
+quest {
+	quest_info (1191, "바코나와를 물리쳐라!")
+}
+
+quest {
+	quest_info (1192, "바코나와를 물리쳐라!")
+}
+
+quest {
+	quest_info (1193, "바코나와를 물리쳐라!")
+}
+
+//------------ 필리핀 로컬라이징 ------포트말라야--------------
+quest {
+	quest_info (2271, "숲 속의 비밀")
+
+}
+
+quest {
+	quest_info (2272, "숲 속의 비밀")
+
+}
+
+quest {
+	quest_info (2273, "숲 속의 비밀")
+
+}
+
+quest {
+	quest_info (2274, "숲 속의 비밀")
+
+}
+
+quest {
+	quest_info (2275, "숲 속의 비밀")
+
+}
+
+quest {
+	quest_info (2276, "숲 속의 비밀")
+
+}
+
+quest {
+	quest_info (2277, "숲 속의 비밀")
+
+}
+
+quest {
+	quest_info (2278, "숲 속의 비밀")
+
+}
+
+quest {
+	quest_info (2279, "숲 속의 비밀")
+
+}
+
+quest {
+	quest_info (2280, "숲 속의 비밀")
+
+}
+
+quest {
+	quest_info (2281, "부워여 처치")
+	hunt("BUWAYA", 1)
+
+}
+
+//- 포트 말라야
+quest {
+	quest_info (4229, "부워여의 동굴")
+	time(82800)
+}
+
+//-----------2011 포트말라야 일일퀘 걸작선
+quest {
+	quest_info (7350, "경계하는 마을")
+}
+
+quest {
+	quest_info (7351, "내 낡은 단추보다 좋은 것")
+}
+
+quest {
+	quest_info (7352, "단추라도-선원")
+}
+
+quest {
+	quest_info (7353, "단추라도-노인")
+}
+
+quest {
+	quest_info (7354, "단추라도-판도이")
+}
+
+quest {
+	quest_info (7355, "단추라도-상인")
+}
+
+quest {
+	quest_info (7356, "단추라도-탈라")
+}
+
+quest {
+	quest_info (7357, "단추라도-로멜")
+}
+
+quest {
+	quest_info (7358, "그들이 단추를 원하는 이유")
+}
+
+quest {
+	quest_info (7359, "선원에게 성물전달")
+}
+
+quest {
+	quest_info (7360, "노인에게 성물전달")
+}
+
+quest {
+	quest_info (7361, "판도이에게 성물전달")
+}
+
+quest {
+	quest_info (7362, "상인에게 성물전달")
+}
+
+quest {
+	quest_info (7363, "탈라에게 성물전달")
+}
+
+quest {
+	quest_info (7364, "로멜에게 성물전달")
+}
+
+quest {
+	quest_info (7365, "내 낡은 단추보다 좋은 것2")
+}
+
+quest {
+	quest_info (7366, "수호물과 소녀1")
+}
+
+quest {
+	quest_info (7367, "수호물과 소녀2")
+		time(600)
+}
+
+quest {
+	quest_info (7368, "선원에게 수호물전달")
+}
+
+quest {
+	quest_info (7369, "노인에게 수호물전달")
+}
+
+quest {
+	quest_info (7370, "판도이에게 수호물전달")
+}
+
+quest {
+	quest_info (7371, "상인에게 수호물전달")
+}
+
+quest {
+	quest_info (7372, "탈라에게 수호물전달")
+}
+
+quest {
+	quest_info (7373, "로멜에게 수호물전달")
+}
+
+quest {
+	quest_info (7374, "사랑과 수호물은 모두에게")
+}
+
+quest {
+	quest_info (7375, "사랑과 수호물은 모두에게")
+	time(82800)
+}
+
+quest {
+	quest_info (7376, "노인과 무쇠솥1")
+}
+
+quest {
+	quest_info (7377, "노인과 무쇠솥2")
+}
+
+quest {
+	quest_info (7378, "노인과 무쇠솥-대기")
+	time(82800)
+}
+
+quest {
+	quest_info (7379, "평화전도사")
+}
+
+quest {
+	quest_info (7380, "전통수호물 제작을 위해")
+}
+
+quest {
+	quest_info (7381, "수호물의 재료-대기")
+	time(82800)
+}
+
+quest {
+	quest_info (7382, "선원에게 전달완료")
+}
+
+quest {
+	quest_info (7383, "노인에게 전달완료")
+}
+
+quest {
+	quest_info (7384, "판도이에게 전달완료")
+}
+
+quest {
+	quest_info (7385, "상인에게 전달완료")
+}
+
+quest {
+	quest_info (7386, "탈라에게 전달완료")
+}
+
+quest {
+	quest_info (7387, "로멜에게 전달완료")
+}
+
+quest {
+	quest_info (7388, "마리스의 아이1")
+}
+
+quest {
+	quest_info (7389, "마리스의 아이2")
+}
+
+quest {
+	quest_info (7390, "마리스의 아이-대기")
+	time(82800)
+}
+
+quest {
+	quest_info (7391, "제제제젤로피")
+	qitem("JEJELING", "Jejellopy", 50)
+}
+
+quest {
+	quest_info (7392, "제제제젤로피-대기")
+	time(82800)
+}
+
+quest {
+	quest_info (7393, "반짝반짝 실버블레이드")
+	hunt("TIYANAK", 10)
+	hunt("MANANANGGAL", 10)
+}
+
+quest {
+	quest_info (7394, "내일도 반짝반짝")
+	time(82800)
+}
+
+quest {
+	quest_info (7395, "페리호의 영혼")
+}
+
+quest {
+	quest_info (7396, "페리호의 화내는 영혼")
+}
+
+quest {
+	quest_info (7397, "페리호의 디와타")
+	qitem("ENGKANTO", "Elegant_Flower", 30)
+}
+
+quest {
+	quest_info (7398, "페리호의 디와타")
+}
+
+quest {
+	quest_info (7399, "페리호의 디와타")
+}
+
+quest {
+	quest_info (7400, "포트말라야의뭄바키")
+}
+
+quest {
+	quest_info (7401, "페리안정화-대기")
+	time(82800)
+}
+
+quest {
+	quest_info (7402, "디와타와 꽃다발")
+	qitem("ENGKANTO", "Elegant_Flower", 30)
+}
+
+quest {
+	quest_info (7403, "페리호의 디와타")
+}
+
+quest {
+	quest_info (7404, "제젤링 퇴치")
+	hunt("JEJELING", 20)
+}
+
+quest {
+	quest_info (7405, "제젤링 퇴치-대기")
+	time(82800)
+}
+
+quest {
+	quest_info (7406, "반타이 뼈다귀")
+	qitem("TIKBALANG", "Evil_Bone", 50)
+	qitem("TIYANAK", "Evil_Bone", 50)
+	qitem("BUNGISNGIS", "Evil_Bone", 50)
+}
+
+quest {
+	quest_info (7407, "반타이 뼈다귀")
+}
+
+quest {
+	quest_info (7408, "반타이 뼈다귀-대기")
+	time(82800)
+}
+
+quest {
+	quest_info (7409, "붕이승이스 퇴치")
+	hunt("BUNGISNGIS", 10)
+}
+
+quest {
+	quest_info (7410, "붕이승이스-내일도")
+	time(82800)
+}
+
+// 필리핀 로컬라이징 : "벙웅곳 병원 2층" 포트 말라야
+
+quest {
+	quest_info (9222, "병원 2층, 벙웅곳을 퇴치하라")
+	hunt ("BANGUNGOT_3", 1)
+}
+
+quest {
+	quest_info (9223, "병원에는 평화가 찾아왔을까..?")
+	time(601200)
+}
+
+quest {
+	quest_info (9224, "병원 2층 탐사")
+	time(601200)
+}
+
+//- 포트 말라야
+
+quest {
+     quest_info (11284, "포트말라야의 간호사")
+}
+
+quest {
+     quest_info (11285, "포트말라야의 간호사")
+}
+
+quest {
+     quest_info (11286, "포트말라야의 간호사")
+}
+
+quest {
+     quest_info (11287, "포트말라야의 간호사")
+}
+
+quest {
+     quest_info (11288, "포트말라야의 간호사")
+}
+
+quest {
+     quest_info (11289, "포트말라야의 간호사")
+}
+
+quest {
+     quest_info (11290, "포트말라야의 간호사")
+}
+
+quest {
+     quest_info (11291, "포트말라야의 간호사")
+}
+
+quest {
+     quest_info (11292, "포트말라야의 간호사")
+}
+
+quest {
+     quest_info (11293, "포트말라야의 간호사")
+
+}
+quest {
+     quest_info (11294, "포트말라야의 간호사")
+
+}
+quest {
+     quest_info (11295, "포트말라야의 간호사")
+
+}
+quest {
+     quest_info (11296, "포트말라야의 간호사")
+
+}
+quest {
+     quest_info (11297, "포트말라야의 간호사")
+
+}
+quest {
+     quest_info (11298, "포트말라야의 간호사")
+}
+
+quest {
+     quest_info (11299, "포트말라야의 간호사")
+}
+
+quest {
+     quest_info (11300, "포트말라야의 간호사")
+}
+
+quest {
+     quest_info (11301, "포트말라야의 간호사")
+}
+
+quest {
+     quest_info (11302, "포트말라야의 간호사")
+}
+
+quest {
+     quest_info (11303, "포트말라야의 간호사")
+}
+
+quest {
+     quest_info (11304, "포트말라야의 간호사")
+}
+
+quest {
+     quest_info (11305, "포트말라야의 간호사")
+}
+
+quest {
+     quest_info (11306, "포트말라야의 간호사")
+}
+
+quest {
+     quest_info (11307, "포트말라야의 간호사")
+}
+
+quest {
+     quest_info (11308, "포트말라야의 간호사")
+}
+
+quest {
+     quest_info (11309, "포트말라야의 간호사")
+     hunt("BANGUNGOT_3", 1)
+}
+
+quest {
+	quest_info (2303, "발렌타인이벤트")
+	time(72000)
+}
+
+quest {
+	quest_info (2304, "발렌타인모자획득")
+}
+
+//-- 2012.07.29 에피소드 14.1 (영문권)
+quest {
+	quest_info (1109, "로페와 유리디 - 미궁숲의 생존자")
+}
+
+quest {
+	quest_info (1110, "로페와 유리디 - 모두가 피해자")
+}
+
+quest {
+	quest_info (1111, "로페와 유리디 - 미궁숲으로")
+}
+
+quest {
+	quest_info (1112, "로페와 유리디 - 어디든 미궁")
+}
+
+quest {
+	quest_info (1113, "로페와 유리디 - 조각난 약속")
+}
+
+quest {
+	quest_info (1114, "로페와 유리디 - 희생의 대가")
+}
+
+quest {
+	quest_info (1115, "로페와 유리디 - 심연의 노래")
+}
+
+quest {
+	quest_info (1116, "로페와 유리디 - 망자의 노래")
+}
+
+quest {
+	quest_info (1117, "로페와 유리디 - 영원의 약속, 결별의 반지")
+}
+
+quest {
+	quest_info (1118, "동네기사단 - 단서가 궁금해")
+}
+
+quest {
+ 	quest_info (1119, "동네기사단 - 두목의 심부름")
+	time(82800)
+}
+
+//---- 2012년 에피소드 14.1 (영문권)
+
+quest {
+	quest_info (5016, "연구도구를 가져다 줘")
+}
+
+quest {
+	quest_info (5017, "연구원의 복수")
+}
+
+quest {
+	quest_info (5018, "연구원의 복수")
+}
+
+quest {
+	quest_info (5019, "목욕탕 연구 표본 채취")
+}
+
+quest {
+	quest_info (5020, "표본 검사 중")
+	time(86400)
+}
+
+quest {
+	quest_info (5021, "이빨 표본 수집")
+}
+
+quest {
+	quest_info (5022, "비늘 표본 수집")
+}
+
+quest {
+	quest_info (5023, "표본 검사 중")
+	time(21600)
+}
+
+quest {
+	quest_info (5024, "동쪽 웅덩이 조사")
+}
+
+quest {
+	quest_info (5025, "서쪽 웅덩이 조사")
+}
+
+quest {
+	quest_info (5026, "남쪽 웅덩이 조사")
+}
+
+quest {
+	quest_info (5027, "북쪽 웅덩이 조사")
+}
+
+quest {
+	quest_info (5028, "표본 검사 중")
+	time(43200)
+}
+
+quest {
+	quest_info (5029, "미확인 생명체")
+	time(3600)
+}
+
+quest {
+	quest_info (5030, "꼬기의 부탁")
+}
+
+quest {
+	quest_info (5031, "꼬기의 부탁")
+}
+
+quest {
+	quest_info (5032, "꼬기의 부탁")
+}
+
+quest {
+	quest_info (5033, "꼬기의 부탁")
+}
+
+quest {
+	quest_info (5034, "가족의 소식")
+}
+
+//-- 2010 에피소드 14.1
+//--- 체셔의 심부름 2
+quest {
+	quest_info (7206, "새로운체셔의일")
+}
+
+quest {
+	quest_info (7207, "새로운체셔의일")
+}
+
+quest {
+	quest_info (7208, "새로운체셔의일")
+	time(86400)
+}
+
+quest {
+	quest_info (7209, "새로운체셔의일")
+}
+
+quest {
+	quest_info (7210, "새로운체셔의일")
+}
+
+//------방황하는 수호자
+quest {
+	quest_info (7211, "안개숲의거부")
+	time(9000)
+}
+
+quest {
+	quest_info (7212, "방황하는수호자")
+}
+
+quest {
+	quest_info (7213, "방황하는수호자")
+}
+
+//--- 2010 에피소드 14.1
+//비프로스트
+quest {
+	quest_info (11182,"테오레의 보고서")
+	time(60)
+}
+
+quest {
+	quest_info (11183, "테오레의 부탁")
+}
+
+quest {
+	quest_info (11184, "도망간 라피네")
+}
+
+quest {
+	quest_info (11185, "작은 주머니")
+}
+
+quest {
+	quest_info (11186, "작은 주머니")
+}
+
+quest {
+	quest_info (11187, "작은 주머니")
+}
+
+quest {
+	quest_info (11188, "작은 주머니")
+}
+
+quest {
+	quest_info (11189, "비프로스트")
+}
+
+quest {
+	quest_info (11190, "비프로스트")
+}
+
+quest {
+	quest_info (11191, "비프로스트의 균열")
+}
+
+quest {
+	quest_info (11192, "모라 마을로...")
+}
+
+quest {
+	quest_info (11193, "쿠스미의 친구")
+}
+
+quest {
+	quest_info (11194, "작은 주머니")
+}
+
+quest {
+	quest_info (11195, "비프로스트")
+}
+
+quest {
+	quest_info (11196, "비프로스트")
+}
+
+quest {
+	quest_info (11197, "비프로스트의 균열")
+}
+
+quest {
+	quest_info (11198, "모라 마을로...")
+}
+
+quest {
+	quest_info (11199, "테오도의 친구")
+}
+
+quest {
+	quest_info (11200, "작은 주머니")
+}
+
+quest {
+	quest_info (11201, "비프로스트")
+}
+
+quest {
+	quest_info (11202, "비프로스트")
+}
+
+quest {
+	quest_info (11203, "비프로스트의 균열")
+}
+
+quest {
+	quest_info (11204, "모라 마을로...")
+}
+
+quest {
+	quest_info (11205, "포숑의 친구")
+}
+
+quest {
+	quest_info (11206, "신속배달 요네스")
+}
+
+quest {
+	quest_info (11207, "아주 무거운 짐")
+}
+
+quest {
+	quest_info (11208, "다프네르")
+}
+
+//---2010년 6월 에피소드 14.1
+quest {
+ quest_info (12225,"과일을 짊어진 벌레")
+ hunt("POM_SPIDER", 3)
+}
+
+quest {
+ quest_info (12226,"꽃을 닮은 사냥꾼")
+ hunt("ANGRA_MANTIS", 4)
+}
+
+quest {
+ quest_info (12227,"작지만 사나운..")
+ hunt("PARUS", 5)
+}
+
+quest {
+ quest_info (12228,"알 수 없는 원한")
+ hunt("LITTLE_FATUM", 6)
+}
+
+quest {
+ quest_info (12229,"금발머리 앤")
+ hunt("MIMING", 7)
+}
+
+
+quest {
+ quest_info (12230,"핫챠의 의뢰")
+	time(82800)
+}
+
+
+
+quest {
+ quest_info (12231,"방부제의 재료")
+}
+
+quest {
+ quest_info (12232,"저항의 상징")
+}
+
+quest {
+ quest_info (12233,"응급세트의 재료")
+}
+
+quest {
+ quest_info (12234,"용맹의 상징")
+}
+
+quest {
+ quest_info (12235,"기력에 참 좋은...")
+}
+
+　
+quest {
+ quest_info (12236,"부적의 최신유행")
+}
+
+quest {
+ quest_info (12237,"귀한것은 안전하게")
+}
+
+quest {
+ quest_info (12238,"무릎 보호대의 재료")
+}
+
+quest {
+ quest_info (12239,"독은 독으로...")
+}
+
+quest {
+ quest_info (12240,"미끄러지면 안돼")
+}
+
+quest {
+ quest_info (12241,"멍-뭉의 의뢰")
+	time(82800)
+}
+
+quest {
+ quest_info (12242,"컹-으릉의 의뢰")
+	time(82800)
+}
+
+quest {
+ quest_info (12243,"실종자 타자르에 관한 정보")
+}
+
+quest {
+ quest_info (12244,"실종자 나이자에 관한 정보")
+}
+
+quest {
+ quest_info (12245,"실종자 메실에 관한 정보")
+}
+
+quest {
+ quest_info (12246,"실종자 느와르잇에 관한 정보")
+}
+
+quest {
+ quest_info (12247,"실종자 파자마 신에 관한 정보")
+}
+
+quest {
+ quest_info (12248,"실종자 멘델에 관한 정보")
+}
+
+quest {
+ quest_info (12249,"실종자 마일비트에 관한 정보")
+}
+
+quest {
+ quest_info (12250,"실종자 쿤문에 관한 정보")
+}
+
+quest {
+ quest_info (12251,"실종자 차이호킨에 관한 정보")
+}
+
+quest {
+ quest_info (12252,"실종자 투알에 관한 정보")
+}
+
+quest {
+ quest_info (12253,"실종자 수색은 충분함")
+	time(82800)
+}
+
+
+//------말랑도 고양이건빵
+quest {
+	quest_info (7260, "Asal Mula Sebuah Serangga")
+}
+
+quest {
+	quest_info (7261, "고양이건빵-선장실")
+}
+
+quest {
+	quest_info (7262, "고양이건빵-선실")
+}
+
+quest {
+	quest_info (7263, "고양이건빵-집회실")
+}
+
+quest {
+	quest_info (7264, "조리장냐스에게")
+}
+
+quest {
+	quest_info (7265, "냐스의분노")
+}
+
+quest {
+	quest_info (7266, "냐스의선언")
+}
+
+quest {
+	quest_info (7267, "클리냥과약속")
+	time(86400)
+}
+
+quest {
+	quest_info (7268, "고양이건빵수거")
+}
+
+quest {
+	quest_info (7269, "고양이건빵-수풀")
+}
+
+quest {
+	quest_info (7270, "고양이건빵-수상한모래1")
+}
+
+quest {
+	quest_info (7271, "고양이건빵-계단아래")
+}
+
+quest {
+	quest_info (7272, "고양이건빵-캣타워구석")
+}
+
+quest {
+	quest_info (7273, "고양이건빵-사물함구석")
+}
+
+quest {
+	quest_info (7274, "고양이건빵-캣타워발판")
+}
+
+quest {
+	quest_info (7275, "고양이건빵-수상한모래2")
+}
+
+quest {
+	quest_info (7276, "식재료납품약속")
+	time(86400)
+}
+
+//덱요리
+quest {
+	quest_info (7281, "요리를 가져와")
+}
+
+quest {
+	quest_info (7282, "요리를 가져와")
+}
+
+quest {
+	quest_info (7283, "요리를 가져와")
+}
+
+quest {
+	quest_info (7284, "요리를 가져와")
+}
+
+quest {
+	quest_info (7285, "요리를 가져와")
+}
+
+quest {
+	quest_info (7286, "요리를 가져와")
+}
+
+quest {
+	quest_info (7287, "요리를 가져와")
+}
+
+quest {
+	quest_info (7288, "요리를 가져와")
+}
+
+quest {
+	quest_info (7289, "요리를 가져와")
+}
+
+quest {
+	quest_info (7290, "요리를 가져와")
+}
+
+
+//힘요리
+quest {
+	quest_info (7291, "요리를 가져와")
+}
+
+quest {
+	quest_info (7292, "요리를 가져와")
+}
+
+quest {
+	quest_info (7293, "요리를 가져와")
+}
+
+quest {
+	quest_info (7294, "요리를 가져와")
+}
+
+quest {
+	quest_info (7295, "요리를 가져와")
+}
+
+quest {
+	quest_info (7296, "요리를 가져와")
+}
+
+quest {
+	quest_info (7297, "요리를 가져와")
+}
+
+quest {
+	quest_info (7298, "요리를 가져와")
+}
+
+quest {
+	quest_info (7299, "요리를 가져와")
+}
+
+quest {
+	quest_info (7300, "요리를 가져와")
+}
+
+//어질요리
+quest {
+	quest_info (7301, "요리를 가져와")
+}
+
+quest {
+	quest_info (7302, "요리를 가져와")
+}
+
+quest {
+	quest_info (7303, "요리를 가져와")
+}
+
+quest {
+	quest_info (7304, "요리를 가져와")
+}
+
+quest {
+	quest_info (7305, "요리를 가져와")
+}
+
+quest {
+	quest_info (7306, "요리를 가져와")
+}
+
+quest {
+	quest_info (7307, "요리를 가져와")
+}
+
+quest {
+	quest_info (7308, "요리를 가져와")
+}
+
+quest {
+	quest_info (7309, "요리를 가져와")
+}
+
+quest {
+	quest_info (7310, "요리를 가져와")
+}
+
+//바탈요리
+quest {
+	quest_info (7311, "요리를 가져와")
+}
+
+quest {
+	quest_info (7312, "요리를 가져와")
+}
+
+quest {
+	quest_info (7313, "요리를 가져와")
+}
+
+quest {
+	quest_info (7314, "요리를 가져와")
+}
+
+quest {
+	quest_info (7315, "요리를 가져와")
+}
+
+quest {
+	quest_info (7316, "요리를 가져와")
+}
+
+quest {
+	quest_info (7317, "요리를 가져와")
+}
+
+quest {
+	quest_info (7318, "요리를 가져와")
+}
+
+quest {
+	quest_info (7319, "요리를 가져와")
+}
+
+quest {
+	quest_info (7320, "요리를 가져와")
+}
+
+//인트요리
+quest {
+	quest_info (7321, "요리를 가져와")
+}
+
+quest {
+	quest_info (7322, "요리를 가져와")
+}
+
+quest {
+	quest_info (7323, "요리를 가져와")
+}
+
+quest {
+	quest_info (7324, "요리를 가져와")
+}
+
+quest {
+	quest_info (7325, "요리를 가져와")
+}
+
+quest {
+	quest_info (7326, "요리를 가져와")
+}
+
+quest {
+	quest_info (7327, "요리를 가져와")
+}
+
+quest {
+	quest_info (7328, "요리를 가져와")
+}
+
+quest {
+	quest_info (7329, "요리를 가져와")
+}
+
+quest {
+	quest_info (7330, "요리를 가져와")
+}
+
+
+//럭요리
+quest {
+	quest_info (7331, "요리를 가져와")
+}
+
+quest {
+	quest_info (7332, "요리를 가져와")
+}
+
+quest {
+	quest_info (7333, "요리를 가져와")
+}
+
+quest {
+	quest_info (7334, "요리를 가져와")
+}
+
+quest {
+	quest_info (7335, "요리를 가져와")
+}
+
+quest {
+	quest_info (7336, "요리를 가져와")
+}
+
+quest {
+	quest_info (7337, "요리를 가져와")
+}
+
+quest {
+	quest_info (7338, "요리를 가져와")
+}
+
+quest {
+	quest_info (7339, "요리를 가져와")
+}
+
+quest {
+	quest_info (7340, "요리를 가져와")
+}
+
+//20요리
+quest {
+	quest_info (7341, "요리를 가져와")
+}
+
+quest {
+	quest_info (7342, "요리를 가져와")
+}
+
+quest {
+	quest_info (7343, "요리를 가져와")
+}
+
+quest {
+	quest_info (7344, "요리를 가져와")
+}
+
+quest {
+	quest_info (7345, "요리를 가져와")
+}
+
+quest {
+	quest_info (7346, "요리를 가져와")
+}
+
+
+
+//---------말랑도 일일퀘스트 - 불량 고양이 돕기 --------------------------------
+
+quest {
+	quest_info (1145, "위기에 처한 불량 고양이들을 도와라!")
+}
+quest {
+	quest_info (1146, "위기에 처한 불량 고양이들을 도와라!")
+}
+quest {
+	quest_info (1147, "위기에 처한 불량 고양이들을 도와라!")
+}
+quest {
+	quest_info (1148, "위기에 처한 불량 고양이들을 도와라!")
+}
+quest {
+	quest_info (1149, "위기에 처한 불량 고양이들을 도와라!")
+}
+quest {
+	quest_info (1150, "위기에 처한 불량 고양이들을 도와라!")
+}
+quest {
+	quest_info (1151, "위기에 처한 불량 고양이들을 도와라!")
+}
+quest {
+	quest_info (1152, "위기에 처한 불량 고양이들을 도와라! - 종료")
+        time(82800)
+}
+
+quest {
+	quest_info (1153, "위기에 처한 불량 고양이들을 도와라!")
+}
+quest {
+	quest_info (1154, "위기에 처한 불량 고양이들을 도와라!")
+	hunt("RED_ERUMA", 20)
+}
+quest {
+	quest_info (1155, "위기에 처한 불량 고양이들을 도와라!")
+}
+
+//- 말랑도
+quest {
+	quest_info (5058, "냥게이머메인_01")
+}
+
+quest {
+	quest_info (5059, "냥게이머메인_02")
+}
+
+quest {
+	quest_info (5060, "냥게이머메인_03")
+	time(180)
+}
+
+quest {
+	quest_info (5061, "냥게이머메인_04")
+}
+
+quest {
+	quest_info (5062, "냥게이머메인_05")
+}
+
+quest {
+	quest_info (5063, "냥게이머메인_06")
+}
+
+quest {
+	quest_info (5064, "냥게이머메인_07")
+}
+
+quest {
+	quest_info (5065, "냥게이머메인_08")
+}
+
+quest {
+	quest_info (5066, "냥게이머메인_09")
+}
+
+quest {
+	quest_info (5067, "냥게이머메인_10")
+}
+
+quest {
+	quest_info (5068, "냥게이머메인_11")
+	time(72000)
+}
+
+quest {
+	quest_info (5069, "냥게이머메인_12")
+	time(3600)
+}
+
+quest {
+	quest_info (5070, "냥게이머_가위쿨")
+	time(86400)
+}
+
+quest {
+	quest_info (5071, "냥게이머_참참쿨")
+	time(86400)
+}
+
+quest {
+	quest_info (5072, "냥게이머_꽁냥쿨")
+	time(86400)
+}
+
+quest {
+	quest_info (5073, "냥게이머_깃발쿨")
+	time(86400)
+}
+
+quest {
+	quest_info (5074, "냥게이머일일_01")
+	hunt("PHEN", 30)
+}
+
+quest {
+	quest_info (5075, "냥게이머일일_02")
+	hunt("MARSE", 50)
+}
+
+quest {
+	quest_info (5076, "냥게이머일일_03")
+	hunt("KOBOLD_ARCHER", 30)
+}
+
+quest {
+	quest_info (5077, "냥게이머일일_04")
+	hunt("CRAMP", 10)
+}
+
+quest {
+	quest_info (5078, "냥게이머일일_05")
+	hunt("PECOPECO", 50)
+}
+
+quest {
+	quest_info (5079, "냥게이머일일_06")
+}
+
+quest {
+	quest_info (5080, "냥게이머일일_07")
+}
+
+quest {
+	quest_info (5081, "냥게이머일일_08")
+}
+
+quest {
+	quest_info (5082, "냥게이머일일_09")
+}
+
+quest {
+	quest_info (5083, "냥게이머일일_10")
+}
+
+quest {
+	quest_info (5084, "냥게이머일일_11")
+}
+
+quest {
+	quest_info (5085, "냥게이머일일_12")
+}
+
+quest {
+	quest_info (5086, "냥게이머일일_13")
+}
+
+quest {
+	quest_info (5087, "냥게이머일일_14")
+}
+
+quest {
+	quest_info (5088, "냥게이머일일_15")
+}
+
+quest {
+	quest_info (5089, "냥게이머일일_16")
+}
+
+quest {
+	quest_info (5090, "냥게이머일일_17")
+}
+
+quest {
+	quest_info (5091, "말랑도로 출발")
+}
+
+
+//--- 말랑도 야옹 모험단
+
+quest {
+	quest_info (7242, "냐드벤처-라토의부탁")
+}
+
+quest {
+	quest_info (7243, "냐드벤처-두루두루시작")
+}
+
+quest {
+	quest_info (7244, "냐드벤처-두루두루A")
+	time(180)
+}
+
+quest {
+	quest_info (7245, "냐드벤처-두루두루B")
+	time(180)
+}
+
+quest {
+	quest_info (7246, "냐드벤처-지금만나러")
+}
+
+quest {
+	quest_info (7247, "냐드벤처-쾅돌이")
+}
+
+//-- 7248(사용안함)
+
+quest {
+	quest_info (7249, "냐드벤처-쾅돌이내일")
+	time(86400)
+}
+
+quest {
+	quest_info (7250, "냐드벤처-숨겨진보물")
+}
+
+quest {
+	quest_info (7251, "냐드벤처-그림조각")
+}
+
+quest {
+	quest_info (7252, "냐드벤처-그림조각")
+}
+
+quest {
+	quest_info (7253, "냐드벤처-그림조각")
+}
+
+quest {
+	quest_info (7254, "냐드벤처-그림조각")
+}
+
+quest {
+	quest_info (7255, "냐드벤처-그림조각")
+}
+
+quest {
+	quest_info (7256, "냐드벤처-그림조각")
+}
+
+quest {
+	quest_info (7257, "냐드벤처-달리기내일")
+	time(86400)
+}
+
+quest {
+	quest_info (7258, "냐드벤처-그림조각")
+}
+
+quest {
+	quest_info (7259, "냐드벤처-완성된그림")
+}
+
+
+
+
+//------- 말랑도
+quest {
+	quest_info (11209, "토마스씨의 고충")
+}
+
+quest {
+	quest_info (11210, "말랑도 정기 집회")
+}
+
+quest {
+	quest_info (11211, "말랑도 정기 집회")
+}
+
+quest {
+	quest_info (11212, "말랑도 정기 집회")
+}
+
+quest {
+	quest_info (11213, "말랑도 정기 집회")
+}
+
+quest {
+	quest_info (11214, "말랑도 정기 집회")
+}
+
+quest {
+	quest_info (11215, "말랑도 정기 집회")
+}
+
+quest {
+	quest_info (11216, "이그드라실 열매")
+}
+
+quest {
+	quest_info (11217, "이그드라실 열매")
+}
+
+quest {
+	quest_info (11218, "이그드라실 열매")
+}
+
+quest {
+	quest_info (11219, "이그드라실 열매")
+}
+
+quest {
+	quest_info (11220, "이그드라실 열매")
+}
+
+quest {
+	quest_info (11221, "세상에서 가장 말랑말랑쫀득쫀득한")
+}
+
+quest {
+	quest_info (11222, "세상에서 가장 말랑말랑쫀득쫀득한")
+}
+
+quest {
+	quest_info (11223, "세상에서 가장 말랑말랑쫀득쫀득한")
+}
+
+quest {
+	quest_info (11224, "세상에서 가장 말랑말랑쫀득쫀득한")
+}
+
+quest {
+	quest_info (11225, "교차하지 않는 노력의 길")
+}
+
+quest {
+	quest_info (11226, "교차하지 않는 노력의 길")
+}
+
+quest {
+	quest_info (11227, "교차하지 않는 노력의 길")
+}
+
+quest {
+	quest_info (11228, "교차하지 않는 노력의 길")
+}
+
+quest {
+	quest_info (11229, "별사탕을 위하여")
+}
+
+quest {
+	quest_info (11230, "별사탕을 위하여")
+}
+
+quest {
+	quest_info (11231, "별사탕을 위하여")
+}
+
+quest {
+	quest_info (11232, "별사탕을 위하여")
+}
+
+quest {
+	quest_info (11233, "별사탕을 위하여")
+}
+
+quest {
+	quest_info (11234, "별사탕을 위하여")
+}
+
+quest {
+	quest_info (11235, "별사탕을 위하여")
+}
+
+quest {
+	quest_info (11236, "교집합")
+}
+
+quest {
+	quest_info (11237, "토마스씨의 고충")
+}
+
+quest {
+	quest_info (11238, "이그드라실 열매")
+}
+
+quest {
+	quest_info (11239, "이그드라실 열매")
+	time(82800)
+}
+
+quest {
+	quest_info (11240, "세상에서 가장 말랑말랑쫀득쫀득한")
+}
+
+quest {
+	quest_info (11241, "세상에서 가장 말랑말랑쫀득쫀득한")
+}
+
+quest {
+	quest_info (11242, "세상에서 가장 말랑말랑쫀득쫀득한")
+}
+
+quest {
+	quest_info (11243, "세상에서 가장 말랑말랑쫀득쫀득한")
+	time(82800)
+}
+
+quest {
+	quest_info (11244, "말랑말랑젤리")
+}
+
+quest {
+	quest_info (11245, "말랑말랑젤리")
+	time(82800)
+}
+//Biolab Somatology dungeon 4th floor and ETC
+quest {
+	quest_info (5109, "Serious rumor")
+}
+
+quest {
+	quest_info (5110, "The rumor")
+}
+
+quest {
+	quest_info (5111, "To the lab..")
+}
+
+quest {
+	quest_info (5112, "Limited access on the lab")
+	time(259200)
+}
+
+quest {
+  quest_info (5113, "[Shelter] Lord Knight")
+  hunt("B_SEYREN", 1)
+}
+
+quest {
+  quest_info (5114, "[Shelter] Paladin")
+  hunt("B_RANDEL", 1)
+}
+
+quest {
+  quest_info (5115, "[Shelter] High Priest")
+  hunt("B_MAGALETA", 1)
+}
+
+quest {
+  quest_info (5116, "[Shelter] Champion")
+  hunt("B_CHEN", 1)
+}
+
+quest {
+  quest_info (5117, "[Shelter] High Wizard")
+  hunt("B_KATRINN", 1)
+}
+
+quest {
+  quest_info (5118, "[Shelter] Professor")
+  hunt("B_CELIA", 1)
+}
+
+quest {
+  quest_info (5119, "[Shelter] Whitesmith")
+  hunt("B_HARWORD", 1)
+}
+
+quest {
+  quest_info (5120, "[Shelter] Creator")
+  hunt("B_FLAMEL", 1)
+}
+
+quest {
+  quest_info (5121, "[Shelter] Assassin Cross")
+  hunt("B_EREMES", 1)
+}
+
+quest {
+  quest_info (5122, "[Shelter] Stalker")
+  hunt("B_GERTIE", 1)
+}
+
+quest {
+  quest_info (5123, "[Shelter] Sniper")
+  hunt("B_SHECIL", 1)
+}
+
+quest {
+  quest_info (5124, "[Shelter] Crown")
+  hunt("B_ALPHOCCIO", 1)
+}
+
+quest {
+  quest_info (5125, "[Shelter] Gypsy")
+  hunt("B_TRENTINI", 1)
+}
+
+quest {
+     quest_info (11378, "Trick or treat")
+}
+quest {
+	quest_info (15055, "2013 크리스마스용")
+}
+quest {
+	quest_info (15056, "2013 크리스마스용")
+}
+quest {
+	quest_info (15057, "2013 크리스마스용")
+}
+quest {
+	quest_info (15058, "2013 크리스마스용")
+}
+quest {
+	quest_info (15059, "2013 크리스마스용")
+	time(82800)
+}
+quest {
+	quest_info (15060, "2013 크리스마스용")
+}
+quest {
+	quest_info (15061, "2013 크리스마스용")
+}
+quest {
+	quest_info (15062, "2013 크리스마스용")
+}
+quest {
+	quest_info (15063, "2013 크리스마스용")
+}
+quest {
+	quest_info (15064, "2013 크리스마스용")
+}
+
+//2014 신년이벤트
+
+quest {
+	quest_info (7347, "맛있는 문어구이")
+	time(1800)
+}
+quest {
+	quest_info (7630, "2014신년이벤트")
+	hunt("FANTASTIC_B_UNICORN", 1)
+}
+
+quest {
+	quest_info (7631, "2014신년이벤트")
+	time(82800)
+}
+
+//-------- ??? ??? ?? 7214 - 7241
+quest {
+	quest_info (7214, "???? 1?? ???")
+}
+
+quest {
+	quest_info (7215, "??? ??")
+	hunt("STALACTIC_GOLEM", 3)
+}
+
+quest {
+	quest_info (7216, "?? ??")
+	hunt("STALACTIC_GOLEM", 10)
+}
+
+quest {
+	quest_info (7217, "?? ??")
+}
+
+quest {
+	quest_info (7218, "????")
+}
+
+quest {
+	quest_info (7219, "???? 2?? ??")
+}
+
+quest {
+	quest_info (7220, "?? ???")
+	hunt("WRAITH", 20)
+}
+
+quest {
+	quest_info (7221, "?? ???")
+	hunt("EVIL_DRUID", 10)
+}
+
+quest {
+	quest_info (7222, "????")
+}
+
+quest {
+	quest_info (7223, "???? 3?? ?????")
+}
+
+quest {
+	quest_info (7224, "???? ??")
+	hunt("PORCELLIO", 30)
+}
+
+quest {
+	quest_info (7225, "??,??,?")
+	hunt("NOXIOUS", 30)
+}
+
+quest {
+	quest_info (7226, "??,??,?")
+	hunt("VENOMOUS", 30)
+}
+
+quest {
+	quest_info (7227, "??,??,?")
+	hunt("TEDDY_BEAR", 5)
+}
+
+quest {
+	quest_info (7228, "????")
+}
+
+quest {
+	quest_info (7229, "??? ????")
+}
+
+quest {
+	quest_info (7230, "??? ????")
+	hunt("SIROMA", 30)
+}
+
+quest {
+	quest_info (7231, "??? ????")
+	hunt("SIROMA", 30)
+}
+
+quest {
+	quest_info (7232, "??? ????")
+}
+
+quest {
+	quest_info (7233, "??? ????")
+}
+
+quest {
+	quest_info (7234, "??? ????")
+}
+
+quest {
+	quest_info (7235, "??? ????")
+	hunt("NEPENTHES", 1)
+}
+
+quest {
+	quest_info (7236, "??? ????")
+	hunt("PINGUICULA", 5)
+}
+
+quest {
+	quest_info (7237, "????")
+}
+
+quest {
+	quest_info (7238, "??? ??? ???")
+}
+
+quest {
+	quest_info (7239, "??? ??? ???")
+}
+
+quest {
+	quest_info (7240, "???? 1??")
+}
+
+quest {
+	quest_info (7241, "??? ???-???")
+	time(86400)
+}
+// 카게로우-오보로 전직 퀘스트
+quest {
+	quest_info (5131, "카게로우-오보로_01")
+}
+
+quest {
+	quest_info (5132, "카게로우-오보로_02")
+}
+
+quest {
+	quest_info (5133, "카게로우-오보로_03")
+}
+
+quest {
+	quest_info (5134, "카게로우-오보로_04")
+}
+
+quest {
+	quest_info (5135, "카게로우-오보로_05")
+}
+
+quest {
+	quest_info (5136, "카게로우-오보로_06")
+}
+
+quest {
+	quest_info (5137, "카게로우-오보로_07")
+}
+
+quest {
+	quest_info (5138, "카게로우-오보로_08")
+}
+
+quest {
+	quest_info (5139, "카게로우-오보로_09")
+}
+
+quest {
+	quest_info (5140, "카게로우-오보로_10")
+}
+
+quest {
+	quest_info (5141, "카게로우-오보로_11")
+	time(120)
+}
+
+quest {
+	quest_info (5142, "카게로우-오보로_12")
+}
+
+quest {
+	quest_info (5143, "카게로우-오보로_13")
+}
+
+quest {
+	quest_info (5144, "카게로우-오보로_14")
+}
+
+quest {
+	quest_info (5145, "카게로우-오보로_15")
+}
+
+quest {
+	quest_info (5146, "카게로우-오보로_16")
+}
+
+//--- 아지트 투자전 추가투표 abyss gate update
+quest {
+	quest_info (7349, "재투표")
+	time(7200)
+}
+
+// 14년 할로윈-halloween 2014
+
+quest {
+	quest_info (14450, 어려운 사제님을 도와주자)
+}
+
+quest {
+	quest_info (14451, 성당으로)
+}
+
+quest {
+	quest_info (14452, 성물의 재료)
+}
+
+quest {
+	quest_info (14453, 니플헤임으로)
+}
+
+quest {
+	quest_info (14454, 루티에로)
+}
+
+quest {
+	quest_info (14455, 다시 성당으로)
+}
+
+quest {
+	quest_info (14456, 소환을 위한 준비)
+}
+
+quest {
+	quest_info (14457, 다시 니플헤임으로)
+}
+
+quest {
+	quest_info (14458, 로루의 요청)
+}
+
+quest {
+	quest_info (14459, 데비의 요청)
+}
+
+quest {
+	quest_info (14460, 로루의 부탁)
+	hunt("WANDERING_SOUL", 10)
+}
+
+quest {
+	quest_info (14461, 로루의 부탁)
+}
+
+quest {
+	quest_info (14462, 데비의 부탁)
+	hunt("DARK_SOUL", 10)
+}
+
+quest {
+	quest_info (14463, 데비의 부탁)
+	hunt("HYLOZOIST", 20)
+	hunt("BLOODY_MURDERER", 20)
+
+}
+
+quest {
+	quest_info (14464, 파티는 하룻동안 계속된다)
+	time(82800)
+}
+
+quest {
+	quest_info (14465, 아직은 놈들이 조용하다)
+	time(82800)
+}
+
+//Xmas 2014
+quest {
+        quest_info (4357, "크리스마스-사냥1")
+        hunt("XMAS_LUNATIC", 3)
+}
+quest {
+        quest_info (4358, "크리스마스-사냥2")
+        hunt("GOBLINE_XMAS", 3)
+}
+quest {
+        quest_info (4359, "크리스마스-사냥3")
+        hunt("ORC_XMAS", 3)
+}
+quest {
+        quest_info (4360, "크리스마스-사냥4")
+        hunt("JAKK_XMAS", 3)
+}
+quest {
+        quest_info (4361, "크리스마스-대기1")
+        time(79200)
+}
+quest {
+        quest_info (4362, "크리스마스-대기2")
+        time(79200)
+}
+quest {
+        quest_info (4363, "크리스마스-대기3")
+        time(79200)
+}
+quest {
+        quest_info (4364, "크리스마스-대기4")
+        time(79200)
+}
+
+//------------------------------ Episode ECLAGE update ------------------------------//
+
+//----------ep14.2
+
+quest {
+	quest_info (1214, "프로페서 웜의 기억 찾기")
+}
+
+quest {
+	quest_info (1215, "프로페서 웜의 기억 찾기")
+}
+
+quest {
+	quest_info (1216, "프로페서 웜의 기억 찾기")
+        qitem("PETAL", "Star_Shape_Mushroom", 30)
+}
+
+quest {
+	quest_info (1217, "프로페서 웜의 기억 찾기")
+}
+
+quest {
+	quest_info (1218, "프로페서 웜의 기억 찾기")
+}
+
+quest {
+	quest_info (1219, "프로페서 웜의 기억 찾기")
+}
+
+quest {
+	quest_info (1220, "프로페서 웜의 기억 찾기")
+}
+
+quest {
+	quest_info (1221, "프로페서 웜의 기억 찾기")
+}
+
+quest {
+	quest_info (1222, "프로페서 웜의 기억 찾기")
+}
+
+quest {
+	quest_info (1223, "프로페서 웜의 기억 찾기")
+}
+
+quest {
+	quest_info (1224, "프로페서 웜의 기억 찾기")
+}
+
+quest {
+	quest_info (1225, "프로페서 웜의 기억 찾기")
+        hunt("LICHTERN_B", 15)
+}
+
+quest {
+	quest_info (1226, "프로페서 웜의 기억 찾기")
+}
+
+quest {
+	quest_info (1227, "프로페서 웜의 기억 찾기")
+        qitem("PETAL", "Star_Shape_Mushroom", 30)
+}
+
+quest {
+	quest_info (1228, "프로페서 웜의 기억 찾기")
+}
+
+//ep14.2 에클라쥬
+quest {
+	quest_info (7411, "에클라쥬 여행자 포메")
+}
+
+quest {
+	quest_info (7412, "에클라쥬 여행자 리트립")
+}
+
+quest {
+	quest_info (7413, "에클라쥬 여행자 치바")
+}
+
+quest {
+	quest_info (7414, "에클라쥬 가드의 전언")
+}
+
+quest {
+	quest_info (7415, "라피네의 군수참모")
+}
+
+quest {
+	quest_info (7416, "만남을 위한 기다림")
+	time(600)
+}
+
+quest {
+	quest_info (7417, "카르듀이의 제안")
+}
+
+quest {
+	quest_info (7418, "에클라쥬를 위해")
+}
+
+quest {
+	quest_info (7419, "에클라쥬를 위해")
+}
+
+quest {
+	quest_info (7420, "에클라쥬를 위해")
+}
+
+quest {
+	quest_info (7421, "그 정도면 충분해")
+}
+
+quest {
+	quest_info (7422, "카르듀이의 선물")
+}
+
+quest {
+	quest_info (7423, "왕에 대한 소문")
+}
+
+quest {
+	quest_info (7424, "왕에 대한 소문")
+}
+
+quest {
+	quest_info (7425, "왕에 대한 소문")
+}
+
+quest {
+	quest_info (7426, "왕에 대한 소문")
+}
+
+quest {
+	quest_info (7427, "이럴땐 정공법이다!")
+}
+
+quest {
+	quest_info (7428, "야성미 넘치는 야이")
+}
+
+quest {
+	quest_info (7429, "최근의 트랜드는 야성")
+	time(82800)
+}
+
+quest {
+	quest_info (7430, "공간을 달리는 배달부")
+}
+
+quest {
+	quest_info (7431, "우편배달부는 쉬지않아!")
+	time(82800)
+}
+
+quest {
+	quest_info (7432, "꽃이 피어난 대지의 말썽꾼")
+	hunt("MENBLATT", 5)
+	hunt("PETAL", 5)
+}
+
+quest {
+	quest_info (7433, "꾸준한 산책이 필요하다.")
+	time(82800)
+}
+
+//- 형제와 마학자
+quest {
+	quest_info (7434, "쌍둥이와 마학자")
+}
+
+quest {
+	quest_info (7435, "쌍둥이와 마학자")
+	time(180)
+}
+
+quest {
+	quest_info (7436, "쌍둥이와 마학자")
+}
+
+quest {
+	quest_info (7437, "쌍둥이와 마학자")
+}
+
+quest {
+	quest_info (7438, "쌍둥이와 마학자")
+}
+
+quest {
+	quest_info (7439, "쌍둥이와 마학자")
+}
+
+quest {
+	quest_info (7440, "쌍둥이와 마학자")
+}
+
+quest {
+	quest_info (7441, "쌍둥이와 마학자")
+}
+
+quest {
+	quest_info (7442, "쌍둥이와 마학자")
+}
+
+quest {
+	quest_info (7443, "쌍둥이와 마학자")
+}
+
+quest {
+	quest_info (7444, "쌍둥이와 마학자")
+}
+
+//오브
+quest {
+	quest_info (7445, "오브탈취")
+}
+
+quest {
+	quest_info (7446, "오브탈취")
+}
+
+quest {
+	quest_info (7447, "오브탈취")
+}
+
+quest {
+	quest_info (7448, "오브탈취")
+}
+
+quest {
+	quest_info (7449, "오브탈취")
+}
+
+quest {
+	quest_info (7450, "오브탈취")
+}
+
+quest {
+	quest_info (7451, "오브탈취")
+}
+
+quest {
+	quest_info (7452, "오브탈취")
+}
+
+quest {
+	quest_info (7453, "오브탈취")
+}
+
+// 한국 : 14.2
+
+quest {
+	quest_info (9225, "미스테리 절도 사건 1")
+}
+
+quest {
+	quest_info (9226, "미스테리 절도 사건 2")
+}
+
+quest {
+	quest_info (9227, "미스테리 절도 사건 3")
+}
+
+quest {
+	quest_info (9228, "미스테리 절도 사건 4")
+}
+
+quest {
+	quest_info (9229, "미스테리 절도 사건 5")
+}
+
+quest {
+	quest_info (9230, "미스테리 절도 사건 6")
+}
+
+quest {
+	quest_info (9231, "미스테리 절도 사건 7")
+}
+
+quest {
+	quest_info (9232, "미스테리 절도 사건 8")
+}
+
+quest {
+	quest_info (9233, "미스테리 절도 사건 9")
+}
+
+quest {
+	quest_info (9234, "미스테리 절도 사건 10")
+}
+
+quest {
+	quest_info (9235, "미스테리 절도 사건 11")
+}
+
+quest {
+	quest_info (9236, "미스테리 절도 사건 12")
+}
+
+quest {
+	quest_info (9237, "미스테리 절도 사건 13")
+}
+
+quest {
+	quest_info (9238, "미스테리 절도 사건 14")
+}
+
+quest {
+	quest_info (9239, "미스테리 절도 사건 15")
+}
+
+quest {
+	quest_info (9262, "미스테리 절도 사건 16")
+}
+
+quest {
+	quest_info (9240, "<루엔의 진술 노트.>")
+}
+
+quest {
+	quest_info (9241, "<루엔의 진술 노트..>")
+}
+
+quest {
+	quest_info (9242, "<루엔의 진술 노트...>")
+}
+
+quest {
+	quest_info (9243, "<루엔의 진술 노트....>")
+}
+
+quest {
+	quest_info (9244, "<데임스의 진술 노트.>")
+}
+
+quest {
+	quest_info (9245, "<데임스의 진술 노트..>")
+}
+
+quest {
+	quest_info (9246, "<데임스의 진술 노트...>")
+}
+
+quest {
+	quest_info (9247, "<데임스의 진술 노트....>")
+}
+
+quest {
+	quest_info (9248, "<로사의 진술 노트.>")
+}
+
+quest {
+	quest_info (9249, "<로사의 진술 노트..>")
+}
+
+quest {
+	quest_info (9250, "<로사의 진술 노트...>")
+}
+
+quest {
+	quest_info (9251, "<로사의 진술 노트....>")
+}
+
+quest {
+	quest_info (9252, "<뽀삐 관찰>")
+}
+
+quest {
+	quest_info (9253, "<어지럽혀진 책장 수색>")
+}
+
+quest {
+	quest_info (9254, "<훼손된 책 수색>")
+}
+
+quest {
+	quest_info (9255, "<음료 바구니 수색>")
+}
+
+quest {
+	quest_info (9256, "<난장판이 된 탁자 수색>")
+}
+
+quest {
+	quest_info (9257, "<떨어진 이물질 수색>")
+}
+
+quest {
+	quest_info (9258, "<현장 검증 결과>")
+}
+
+quest {
+	quest_info (9259, "<크루이안의 진술 확인>")
+	hunt ("MENBLATT", 5)
+	hunt ("PETAL", 30)
+}
+
+quest {
+	quest_info (9260, "<탐문수사 정리 노트>")
+}
+
+//-- ep14.2
+quest {
+     quest_info (11310, "에클라쥬의 문")
+     time(30)
+}
+
+quest {
+     quest_info (11311, "에클라쥬의 문")
+}
+
+quest {
+     quest_info (11312, "골리앗")
+}
+
+quest {
+     quest_info (11313, "골리앗")
+}
+
+quest {
+     quest_info (11314, "골리앗")
+}
+
+quest {
+     quest_info (11315, "어쨌든 시간은 흐르고")
+}
+
+quest {
+     quest_info (11316, "어쨌든 시간은 흐르고")
+}
+
+quest {
+     quest_info (11317, "어쨌든 시간은 흐르고")
+}
+
+quest {
+     quest_info (11318, "어쨌든 시간은 흐르고")
+}
+
+quest {
+     quest_info (11319, "어쨌든 시간은 흐르고")
+}
+
+quest {
+     quest_info (11320, "어쨌든 시간은 흐르고")
+}
+
+quest {
+     quest_info (11321, "어쨌든 시간은 흐르고")
+}
+
+quest {
+     quest_info (11322, "어쨌든 시간은 흐르고")
+}
+
+quest {
+     quest_info (11323, "어쨌든 시간은 흐르고")
+}
+
+quest {
+     quest_info (11324, "어쨌든 시간은 흐르고")
+}
+
+quest {
+     quest_info (11325, "닭이 먼저냐 달걀이 먼저냐")
+}
+
+quest {
+     quest_info (11326, "닭이 먼저냐 달걀이 먼저냐")
+}
+
+quest {
+     quest_info (11327, "닭이 먼저냐 달걀이 먼저냐")
+}
+
+quest {
+     quest_info (11328, "닭이 먼저냐 달걀이 먼저냐")
+}
+
+quest {
+     quest_info (11329, "닭이 먼저냐 달걀이 먼저냐")
+}
+
+quest {
+     quest_info (11330, "닭이 먼저냐 달걀이 먼저냐")
+}
+
+quest {
+     quest_info (11331, "닭이 먼저냐 달걀이 먼저냐")
+}
+
+quest {
+     quest_info (11332, "닭이 먼저냐 달걀이 먼저냐")
+}
+
+quest {
+     quest_info (11333, "붉은 씨앗과 푸른 씨앗")
+}
+
+quest {
+     quest_info (11334, "붉은 씨앗과 푸른 씨앗")
+}
+
+quest {
+     quest_info (11335, "꿈꾸는 소년")
+}
+
+quest {
+     quest_info (11336, "꿈꾸는 소년")
+}
+
+quest {
+     quest_info (11337, "꿈꾸는 소년")
+}
+
+//--ep14.2
+quest {
+ quest_info (12280,"수상한 죄수")
+}
+
+quest {
+ quest_info (12281,"원치않은 심부름")
+}
+
+quest {
+ quest_info (12282,"가십왕 클레버")
+}
+
+quest {
+ quest_info (12283,"균열 연구자.")
+}
+
+quest {
+ quest_info (12284,"고양이 상단의 정보통")
+}
+
+quest {
+ quest_info (12285,"고양이를 진정시키는 법")
+}
+
+quest {
+ quest_info (12286,"통조림과 맞바꾼 정보")
+}
+
+quest {
+ quest_info (12287,"이상한 체험")
+}
+
+quest {
+ quest_info (12288,"제대로 된 체험")
+}
+
+quest {
+ quest_info (12289,"또다시 면회")
+}
+
+quest {
+ quest_info (12290,"클레버의 역사서")
+}
+
+quest {
+ quest_info (12291,"숨겨진 역사서(?)")
+}
+
+quest {
+ quest_info (12292,"알려지지 않은 자")
+}
+
+quest {
+ quest_info (12293,"과거의 인물")
+}
+
+quest {
+ quest_info (12294,"에클라쥬 관광")
+}
+
+quest {
+ quest_info (12295,"오작동")
+}
+
+quest {
+ quest_info (12296,"반응기와 즐거운 한때")
+}
+
+quest {
+quest_info (12297,"에뜰랑을 만나다")
+}
+
+quest {
+ quest_info (12298,"두가지 부탁")
+}
+
+quest {
+ quest_info (12299,"로베르와의 재회")
+}
+
+quest {
+ quest_info (12300,"에뜰랑과의 재회")
+}
+
+quest {
+ quest_info (12301,"남은 두 친구")
+}
+
+//-ep14.2
+quest {
+        quest_info (13050, "대지를 사랑하는 요정")
+}
+
+quest {
+        quest_info (13051, "노래하는요정")
+}
+
+quest {
+        quest_info (13052, "물주는요정")
+}
+
+quest {
+        quest_info (13053, "춤추는요정")
+}
+
+quest {
+        quest_info (13054, "미소짓는요정")
+}
+
+quest {
+        quest_info (13055, "모험자 확인")
+}
+
+quest {
+        quest_info (13056, "로시 확인")
+}
+
+quest {
+        quest_info (13057, "은청 확인")
+}
+
+quest {
+        quest_info (13058, "뉴오즈 확인")
+}
+
+quest {
+	quest_info (13059, "대사요- 대기")
+	time(79200)
+}
+
+quest {
+	quest_info (13060, "모험자확인 - 대기")
+	time(79200)
+}
+
+quest {
+        quest_info (13061, "식량조달")
+}
+
+quest {
+	quest_info (13062, "식량조달- 대기")
+	time(79200)
+}
+
+quest {
+        quest_info (13063, "먼지 제거")
+        hunt("CENERE", 20)
+}
+
+quest {
+	quest_info (13064, "먼지제거 - 대기")
+	time(79200)
+}
+
+quest {
+        quest_info (13065, "기념품 수집")
+}
+
+quest {
+	quest_info (13066, "기념품 수집 - 대기")
+	time(79200)
+}
+
+quest {
+ quest_info (13067,"레이드릭 연구")
+ hunt("RAYDRIC", 30)
+}
+
+quest {
+	quest_info (13068, "레이드릭 연구 - 대기 중")
+	time(79200)
+}
+
+quest {
+ quest_info (13069,"칼리츠버그 연구")
+ hunt("KHALITZBURG", 30)
+}
+
+quest {
+	quest_info (13070, "칼리츠버그 연구 - 대기 중")
+	time(79200)
+}
+
+quest {
+ quest_info (13071,"배회하는 자 연구")
+ hunt("WANDER_MAN", 30)
+}
+
+quest {
+	quest_info (13072, "배회하는 자 연구 - 대기 중")
+	time(79200)
+}
+
+quest {
+ quest_info (13073,"에이션트 미믹 연구")
+ hunt("ANCIENT_MIMIC", 30)
+}
+
+quest {
+	quest_info (13074, "에이션트 미믹 연구 - 대기 중")
+	time(79200)
+}
+
+quest {
+ quest_info (13075,"데스워드 연구")
+ hunt("DEATHWORD", 30)
+}
+
+quest {
+	quest_info (13076, "데스워드 연구 - 대기 중")
+	time(79200)
+}
+
+quest {
+ quest_info (13077,"아울바론 연구")
+ hunt("OWL_BARON", 20)
+}
+
+quest {
+	quest_info (13078, "아울바론 연구 - 대기 중")
+	time(79200)
+}
+
+quest {
+ quest_info (13079,"어떤 제네릭의 고서목록")
+}
+
+quest {
+	quest_info (13080, "피묻은 책장 연구 - 대기 중")
+	time(79200)
+}
+
+quest {
+ quest_info (13081,"핀귀큘라 다크 연구")
+ hunt("PINGUICULA_D", 30)
+}
+
+quest {
+	quest_info (13082, "핀귀큘라 다크 연구 - 대기 중")
+	time(79200)
+}
+
+quest {
+ quest_info (13083,"네펜데스 연구")
+ hunt("NEPENTHES", 30)
+}
+
+quest {
+	quest_info (13084, "네펜데스 연구 - 대기 중")
+	time(79200)
+}
+
+quest {
+ quest_info (13085,"나가 연구")
+ hunt("NAGA", 30)
+}
+
+quest {
+	quest_info (13086, "나가 연구 - 대기 중")
+	time(79200)
+}
+
+quest {
+ quest_info (13087,"센티페데 유충 연구")
+ hunt("CENTIPEDE_LARVA", 20)
+}
+
+quest {
+	quest_info (13088, "센티페데 유충 연구 - 대기 중")
+	time(79200)
+}
+
+quest {
+ quest_info (13089,"코르누스 연구")
+ hunt("CORNUS", 30)
+}
+
+quest {
+	quest_info (13090, "코르누스 연구 - 대기 중")
+	time(79200)
+}
+
+quest {
+ quest_info (13091,"그날 본 뿔의 마력을 우리는 모른다")
+}
+
+quest {
+	quest_info (13092, "마력의뿔 연구 - 대기 중")
+	time(79200)
+}
+
+quest {
+ quest_info (13093,"에이션트 미라 연구")
+ hunt("ANCIENT_MUMMY", 30)
+}
+
+quest {
+	quest_info (13094, "에인션트 미라 연구 - 대기 중")
+	time(79200)
+}
+
+quest {
+ quest_info (13095,"게페니아 연구")
+ hunt("INCUBUS", 10)
+ hunt("SUCCUBUS", 10)
+ hunt("VIOLY", 10)
+}
+
+quest {
+	quest_info (13096, "게페니아 연구 - 대기 중")
+	time(79200)
+}
+
+quest {
+ quest_info (13097,"유페로스 연구")
+ hunt("VENATU_2", 30)
+ hunt("VENATU_3", 30)
+ hunt("VENATU_4", 30)
+}
+
+quest {
+	quest_info (13098, "유페로스 연구 - 대기 중")
+	time(79200)
+}
+
+quest {
+ quest_info (13099,"미지의 조각 발견할 적에")
+}
+
+quest {
+	quest_info (13100, "미지의 조각 연구 - 대기 중")
+	time(79200)
+}
+
+//--- 테스트 구간
+quest {
+	quest_info (14001, "포링코인1")
+	hunt("PORING", 10)
+	qitem("PORING", "Poring_Coin", 30)
+}
+
+quest {
+	quest_info (14002, "포링코인2")
+	qitem("PORING", "Poring_Coin", 30)
+}
+
+quest {
+	quest_info (14003, "포링코인2")
+	qitem("PORING", "Manuk_Coin", 100)
+}
+
+//--- 보상이벤트
+quest {
+	quest_info (14004, "발키리의반지")
+}
+
+//-- 미선씨 필드
+//--ep14.2
+//------크고 아름다워지고 싶었어
+
+quest {
+	quest_info (14118, "14.2 quest")
+}
+
+quest {
+	quest_info (14119, "14.2 quest")
+}
+
+quest {
+	quest_info (14120, "14.2 quest2")
+}
+
+quest {
+	quest_info (14121, "14.2 quest3")
+}
+
+quest {
+	quest_info (14122, "14.2 quest")
+}
+
+quest {
+	quest_info (14123, "14.2 quest")
+}
+
+quest {
+	quest_info (14125, "14.2 quest")
+}
+
+quest {
+	quest_info (14126, "14.2 quest")
+}
+
+quest {
+	quest_info (14127, "14.2 quest")
+}
+
+quest {
+	quest_info (14128, "14.2 quest")
+}
+
+quest {
+	quest_info (14131, "14.2 quest")
+	time(300)
+}
+
+quest {
+	quest_info (14133, "14.2 quest")
+}
+
+quest {
+	quest_info (14134, "14.2 quest")
+}
+
+quest {
+	quest_info (14135, "14.2 quest")
+}
+
+quest {
+	quest_info (14136, "14.2 quest")
+}
+
+quest {
+	quest_info (14137, "14.2 quest")
+}
+
+quest {
+	quest_info (14138, "14.2 quest")
+}
+
+quest {
+	quest_info (14139, "14.2 quest")
+}
+
+quest {
+	quest_info (14140, "14.2 quest2")
+}
+
+quest {
+	quest_info (14141, "14.2 quest")
+}
+
+
+//-ep14.2
+quest {
+	quest_info (4254, "장난꾸러기들")
+}
+
+quest {
+	quest_info (4255, "장난꾸러기들")
+	hunt("MENBLATT", 20)
+}
+
+quest {
+	quest_info (4256, "장난꾸러기들")
+}
+
+quest {
+	quest_info (4257, "장난꾸러기들")
+}
+
+quest {
+	quest_info (4258, "장난꾸러기들")
+}
+
+quest {
+	quest_info (4259, "장난꾸러기들")
+}
+
+quest {
+	quest_info (4260, "장난꾸러기들")
+}
+
+quest {
+	quest_info (4261, "장난꾸러기들")
+}
+
+quest {
+	quest_info (4262, "장난꾸러기들")
+}
+
+quest {
+	quest_info (4263, "장난꾸러기들")
+}
+
+quest {
+	quest_info (4264, "장난꾸러기들")
+}
+
+quest {
+	quest_info (4265, "장난꾸러기들")
+}
+
+/나이트메어
+quest {
+	quest_info (2289, "수상한고양이: 앙숙")
+	hunt("N_VERIT", 20)
+}
+
+quest {
+	quest_info (2290, "수상한고양이: 앙숙(대기)")
+	time(82800)
+}
+
+quest {
+	quest_info (2291, "수상한고양이: 귀찮은 녀석(대기)")
+	time(82800)
+}
+
+quest {
+	quest_info (2292, "수상한고양이: 귀찮은 녀석")
+	hunt("N_ANCIENT_MUMMY", 20)
+}
+
+
+
+//---- 공성전TE
+
+//-- 공성전TE
+
+
+quest {
+	quest_info (7501, "수상한녀석1")
+	time(14400)
+	hunt("BABY_STRANGE", 1)
+}
+
+quest {
+	quest_info (7502, "수상한녀석10")
+	time(14400)
+	hunt("BABY_STRANGE", 10)
+}
+
+quest {
+	quest_info (7503, "수상한녀석30")
+	time(14400)
+	hunt("BABY_STRANGE", 30)
+}
+
+quest {
+	quest_info (7504, "엠펠브레이커1")
+	time(14400)
+	hunt("EMPELIUM", 1)
+}
+
+quest {
+	quest_info (7505, "엠펠브레이커3")
+	time(14400)
+	hunt("EMPELIUM", 3)
+}
+
+quest {
+	quest_info (7506, "엠펠브레이커5")
+	time(14400)
+	hunt("EMPELIUM", 5)
+}
+
+quest {
+	quest_info (7507, "작은나무상자10")
+	time(14400)
+}
+
+quest {
+	quest_info (7508, "작은나무상자20")
+	time(14400)
+}
+
+quest {
+	quest_info (7509, "작은나무상자30")
+	time(14400)
+}
+
+quest {
+	quest_info (7510, "도둑퇴치1")
+	time(14400)
+	hunt("THIEF_PORING", 1)
+}
+
+quest {
+	quest_info (7511, "도둑퇴치10")
+	time(14400)
+	hunt("THIEF_PORING", 10)
+}
+
+quest {
+	quest_info (7512, "도둑퇴치30")
+	time(14400)
+	hunt("THIEF_PORING", 30)
+}
+
+quest {
+	quest_info (7513, "월급명세서10")
+	time(14400)
+}
+
+quest {
+	quest_info (7514, "월급명세서20")
+	time(14400)
+}
+
+quest {
+	quest_info (7515, "월급명세서30")
+	time(14400)
+}
+
+quest {
+	quest_info (7516, "엠펠파괴휴식")
+	time(1200)
+}
+
+//-- 길드 아지트 점령
+quest {
+	quest_info (7517, "발키리대기")
+	time(3600)
+}
+
+quest {
+	quest_info (7518, "루이나대기")
+	time(3600)
+}
+
+quest {
+	quest_info (7519, "브리토리아대기")
+	time(3600)
+}
+
+quest {
+	quest_info (7520, "청림대기")
+	time(3600)
+}
+
+quest {
+	quest_info (7521, "니다뵐대기")
+	time(3600)
+}
+
+quest {
+	quest_info (7522, "발프레이야대기")
+	time(3600)
+}
+
+quest {
+	quest_info (7523, "글로리아대기")
+	time(3600)
+}
+
+quest {
+	quest_info (7524, "카프라가텐대기")
+	time(3600)
+}
+
+//-- 길드던전 일일퀘스트
+quest {
+	quest_info (7525, "길드일퀘")
+	hunt("CREMY_FEAR", 50)
+	hunt("CATERPILLAR", 50)
+}
+
+quest {
+	quest_info (7526, "길드일퀘")
+	hunt("GLD_KOBOLD_1", 30)
+	hunt("GLD_KOBOLD_2", 30)
+	hunt("GLD_KOBOLD_3", 30)
+}
+
+quest {
+	quest_info (7527, "길드일퀘")
+	hunt("PYURIEL", 1)
+	hunt("LORA", 1)
+}
+
+quest {
+	quest_info (7528, "길드일퀘")
+	hunt("GIANT_HONET", 50)
+	hunt("ANCIENT_WORM", 50)
+}
+
+quest {
+	quest_info (7529, "길드일퀘")
+	hunt("KILLER_MANTIS", 40)
+	hunt("ANGRA_MANTIS", 50)
+}
+
+quest {
+	quest_info (7530, "길드일퀘")
+	hunt("GIOIA", 1)
+	hunt("ELVIRA", 1)
+}
+
+quest {
+	quest_info (7531, "길드일퀘")
+	hunt("WRAITH_DEAD", 50)
+	hunt("ZOMBIE_MASTER", 50)
+}
+
+quest {
+	quest_info (7532, "길드일퀘")
+	hunt("GLD_DARK_SHADOW", 50)
+	hunt("GLD_DARK_FRAME", 20)
+	hunt("GLD_DARK_PRIEST", 20)
+}
+
+quest {
+	quest_info (7533, "길드일퀘")
+	hunt("KADES", 1)
+	hunt("RUDO", 1)
+}
+
+quest {
+	quest_info (7534, "길드일퀘")
+	hunt("LEIB_OLMAI", 50)
+	hunt("GULLINBURSTI", 50)
+}
+
+quest {
+	quest_info (7535, "길드일퀘")
+	hunt("SKELETON_GENERAL", 45)
+	hunt("AM_MUT", 20)
+	hunt("GAJOMART", 25)
+}
+
+quest {
+	quest_info (7536, "길드일퀘")
+	hunt("DAEHYON", 1)
+	hunt("SOHEON", 1)
+}
+
+quest {
+	quest_info (7537, "길드일퀘")
+	hunt("HELL_APOCALIPS", 50)
+	hunt("ZAKUDAM", 50)
+}
+
+quest {
+	quest_info (7538, "길드일퀘")
+	hunt("HEAVY_METALING", 35)
+	hunt("COBALT_MINERAL", 35)
+}
+
+quest {
+	quest_info (7539, "길드일퀘")
+	hunt("BANSHEE_MASTER", 50)
+	hunt("BEHOLDER_MASTER", 30)
+}
+
+quest {
+	quest_info (7540, "길드일퀘")
+	hunt("AUNOE", 50)
+	hunt("FANAT", 20)
+}
+
+quest {
+	quest_info (7541, "길드일퀘")
+	hunt("L_SEYREN", 30)
+	hunt("L_EREMES", 30)
+	hunt("L_HARWORD", 30)
+}
+
+quest {
+	quest_info (7542, "길드일퀘")
+	hunt("L_KATRINN", 30)
+	hunt("L_MAGALETA", 30)
+	hunt("L_SHECIL", 30)
+}
+
+//--- 길드일퀘 대기
+quest {
+	quest_info (7543, "일퀘대기")
+	time(79200)
+}
+
+quest {
+	quest_info (7544, "일퀘대기")
+	time(79200)
+}
+
+quest {
+	quest_info (7545, "일퀘대기")
+	time(604800)
+}
+
+quest {
+	quest_info (7546, "일퀘대기")
+	time(79200)
+}
+
+quest {
+	quest_info (7547, "일퀘대기")
+	time(79200)
+}
+
+quest {
+	quest_info (7548, "일퀘대기")
+	time(604800)
+}
+
+quest {
+	quest_info (7549, "일퀘대기")
+	time(79200)
+}
+
+quest {
+	quest_info (7550, "일퀘대기")
+	time(79200)
+}
+
+quest {
+	quest_info (7551, "일퀘대기")
+	time(604800)
+}
+
+quest {
+	quest_info (7552, "일퀘대기")
+	time(79200)
+}
+
+quest {
+	quest_info (7553, "일퀘대기")
+	time(79200)
+}
+
+quest {
+	quest_info (7554, "일퀘대기")
+	time(604800)
+}
+
+quest {
+	quest_info (7555, "일퀘대기")
+	time(79200)
+}
+
+quest {
+	quest_info (7556, "일퀘대기")
+	time(79200)
+}
+
+quest {
+	quest_info (7557, "일퀘대기")
+	time(79200)
+}
+
+quest {
+	quest_info (7558, "일퀘대기")
+	time(79200)
+}
+
+quest {
+	quest_info (7559, "일퀘대기")
+	time(79200)
+}
+
+quest {
+	quest_info (7560, "일퀘대기")
+	time(79200)
+}
+
+quest {
+	quest_info (7561, "카프라가텐길드일퀘")
+	hunt("L_YGNIZEM", 30)
+	hunt("L_WHIKEBAIN", 30)
+	hunt("L_ARMAIA", 30)
+}
+
+quest {
+	quest_info (7562, "카프라가텐길드일퀘")
+	hunt("L_RAWREL", 30)
+	hunt("L_EREND", 30)
+	hunt("L_KAVAC", 30)
+}
+
+quest {
+	quest_info (7563, "카프라가텐일퀘대기")
+	time(79200)
+}
+
+quest {
+	quest_info (7564, "카프라가텐일퀘대기")
+	time(79200)
+}
+
+quest {
+     quest_info (11446, "잭과 잭의 잭한 나날")
+}
+
+quest {
+     quest_info (11447, "잭과 잭의 잭한 나날")
+}
+
+quest {
+     quest_info (11448, "잭과 잭의 잭한 나날")
+}
+
+quest {
+     quest_info (11449, "잭과 잭의 잭한 나날")
+     hunt("JAKK_H", 10)
+     qitem("JAKK_H", "Dry_White_Stem", 40)
+}
+
+quest {
+     quest_info (11450, "잭과 잭의 잭한 나날")
+     time (84000)
+}
+
+quest {
+     quest_info (11451, "잭과 잭의 잭한 나날")
+     hunt("JAKK_H", 10)
+     qitem("JAKK_H", "Dry_White_Stem", 40)
+}
+
+//2015 크리스마스 이벤트
+
+quest {
+	quest_info (9432, "안토니오의 제안")
+}
+
+quest {
+	quest_info (9433, "선물용 인형 수집")
+	qitem("MYSTCASE", "Gift_Stuffed_Doll", 30)
+
+}
+
+quest {
+	quest_info (9434, "착한일은 하루 한번")
+	time(79200)
+}
+
+quest {
+        quest_info (19048, "ossas present status")
+		fixedtime(0,0,0,00)
+        //time(86400)
+}
+
+quest {
+     quest_info (19049, Valentine Event")
+}
+
+quest {
+	quest_info (19051, "Event Isra Miraj")
+}
+
+quest {
+	quest_info (19052, "Event Isra Miraj")
+}
+
+quest {
+	quest_info (19053, "Temui Ibu Boy")
+}
+
+quest {
+	quest_info (19054, "Temui Nenek Boy")
+}
+
+quest {
+	quest_info (19055, "Temui Kakek Boy")
+}
+
+quest {
+	quest_info (19056, "Main Quest1 Kalahkan 45 Hode")
+	hunt("HODE", 45)
+}
+
+quest {
+	quest_info (19057, "Main Quest2 Kalahkan 19 High Orc")
+	hunt("HIGH_ORC", 19)
+}
+
+quest {
+	quest_info (19058, "Main Quest3 Kalahkan 20 Harpy")
+	hunt("HARPY", 20)
+}
+
+quest {
+	quest_info (19059, "Main Quest4 Kalahkan 20 Loli Ruri")
+	hunt("LOLI_RURI", 20)
+}
+
+quest {
+	quest_info (19060, "Main Quest5 Kalahkan 20 Nightmare Terror")
+	hunt("NIGHTMARE_TERROR", 20)
+}
+
+quest {
+	quest_info (19061, "Main Quest6 Kalahkan 20 Shinobi")
+	hunt("SHINOBI", 20)
+}
+
+quest {
+	quest_info (19062, "Final Quest Kalahkan 20 Anubis")
+	hunt("ANUBIS", 20)
+}
+
+quest {
+	quest_info (19063, "Kalahkan 50 Desert Wolf")
+	hunt("DESERT_WOLF", 50)
+}
+
+quest {
+	quest_info (19064, "Kalahkan 500 Minorous")
+	hunt("MINOROUS", 500)
+}
+
+quest {
+	quest_info (19065, "Kalahkan 300 Goat")
+	hunt("GOAT", 300)
+}
+
+quest {
+	quest_info (19066, "Kalahkan 100 Majoruros")
+	hunt("MAJORUROS", 100)
+}
+
+//-- Maulid
+quest {
+	quest_info (19067, "Temui Penjaga Gerbang Utara")
+}
+
+quest {
+	quest_info (19068, "Temui Penjaga Gerbang Timur")
+}
+
+quest {
+	quest_info (19069, "Temui Penjaga Gerbang Barat")
+}
+
+quest {
+	quest_info (19070, "Temui Penjaga Gerbang Selatan")
+}
+
+quest {
+	quest_info (19071, "Temui Sultan Octa untuk mendapatkan hadiah")
+}
+
+//-- CHRISTMAS 19 - 12 - 2017
+
+quest {
+	quest_info (19072, "Berikan 1 buah Buche De Noel pada peri Noel")
+}
+
+quest {
+	quest_info (19073, "Temui Noel di kota Lutie")
+}
+
+quest {
+	quest_info (19074, "Temui Noel di kota Prontera")
+}
+
+quest {
+	quest_info (19075, "Temui Noel di kota Geffen")
+}
+
+quest {
+	quest_info (19076, "Temui Noel di kota Izlude")
+}
+
+quest {
+	quest_info (19077, "Temui Noel di kota Alberta")
+}
+
+quest {
+	quest_info (19078, "Temui Noel di kota Xmas Fild 01")
+}
+
+quest {
+	quest_info (19079, "Temui Noel di kota Prontera arah Tenggara")
+}
+
+quest {
+	quest_info (19080, "Temui Noel di kota Aldebaran")
+}
+
+quest {
+	quest_info (19081, "Temui Noel di kota Lutie untuk pertanyaan terakhir")
+}
+
+quest {
+	quest_info (19082, "Kalahkan 70 Christmas Goblin dan 70 Christmas Orc")
+	hunt("GOBLINE_XMAS", 70)
+	hunt("ORC_XMAS", 70)
+}
+
+quest {
+	quest_info (19083, "Kalahkan 70 Christmas Jakk dan 30 Antonio")
+	hunt("JAKK_XMAS", 70)
+	hunt("ANTONIO", 30)
+}
+
+quest {
+	quest_info (19085, "Novice Hunter - Mengumpulkan 20 Bug Leg")
+}
+
+quest {
+	quest_info (19086, "Novice Hunter - Kalahkan 15 Zipper Bear")
+	hunt("ZIPPER_BEAR", 15))
+}
+
+quest {
+	quest_info (19087, "Novice Hunter - Mengumpulkan 10 Mud Lump")
+}
+
+quest {
+	quest_info (19088, "Novice Hunter - Kalahkan 10 Hyegun")
+	hunt("HYEGUN", 15))
+}
+
+quest {
+	quest_info (19089, "Novice Hunter - Kalahkan 10 Dancing Dragon")
+	hunt("DANCING_DRAGON", 15))
+}
+
+quest {
+	quest_info (19090, "Yuna - Kalahkan 15 Myst Case")
+	hunt("MYSTCASE", 15)
+}
+
+quest {
+	quest_info (19091, "Jimmy Lie - Kalahkan monster yang mengganggu")
+	hunt("LEIB_OLMAI", 2)
+	hunt("DANCING_DRAGON", 16)
+	hunt("HYEGUN", 20)
+}
+
+quest {
+	quest_info (19092, "Jimmy Lie - Kalahkan monster yang mengganggu")
+	hunt("CIVIL_SERVANT", 18)
+	hunt("CHUNG_E_", 2)
+}
+
+quest {
+	quest_info (19093, "Love Seeker - Kumpulkan 500 Needle Pouch")
+}
+
+quest {
+	quest_info (19094, "Michelle - Kalahkan monster yang diminta")
+	hunt("SPRING_RABBIT", 30)
+	hunt("EGGYRA", 70)
+}
+
+quest {
+	quest_info (19095, "Arie - Kalahkan monster yang diminta")
+	hunt("ORC_ARCHER", 20)
+	hunt("HIGH_ORC", 20)
+	hunt("RAYDRIC", 20)
+}
+
+//-- Ramadhan 2018
+
+quest {
+	quest_info (19097, "Amar - Kalahkan monster yang diminta")
+	hunt("WOLF", 30)
+}
+
+quest {
+	quest_info (19098, "Amar - Kalahkan monster yang diminta")
+	hunt("SKELETON", 50)
+}
+
+
+quest {
+	quest_info (19099, "Amar - Kalahkan monster yang diminta")
+	hunt("THIEF_BUG_", 30)
+}
+
+quest {
+	quest_info (19100, "Amar - Kalahkan monster yang diminta")
+	hunt("ZIPPER_BEAR", 30)
+}
+
+quest {
+	quest_info (19101, "Amar - Kalahkan monster yang diminta")
+	hunt("MUMMY", 30)
+}
+
+quest {
+	quest_info (19102, "Amar - Kalahkan monster yang diminta")
+	hunt("SAND_MAN", 30)
+}
+
+quest {
+	quest_info (19103, "Amar - Kalahkan monster yang diminta")
+	hunt("GIBBET", 25)
+}
+
+quest {
+	quest_info (19104, "Amar - Kalahkan monster yang diminta")
+	hunt("QUVE", 25)
+}
+
+quest {
+	quest_info (19105, "Amar - Kalahkan monster yang diminta")
+	hunt("LUDE", 25)
+}
+
+quest {
+        quest_info (19106, "Quest Ramadhan Status")
+	time(10800)
+}
+
+quest {
+        quest_info (19107, "Sahur status")
+	time(10800)
+}
+
+quest {
+        quest_info (19108, "Buka status")
+	time(10800)
+}
+
+quest {
+        quest_info (19109, "Login World cup")
+	time(7200)
+}
+
+quest {
+        quest_info (19110, "Quest Crystal Geffenia")
+}
+
+quest {
+        quest_info (19111, "Quest Kemerdekaan RI ke 73")
+		hunt("INCUBUS", 50)
+		hunt("KRABEN", 20)
+		hunt("TENGU", 3)
+}
+
+//========= Daily Quest Hunt Monster ==============
+
+//==senin==
+quest {
+	quest_info (19200, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("ARGOS", 50)
+	hunt("ORC_SKELETON", 50)
+	hunt("SAND_MAN", 100)
+}
+
+quest {
+	quest_info (19201, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("ALLIGATOR", 150)
+	hunt("CLOCK", 50)
+	hunt("INJUSTICE", 100)
+}
+
+quest {
+	quest_info (19202, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("FREEZER", 100)
+	hunt("GALAPAGO", 50)
+	hunt("MAJORUROS", 50)
+}
+
+//==selasa==
+quest {
+	quest_info (19203, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("BIGFOOT", 100)
+	hunt("HODE", 100)
+	hunt("SIDE_WINDER", 50)
+}
+
+quest {
+	quest_info (19204, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("ANCIENT_MUMMY", 100)
+	hunt("EVIL_DRUID", 100)
+	hunt("ALARM", 100)
+}
+
+quest {
+	quest_info (19205, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("SOLIDER", 100)
+	hunt("OWL_DUKE", 50)
+	hunt("HIGH_ORC", 200)
+}
+
+//==rabu==
+quest {
+	quest_info (19206, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("FLORA", 100)
+	hunt("BON_GUN", 100)
+	hunt("MATYR", 50)
+}
+
+quest {
+	quest_info (19207, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("ANOLIAN", 100)
+	hunt("GHOUL", 150)
+	hunt("ASSULTER", 50)
+}
+
+quest {
+	quest_info (19208, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("CLOCK", 100)
+	hunt("STALACTIC_GOLEM", 150)
+	hunt("RAYDRIC", 100)
+}
+
+//==kamis==
+quest {
+	quest_info (19209, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("FRILLDORA", 100)
+	hunt("MARC", 100)
+	hunt("SOHEE", 50)
+}
+
+quest {
+	quest_info (19210, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("RAYDRIC_ARCHER", 50)
+	hunt("GRAND_PECO", 100)
+	hunt("MERMAN", 100)
+}
+
+quest {
+	quest_info (19211, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("ANOLIAN", 150)
+	hunt("PERMETER", 100)
+	hunt("MEDUSA", 100)
+}
+
+//==jumat==
+quest {
+	quest_info (19212, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("MUNAK", 100)
+	hunt("ORC_LADY", 100)
+	hunt("GHOUL", 50)
+}
+
+quest {
+	quest_info (19213, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("ARGIOPE", 100)
+	hunt("HIGH_ORC", 100)
+	hunt("RAYDRIC", 100)
+}
+
+quest {
+	quest_info (19214, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("DRAGON_TAIL", 50)
+	hunt("EVIL_DRUID", 100)
+	hunt("MAJORUROS", 50)
+}
+
+//==Sabtu==
+quest {
+	quest_info (19215, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("GOLEM", 100)
+	hunt("KOBOLD_1", 50)
+	hunt("SWORD_FISH", 50)
+}
+
+quest {
+	quest_info (19216, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("BATHORY", 100)
+	hunt("HYEGUN", 100)
+	hunt("RYBIO", 50)
+}
+
+quest {
+	quest_info (19217, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("GOAT", 150)
+	hunt("MEDUSA", 100)
+	hunt("KHALITZBURG", 50)
+}
+
+//==Minggu==
+quest {
+	quest_info (19218, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("WOLF", 100)
+	hunt("OBEAUNE", 100)
+	hunt("HODE", 100)
+}
+
+quest {
+	quest_info (19219, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("NINE_TAIL", 100)
+	hunt("SPRING_RABBIT", 100)
+	hunt("STING", 50)
+}
+
+quest {
+	quest_info (19220, "Monster Hunter - Kalahkan monster yang diminta")
+	hunt("KHALITZBURG", 100)
+	hunt("GALAPAGO", 50)
+	hunt("PERMETER", 100)
+}
+
+// ----------------- UPDATE SERVER THOR : Quest Idul Adha 21082018 -----------------
+quest {
+	quest_info (19112, "Quest Idul Adha 2018")
+}
+
+quest {
+	quest_info (19113, "Quest Hunting Idul Adha 2018")
+	hunt("MINOROUS", 100)
+	hunt("GOAT", 100)
+}
+
+quest {
+	quest_info (19114, "Quest Hunting Idul Adha 2018 MVP")
+	hunt("PECOPECO", 100)
+	hunt("SAND_MAN", 100)}
+
+
+quest {
+        quest_info (19221, "quest flywing")
+        time(3600)
+}
+
+quest {
+        quest_info (19222, "quest flywing status")
+        fixedtime(0,0,0,00)
+}
+
+// ----------------------------------------------------------
+// ---------- Update DAILY QUEST 9 Oktober 2018 -------------
+// --------------------- BEGINNER Level 50 - 69 ----------------------
+quest {
+	quest_info (19115, "Daily Bounty 50")
+}
+
+quest {
+        quest_info (19116, "Daily Bounty 50-A")
+		hunt("ISIS", 150)
+}
+
+quest {
+        quest_info (19117, "Daily Bounty 50-B")
+		hunt("HIGH_ORC", 100)
+}
+
+quest {
+        quest_info (19118, "Daily Bounty 50-C")
+		hunt("GEOGRAPHER", 100)
+		hunt("MINERAL", 5)
+}
+
+quest {
+        quest_info (19138, "Daily Bounty 50-D")
+		hunt("LES", 100)
+		hunt("WOOD_GOBLIN", 100)
+		hunt("VAVAYAGA", 5)
+}
+
+quest {
+        quest_info (19139, "Daily Bounty 50-E")
+		hunt("DRILLER", 100)
+}
+
+// --------------------- ADVANCED Level 70 - 89 ----------------------
+quest {
+	quest_info (19119, "Daily Bounty 70")
+}
+
+quest {
+        quest_info (19120, "Daily Bounty 70-A")
+		hunt("PASANA", 100)
+		hunt("MINOROUS", 100)
+}
+
+quest {
+        quest_info (19121, "Daily Bounty 70-B")
+		hunt("LOLI_RURI", 100)
+		hunt("BLOODY_MURDERER", 50)
+}
+
+quest {
+        quest_info (19140, "Daily Bounty 70-C")
+		hunt("FREEZER", 100)
+		hunt("HEATER", 100)
+}
+
+quest {
+        quest_info (19141, "Daily Bounty 70-D")
+		hunt("PERMETER", 100)
+		hunt("SOLIDER", 100)
+}
+
+quest {
+        quest_info (19142, "Daily Bounty 70-E")
+		hunt("ALARM", 150)
+}
+
+quest {
+        quest_info (19143, "Daily Bounty 70-F")
+		hunt("STING", 150)
+}
+
+quest {
+        quest_info (19144, "Daily Bounty 70-G")
+		hunt("UZHAS", 120)
+		hunt("VAVAYAGA", 50)
+}
+
+// --------------------- EXPERT Level 90 - 99 ----------------------
+quest {
+	quest_info (19122, "Daily Bounty 90")
+}
+
+quest {
+        quest_info (19123, "Daily Bounty 90-A")
+		hunt("ANOLIAN", 150)
+}
+
+quest {
+        quest_info (19124, "Daily Bounty 90-B")
+		hunt("ANUBIS", 100)
+}
+
+quest {
+        quest_info (19145, "Daily Bounty 90-C")
+		hunt("MEDUSA", 120)
+}
+
+quest {
+        quest_info (19146, "Daily Bounty 90-D")
+		hunt("NIGHTMARE_TERROR", 120)
+}
+
+quest {
+        quest_info (19147, "Daily Bounty 90-E")
+		hunt("STALACTIC_GOLEM", 140)
+}
+
+quest {
+        quest_info (19148, "Daily Bounty 90-F")
+		hunt("ANCIENT_MUMMY", 100)
+}
+
+quest {
+        quest_info (19149, "Daily Bounty 90-G")
+		hunt("APOCALIPS", 120)
+}
+
+quest {
+        quest_info (19150, "Daily Bounty 90-H")
+		hunt("MAVKA", 100)
+}
+
+// --------------------- EXTREME Level 90 - 99 ----------------------
+
+quest {
+	quest_info (19135, "Daily Bounty Extreme")
+}
+
+quest {
+        quest_info (19125, "Daily Bounty Extreme A")
+		hunt("SHECIL", 50)
+		hunt("MAGALETA", 50)
+		hunt("KATRINN", 50)
+}
+
+quest {
+        quest_info (19126, "Daily Bounty Extreme B")
+		hunt("SEYREN", 50)
+		hunt("EREMES", 50)
+		hunt("HARWORD", 50)
+}
+
+quest {
+        quest_info (19136, "Daily Bounty Extreme B")
+		hunt("SOLACE", 50)
+		hunt("RETRIBUTION", 50)
+}
+
+quest {
+        quest_info (19137, "Daily Bounty Extreme B")
+		hunt("OBSERVATION", 50)
+		hunt("SHELTER", 50)
+}
+
+// -- Delay Bounty --
+
+quest {
+        quest_info (19127, "Delay Bounty")
+		fixedtime(0,0,0,00)
+}
+
+// ----------- UPDATE SERVER MVP --------------
+quest {
+        quest_info (19128, "Delay Spirit Ancient")
+		fixedtime(0,0,0,00)
+}
+
+quest {
+	quest_info (19129, "Quest Dungeon - Kalahkan monster yang diminta")
+	hunt("E_ZOMBIE", 25)
+}
+
+quest {
+	quest_info (19130, "Quest Rebarev - Kalahkan monster yang diminta")
+	hunt("PORING", 10)
+}
+
+quest {
+	quest_info (19131, "Quest Rebarev - Kalahkan monster yang diminta")
+	hunt("DROPS", 10)
+}
+
+quest {
+	quest_info (19132, "Quest Rebarev - Kalahkan monster yang diminta")
+	hunt("CHONCHON", 10)
+}
+
+quest {
+	quest_info (19133, "Dungeon Guild - Kalahkan monster yang diminta")
+	hunt("E_SHINING_PLANT", 25)
+}
+
+quest {
+        quest_info (19134, "Delay Dungeon Guild")
+		fixedtime(0,0,0,00)
+}
+
+// ------------------ THOR --------------
+quest {
+        quest_info (19151, "Quest dari Jacques")
+		hunt("GRAND_PECO", 30)
+}
+
+// ------------------ THOR --------------
+quest {
+        quest_info (19152, "Delay poring War")
+	time(1800)
+}
+
+quest {
+        quest_info (19153, "Delay Turbotrack")
+	time(10800)
+}
+
+quest {
+        quest_info (19154, "New Year Login 2019 - Rabu")
+		fixedtime(0,0,0,00)
+}
+
+quest {
+        quest_info (19155, "New Year Login 2019 - Kamis")
+		fixedtime(0,0,0,00)
+}
+
+quest {
+        quest_info (19156, "Delay Lunar Arena")
+	time(600)
+}
