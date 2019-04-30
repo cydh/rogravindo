@@ -12315,7 +12315,7 @@ berat : ^7777771^000000
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier] 
 # 
  
-// ------------------- 2006 »ó¹İ±â ½Å±ÔÄ«µå Ãß°¡.----------------------- 
+// ------------------- 2006 ìƒë°˜ê¸° ì‹ ê·œì¹´ë“œ ì¶”ê°€.----------------------- 
  
 4332# 
 ATK +5, INT +1 
@@ -12878,7 +12878,7 @@ Letak: ^777777Weapon^000000
 Berat: ^7777771^000000 
 # 
  
-// ------------- Ã¥ÀĞ±â ---------------------- 
+// ------------- ì±…ì½ê¸° ---------------------- 
 11000# 
 Sebuah buku tentang sejarah dari Prontera. Terdapat bab khusus yang didedikasikan untuk Tristam III. 
 ^ffffff_^000000 
@@ -12931,7 +12931,7 @@ Edisi kedua dari seri petualangan Assassin yang ditulis oleh Mihir, Seorang penl
 Berat: ^7777771^000000 
 # 
  
-// ----------------------- Åä¸£È­»ê Äù½ºÆ® ¾ÆÀÌÅÛ ---------------------- 
+// ----------------------- í† ë¥´í™”ì‚° í€˜ìŠ¤íŠ¸ ì•„ì´í…œ ---------------------- 
 7704# 
 Sebuah alat yang dapat mengukur suhu permukaan tanah. Tetapi sepertinya tidak terlalu akurat. 
 ^ffffff_^000000 
@@ -12948,7 +12948,7 @@ Sebuah catatan yang ditulis oleh seorang ahli geologi.
 Berat: ^7777770^000000 
 # 
  
-// ----------------------- Åä¸£È­»ê ½Å±Ô Àåºñ ¾ÆÀÌÅÛ ------------------------ 
+// ----------------------- í† ë¥´í™”ì‚° ì‹ ê·œ ì¥ë¹„ ì•„ì´í…œ ------------------------ 
 1370# 
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier] 
 # 
@@ -15317,7 +15317,7 @@ Sebuah kotak yang berisi 1 Unholy Touch. Hati-hati dalam memakainya!
 Berat : ^7777771^000000 
 # 
 13778# 
-Sebuah kotak yang berisi 1 Orc Hero’s Helm. Hati-hati dalam memakainya! 
+Sebuah kotak yang berisi 1 Orc Heroë­© Helm. Hati-hati dalam memakainya! 
 ^ffffff_^000000 
 Berat : ^7777771^000000 
 # 
@@ -15904,7 +15904,7 @@ Berat: ^7777771^000000
 # 
  
 // ------------- Ep. 12 --------------- 
-// ------------- ÀüÀå º¸»ó ¾ÆÀÌÅÛ --------------- 
+// ------------- ì „ì¥ ë³´ìƒ ì•„ì´í…œ --------------- 
 13036# 
 Sebuah belati yang dinuat spesial untuk membunuh. 
 STR + 1, AGI + 1 
@@ -16560,7 +16560,7 @@ Sebuah amplop yang di segel. Sepertinya terdapat pesan yang penting didalamnya.
 Berat: ^7777771^000000 
 # 
  
-// ------------ ¸Ş¸ğ¸®¾ó ´øÀü º¸»óÅÛ ---------------- 
+// ------------ ë©”ëª¨ë¦¬ì–¼ ë˜ì „ ë³´ìƒí…œ ---------------- 
 13412# 
 Tidak diketahui, dapat diidentifikasikan dengan Magnifier 
 # 
@@ -16580,7 +16580,7 @@ Tidak diketahui, dapat diidentifikasikan dengan Magnifier
 2542# 
 Tidak diketahui, dapat diidentifikasikan dengan Magnifier 
 # 
-//¸ğ·ÎÅ© ÄÁÆ¼³ÙÅ» °¡µå ÀÎÁõ¼­ 
+//ëª¨ë¡œí¬ ì»¨í‹°ë„¨íƒˆ ê°€ë“œ ì¸ì¦ì„œ 
 7826# 
 Menandakan petualang ini mempunyai kekuatan dan keberanian yang cukup untuk menjadi anggota Continental Guard. 
 ^ffffff_^000000 
@@ -16588,7 +16588,7 @@ Continental Guard. Baloq.
 ^ffffff_^000000 
 Berat: ^7777770^000000 
 # 
-// ------------ ¸¶¿Õ ¸ğ·ÎÅ© ---------------- 
+// ------------ ë§ˆì™• ëª¨ë¡œí¬ ---------------- 
 2536# 
 Tidak diketahui, dapat diidentifikasikan dengan Magnifier 
 # 
@@ -16622,7 +16622,7 @@ Tidak diketahui, dapat diidentifikasikan dengan Magnifier
 2433# 
 Tidak diketahui, dapat diidentifikasikan dengan Magnifier 
 # 
-// ---------- ÇÒÂ¦ Å×½ºÆ® ----------- 
+// ---------- í• ì§ í…ŒìŠ¤íŠ¸ ----------- 
 2129# 
 Tidak diketahui, dapat diidentifikasikan dengan Magnifier 
 # 
@@ -16704,7 +16704,7 @@ Tidak diketahui, dapat diidentifikasikan dengan Magnifier
 1182# 
 Tidak diketahui, dapat diidentifikasikan dengan Magnifier 
 # 
-// ------------- ÀüÀå ÈÖÀå --------------- 
+// ------------- ì „ì¥ íœ˜ì¥ --------------- 
 7828# 
 Sebuah lencana yang di berikan pada pahlawan di medang perang. 
 ^ffffff_^000000 
@@ -16714,7 +16714,7 @@ Sebuah lencana yang di berikan pada pahlawan di medang perang.
 ^ffffff_^000000 
 # 
  
-// -------- ºÀÀÎÀÇ ½ÅÀü ¾ÆÀÌÅÛ ------------ 
+// -------- ë´‰ì¸ì˜ ì‹ ì „ ì•„ì´í…œ ------------ 
 6001# 
 Sebuah inti sari api yang mengandung jiwa dari Thor, Dewa Petir. 
 Mengendung kekuatan misterius untuk menyegel kekuatan jahat dan gelap. 
@@ -16732,14 +16732,14 @@ Sebuah liontin yang pernah digunakan untuk mengurung arwah penasaran dari tempat
 Berat: ^7777771^000000 
 # 
  
-// ----------------- ¸¶·ÂÀÌ ±êµç ¹ÙÆ÷¸ŞÆ® ÀÎÇü ----------------- 
+// ----------------- ë§ˆë ¥ì´ ê¹ƒë“  ë°”í¬ë©”íŠ¸ ì¸í˜• ----------------- 
 6004# 
 Boneka yang mengandung kutukan Baphomet. Sepertinya dibuat dengan sesuatu yang lain. 
 ^ffffff_^000000 
 Berat: ^7777771^000000 
 # 
  
-// ------------------- 12.1 Äù½ºÆ® ¾ÆÀÌÅÛ ---------------------- 
+// ------------------- 12.1 í€˜ìŠ¤íŠ¸ ì•„ì´í…œ ---------------------- 
 7798# 
 Sebuah A dark fragment dengan cahaya yang menyilaukan. Saat kamu menatapnya, kamu merasa akan terhisap olehnya. 
 ^ffffff_^000000 
@@ -16754,7 +16754,7 @@ Berat: ^7777771^000000
 5374# 
 Tidak diketahui, dapat diidentifikasikan dengan Magnifier 
 # 
-// ------------------- ÀÌº¥Æ® ¾ÆÀÌÅÛ ------------------ 
+// ------------------- ì´ë²¤íŠ¸ ì•„ì´í…œ ------------------ 
 6000# 
 Sebuah abu hitam yang mengandung kekuatan sihir dan kegelapan yang misterius. 
 ^ffffff_^000000 
@@ -16790,7 +16790,7 @@ Ibu Tiri - Karma dari jiwa sebelumnya? "
 ^ffffff_^000000 
 Berat: ^7777771^000000 
 # 
-// ------------------ ÇÏ¾Ç Å×½ºÆ® (¼ÒÄÏ)---------------- 
+// ------------------ í•˜ì•… í…ŒìŠ¤íŠ¸ (ì†Œì¼“)---------------- 
 5353# 
 Item tidak diketahui, bisa dikenali dengan menggunakan [Magnifier]. 
 # 
@@ -16908,7 +16908,7 @@ Item tidak diketahui, bisa dikenali dengan menggunakan [Magnifier].
 1180# 
 Item tidak diketahui, bisa dikenali dengan menggunakan [Magnifier]. 
 # 
-// ----------------- ¸ğ½ºÄÚºñ¾Æ(·¯½Ã¾Æ ·ÎÄÃ¶óÀÌÂ¡)------------------ 
+// ----------------- ëª¨ìŠ¤ì½”ë¹„ì•„(ëŸ¬ì‹œì•„ ë¡œì»¬ë¼ì´ì§•)------------------ 
 7760# 
 Kepunyaan wanita tua, Buku sihir Yaga yang mengatakan tentang bagaimana cara berlatih seni hitam yang paling kuat. 
 ^ffffff_^000000 
@@ -18614,7 +18614,7 @@ Berat : ^7777771^000000
 # 
  
 //---------- Update Ep 13.1 ---------- 
-// ----------- ¿¡ÇÇ¼Òµå 13 ÀâÅÛ ------------ 
+// ----------- ì—í”¼ì†Œë“œ 13 ì¡í…œ ------------ 
 6020# 
 Bulu indah berwarna yang cantik bisa dijual ke NPC pedagang dengan harga yang tinggi. 
 ^ffffff_^000000 
@@ -18639,7 +18639,7 @@ Bentuk panjang yang indah, tanduk berwarna putih dan mempunyai kekuatan sihir ya
 Berat : ^7777771^000000 
 # 
  
-// --------- EP13 ½Å±Ô Àåºñ ¾ÆÀÌÅÛ --------------- 
+// --------- EP13 ì‹ ê·œ ì¥ë¹„ ì•„ì´í…œ --------------- 
 5398# 
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
 # 
@@ -18788,7 +18788,7 @@ Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier].
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
 # 
  
-// ---------- ¿¡ÇÇ¼Òµå 13 Äù½ºÆ® ¾ÆÀÌÅÛ ------------ 
+// ---------- ì—í”¼ì†Œë“œ 13 í€˜ìŠ¤íŠ¸ ì•„ì´í…œ ------------ 
 6027# 
 Sebuah kristal yang mengandung kekuatan kegelapan.  Bercak darah di permukaannya menandakan akan karakter kristal ini. 
 ^ffffff_^000000 
@@ -18983,14 +18983,14 @@ Sebuah kue yang dilapisi coklat manis. Terlihat tidak begitu menarik namun rasan
 Berat : ^77777730^000000 
 # 
  
-// ----------- ¿¡ÇÇ¼Òµå 13 ppl ¾ÆÀÌÅÛ ----------- 
+// ----------- ì—í”¼ì†Œë“œ 13 ppl ì•„ì´í…œ ----------- 
 6051# 
 Sebuah bahan yang tidak pernah ditemui di Rune Midgard. Kelihatannya bahan ini seperti berisi kekuatan sihir yang tidak diketahui didalamnya. 
 ^ffffff_^000000 
 Berat : ^7777771^000000 
 # 
  
-// ---------- Å©¸®°Å º¸»ó ¾ÆÀÌÅÛ ---------- 
+// ---------- í¬ë¦¬ê±° ë³´ìƒ ì•„ì´í…œ ---------- 
 13042# 
 Meningkatkan kekuatan serangan ke monster Demihuman sebesar 75%.. 
 Mengabaikan 20% defense fisik dari monster Demihuman. 
@@ -19583,7 +19583,7 @@ Level Persyaratan : ^77777780^000000
 Profesi : ^777777Swordman Class^000000 
 # 
  
-// ---------- Å©¸®°Å º¸»ó ¾ÆÀÌÅÛ Ãß°¡ Defense±¸ ---------- 
+// ---------- í¬ë¦¬ê±° ë³´ìƒ ì•„ì´í…œ ì¶”ê°€ Defenseêµ¬ ---------- 
 2445# 
 HP, SP + 5% 
 Jenis : ^777777Shoes^000000     
@@ -19640,7 +19640,7 @@ Profesi : ^777777Semua profesi kecuali Novice^000000
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
 # 
  
-// ----------- ÀÌº¥Æ® ¾ÆÀÌÅÛ ------------ 
+// ----------- ì´ë²¤íŠ¸ ì•„ì´í…œ ------------ 
 2443# 
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
 # 
@@ -19670,7 +19670,7 @@ Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier].
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
 # 
  
-// --------- ±æµå´øÀü ÀÌº¥Æ® ¾ÆÀÌÅÛ --------------- 
+// --------- ê¸¸ë“œë˜ì „ ì´ë²¤íŠ¸ ì•„ì´í…œ --------------- 
 6010# 
 Sebuah alat pertanian. Kamu harus berhati-hati karena benda ini dapat digunakan sebagai senjata. 
 ^ffffff_^000000 
@@ -20117,7 +20117,7 @@ Meningkatkan serangan Magic terhadap monster yang ada diarea Splendide sebesar 1
 Berat : ^7777775^000000 
 # 
  
-// ----------- ½Å±Ô Á¶ÇÕ Åõ±¸ ¾ÆÀÌÅÛ ------------ 
+// ----------- ì‹ ê·œ ì¡°í•© íˆ¬êµ¬ ì•„ì´í…œ ------------ 
 5436# 
 Barang tidak diketahui. Bisa diidentifikasi dengan [Magnifier]. 
 # 
@@ -20175,7 +20175,7 @@ Barang tidak diketahui. Bisa diidentifikasi dengan [Magnifier].
 Barang tidak diketahui. Bisa diidentifikasi dengan [Magnifier]. 
 # 
  
-// ------------ 2008 ¿¡ÇÇ¼Òµå 13.2 Ãß°¡¾ÆÀÌÅÛ -------------- 
+// ------------ 2008 ì—í”¼ì†Œë“œ 13.2 ì¶”ê°€ì•„ì´í…œ -------------- 
  
 1643# 
 Barang tidak diketahui. Bisa diidentifikasi dengan [Magnifier]. 
@@ -21852,7 +21852,7 @@ Jobs : ^777777Priest/Monk^000000
 Sebuah laporan, Lust meminta persetujuan untuk test supervisor. 
 Berat : ^7777771^000000 
 # 
-// ------------ ¹ÌÄÉ´Ğ °ü·Ã ¾ÆÀÌÅÛ Á¾ÇÕ ------------------- 
+// ------------ ë¯¸ì¼€ë‹‰ ê´€ë ¨ ì•„ì´í…œ ì¢…í•© ------------------- 
  
 1549# 
 Item tidak diketahui. Dapat diidentifikasi menggunakan magnifier. 
@@ -21965,7 +21965,7 @@ Item yang digunakan untuk mengeluarkan skill Mechanic Magic Armor Skill, Arm's C
 Jenis  : ^777777Cannonball^000000 Serangan : ^777777250^000000 
 Berat : ^7777771^000000 Elemen : ^777777Netral^000000 
 # 
-// -------- ¿ö·Ï Ãß°¡½ºÅ³ ¾ÆÀÌÅÛ -------- 
+// -------- ì›Œë¡ ì¶”ê°€ìŠ¤í‚¬ ì•„ì´í…œ -------- 
 6189# 
 Buku sihir yang digunakan Warlock untuk menggunakan skill Reading spell Book.  
 Magic Power can be drawn out by just reading a word written in this book.  
@@ -22084,7 +22084,7 @@ Kekuatan sihir dapat dipanggil hanya dengan membaca tulisan didalam buku.
 Tertulis properti elemen Netral , Drain Life dalam bahasa sihir. 
 Berat : ^7777770^000000 
 # 
-// ------- 3Â÷ Á¦³×¸¯ ¾ÆÀÌÅÛ ------- 
+// ------- 3ì°¨ ì œë„¤ë¦­ ì•„ì´í…œ ------- 
  
 6210# 
 Sebuah duri yang sangat tajam ditutupi seluruh bahwa ketika Anda menyentuh atau langkah di atasnya, itu akan menyakitkan 
@@ -26095,7 +26095,7 @@ Berat : ^7777771^000000
 Amore Egg Sebuah Lucky Egg yang melambangkan cinta sejati dan keabadian dalam menjalin tali kasih, kamu bisa mendapatkan Incantation Samurai Card, Sealed Orc Lord Card, Sealed High Priest Card, Blessed Armor Ore, 10 Buah HD Oridecon, 10 Buah HD Elunium, Gang Scarf, Guarantee Armor 8Up, Guarantee Weapon 8Up dan Neuralizer.
 Berat : ^7777771^000000
 #
-//-----14.1 Ãß°¡º»
+//-----14.1 ì¶”ê°€ë³¸
 2156#
 Barang tidak diketahui, bisa diidentifikasi dengan [Magnifier].
 #
@@ -27101,7 +27101,7 @@ Dinginnya bisa membekukan
 MATK + 100.
 Ketika menggunakan serangan fisik jarak dekat,  ATK + 30 selama 7 detik
 Ketika menggunakan serangan magic,  MATK + 20 selama 7 detik
-Jika base level lebih dari 100 ÀÌ, ATK + 10, MATK + 10 
+Jika base level lebih dari 100 ì´, ATK + 10, MATK + 10 
 Jenis : ^777777Pedang satu tangan^000000 Serangan : ^777777160^000000
 Berat : ^7777770^000000
 Senjata Lv : ^7777771^000000
@@ -27117,7 +27117,7 @@ Dinginnya bisa membekukan
 MATK + 100.
 Ketika menggunakan serangan fisik jarak dekat,  ATK + 30 selama 7 detik
 Ketika menggunakan serangan magic,  MATK + 20 selama 7 detik
-Jika base level lebih dari 100 ÀÌ, ATK + 10, MATK + 10 
+Jika base level lebih dari 100 ì´, ATK + 10, MATK + 10 
 Jenis : ^777777Pedang satu tangan^000000 Serangan : ^777777160^000000
 Berat : ^7777770^000000
 Senjata Lv : ^7777771^000000
@@ -27148,7 +27148,7 @@ Dinginnya bisa membekukan
 Ketika menggunakan serangan fisik jarak dekat, bisa memberikan status stun atau auto spell bash 5 Lv.(Jika lebih dari Lv 5, akan cast sesuai Lv yang dipelajari)
 Kemungkinan kecil membekukan diri sendiri
 Jika base level lebih dari 100, ATK + 20.
-Jenis : ^777777µĞ±â^000000 Serangan : ^777777180^000000
+Jenis : ^777777ë‘”ê¸°^000000 Serangan : ^777777180^000000
 Berat : ^7777770^000000
 Senjata Lv : ^7777771^000000
 Untuk karakter Lv : ^77777750^000000
@@ -27699,7 +27699,7 @@ Flee + 3.
 Jika ditempa lebih dari lv 5, Flee + 5.
 Jika ditempa lebih dari lv 7, Flee + 2, AGI + 2
 Kelas : ^777777Helm^000000 Pertahanan : ^7777772^000000
-À§Ä¡: ^777777Middle high ^000000 Berat : ^77777750^000000
+ìœ„ì¹˜: ^777777Middle high ^000000 Berat : ^77777750^000000
 Membutuhkan Lv : ^7777771^000000
 Job : ^777777All Jobs^000000
 
@@ -28391,7 +28391,7 @@ Sebuah telur legendaris yang berisikan bermacam-macam hadiah didalamnya, ketika 
 Berat : ^7777771^000000
 #
 
-//¼ÒÄÏ ¾ÆÀÌÅÛ µ¥ÀÌÅÍ 
+//ì†Œì¼“ ì•„ì´í…œ ë°ì´í„° 
 
 1317#
 Item tidak diketahui. Bisa diidentifikasi menggunakan [Magnifier] 
@@ -28482,7 +28482,7 @@ Item tidak diketahui. Bisa diidentifikasi menggunakan [Magnifier]
 Item tidak diketahui. Bisa diidentifikasi menggunakan [Magnifier] 
 #
 
-//»ıÃ¼´øÀü
+//ìƒì²´ë˜ì „
 
 1290#
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier].
@@ -28564,7 +28564,7 @@ Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier].
 #
 
 
-//µîÀå½Ä
+//ë“±ì¥ì‹
 
 20725#
 Item tidak diketahui. Bisa di identifikasikan dengan Magnifer
@@ -29639,7 +29639,7 @@ Dibutuhkan Lv : ^77777730^000000
 Job : ^777777All^000000
 #
 
-//³«¿ø´Ü »ó±Ş¼ö·Ã
+//ë‚™ì›ë‹¨ ìƒê¸‰ìˆ˜ë ¨
 
 1197#
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
@@ -30244,7 +30244,7 @@ Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
 Sebuah Lucky Egg legendari didunia Rune Midgard jika membukanya kamu akan berkesempatan mendapatkan Berzebub Card,Sealed dark lord Card,Sealed Lady Tanee Card,Certificate Armor dan Weapon +11,Certificate Armor dan Weapon +9,Ancient Shield Of Aeon,Costume Sweet Bonnet,Costume White Baby Cat Ears,Love Chick Hat,Rolf Von Gigue 666,Blood Sucker dan item menarik lainya.
 Weight : ^7777771^000000
 #
-//--- ´ÑÀÚ»óÀ§Á÷
+//--- ë‹Œììƒìœ„ì§
 2171#
 Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
 #
@@ -30293,7 +30293,7 @@ Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
 Kunai khusus dirancang untuk menahan mesiu dalam menangani ledakan pada target dan sekitarnya. Penanganan hati-hati diperlukan!
 Class : ^777777Throwing Weapon^000000
 Atk : ^77777750^000000
-Weight : ^7777773^000000      Property : ^777777¹«^000000
+Weight : ^7777773^000000      Property : ^777777ë¬´^000000
 Level Limit : ^777777100^000000
 #
 13311#
@@ -30651,7 +30651,7 @@ Berat : ^7777771^000000
 Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
 #
 
-//--- ½É¿¬ÀÇ È¸¶û abyss gate
+//--- ì‹¬ì—°ì˜ íšŒë‘ abyss gate
 1293#
 Item tidak diketahui, bisa di identifikasikan dengan Magnifer
 #
@@ -36660,7 +36660,7 @@ Sebuah kupon yang di dapatkan dari mengikuti Event-event di Bulan Juli.
 Berat : ^7777770^000000
 #
 
-// ------------- ½Å±Ô ½Å±Ş ¾ÆÀÌÅÛ GOD ITEMS --------------
+// ------------- ì‹ ê·œ ì‹ ê¸‰ ì•„ì´í…œ GOD ITEMS --------------
 
 7830#
 A clear and transparent gem that reflects light beautifully.
@@ -40392,7 +40392,7 @@ Berat : 0
 25101#
 Battle_Ticket4
 
-Tiket peserta pertandingan Battle of Emperium untuk Guild ^FF0000? [ F r i e n d s ] ? ¢â^000000
+Tiket peserta pertandingan Battle of Emperium untuk Guild ^FF0000? [ F r i e n d s ] ? â„¢^000000
 Jangan sampai hilang.
 Berat : 0
 #
@@ -40416,7 +40416,7 @@ Berat : 0
 25104#
 Battle_Ticket7
 
-Tiket peserta pertandingan Battle of Emperium untuk Guild ^FF0000¢Ó MoonLight ¢Ó^000000
+Tiket peserta pertandingan Battle of Emperium untuk Guild ^FF0000â€  MoonLight â€ ^000000
 Jangan sampai hilang.
 Berat : 0
 #
@@ -40627,5 +40627,180 @@ Berat : ^7777770^000000
 6017#
 Huruf ^000088T^000000. Kartu ini sepertinya dapat di rangkai menjadi suatu kata.
 ^ffffff_^000000
+Berat : ^7777770^000000
+#
+
+//=======fix===========
+2777#2777#
+5417#5417#
+5457#5457#
+5623#5623#
+5627#5627#
+5629#5629#
+5630#5630#
+5631#5631#
+5681#5681#
+2171#2171#
+32127#32127#
+32131#32131#
+32132#32132#
+32133#32133#
+32134#32134#
+32135#32135#
+32136#32136#
+32137#32137#
+32138#32138#
+32139#32139#
+32140#32140#
+32141#32141#
+32142#32142#
+32143#32143#
+32144#32144#
+32145#32145#
+28221#28221#
+28222#28222#
+15053#15053#
+19998#19998#
+19999#19999#
+19995#19995#
+19994#19994#
+14438#14438#
+9040#9040#
+9041#9041#
+9044#9044#
+9046#9046#
+9047#9047#
+9048#9048#
+9049#9049#
+9050#9050#
+9051#9051#
+9052#9052#
+9053#9053#
+9054#9054#
+14700#14700#
+22540#22540#
+32011#32011#
+32012#32012#
+32013#32013#
+32014#32014#
+32015#32015#
+32016#32016#
+32017#32017#
+5540#5540#
+31292#31292#
+31293#31293#
+262001#262001#
+
+//========================Update 23042019 ==================
+13543#
+Sebuah Box Special Flash Sale. Kamu bisa mendapatkan Item berharga secara random seperti : 
+^000088 Berzebub Card, Blessed Ore Armor/weapon, HD Elunium/Oridecon, Weapon/Armor Refine Ticket +7, Weapon/Armor Refine Ticket +8^000000 
+dan masih banyak lagi item special lainnya.
+
+Weight : ^7777771^000000
+#
+
+5565#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifier
+#
+
+13544#
+Sebuah Box Special Flash Sale. Kamu bisa mendapatkan Item berharga secara random seperti : 
+^000088 Randgris Card, Blessed Ore Armor/weapon, HD Elunium/Oridecon, Weapon/Armor Refine Ticket +7, Weapon/Armor Refine Ticket +8^000000 
+dan masih banyak lagi item special lainnya.
+
+Weight : ^7777771^000000
+#
+
+
+13520#
+^000088Eostre_Lucky_Box^000000
+
+Sebuah Kotak spesial yang penuh dengan item berharga. Kamu bisa mendapatkan 4 item sekaligus :
+^777777
+[Random item 1]
+Tao_Gunka_Card
+Guarantee_Weapon_6Up
+Guarantee_Armor_6Up
+RWC2010_Indonesia [1]
+Bio_Protector
+Rising_Black_Dragon
+Small_Deviling_Hat [1]
+White_Feather [1]
+Magical_Ring [1]
+Scarlet_Poncho [1]
+School_Uniform [1]
+Adv_Devil_School_Cap [1]
+Blue_Pencil_In_Mouth
+Hermose_Cap [1]
+Rhino_Model_Hat [1]
+Gorilla_Model_Hat [1]
+Lion_Model_Hat [1]
+Fafnir_Skin
+Fafnir_Mask
+K_Rabbit_Bonnet [1]
+Yggdrasil_Herald_Crown [1]
+DVAngelNurseCap [1]
+Earth_Goddess_Flower_J
+Fallen_Angel_Blessing
+Enriched_Elunium_Box25
+Enriched_Oridecon_Box25
+Battle_Manual_X3_Box
+Marvelous_Medal
+
+[Random item 2]
+Bloody Dead Branch x1
+Dead Branch x10
+
+[Random item 3]
+VIT Biscuit Stick x10
+STR Biscuit Stick x10
+INT Biscuit Stick x10
+DEX Biscuit Stick x10
+AGI Biscuit Stick x10
+LUK Biscuit Stick x10
+
+[Random item 4]
+Penta Badge I
+Penta Badge II
+Penta Badge III
+Penta Badge IV
+Penta Badge V
+
+dan masih banyak item berharga lainnya
+^000000
+Berat : 0
+#
+
+23100#
+Sebuah Box Enchant yang berisi Stone Enchant secara random : 
+Stone ATK (1 ~ 3%)
+Stone MATK (1 ~ 3%)
+Stone MHP (1 ~ 3%)
+Stone MSP (1 ~ 3%)
+
+Berat : 0
+#
+
+19288#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifier
+#
+
+18921#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifier
+#
+
+18544#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifier
+#
+
+//========================Update 30042019 ==================
+6993#
+^000000Dengan menggunakan sertifikat ini, kamu akan terjamin dalam meng upgrade ^006400senjatamu ketingkat 10^000000 dengan sukses. ^0000FFTemui Refine Expert di Prontera.^000000
+Berat : ^7777770^000000
+#
+
+6994#
+^000000Dengan menggunakan sertifikat ini, kamu akan terjamin dalam meng upgrade ^006400armormu ketingkat 10^000000 dengan sukses. ^0000FFTemui Refine Expert di Prontera.^000000
 Berat : ^7777770^000000
 #
