@@ -19682,7 +19682,7 @@ Untuk Profesi : ^777777Gunslinger only^000000
  
 13170#
 Sebuah senapan dengan laras yang panjang sangat efisien dan memberikan effect ledakan, tapi membutuhkan waktu lama untuk mengisi amunisi. HIT +20, Kritikal +50, mengurangi kecepatan serang -5%.
-Jenis : ^777777???^000000
+Jenis : ^777777Rifle000000
 Serangan : ^777777138^000000
 Berat : ^77777777^000000
 Senjata Level : ^7777773^000000
@@ -37106,7 +37106,7 @@ Serangan Magic memiliki kemungkinan besar menghasilkan Poison.
 Serangan Jarak Dekat memiliki kemungkinan menghasilkan Deadly Poison.
 Tidak dapat di upgrade.
 Tidak dapat dihancurkan.
-Job : ^777777Tongkat Dua Tangan^000000 Serangan : ^777777200^000000
+Jenis : ^777777Tongkat Dua Tangan^000000 Serangan : ^777777200^000000
 Berat: ^777777300^000000 Atribut: ^777777Poison^000000
 Level Barang : ^7777774^000000
 Level Dibutuhkan : ^77777790^000000
@@ -41776,7 +41776,7 @@ Tidak dapat dihancurkan.
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan fisik bertambah sebesar +40% untuk pemain.
 Serangan fisik memiliki kemungkinan besar menghasilkan Freezing
-Job: ^777777Kapak Satu Tangan^000000 Serangan : ^777777100^000000
+Jenis: ^777777Kapak Satu Tangan^000000 Serangan : ^777777100^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -41789,7 +41789,7 @@ Tidak dapat dihancurkan.
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan fisik bertambah sebesar +40% untuk pemain.
 Serangan fisik memiliki kemungkinan besar menghasilkan Stun.
-Job : ^777777Two-handed Axe^000000 Serangan : ^777777150^000000
+Jenis : ^777777Two-handed Axe^000000 Serangan : ^777777150^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -41801,7 +41801,7 @@ Job: ^777777Swordsman Job/Merchant Job^000000
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan fisik bertambah sebesar +40% untuk pemain.
 Serangan fisik memiliki kemungkinan besar menghasilkan Curse.
-Job: ^777777One-handed Spear^000000 Serangan : ^777777100^000000
+Jenis: ^777777One-handed Spear^000000 Serangan : ^777777100^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -41813,7 +41813,7 @@ Job: ^777777Swordsman Job^000000
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan fisik bertambah sebesar +40% untuk pemain.
 Serangan fisik memiliki kemungkinan besar menghasilkan Blind.
-Job: ^777777Tombak Dua Tangan^000000 Serangan : ^777777150^000000
+Jenis: ^777777Tombak Dua Tangan^000000 Serangan : ^777777150^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -41827,7 +41827,7 @@ Serangan fisik bertambah sebesar +40% untuk pemain.
 Serangan Magic meningkat sebesar +5% untuk pemain.
 Serangan fisik memiliki kemungkinan besar menghasilkan Blind.
 Jumlah Pemulihan meningkat sebesar +5%.
-Job: ^777777Buku^000000 Serangan: ^777777120^000000
+Jenis: ^777777Buku^000000 Serangan: ^777777120^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -41841,7 +41841,7 @@ Serangan Magic + 100.
 Serangan Magic meningkat sebesar +10% untuk pemain.
 Serangan magic memiliki kemungkinan besar menghasilkan Blind.
 Jumlah Pemulihan meningkat sebesar +5%.
-Job: ^777777One-handed Staff^000000 Serangan: ^77777750^000000
+Jenis: ^777777One-handed Staff^000000 Serangan: ^77777750^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -41853,7 +41853,7 @@ Job: ^777777Novice Job/Mage Job/Acolyte Job/Soul Linker^000000
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan fisik bertambah sebesar +40% untuk pemain.
 Serangan fisik memiliki kemungkinan besar menghasilkan Freezing
-Job: ^777777Knuckle^000000 Serangan : ^777777150^000000
+Jenis: ^777777Knuckle^000000 Serangan : ^777777150^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -41865,7 +41865,7 @@ Job: ^777777Priest Job/Monk Job^000000
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan fisik bertambah sebesar +40% untuk pemain.
 Physical attacks have a high Poisoning chance.
-Job: ^777777Instrumen Musik^000000 Serangan: ^777777100^000000
+Jenis: ^777777Instrumen Musik^000000 Serangan: ^777777100^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -41877,7 +41877,7 @@ Job : ^777777Bard Job^000000
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan fisik bertambah sebesar +40% untuk pemain.
 Serangan fisik memiliki kemungkinan besar menghasilkan Blind.
-Job: ^777777Cambuk^000000 Serangan: ^777777100^000000
+Jenis: ^777777Cambuk^000000 Serangan: ^777777100^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -41891,7 +41891,7 @@ Serangan Magic + 130.
 Serangan Magic meningkat sebesar 20% untuk pemain.
 Serangan Magic memiliki kemungkinan besar menghasilkan Stun.
 Jumlah Pemulihan meningkat sebesar +5%.
-Job : ^777777Tongkat Dua Tangan^000000 Serangan : ^77777750^000000
+Jenis : ^777777Tongkat Dua Tangan^000000 Serangan : ^77777750^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -41904,7 +41904,7 @@ Serangan Magic memiliki kemungkinan menghasilkan Poison atau mengeluarkan Level 
 Ketika kamu menerima serangan fisik, barang ini memiliki kemungkinan untuk menghasilkan Silence pada penyerang.
 Tidak dapat di upgrade.
 Tidak dapat dihancurkan.
-Job: ^777777Tongkat Dua Tangan^000000 Serangan: ^777777100^000000
+Jenis: ^777777Tongkat Dua Tangan^000000 Serangan: ^777777100^000000
 Berat : ^777777200^000000
 Level Barang : ^7777774^000000
 Level Dibutuhkan : ^777777100^000000
@@ -41917,7 +41917,7 @@ MDEF + 15.
 ※ Opsi tambahan tersedia di area WoE TE
 MAXHP + 100, MAXSP + 100.
 Serangan diterima dari karakter lain berkurang sebesar -15%.
-Job : ^777777Shield^000000 Pertahanan : ^77777715^000000
+Jenis : ^777777Shield^000000 Pertahanan : ^77777715^000000
 Berat : ^7777770^000000
 Level Dibutuhkan : ^77777740^000000
 Job : ^777777Semua^000000
@@ -41929,7 +41929,7 @@ MDEF + 5.
 ※ Opsi tambahan tersedia di area WoE TE
 MAXHP + 200.
 Serangan diterima dari karakter lain berkurang sebesar -20%.
-Job : ^777777Shield^000000 Pertahanan : ^77777725^000000
+Jenis : ^777777Shield^000000 Pertahanan : ^77777725^000000
 Berat : ^7777770^000000
 Level Dibutuhkan : ^77777740^000000
 Job : ^777777Swordsman Job/Merchant Job^000000
@@ -41941,7 +41941,7 @@ MDEF + 25.
 ※ Opsi tambahan tersedia di area WoE TE
 MAXSP + 200.
 Serangan diterima dari karakter lain berkurang sebesar -10%.
-Job : ^777777Shield^000000 Pertahanan : ^7777775^000000
+Jenis : ^777777Shield^000000 Pertahanan : ^7777775^000000
 Berat : ^7777770^000000
 Level Dibutuhkan : ^77777740^000000
 Job : ^777777Novice Job/Mage Job/Acolyte Job/Soul Linker^000000
@@ -41954,7 +41954,7 @@ Ketika kamu menerima serangan fisik, barang ini memiliki kemungkinan untuk mengh
 Protective Light menghilangkan Stun, Sleep, Curse, Petrification, Poison, Blind, Silence, Bleeding, Chaos dan Frost. Serta melindungi pengguna dari efek tersebut selama beberapa waktu.
 Tidak dapat di upgrade.
 Tidak dapat dihancurkan.
-Job : ^777777Shield^000000 Pertahanan : ^777777150^000000
+Jenis : ^777777Shield^000000 Pertahanan : ^777777150^000000
 Berat : ^777777300^000000
 Level Dibutuhkan : ^777777100^000000
 Job: ^777777Job ke-3^000000
@@ -41967,7 +41967,7 @@ MDEF + 5.
 MAXHP + 150, MAXSP + 150.
 Serangan Fisik/Magic meningkat sebesar +5% untuk pemain.
 Frost Resistance +25%.
-Job : ^777777Sepatu^000000 Pertahanan : ^7777775^000000
+Jenis : ^777777Sepatu^000000 Pertahanan : ^7777775^000000
 Berat : ^7777770^000000
 Level Dibutuhkan : ^77777740^000000
 Job : ^777777Semua^000000
@@ -41979,7 +41979,7 @@ Job : ^777777Semua^000000
 MAXHP + 200, MAXSP + 100.
 Serangan fisik bertambah sebesar 10% untuk pemain.
 Frost Resistance +25%.
-Job : ^777777Sepatu^000000 Pertahanan : ^77777710^000000
+Jenis : ^777777Sepatu^000000 Pertahanan : ^77777710^000000
 Berat : ^7777770^000000
 Level Dibutuhkan : ^77777740^000000
 Job : ^777777Swordsman Job/Merchant Job^000000
@@ -41992,7 +41992,7 @@ MDEF + 5.
 MAXHP + 100, MAXSP + 200.
 Serangan Magic meningkat sebesar +5% untuk pemain.
 Frost Resistance +25%.
-Job : ^777777Sepatu^000000 Pertahanan : ^7777775^000000
+Jenis : ^777777Sepatu^000000 Pertahanan : ^7777775^000000
 Berat : ^7777770^000000
 Level Dibutuhkan : ^77777740^000000
 Job : ^777777Novice Job/Mage Job/Acolyte Job/Soul Linker^000000
@@ -42003,7 +42003,7 @@ Job : ^777777Novice Job/Mage Job/Acolyte Job/Soul Linker^000000
 ※ Opsi tambahan tersedia di area WoE TE
 MAXHP + 100.
 Serangan diterima dari pemain lain berkurang sebesar 5%.
-Job: ^777777Aksesoris^000000 Pertahanan: ^7777770^000000
+Jenis: ^777777Aksesoris^000000 Pertahanan: ^7777770^000000
 Berat : ^7777770^000000
 Level Dibutuhkan : ^77777740^000000
 Job : ^777777Semua^000000
@@ -42013,7 +42013,7 @@ Job : ^777777Semua^000000
 ^000088Barang Sewaan^000000
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan Fisik/Magic meningkat sebesar +5% untuk pemain.
-Job: ^777777Aksesoris^000000 Pertahanan: ^7777770^000000
+Jenis: ^777777Aksesoris^000000 Pertahanan: ^7777770^000000
 Berat : ^7777770^000000
 Level Dibutuhkan : ^77777740^000000
 Job : ^777777Semua^000000
@@ -42024,7 +42024,7 @@ Job : ^777777Semua^000000
 MDEF + 5.
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan diterima dari pemain lain berkurang sebesar 5%.
-Job: ^777777Aksesoris^000000 Pertahanan: ^7777770^000000
+Jenis: ^777777Aksesoris^000000 Pertahanan: ^7777770^000000
 Berat : ^7777770^000000
 Level Dibutuhkan : ^77777740^000000
 Job : ^777777Semua^000000
@@ -42111,7 +42111,7 @@ Serangan Magic + 100.
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan fisik bertambah sebesar +40% untuk pemain.
 Serangan fisik memiliki kemungkinan besar menghasilkan Silence.
-Job: ^777777Dagger^000000 Serangan: ^777777100^000000
+Jenis: ^777777Dagger^000000 Serangan: ^777777100^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -42123,7 +42123,7 @@ Job: ^777777Novice/Swordsman Job/Mage Job/Archer Job/Merchant Job/Thief Job/Soul
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan fisik bertambah sebesar +40% untuk pemain.
 Serangan fisik memiliki kemungkinan besar menghasilkan Curse.
-Job: ^777777Gun^000000 Serangan: ^77777760^000000
+Jenis: ^777777Gun^000000 Serangan: ^77777760^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -42135,7 +42135,7 @@ Job: ^777777Gunslinger^000000
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan fisik bertambah sebesar +40% untuk pemain.
 Serangan fisik memiliki kemungkinan besar menghasilkan Silence.
-Job: ^777777Rifle^000000 Serangan: ^77777780^000000
+Jenis: ^777777Rifle^000000 Serangan: ^77777780^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -42147,7 +42147,7 @@ Job : ^777777Gunslinger^000000
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan fisik bertambah sebesar +40% untuk pemain.
 Serangan fisik memiliki kemungkinan besar menghasilkan Stun.
-Job: ^777777Gatling Gun^000000 Serangan: ^777777100^000000
+Jenis: ^777777Gatling Gun^000000 Serangan: ^777777100^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -42159,7 +42159,7 @@ Job : ^777777Gunslinger^000000
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan fisik bertambah sebesar +40% untuk pemain.
 Serangan fisik memiliki kemungkinan besar menghasilkan Poison.
-Job: ^777777Shotgun^000000 Serangan: ^777777100^000000
+Jenis: ^777777Shotgun^000000 Serangan: ^777777100^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -42171,7 +42171,7 @@ Job : ^777777Gunslinger^000000
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan fisik bertambah sebesar +40% untuk pemain.
 Serangan fisik memiliki kemungkinan besar menghasilkan Blind.
-Job: ^777777Grenade Launcher^000000 Serangan: ^777777100^000000
+Jenis: ^777777Grenade Launcher^000000 Serangan: ^777777100^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -42184,7 +42184,7 @@ Serangan Magic + 100.
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan fisik bertambah sebesar +40% untuk pemain.
 Serangan fisik memiliki kemungkinan besar menghasilkan Bleeding
-Job: ^777777Magic Shuriken^000000 Serangan: ^77777780^000000
+Jenis: ^777777Magic Shuriken^000000 Serangan: ^77777780^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -42197,7 +42197,7 @@ Serangan Magic + 100.
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan fisik bertambah sebesar +40% untuk pemain.
 Serangan fisik memiliki kemungkinan besar menghasilkan Poison.
-Job: ^777777Sword^000000 Serangan: ^777777120^000000
+Jenis: ^777777Sword^000000 Serangan: ^777777120^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -42211,7 +42211,7 @@ MDEF + 15.
 MAXHP + 250, MAXSP + 250.
 Serangan diterima dari pemain lain berkurang sebesar 10%.
 Frost Resistance +25%.
-Job : ^777777Armor^000000 Pertahanan : ^77777715^000000
+Jenis : ^777777Armor^000000 Pertahanan : ^77777715^000000
 Berat : ^7777770^000000
 Level Dibutuhkan : ^77777740^000000
 Job : ^777777Semua^000000
@@ -42224,7 +42224,7 @@ MDEF + 5.
 MAXHP + 450, MAXSP + 50.
 Serangan diterima dari pemain lain berkurang sebesar 15%.
 Frost Resistance +25%.
-Job : ^777777Armor^000000 Pertahanan : ^77777725^000000
+Jenis : ^777777Armor^000000 Pertahanan : ^77777725^000000
 Berat : ^7777770^000000
 Level Dibutuhkan : ^77777740^000000
 Job : ^777777Swordsman Job/Merchant Job^000000
@@ -42237,7 +42237,7 @@ MDEF + 25.
 MAXHP + 200, MAXSP + 300.
 Serangan diterima dari pemain lain berkurang sebesar 5%.
 Frost Resistance +25%.
-Job : ^777777Armor^000000 Pertahanan : ^7777775^000000
+Jenis : ^777777Armor^000000 Pertahanan : ^7777775^000000
 Berat : ^7777770^000000
 Level Dibutuhkan : ^77777740^000000
 Job : ^777777Novice Job/Mage Job/Acolyte Job/Soul Linker^000000
@@ -42250,7 +42250,7 @@ Tidak dapat dihancurkan.
 Serangan fisik bertambah sebesar +40% untuk pemain.
 Serangan fisik memiliki kemungkinan besar menghasilkan Freezing
 Jumlah Pemulihan meningkat sebesar +5%.
-Job : ^7777777Blunt Weapon^^000000 Serangan : ^777777120^000000
+Jenis : ^777777Blunt Weapon^000000 Serangan : ^777777120^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -42262,7 +42262,7 @@ Job: ^777777Novice/Swordsman Job/Acolyte Job/Merchant Job^000000
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan fisik bertambah sebesar +40% untuk pemain.
 Serangan fisik memiliki kemungkinan besar menghasilkan Curse.
-Job: ^777777Bow^000000 Serangan: ^777777120^000000
+Jenis: ^777777Bow^000000 Serangan: ^777777120^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -42276,7 +42276,7 @@ MDEF + 5.
 Serangan + 5, Serangan Magic + 5.
 Serangan Fisik/Magic meningkat sebesar +10% untuk pemain.
 Frost Resistance +25%.
-Job : ^777777Helm^000000 Pertahanan : ^7777775^000000
+Jenis : ^777777Helm^000000 Pertahanan : ^7777775^000000
 Location : ^777777Upper^000000Berat : ^7777770^000000
 Level Dibutuhkan : ^77777740^000000
 Job : ^777777Semua^000000
@@ -42288,7 +42288,7 @@ Job : ^777777Semua^000000
 Serangan + 10.
 Serangan fisik bertambah sebesar +20% untuk pemain.
 Frost Resistance +25%.
-Job : ^777777Helm^000000 Pertahanan : ^77777710^000000
+Jenis : ^777777Helm^000000 Pertahanan : ^77777710^000000
 Location : ^777777Upper^000000Berat : ^7777770^000000
 Level Dibutuhkan : ^77777740^000000
 Job : ^777777Swordsman Job/Merchant Job^000000
@@ -42301,14 +42301,14 @@ MDEF + 5.
 Serangan Magic + 10.
 Serangan Magic meningkat sebesar 20% untuk pemain.
 Frost Resistance +25%.
-Job : ^777777Helm^000000 Pertahanan : ^7777775^000000
+Jenis : ^777777Helm^000000 Pertahanan : ^7777775^000000
 Location : ^777777Upper^000000Berat : ^7777770^000000
 Level Dibutuhkan : ^77777740^000000
 Job : ^777777Novice Job/Mage Job/Acolyte Job/Soul Linker^000000
 #
 18736#
 Mata tertutup untuk menyembunyikan identitas.
-Job: ^777777Helm^000000    Pertahanan: ^7777770^000000
+Jenis: ^777777Helm^000000    Pertahanan: ^7777770^000000
 Location: ^777777Middle^000000    Berat: ^77777710^000000
 Job : ^777777Semua^000000
 #
@@ -42319,7 +42319,7 @@ MDEF + 5.
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan Fisik/Magic meningkat sebesar +5% untuk pemain.
 Frost Resistance +25%.
-Job : ^777777Garment^000000 Pertahanan : ^7777775^000000
+Jenis : ^777777Garment^000000 Pertahanan : ^7777775^000000
 Berat : ^7777770^000000
 Level Dibutuhkan : ^77777740^000000
 Job : ^777777Semua^000000
@@ -42330,7 +42330,7 @@ Job : ^777777Semua^000000
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan fisik bertambah sebesar 10% untuk pemain.
 Frost Resistance +25%.
-Job : ^777777Garment^000000 Pertahanan : ^77777710^000000
+Jenis : ^777777Garment^000000 Pertahanan : ^77777710^000000
 Berat : ^7777770^000000
 Level Dibutuhkan : ^77777740^000000
 Job : ^777777Swordsman Job/Merchant Job^000000
@@ -42342,7 +42342,7 @@ MDEF + 5.
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan Magic meningkat sebesar +10% untuk pemain.
 Frost Resistance +25%.
-Job : ^777777Garment^000000 Pertahanan : ^7777775^000000
+Jenis : ^777777Garment^000000 Pertahanan : ^7777775^000000
 Berat : ^7777770^000000
 Level Dibutuhkan : ^77777740^000000
 Job : ^777777Novice Job/Mage Job/Acolyte Job/Soul Linker^000000
@@ -42353,7 +42353,7 @@ Job : ^777777Novice Job/Mage Job/Acolyte Job/Soul Linker^000000
 ※ Opsi tambahan tersedia di area WoE TE
 Serangan fisik bertambah sebesar +40% untuk pemain.
 Serangan fisik memiliki kemungkinan besar menghasilkan Bleeding
-Job: ^777777Two-handed Sword^000000 Serangan: ^777777150^000000
+Jenis: ^777777Two-handed Sword^000000 Serangan: ^777777150^000000
 Berat : ^7777770^000000
 Level Barang : ^7777773^000000
 Level Dibutuhkan : ^77777740^000000
@@ -42363,7 +42363,7 @@ Job : ^777777Swordman^000000
 ^000088Barang Sewaan^000000
 ^ff0000Tidak dapat ditransaksikan.^000000
 Dibuat secara khusus untuk membantu anggota guild berkembang, cincin ini menghasilkan gelombang spesial dan meningkatkan EXP dari monster sebesar 10%.
-Job : ^777777Aksesoris^000000 Pertahanan : ^7777770^000000
+Jenis : ^777777Aksesoris^000000 Pertahanan : ^7777770^000000
 Berat : ^7777770^000000
 Level Dibutuhkan : ^7777771^000000
 Batas Level : ^777777100^000000
@@ -42373,7 +42373,7 @@ Job : ^777777Semua^000000
 Kabarnya berisi kekuatan dari dewa Kvasir, cincin ini memberikan kemampuan penyembuhan spesial bagi pemakainya.
 MSP + 30.
 Membuat kamu bisa menggunakan Level 1 Snow Flip.
-Job : ^777777Aksesoris^000000 Pertahanan : ^7777770^000000
+Jenis : ^777777Aksesoris^000000 Pertahanan : ^7777770^000000
 Berat : ^77777710^000000
 Level Dibutuhkan : ^7777771^000000
 Job : ^777777Semua^000000
@@ -42382,7 +42382,7 @@ Job : ^777777Semua^000000
 Kabarnya berisi kekuatan dari dewa Kvasir, cincin ini memberikan kemampuan penyembuhan spesial bagi pemakainya.
 MSP + 30.
 Membuat kamu bisa menggunakan Level 1 Peony Mommy.
-Job : ^777777Aksesoris^000000 Pertahanan : ^7777770^000000
+Jenis : ^777777Aksesoris^000000 Pertahanan : ^7777770^000000
 Berat : ^77777710^000000
 Level Dibutuhkan : ^7777771^000000
 Job : ^777777Semua^000000
@@ -42391,7 +42391,7 @@ Job : ^777777Semua^000000
 Kabarnya berisi kekuatan dari dewa Kvasir, cincin ini memberikan kemampuan penyembuhan spesial bagi pemakainya.
 MHP + 100.
 Membuat kamu bisa menggunakan Level 1 Sadagui.
-Job : ^777777Aksesoris^000000 Pertahanan : ^7777770^000000
+Jenis : ^777777Aksesoris^000000 Pertahanan : ^7777770^000000
 Berat : ^77777710^000000
 Level Dibutuhkan : ^7777771^000000
 Job : ^777777Semua^000000
@@ -42400,7 +42400,7 @@ Job : ^777777Semua^000000
 Kabarnya berisi kekuatan dari dewa Kvasir, cincin ini memberikan kemampuan penyembuhan spesial bagi pemakainya.
 MHP + 100.
 Membuat kamu bisa menggunakan Level 1 Dust of Galaxy.
-Job: ^777777Aksesoris^000000 Pertahanan: ^7777770^000000
+Jenis: ^777777Aksesoris^000000 Pertahanan: ^7777770^000000
 Berat : ^77777710^000000
 Level Dibutuhkan : ^7777771^000000
 Job : ^777777Semua^000000
@@ -42481,7 +42481,7 @@ Berat : ^77777710^000000
 ^ff0000Tidak dapat ditransaksikan.^000000
 Dibuat secara khusus untuk membantu anggota guild berkembang, cincin ini menghasilkan gelombang spesial dan meningkatkan EXP dari monster sebesar 10%.
 Ketika digunakan satu set Rune Ring, Rune Suit, Mana Manteau dan Mana Boots,kamu bisa mendapatkan EXP tambahan dari monster sebesar 30%. 
-Job: ^777777Armor^000000 Pertahanan: ^7777770^000000
+Jenis: ^777777Armor^000000 Pertahanan: ^7777770^000000
 Berat : ^7777770^000000
 Level Dibutuhkan : ^7777771^000000
 Batas Level : ^777777100^000000
@@ -42490,13 +42490,13 @@ Job : ^777777Semua^000000
 18755#
 Sebuah topi premium yang menawarkan banyak kelebihan. Dekorasi bulunya seperti warna biru langit.
 MDEF +1. Serangan diterima dari monster Human -10%.
-Job : ^777777Helm^000000    Pertahanan : ^7777771^000000
+Jenis : ^777777Helm^000000    Pertahanan : ^7777771^000000
 Location : ^777777Upper^000000    Berat : ^77777760^000000
 Job: ^777777Semua kecuali Job Novice^000000
 #
 19585#
 Sebuah topi premium yang menawarkan banyak kelebihan. Dekorasi bulunya seperti warna biru langit.
-Job: ^777777Costume Equipment^000000
+Jenis: ^777777Costume Equipment^000000
 Location: ^777777Upper^000000 Berat: ^7777770^000000
 Level Dibutuhkan : ^7777771^000000
 Job : ^777777Semua^000000
@@ -42505,7 +42505,7 @@ Job : ^777777Semua^000000
 ^000088Barang Sewaan^000000
 ^ff0000Tidak dapat ditransaksikan.^000000
 Dibuat secara khusus untuk membantu anggota guild berkembang, cincin ini menghasilkan gelombang spesial dan meningkatkan EXP dari monster sebesar 10%.
-Job: ^777777Garment^000000 Pertahanan: ^7777770^000000
+Jenis: ^777777Garment^000000 Pertahanan: ^7777770^000000
 Berat : ^7777770^000000
 Level Dibutuhkan : ^7777771^000000
 Batas Level : ^777777100^000000
@@ -42515,7 +42515,7 @@ Job : ^777777Semua^000000
 ^000088Rental Item^000000
 ^ff0000Tidak dapat ditransaksikan.^000000
 Dibuat secara khusus untuk membantu anggota guild berkembang, alas kaki ini menghasilkan gelombang spesial dan meningkatkan EXP dari monster sebesar 10%.
-Job: ^777777Sepatu^000000 Pertahanan: ^7777770^000000
+Jenis: ^777777Sepatu^000000 Pertahanan: ^7777770^000000
 Berat : ^7777770^000000
 Level Dibutuhkan : ^7777771^000000
 Batas Level : ^777777100^000000
